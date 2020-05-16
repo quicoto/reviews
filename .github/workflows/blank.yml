@@ -16,8 +16,7 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm install
-          npm run ci
+          npm ci
           npm run build
 
       - name: Deploy 🚀
@@ -26,5 +25,5 @@ jobs:
           DEBUG: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: docs # The folder the action should deploy.
+          FOLDER: public # The folder the action should deploy.
 
