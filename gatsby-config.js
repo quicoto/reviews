@@ -3,6 +3,7 @@ module.exports = {
     title: `Ricard Torres Reviews`,
     author: {
       name: `Ricard Torres`,
+      summary: `Senior Front-end Software Engineer from Barcelona, Haidong Gumdo Instructor (korean martial art of the sword), street photographer, travel lover, TV addict, Boston Red Sox fan, and privacy advocate.`,
     },
     description: `My TV Shows and Movies reviews`,
     siteUrl: `https://quicoto.github.io/reviews/`,
