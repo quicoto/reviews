@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/reviews",
   siteMetadata: {
     title: `Ricard Torres Reviews`,
     author: {
