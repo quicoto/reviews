@@ -6,6 +6,7 @@
  */
 
 import React from "react"
+import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
@@ -36,6 +37,7 @@ const Bio = () => {
   `)
 
   const { author, social } = data.site.siteMetadata
+
   return (
     <div
       style={{
@@ -57,8 +59,6 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong>
-        <br />
         {author.summary}
         <br />
         <a href={`https://twitter.com/${social.twitter}`}>
@@ -67,6 +67,14 @@ const Bio = () => {
       </p>
     </div>
   )
+}
+
+Bio.defaultProps = {
+  short: false
+}
+
+Bio.propTypes = {
+  short: PropTypes.bool
 }
 
 export default Bio
