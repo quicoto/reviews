@@ -38,13 +38,13 @@ function slug(){
 
 theSlug=$(slug "$name")
 date=$(date +%Y-%m-%dT%T)
-showName="$(echo $name) $(echo $season)x$(echo $episode)"
+episodeFullName="$(echo $name) $(echo $season)x$(echo $episode)"
 
 read -r -d '' template << EOM
 ---
-\ntitle: $(echo $showName)
+\ntitle: $(echo $episodeFullName)
 \ndate: "$(echo $date)"
-\nshow: "$(echo $theSlug)"
+\nshow: "$(echo $name)"
 \nseason: $season
 \nepisode: $episode
 \nrating: $rating
@@ -73,7 +73,7 @@ echo "*                         *"
 echo "*       Git commit        *"
 echo "*                         *"
 echo "***************************"
-git add -A && git commit -m $showName
+git add -A && git commit -m $episodeFullName
 
 echo ""
 echo "***************************"
