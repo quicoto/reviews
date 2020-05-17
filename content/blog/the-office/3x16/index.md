@@ -1,7 +1,7 @@
 ---
 title: The Office 3x16
 date: "2020-05-17T17:00:00"
-show: "the-office"
+show: "The Office"
 season: 3
 episode: 16
 rating: 4

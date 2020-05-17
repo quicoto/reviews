@@ -2,6 +2,7 @@
 import React from "react"
 import { PageProps, Link, graphql } from "gatsby"
 
+import TopShows from "../components/topShows"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -38,6 +39,9 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" />
       <Bio />
+      <h2>Top Shows</h2>
+      <TopShows />
+      <h2>Latest reviews</h2>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -45,7 +49,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
             <header>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginTop: 0,
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
