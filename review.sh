@@ -7,6 +7,15 @@ echo "*  Ricard Torres Reviews  *"
 echo "*                         *"
 echo "***************************"
 
+echo ""
+echo "***************************"
+echo "*                         *"
+echo "*        Git Pull         *"
+echo "*                         *"
+echo "***************************"
+
+git pull
+
 # echo "TV Show or Movie?"
 # read type
 echo ""
@@ -65,6 +74,7 @@ echo "*                         *"
 echo "*       Git commit        *"
 echo "*                         *"
 echo "***************************"
+git add -A && git commit -m $date
 
 echo ""
 echo "***************************"
@@ -72,6 +82,7 @@ echo "*                         *"
 echo "*        Git Push         *"
 echo "*                         *"
 echo "***************************"
+git push
 
 echo ""
 echo "***************************"
