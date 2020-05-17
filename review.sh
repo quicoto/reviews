@@ -16,8 +16,6 @@ echo "***************************"
 
 git pull
 
-# echo "TV Show or Movie?"
-# read type
 echo ""
 echo "Name of the show:"
 read name
@@ -60,14 +58,14 @@ file=./content/blog/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
 mkfileP() { mkdir -p "$(dirname "$1")" || return; touch "$1"; }
 mkfileP $file
 echo -e $template >> $file
-nano $file
-
 echo ""
 echo "***************************"
 echo "*                         *"
 echo "*      File created       *"
 echo "*                         *"
 echo "***************************"
+
+nano $file
 
 echo ""
 echo "***************************"
