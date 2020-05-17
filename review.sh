@@ -73,7 +73,7 @@ echo "*                         *"
 echo "*       Git commit        *"
 echo "*                         *"
 echo "***************************"
-git add -A && git commit -m $episodeFullName
+git add -A && git commit -m "$( echo $episodeFullName)"
 
 echo ""
 echo "***************************"
