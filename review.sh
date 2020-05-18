@@ -39,6 +39,11 @@ function slug(){
 theSlug=$(slug "$name")
 date=$(date +%Y-%m-%dT%T)
 episodeFullName="$(echo $name) $(echo $season)x$(echo $episode)"
+emoji=""
+for i in $(eval echo "{1..$rating}")
+  do
+    emoji="$(echo $emoji)⭐️"
+ done
 
 read -r -d '' template << EOM
 ---
@@ -48,6 +53,7 @@ read -r -d '' template << EOM
 \nseason: $season
 \nepisode: $episode
 \nrating: $rating
+\nratingEmoji: "$(echo $emoji)"
 \n---
 EOM
 

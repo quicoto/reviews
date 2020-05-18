@@ -1,10 +1,11 @@
---- 
-title: The Last Dance 1x3 
-date: "2020-05-17T22:46:02" 
-show: "The Last Dance" 
-season: 1 
-episode: 3 
-rating: 5 
+---
+title: The Last Dance 1x3
+date: "2020-05-17T22:46:02"
+show: "The Last Dance"
+season: 1
+episode: 3
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
 ---
 
 The time jumps start to be a little confusing to me. I'm not a basketball fan and I don't know in detail the Bulls or the players timeframes.

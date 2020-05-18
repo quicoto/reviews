@@ -5,6 +5,7 @@ show: "The Office"
 season: 3
 episode: 16
 rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 ---
 
 Oh boy this episode was super embarrasing to watch. Just to think someone (Micheal) could crash a wedding (or any event for that matter), doing speeches and taking over the priest role 🤦🏻‍♂️
