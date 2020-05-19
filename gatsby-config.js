@@ -13,7 +13,14 @@ module.exports = {
     },
   },
   plugins: [
-    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        resolveSiteUrl: ({site}) => {
+          return 'https://quicoto.github.io'
+        },
+      }
+    },
     {
       resolve: 'gatsby-plugin-matomo',
       options: {
