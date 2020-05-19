@@ -18,7 +18,9 @@ module.exports = {
       options: {
         siteId: '11',
         matomoUrl: 'https://analytics.quicoto.com',
-        siteUrl: 'https://quicoto.github.io/reviews'
+        siteUrl: 'https://quicoto.github.io/reviews',
+        matomoJsScript: 'matomo.js',
+        matomoPhpScript: 'matomo.php',
       }
     },
     'gatsby-plugin-sass',
