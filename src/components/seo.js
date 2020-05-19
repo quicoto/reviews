@@ -9,14 +9,18 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import logo from "../../content/assets/logo.jpg"
 
 const SEO = ({ description, lang, meta, title }) => {
+  // eslint-disable-next-line no-console
+  console.log(logo)
   const { site } = useStaticQuery(
     graphql`
       query {
         site {
           siteMetadata {
             title
+            siteUrl
             social {
               twitter
             }
@@ -45,8 +49,24 @@ const SEO = ({ description, lang, meta, title }) => {
           content: title,
         },
         {
+          property: `og:locale`,
+          content: 'en_US',
+        },
+        {
           property: `og:description`,
           content: metaDescription,
+        },
+        {
+          property: `og:image`,
+          content: `${site.siteMetadata.siteUrl}${logo}`,
+        },
+        {
+          property: `og:image:width`,
+          content: '529',
+        },
+        {
+          property: `og:image:height`,
+          content: '529',
         },
         {
           property: `og:type`,
@@ -58,6 +78,10 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           name: `twitter:creator`,
+          content: site.siteMetadata.social.twitter,
+        },
+        {
+          name: `twitter:site`,
           content: site.siteMetadata.social.twitter,
         },
         {
