@@ -21,7 +21,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        description={post.excerpt}
+        description={post.frontmatter.description || post.excerpt}
       />
       <article>
         <header>
