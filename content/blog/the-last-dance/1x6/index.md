@@ -12,6 +12,6 @@ It's always the same thing with fame. The Jordan gave everything in the court, h
 
 You have to be shortsighted to think he's not human, that he can make mistakes, that he can have hobbies or simple human-being issues as we all do.
 
-I find it lame that you would want to highlight that because that will get more readers, or more sells. I find it sad that we as species can't seem to simply enjoy what's good. In this particular case enjoy what Jordan was giving the fans. Not just the Bulls fans but the baskball fans around the world. Try to relate, try to imagine yourself in his shoes and don't try to enforce your high expectations on him.
+I find it lame that you would want to highlight that because that will get more readers or more sales. I find it sad that we as species can't seem to simply enjoy what's good. In this particular case enjoy what Jordan was giving the fans. Not just the Bulls fans but the basketball fans around the world. Try to relate, try to imagine yourself in his shoes, and don't try to enforce your high expectations on him.
 
 I felt sad for Jordan in this episode and I can totally understand he's fed up with all the BS and wants to quit the game.
