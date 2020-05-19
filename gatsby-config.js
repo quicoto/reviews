@@ -13,6 +13,14 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '11',
+        matomoUrl: 'https://analytics.quicoto.com',
+        siteUrl: 'https://quicoto.github.io/reviews'
+      }
+    },
     'gatsby-plugin-sass',
     {
       resolve: `gatsby-source-filesystem`,
