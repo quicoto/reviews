@@ -12,4 +12,4 @@ Am I the only one who would like the story of the dead (or not) mother to go a l
 
 Don't get me wrong I'm liking the comedy, sure being a manga artist looks rough. Especially when you have an editor like Tomaruin.
 
-Still, I'm curious to see what happened but more importantly Hime's reaction to discovering his father is a manga artist.
+Still, I'm curious to see what happened but more importantly, Hime's reaction to discovering his father is a manga artist.
