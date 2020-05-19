@@ -39,6 +39,10 @@ const SEO = ({ description, lang, meta, title }) => {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
+          name: `google-site-verification`,
+          content: `k-50-TOicwx8edLJCCIFaImavNlpQKj1fYoc9BH75YU`
+        },
+        {
           name: `description`,
           content: metaDescription,
         },
