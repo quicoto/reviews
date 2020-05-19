@@ -8,7 +8,7 @@ const Layout = ({ location, title, children }) => {
   let header
 
   let titleWrapper = (
-    <div class="title-wrapper">
+    <div className="title-wrapper">
       {title}
     </div>
   )
@@ -18,13 +18,13 @@ const Layout = ({ location, title, children }) => {
       src={logo}
       title="Ricard Torres Reviews"
       alt="Logo"
-      class="header-logo" />
+      className="header-logo" />
   )
 
 
   if (location.pathname === rootPath) {
     header = (
-      <h1 class="site-title">
+      <h1 className="site-title">
         <Link
           activeClassName="site-title-link"
           to={`/`}
@@ -36,9 +36,9 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3 class="site-title">
+      <h3 className="site-title">
         <Link
-          class="site-title-link"
+          className="site-title-link"
           to={`/`}
         >
           {image}
@@ -49,18 +49,33 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div>
-      <div class="full-width">
-        <header class="header">{header}</header>
+      <div className="full-width">
+        <header className="header">{header}</header>
       </div>
-      <main class="main-content">{children}</main>
-      <div class="full-width">
-        <footer class="footer">
+      <main className="main-content">{children}</main>
+      <div className="full-width">
+        <footer className="footer">
           <a href="https://github.com/quicoto/reviews" title="Fork this Github repo">Fork me</a>
           <a href="https://ricard.dev" title="Ricard Torres Code">Code</a>
           <a href="https://ricard.blog" title="Ricard Torres Blog">Blog</a>
           <a href="https://ricard.blog/podcast" title="Ricard Torres Radio">Podcast</a>
         </footer>
       </div>
+      <script
+        dangerouslySetInnerHTML={{ __html:
+          ` var _paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+              var u="https://analytics.quicoto.com/";
+              _paq.push(['setTrackerUrl', u+'matomo.php']);
+              _paq.push(['setSiteId', '11']);
+              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+              g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();`
+        }}
+      />
     </div>
   )
 }

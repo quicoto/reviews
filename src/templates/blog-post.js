@@ -13,8 +13,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
 
   let stars = []
-  for (let index = 0; index < post.frontmatter.rating; index++) {
-    stars.push(<img src={star} alt="Star"/>)
+  for (let i = 0; i < post.frontmatter.rating; i++) {
+    stars.push(<img src={star} alt="Star" key={i}/>)
   }
 
   return (
@@ -42,7 +42,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
           </p>
-          <div class="rating">
+          <div className="rating">
             {stars}
           </div>
         </header>
