@@ -21,6 +21,7 @@ module.exports = {
         siteUrl: 'https://quicoto.github.io/reviews',
         matomoJsScript: 'matomo.js',
         matomoPhpScript: 'matomo.php',
+        dev: true
       }
     },
     'gatsby-plugin-sass',
