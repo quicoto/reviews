@@ -33,27 +33,14 @@ type Data = {
   }
 }
 
-const BlogIndex = ({ data, location }: PageProps<Data>) => {
+const All = ({ data, location }: PageProps<Data>) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Home" description="My TV Shows reviews" />
-      <Bio />
-      <div className="widgets">
-        <div className="widgets-column">
-          <h2>Unique shows</h2>
-          <NumberOfShows />
-        </div>
-        <div className="widgets-column">
-          <h2>Total episodes</h2>
-          <TotalEpisodes />
-        </div>
-      </div>
-      <h2>Top 5 shows</h2>
-      <TopShows />
-      <h2>Latest reviews</h2>
+      <SEO title="All Reviews" description="All my TV Shows reviews" />
+      <h1 style={{ marginTop: `0` }}>All reviews</h1>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -64,19 +51,13 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
                   marginTop: 0,
                 }}
               >
-                <Link
-                  title={"Review: " + title}
-                  style={{
-                    boxShadow: `none`,
-                    marginRight: '15px'
-                  }}
-                  to={node.fields.slug}>
+                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
                 <small
                   style={{
-                    display: 'inline-block',
                     fontSize: `60%`,
+                    marginLeft: '15px'
                   }}
                   >{node.frontmatter.date}</small>
               </h3>
@@ -85,15 +66,18 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
         )
       })}
       <p>
-        <Link style={{ boxShadow: `none` }} to="all">
-          All reviews &#10230;
+        <Link style={{ boxShadow: `none` }} to="/">
+          &#10229; Back to the home
         </Link>
       </p>
+      <div style={{ paddingTop: `2rem` }}>
+        <Bio />
+      </div>
     </Layout>
   )
 }
 
-export default BlogIndex
+export default All
 
 export const pageQuery = graphql`
   query {
@@ -102,7 +86,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 5) {
+    allMarkdownRemark(sort: {order: ASC, fields: [frontmatter___title]}) {
       edges {
         node {
           excerpt

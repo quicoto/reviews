@@ -1,5 +1,6 @@
 $screen-md: 600px;
 $blue: #0984e3;
+$green: #2ecc71;
 
 .full-width {
   background: #74b9ff;
@@ -80,4 +81,27 @@ $blue: #0984e3;
     width: 25px;
     margin-bottom: 0;
   }
+}
+
+.widgets {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+
+  &-column {
+    width: 100%;
+
+    @media (min-width: $screen-md) {
+      width: 50%;
+    }
+  }
+
+  &-number {
+    color: $green;
+    font-size: 3rem;
+  }
+}
+
+.bio {
+  display: flex;
 }
