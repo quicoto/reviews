@@ -8,7 +8,7 @@ rating: 5
 ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
 ---
 
-How good can this guy get? He goes to play baseball for 21 months and he's able to come back and win the NBA Final next week. 
+How good can this guy get? He goes to play baseball for 21 months and he's able to come back and win the NBA Final next year. 
 
 Glad to see his comeback was hard, he hard to get into "basketball shape" again but still... what a machine.
 
