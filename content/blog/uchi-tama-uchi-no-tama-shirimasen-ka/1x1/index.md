@@ -1,11 +1,12 @@
---- 
-title: Uchi Tama - Uchi no Tama Shirimasen ka 1x1 
-date: "2020-05-24T23:15:15" 
-show: "Uchi Tama - Uchi no Tama Shirimasen ka" 
-season: 1 
-episode: 1 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
+---
+title: Uchi Tama - Uchi no Tama Shirimasen ka 1x1
+date: "2020-05-24T23:15:15"
+show: "Uchi Tama - Uchi no Tama Shirimasen ka"
+season: 1
+episode: 1
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 In the first minute I was like: "I think I'll drop this one". But after a few minutes I started enjoying it. I don't recall even watching anything like this before.

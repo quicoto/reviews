@@ -32,6 +32,11 @@ echo ""
 echo "What Rating (1-5)"
 read rating
 
+echo ""
+echo "Share on social media? (default: true)"
+read share
+share="${share:=true}"
+
 function slug(){
   echo -n $1 | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z.md
 }
@@ -54,6 +59,7 @@ read -r -d '' template << EOM
 \nepisode: $episode
 \nrating: $rating
 \nratingEmoji: "$(echo $emoji)"
+\nshare: $share
 \n---
 EOM
 
