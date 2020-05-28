@@ -1,11 +1,12 @@
---- 
-title: The Last Dance 1x4 
-date: "2020-05-18T23:26:01" 
-show: "The Last Dance" 
-season: 1 
-episode: 4 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
+---
+type: series
+title: The Last Dance 1x4
+date: "2020-05-18T23:26:01"
+name: "The Last Dance"
+season: 1
+episode: 4
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 ---
 
 So was the front office so determined to kick out Phil Jackson as a head coach? Didn't they win the previous year? How come management was so convinced a rebuild of the team was needed.

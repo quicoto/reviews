@@ -1,7 +1,8 @@
 ---
+type: series
 title: Boku no Tonari ni Ankoku Hakaishin ga Imasu 1x4
 date: "2020-05-17T23:17:23"
-show: "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
+name: "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
 season: 1
 episode: 4
 rating: 4

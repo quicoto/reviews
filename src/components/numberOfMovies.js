@@ -5,7 +5,7 @@ const NumberOfShows = () => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark(filter: {frontmatter: {type: {eq: "series"}}}) {
+        allMarkdownRemark(filter: {frontmatter: {type: {eq: "movie"}}}) {
           group(field: frontmatter___name) {
             edges {
               node {

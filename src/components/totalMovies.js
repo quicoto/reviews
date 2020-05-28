@@ -1,11 +1,11 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 
-const TotalEpisodes = () => (
+const TotalMovies = () => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark(filter: {frontmatter: {type: {eq: "series"}}}) {
+        allMarkdownRemark(filter: {frontmatter: {type: {eq: "movie"}}}) {
           edges {
             node {
               id
@@ -26,4 +26,4 @@ const TotalEpisodes = () => (
   ></StaticQuery>
 )
 
-export default TotalEpisodes
+export default TotalMovies

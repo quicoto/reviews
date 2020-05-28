@@ -2,8 +2,11 @@
 import React from "react"
 import { PageProps, Link, graphql } from "gatsby"
 
+import TotalMovies from "../components/totalMovies"
 import TotalEpisodes from "../components/totalEpisodes"
 import TopShows from "../components/topShows"
+import LatestMovies from "../components/latestMovies"
+import LatestTVShows from "../components/latestTVShows"
 import NumberOfShows from "../components/numberOfShows"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -16,31 +19,16 @@ type Data = {
       title: string
     }
   }
-  allMarkdownRemark: {
-    edges: {
-      node: {
-        excerpt: string
-        frontmatter: {
-          title: string
-          date: string
-          rating: number
-        }
-        fields: {
-          slug: string
-        }
-      }
-    }[]
-  }
 }
 
 const BlogIndex = ({ data, location }: PageProps<Data>) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" description="My TV Shows reviews" />
       <Bio />
+
       <div className="widgets">
         <div className="widgets-column">
           <h2>Unique shows</h2>
@@ -50,43 +38,34 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
           <h2>Total episodes</h2>
           <TotalEpisodes />
         </div>
+        <div className="widgets-column">
+          <h2>Total movies</h2>
+          <TotalMovies />
+        </div>
       </div>
-      <h2>Top 5 shows</h2>
+
+      <hr/>
+
+      <h2 style={{ marginTop: '0' }}>Top 5 shows</h2>
       <TopShows />
-      <h2>Latest reviews</h2>
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginTop: 0,
-                }}
-              >
-                <Link
-                  title={"Review: " + title}
-                  style={{
-                    boxShadow: `none`,
-                    marginRight: '15px'
-                  }}
-                  to={node.fields.slug}>
-                  {title}
-                </Link>
-                <small
-                  style={{
-                    display: 'inline-block',
-                    fontSize: `60%`,
-                  }}
-                  >{node.frontmatter.date}</small>
-              </h3>
-            </header>
-          </article>
-        )
-      })}
+
+      <hr/>
+
+      <h2 style={{ marginTop: '0' }}>Latest TV Show reviews</h2>
+      <LatestTVShows />
       <p>
-        <Link style={{ boxShadow: `none` }} to="all">
-          All reviews &#10230;
+        <Link style={{ boxShadow: `none` }} to="all-shows">
+          All TV Show Reviews &#10230;
+        </Link>
+      </p>
+
+      <hr/>
+
+      <h2 style={{ marginTop: '0' }}>Latest Movie reviews</h2>
+      <LatestMovies />
+      <p>
+        <Link style={{ boxShadow: `none` }} to="all-movies">
+          All Movie Reviews &#10230;
         </Link>
       </p>
     </Layout>
@@ -100,21 +79,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 5) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            rating
-          }
-        }
       }
     }
   }

@@ -1,11 +1,12 @@
---- 
-title: The Last Dance 1x6 
-date: "2020-05-19T23:03:06" 
-show: "The Last Dance" 
-season: 1 
-episode: 6 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
+---
+type: series
+title: The Last Dance 1x6
+date: "2020-05-19T23:03:06"
+name: "The Last Dance"
+season: 1
+episode: 6
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
 ---
 
 It's always the same thing with fame. The Jordan gave everything in the court, he was there for the fans, the media... He won titles and awards, but that seemed not to be enough.

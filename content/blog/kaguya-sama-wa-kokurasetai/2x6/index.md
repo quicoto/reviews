@@ -1,7 +1,8 @@
 ---
+type: series
 title: Kaguya-sama wa Kokurasetai 2x6
 date: "2020-05-17T19:31:20"
-show: "Kaguya-sama wa Kokurasetai"
+name: "Kaguya-sama wa Kokurasetai"
 season: 2
 episode: 6
 rating: 4

@@ -16,7 +16,7 @@ function ShowsList(props) {
   groups.forEach((group) => {
     const nodes = group.nodes;
     let show = {
-      show: nodes[0].frontmatter.show,
+      name: nodes[0].frontmatter.name,
       totalCount: group.totalCount
     };
     let total = 0
@@ -44,9 +44,9 @@ function ShowsList(props) {
 
   return (
     <ul>
-      { topShows.map((show) =>
-        <ShowItem key={show.show}
-                  show={show.show}
+      { topShows.map((show, index) =>
+        <ShowItem key={index.toString()}
+                  show={show.name}
                   average={show.average} />
       )}
     </ul>
@@ -57,12 +57,12 @@ const TopShows = () => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark {
-          group(field: frontmatter___show) {
+        allMarkdownRemark(filter: {frontmatter: {type: {eq: "series"}}}) {
+          group(field: frontmatter___name) {
             nodes {
               frontmatter {
                 rating
-                show
+                name
               }
             }
             totalCount

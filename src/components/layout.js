@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import Navigation from "../components/navigation"
 import logo from "../../content/assets/logo.svg"
 
 const Layout = ({ location, title, children }) => {
@@ -50,15 +51,20 @@ const Layout = ({ location, title, children }) => {
   return (
     <div>
       <div className="full-width">
-        <header className="header">{header}</header>
+        <header className="header">
+          {header}
+          <Navigation />
+        </header>
       </div>
       <main className="main-content">{children}</main>
       <div className="full-width">
         <footer className="footer">
-          <a href="https://github.com/quicoto/reviews" title="Fork this Github repo">Fork me</a>
-          <a href="https://ricard.dev" title="Ricard Torres Code">Code</a>
-          <a href="https://ricard.blog" title="Ricard Torres Blog">Blog</a>
-          <a href="https://ricard.blog/podcast" title="Ricard Torres Radio">Podcast</a>
+          <nav class="nav">
+            <a className="nav-link" href="https://github.com/quicoto/reviews" title="Fork this Github repo">Github</a>
+            <a className="nav-link" href="https://ricard.dev" title="Ricard Torres Code">Code</a>
+            <a className="nav-link" href="https://ricard.blog" title="Ricard Torres Blog">Blog</a>
+            <a className="nav-link" href="https://ricard.blog/podcast" title="Ricard Torres Radio">Podcast</a>
+          </nav>
         </footer>
       </div>
     </div>

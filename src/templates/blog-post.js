@@ -1,21 +1,15 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
-import star from "../../content/assets/star.svg"
+import { stars } from "../utils/shared"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
-
-  let stars = []
-  for (let i = 0; i < post.frontmatter.rating; i++) {
-    stars.push(<img src={star} alt="Star" key={i}/>)
-  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -43,7 +37,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date}
           </p>
           <div className="rating">
-            {stars}
+            {stars(post.frontmatter.rating)}
           </div>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -56,33 +50,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <Bio short={true}/>
         </footer>
       </article>
-
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
     </Layout>
   )
 }

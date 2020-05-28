@@ -1,7 +1,8 @@
 ---
+type: series
 title: The Last Dance 1x5
 date: "2020-05-19T20:35:18"
-show: "The Last Dance"
+name: "The Last Dance"
 season: 1
 episode: 5
 rating: 5

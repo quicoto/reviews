@@ -1,7 +1,8 @@
 ---
+type: series
 title: Uchi Tama - Uchi no Tama Shirimasen ka 1x1
 date: "2020-05-24T23:15:15"
-show: "Uchi Tama - Uchi no Tama Shirimasen ka"
+name: "Uchi Tama - Uchi no Tama Shirimasen ka"
 season: 1
 episode: 1
 rating: 4

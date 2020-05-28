@@ -57,7 +57,6 @@ module.exports = {
               maxWidth: 590,
             },
           },
-          `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
