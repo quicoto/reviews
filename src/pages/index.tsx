@@ -54,7 +54,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
       <h2 style={{ marginTop: '0' }}>Latest TV Show reviews</h2>
       <LatestTVShows />
       <p>
-        <Link style={{ boxShadow: `none` }} to="all-shows">
+        <Link style={{ boxShadow: `none` }} to="tv-shows">
           All TV Show Reviews &#10230;
         </Link>
       </p>
@@ -64,7 +64,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
       <h2 style={{ marginTop: '0' }}>Latest Movie reviews</h2>
       <LatestMovies />
       <p>
-        <Link style={{ boxShadow: `none` }} to="all-movies">
+        <Link style={{ boxShadow: `none` }} to="movies">
           All Movie Reviews &#10230;
         </Link>
       </p>
