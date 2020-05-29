@@ -1,10 +1,22 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
+const slugify = require('@sindresorhus/slugify');
 
 function ShowItem(props) {
+  const name = props.show
+
   return (
     <li>
-      <strong>{props.show}</strong> ({props.average})
+       <Link
+          title={`All reviews for: ${name}`}
+          style={{
+            boxShadow: `none`,
+            marginBottom: '10px',
+            marginRight: '15px',
+          }}
+          to={`tv-shows#${slugify(name)}`}>
+          <strong>{name}</strong> ({props.average})
+        </Link>
     </li>
   );
 }
