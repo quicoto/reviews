@@ -10,9 +10,9 @@ ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
 share: true 
 ---
 
-Awesome! I had to Google if there was made up scenes or editing. Nope. The film consists solely of archival footage which is super cool. The editing is good, the pace and knowing that it's the real thing makes it even better.
+Awesome! I had to Google if there were made up scenes or editing. Nope. The film consists solely of archival footage which is super cool. The editing is good, the pace and knowing that it's the real thing makes it even better.
 
-I can't believe men flew to the moon back then with the technology and computer power they had but now in 2020 we strill strugle to load a website with much JavaScript, or our phone doesn't seem as fast as it should. It a sense it looks to me we've gone backwards and not forwards.
+I can't believe men flew to the moon back then with the technology and computer power they had but now in 2020 we still struggle to load a website with much JavaScript, or our phone doesn't seem as fast as it should. It a sense it looks to me we've gone backwards and not forwards.
 
 The most exciting part, for me, is the footage during the EVA (extravehicular activity) when Armstrong and Aldrin walk on the moon.
 
