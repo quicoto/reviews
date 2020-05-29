@@ -3,7 +3,7 @@ type: movie
 title: Saw VI
 date: "2020-05-24T23:15:15"
 name: "Saw VI"
-rating: 4
+rating: 2
 ratingEmoji: "⭐️⭐️"
 share: false
 ---
