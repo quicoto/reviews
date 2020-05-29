@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 function Navigation() {
   return (
-    <nav class="nav">
+    <nav className="nav">
       <Link
         className="nav-link"
         activeClassName="nav-link--active"

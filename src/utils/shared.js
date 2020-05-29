@@ -5,7 +5,12 @@ import star from "../../content/assets/star.svg"
 /**
  * @param  {Object} props
  */
-function Item(props) {
+export function Item(props) {
+  const title = props.item.node.frontmatter.title
+  const slug = props.item.node.fields.slug
+  const rating = props.item.node.frontmatter.rating
+  const date = props.item.node.frontmatter.date
+
   return (
     <article>
       <h3
@@ -15,15 +20,15 @@ function Item(props) {
         }}
       >
         <Link
-          title={"Review: " + props.title}
+          title={"Review: " + title}
           style={{
             display: 'block',
             boxShadow: `none`,
             marginBottom: '10px',
             marginRight: '15px',
           }}
-          to={props.slug}>
-          {props.title}
+          to={slug}>
+          {title}
         </Link>
         <span
           style={{
@@ -36,13 +41,13 @@ function Item(props) {
               fontSize: `60%`,
               marginRight: '15px'
             }}
-            >{props.date}</small>
+            >{date}</small>
             <span
               className="rating"
               style={{
                 marginBottom: '0'
               }}
-            >{stars(props.rating)}</span>
+            >{stars(rating)}</span>
         </span>
       </h3>
     </article>
@@ -57,10 +62,7 @@ export function List(props) {
     <div>
       { props.edges.map(item =>
         <Item key={item.node.id}
-        title={item.node.frontmatter.title}
-        slug={item.node.fields.slug}
-        rating={item.node.frontmatter.rating}
-        date={item.node.frontmatter.date} />
+        item={item} />
       )}
     </div>
   );

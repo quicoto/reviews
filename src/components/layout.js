@@ -59,7 +59,7 @@ const Layout = ({ location, title, children }) => {
       <main className="main-content">{children}</main>
       <div className="full-width">
         <footer className="footer">
-          <nav class="nav">
+          <nav className="nav">
             <a className="nav-link" href="https://github.com/quicoto/reviews" title="Fork this Github repo">Github</a>
             <a className="nav-link" href="https://ricard.dev" title="Ricard Torres Code">Code</a>
             <a className="nav-link" href="https://ricard.blog" title="Ricard Torres Blog">Blog</a>
