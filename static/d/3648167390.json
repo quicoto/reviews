@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/movies/saw-vi/"},"frontmatter":{"date":"May 24, 2020","title":"Saw VI","rating":2},"id":"71ac4a27-b411-529b-a454-9ba30aa273c7"}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/movies/saw-i/"},"frontmatter":{"date":"May 29, 2020","title":"Saw I","rating":5},"id":"594281b4-7fa9-52c1-9867-254ab86d4d6d"}},{"node":{"fields":{"slug":"/movies/saw-vi/"},"frontmatter":{"date":"May 24, 2020","title":"Saw VI","rating":2},"id":"71ac4a27-b411-529b-a454-9ba30aa273c7"}}]}}}
