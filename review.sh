@@ -80,7 +80,7 @@ EOM
 
 echo $template
 
-file=./content/blog/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
+file=./content/blog/tv-shows/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
 
 if [ $type == movie ]
 then
