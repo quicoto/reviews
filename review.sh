@@ -17,16 +17,24 @@ echo "***************************"
 git pull
 
 echo ""
-echo "Name of the show:"
+echo "series or movie? (default: series)"
+read type
+type="${type:=series}"
+
+echo ""
+echo "Title:"
 read name
 
-echo ""
-echo "What Season?"
-read season
+if [ $type == series ]
+then
+  echo ""
+  echo "What Season?"
+  read season
 
-echo ""
-echo "What Episode?"
-read episode
+  echo ""
+  echo "What Episode?"
+  read episode
+fi
 
 echo ""
 echo "What Rating (1-5)"
@@ -43,7 +51,13 @@ function slug(){
 
 theSlug=$(slug "$name")
 date=$(date +%Y-%m-%dT%T)
-episodeFullName="$(echo $name) $(echo $season)x$(echo $episode)"
+fullName="$(echo $name) $(echo $season)x$(echo $episode)"
+
+if [ $type == movie ]
+then
+  fullName="$(echo $name)"
+fi
+
 emoji=""
 for i in $(eval echo "{1..$rating}")
   do
@@ -52,9 +66,10 @@ for i in $(eval echo "{1..$rating}")
 
 read -r -d '' template << EOM
 ---
-\ntitle: $(echo $episodeFullName)
+\ntype: $type
+\ntitle: $(echo $fullName)
 \ndate: "$(echo $date)"
-\nshow: "$(echo $name)"
+\nname: "$(echo $name)"
 \nseason: $season
 \nepisode: $episode
 \nrating: $rating
@@ -66,6 +81,11 @@ EOM
 echo $template
 
 file=./content/blog/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
+
+if [ $type == movie ]
+then
+  file=./content/blog/movies/$( echo $theSlug)/index.md
+fi
 
 mkfileP() { mkdir -p "$(dirname "$1")" || return; touch "$1"; }
 mkfileP $file
@@ -85,7 +105,7 @@ echo "*                         *"
 echo "*       Git commit        *"
 echo "*                         *"
 echo "***************************"
-git add -A && git commit -m "$( echo $episodeFullName)"
+git add -A && git commit -m "$( echo $fullName)"
 
 echo ""
 echo "***************************"
