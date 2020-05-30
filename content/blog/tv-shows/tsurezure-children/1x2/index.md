@@ -1,8 +1,8 @@
 --- 
 type: series 
-title: Tsuki ga Kirei 1x2 
-date: "2020-05-30T16:01:30" 
-name: "Tsuki ga Kirei" 
+title: Tsurezure Children 1x2 
+date: "2020-05-30T16:04:58" 
+name: "Tsurezure Children" 
 season: 1 
 episode: 2 
 rating: 4 
