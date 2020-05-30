@@ -12,4 +12,4 @@ share: false
 
 Alright, I'm interested. Interesting that the dude is a manga artist writing a love novel while acknowledging he lacks the experience.
 
-A new character makes apperance in the last second, let's see how this evolves.
+A new character makes appearance in the last second, let's see how this evolves.
