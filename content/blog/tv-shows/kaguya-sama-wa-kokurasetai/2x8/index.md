@@ -10,6 +10,6 @@ ratingEmoji: "⭐️⭐️⭐️"
 share: true 
 ---
 
-The lack of Ishigami interactions in this one was dissapointng 😁
+The lack of Ishigami interactions in this one was disappointing 😁
 
 Also, I felt a big "noooooooooo" when they did not kiss at the end. Why cruel world. Why won't you give it to us. Give us the awaited kiss!
