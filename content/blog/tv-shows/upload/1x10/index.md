@@ -5,8 +5,8 @@ date: "2020-05-29T18:13:38"
 name: "UPLOAD" 
 season: 1 
 episode: 10 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️" 
 share: false 
 ---
 
