@@ -83,8 +83,9 @@ module.exports = {
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
+                const type = `${edge.node.frontmatter.type === 'series' ? 'Episode' : 'Movie'} review`
                 return Object.assign({}, edge.node.frontmatter, {
-                  description: `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\nReview 👉 ${site.siteMetadata.siteUrl + edge.node.fields.slug}`,
+                  description: `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👉 ${site.siteMetadata.siteUrl + edge.node.fields.slug}`,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -103,8 +104,9 @@ module.exports = {
                       fields { slug }
                       frontmatter {
                         title
-                        date,
+                        date
                         ratingEmoji
+                        type
                       }
                     }
                   }
