@@ -159,3 +159,34 @@ $green: #2ecc71;
     }
   }
 }
+
+.allShowsTitle {
+  .rating {
+    margin-bottom: 0;
+    padding-left: 2rem;
+    width: 100%;
+  }
+}
+
+.topShows {
+  counter-reset: shows;
+
+  h3::before {
+    counter-increment: shows;
+    content: counter(shows) ". ";
+  }
+
+  .rating {
+    display: inline-block;
+    padding-left: 1.6rem;
+    padding-top: 1rem;
+    width: 100%;
+
+    @media (min-width: $screen-md) {
+      padding-left: 0;
+      padding-top: 0;
+      width: auto;
+    }
+  }
+}
+

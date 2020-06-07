@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: Onward 
-date: "2020-06-05T23:45:26" 
-name: "Onward" 
-season: 
-episode: 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: Onward
+date: "2020-06-05T23:45:26"
+name: "Onward"
+season:
+episode:
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Chris Pratt and Tom Holland's voices elevate the movie, no doubt.

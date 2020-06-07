@@ -1,12 +1,17 @@
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
+import { stars, roundHalf } from "../utils/shared"
 const slugify = require('@sindresorhus/slugify');
 
 function ShowItem(props) {
   const name = props.show
 
   return (
-    <li>
+    <h3
+      style={{
+        marginBottom: '2rem',
+        marginTop: '0'
+      }}>
        <Link
           title={`All reviews for: ${name}`}
           style={{
@@ -15,9 +20,9 @@ function ShowItem(props) {
             marginRight: '15px',
           }}
           to={`tv-shows#${slugify(name)}`}>
-          <strong>{name}</strong> ({props.average})
+          <strong>{name}</strong> <span className="rating">{stars(props.average)}</span>
         </Link>
-    </li>
+    </h3>
   );
 }
 
@@ -37,7 +42,7 @@ function ShowsList(props) {
       total += node.frontmatter.rating;
     });
 
-    show.average = parseFloat((total / nodes.length).toFixed(2));
+    show.average = roundHalf(parseFloat((total / nodes.length).toFixed(2)));
     topShows.push(show);
   })
 
@@ -86,7 +91,7 @@ const TopShows = () => (
       let groups = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark.group;
 
       return (
-        <div>
+        <div className="topShows">
           <ShowsList groups={groups} />
         </div>
       )

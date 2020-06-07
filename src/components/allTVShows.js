@@ -1,13 +1,22 @@
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
+import { stars, roundHalf } from "../utils/shared"
 const slugify = require('@sindresorhus/slugify');
 
 function Item(props) {
   const name = props.nodes[0].frontmatter.name
+  let average = 0
+
+  props.nodes.map((item, index) => {
+    average = average + parseInt(item.frontmatter.rating)
+  })
+
+  average = roundHalf(parseFloat((average / parseInt(props.nodes.length)).toFixed(2)));
 
   return (
     <article>
       <h3
+        className="allShowsTitle"
         id={slugify(name)}
         style={{
           marginTop: 0,
@@ -17,6 +26,7 @@ function Item(props) {
         <span
           style={{
             display: 'flex',
+            flexWrap: 'wrap',
             marginBottom: '10px',
           }}>
           <Link
@@ -29,12 +39,16 @@ function Item(props) {
             to={`tv-shows#${slugify(name)}`}>
             #
           </Link>
-          <span>{name}</span>
+          <span>
+            {name}
+          </span>
+          <span className="rating d-block"><small>Average:</small> {stars(average)}</span>
         </span>
         <div
           style={{
             marginLeft: '33px'
           }}>
+            <small>Episodes:</small>&nbsp;
           { props.nodes.map((item, index) =>
            <span key={index.toString()}>
             <Link

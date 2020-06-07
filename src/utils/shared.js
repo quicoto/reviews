@@ -1,6 +1,16 @@
 import React from "react"
 import { Link } from "gatsby"
-import star from "../../content/assets/star.svg"
+import starFull from "../../content/assets/star.svg"
+import starEmpty from "../../content/assets/star-empty.svg"
+import starHalf from "../../content/assets/star-half.svg"
+
+/**
+ * @param  {number} number
+ * @returns {number}
+ */
+export function roundHalf(number) {
+  return Math.round(number*2)/2;
+}
 
 /**
  * @param  {Object} props
@@ -73,8 +83,22 @@ export function List(props) {
  */
 export function stars(rating) {
   const stars = []
-  for (let i = 0; i < rating; i++) {
-    stars.push(<img src={star} alt={`Star ${i+1}`} key={i}/>)
+  for (let i = 1; i <= 5; i++) {
+    let src = starFull
+
+    if (i > rating) {
+      src = starEmpty;
+
+      if ((rating - i) % 1 !== 0) {
+        src = starHalf
+        rating = rating - 0.5;
+      } else {
+        rating--;
+      }
+    }
+
+    stars.push(<img src={src} alt={`Star ${i+1}`} key={i}/>)
   }
+
   return stars
 }
