@@ -12,6 +12,8 @@ share: true
 
 This episode was surprisingly better than the previous one. Anita still bugs the hell out of me, such annoying character.
 
-Daigo showing he's head above shoulders compared to the rest. The apperance of the old teammates was also good.
+Daigo showing he's head and shoulders above the rest. The appearance of the old teammates was also good.
 
-And of course winning the match against those who were looking down on them for being girls. Justice has been served.
+And of course, winning the match against those who were looking down on them for being girls. Justice has been served.
+
+![Episode screenshot](https://cldup.com/U2iaNRJZJz.png)
