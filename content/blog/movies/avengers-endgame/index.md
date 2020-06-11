@@ -12,7 +12,7 @@ share: false
 
 Amazing production. Great closure to a great franchise.
 
-It not makes me entretained but also brings back memories. I watched this one in Daejon (South Korea) after they released it in theaters. Enjoyed it back then and enjoyed it again today.
+It not makes me entertained but also brings back memories. I watched this one in Daejon (South Korea) after they released it in theaters. I enjoyed it back then and I enjoyed it again today.
 
 Sad about Iron Man of course but very happy about Captain America.
 
