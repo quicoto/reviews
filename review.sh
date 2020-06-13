@@ -41,9 +41,9 @@ echo "What Rating (1-5)"
 read rating
 
 echo ""
-echo "Share on social media? (default: true)"
+echo "Share on social media? (default: false)"
 read share
-share="${share:=true}"
+share="${share:=false}"
 
 function slug(){
   echo -n $1 | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z.md
