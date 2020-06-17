@@ -190,3 +190,15 @@ $green: #2ecc71;
   }
 }
 
+.tvShow {
+  .cover {
+    display: block;
+    margin: 0 auto;
+
+    @media (min-width: $screen-md) {
+      float: right;
+      padding-bottom: 1rem;
+      padding-left: 1rem;
+    }
+  }
+}

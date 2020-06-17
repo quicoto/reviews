@@ -4,6 +4,7 @@ import { graphql, Link } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Cover from "../components/cover"
 import { rhythm, scale } from "../utils/typography"
 import { stars } from "../utils/shared"
 const slugify = require('@sindresorhus/slugify');
@@ -41,8 +42,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article>
+      <article className="tvShow">
         <header>
+          <Cover slug={slugify(post.frontmatter.name)} name={post.frontmatter.name}/>
           <h1
             style={{
               marginTop: rhythm(1),
