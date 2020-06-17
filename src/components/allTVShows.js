@@ -20,7 +20,8 @@ function Item(props) {
         id={slugify(name)}
         style={{
           marginTop: 0,
-          marginBottom: '2rem'
+          marginBottom: '0',
+          paddingTop: '2rem'
         }}
       >
         <span
