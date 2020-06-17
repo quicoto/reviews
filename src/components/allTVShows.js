@@ -36,7 +36,7 @@ function Item(props) {
               marginBottom: '10px',
               marginRight: '15px',
             }}
-            to={`tv-shows#${slugify(name)}`}>
+            to={`/tv-shows#${slugify(name)}`}>
             #
           </Link>
           <span>

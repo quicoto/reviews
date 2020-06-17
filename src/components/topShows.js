@@ -19,7 +19,7 @@ function ShowItem(props) {
             marginBottom: '10px',
             marginRight: '15px',
           }}
-          to={`tv-shows#${slugify(name)}`}>
+          to={`/tv-shows#${slugify(name)}`}>
           <strong>{name}</strong> <span className="rating">{stars(props.average)}</span>
         </Link>
     </h3>

@@ -14,14 +14,14 @@ function Navigation() {
       <Link
         className="nav-link"
         activeClassName="nav-link--active"
-        to={`tv-shows`}
+        to={`/tv-shows`}
         >
           All TV Shows
         </Link>
       <Link
         className="nav-link"
         activeClassName="nav-link--active"
-        to={`movies`}
+        to={`/movies`}
         >
           All Movies
         </Link>

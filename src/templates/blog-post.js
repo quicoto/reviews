@@ -21,7 +21,7 @@ function MoreLink(props) {
             marginBottom: '10px',
             marginRight: '15px',
           }}
-          to={`tv-shows#${slugify(post.frontmatter.name)}`}>
+          to={`/tv-shows#${slugify(post.frontmatter.name)}`}>
           More reviews for <em>{post.frontmatter.name}</em>
         </Link>
       </p>
