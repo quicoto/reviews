@@ -24,12 +24,13 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-matomo',
       options: {
-        siteId: '11',
-        matomoUrl: 'https://analytics.quicoto.com',
-        siteUrl: 'https://quicoto.github.io/reviews',
+        dev: true,
+        disableCookies: true,
         matomoJsScript: 'matomo.js',
         matomoPhpScript: 'matomo.php',
-        dev: true
+        matomoUrl: 'https://analytics.quicoto.com',
+        siteId: '11',
+        siteUrl: 'https://quicoto.github.io/reviews'
       }
     },
     'gatsby-plugin-sass',
