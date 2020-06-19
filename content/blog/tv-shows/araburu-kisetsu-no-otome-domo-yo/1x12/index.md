@@ -5,8 +5,8 @@ date: "2020-05-30T11:13:08"
 name: "Araburu Kisetsu no Otome-domo yo" 
 season: 1 
 episode: 12 
-rating: 4
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
+rating: 2
+ratingEmoji: "⭐️⭐️" 
 share: false
 ---
 
