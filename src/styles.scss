@@ -190,10 +190,11 @@ $green: #2ecc71;
   }
 }
 
-.tvShow {
+.item {
   .cover {
     display: block;
     margin: 0 auto;
+    max-width: 220px;
 
     @media (min-width: $screen-md) {
       float: right;

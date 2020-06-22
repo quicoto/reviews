@@ -42,7 +42,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article className="tvShow">
+      <article className="item">
         <header>
           <Cover slug={slugify(post.frontmatter.name)} name={post.frontmatter.name}/>
           <h1
