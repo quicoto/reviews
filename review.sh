@@ -67,7 +67,7 @@ for i in $(eval echo "{1..$rating}")
 read -r -d '' template << EOM
 ---
 \ntype: $type
-\ntitle: $(echo $fullName)
+\ntitle: "$(echo $fullName)"
 \ndate: "$(echo $date)"
 \nname: "$(echo $name)"
 \nseason: $season
