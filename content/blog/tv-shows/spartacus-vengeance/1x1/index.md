@@ -1,8 +1,8 @@
 --- 
 type: series 
-title: "Spartacus: Blood and Sand 1x1" 
-date: "2020-07-07T23:42:16" 
-name: "Spartacus: Blood and Sand" 
+title: "Spartacus: Vengeance 1x1" 
+date: "2020-07-07T23:48:57" 
+name: "Spartacus: Vengeance" 
 season: 1 
 episode: 1 
 rating: 3 
