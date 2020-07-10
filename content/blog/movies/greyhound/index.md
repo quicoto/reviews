@@ -14,6 +14,6 @@ This movie doesn't have a thick plot, character development, or complex dialogue
 
 The CGI is stunning, wish I had seen this on a big screen and not at home.
 
-The ending felt without climax, a little strange. However, I felt relieved, as the character can take a break from the action. You can see it, Hanks does a good job showing how he's moves and speech gets slower towards the end. Well done.
+The ending felt without climax, a little strange. However, I felt relieved, as the character can take a break from the action. You can see it, Hanks does a good job showing how his moves and speech gets slower towards the end. Well done there.
 
 I did enjoy it, the movie was over in a blink of an eye.
