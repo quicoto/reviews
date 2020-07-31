@@ -1,3 +1,9 @@
+function feedDescription(edge, site) {
+  const type = `${edge.node.frontmatter.type === 'series' ? 'Episode' : 'Movie'} review`
+
+  return `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👉 ${site.siteMetadata.siteUrl + edge.node.fields.slug}`
+}
+
 module.exports = {
   pathPrefix: "/reviews",
   siteMetadata: {
@@ -84,9 +90,8 @@ module.exports = {
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
-                const type = `${edge.node.frontmatter.type === 'series' ? 'Episode' : 'Movie'} review`
                 return Object.assign({}, edge.node.frontmatter, {
-                  description: `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👉 ${site.siteMetadata.siteUrl + edge.node.fields.slug}`,
+                  description: feedDescription(edge, site),
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -115,6 +120,74 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+          },
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: feedDescription(edge, site),
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {type: {eq: "series"}}}
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                        ratingEmoji
+                        type
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss-all-shows.xml",
+          },
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: feedDescription(edge, site),
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: {order: DESC, fields: [frontmatter___date]}, filter: {frontmatter: {type: {eq: "movie"}}}
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                        ratingEmoji
+                        type
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss-all-movies.xml",
           },
         ],
       },
