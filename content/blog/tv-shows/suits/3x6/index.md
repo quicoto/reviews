@@ -5,8 +5,8 @@ date: "2020-08-02T22:54:21"
 name: "Suits" 
 season: 3 
 episode: 6 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
+rating: 3 
+ratingEmoji: "⭐️⭐️⭐️" 
 share: false 
 ---
 
