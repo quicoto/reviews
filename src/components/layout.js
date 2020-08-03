@@ -57,7 +57,7 @@ const Layout = ({ location, title, children }) => {
         </header>
       </div>
       <main className="main-content">{children}</main>
-      <div className="full-width">
+      <div className="full-width"  style={{ marginBottom: 0 }}>
         <footer className="footer">
           <nav className="nav">
             <a className="nav-link" href="https://github.com/quicoto/reviews" title="Fork this Github repo">Github</a>
