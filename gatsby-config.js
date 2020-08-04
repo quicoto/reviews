@@ -14,6 +14,7 @@ module.exports = {
     },
     description: `My TV Shows reviews`,
     siteUrl: `https://quicoto.github.io/reviews/`,
+    site: `https://quicoto.github.io`,
     social: {
       twitter: `ricard_dev`,
     },
