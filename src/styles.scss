@@ -203,3 +203,41 @@ $green: #2ecc71;
     }
   }
 }
+
+.emoji-reaction {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2rem;
+
+  &--disabled {
+    pointer-events: none;
+  }
+
+  &_emoji {
+    border: 1px solid #e0e3e9;
+    cursor: pointer;
+    flex-grow: 1;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 5px;
+
+    @media screen and (min-width: 540px) {
+      flex: 1 0 21%;
+    }
+
+    @media screen and (min-width: 720px) {
+      flex: 0 0 auto;
+    }
+
+    &--voted,
+    &:hover {
+      background: $blue;
+      color: white;
+    }
+  }
+
+  &_text {
+    padding-left: 10px;
+  }
+}

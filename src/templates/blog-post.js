@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import { Helmet } from "react-helmet"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -67,6 +68,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </div>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        <h4>What do you think?</h4>
+        {post.frontmatter.url}
+        <div aria-hidden="true" className="emoji-reaction" data-url={location.href}></div>
+        <Helmet>
+          <script src="https://ricard.blog/emoji-reaction/assets/emoji-reaction.js?ver=2.0.2" type="text/javascript" />
+        </Helmet>
 
         <MoreLink post={post}/>
 
