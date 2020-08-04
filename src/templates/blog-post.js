@@ -72,7 +72,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <h4>What do you think?</h4>
         <div aria-hidden="true" className="emoji-reaction" data-url={`${data.site.siteMetadata.site}${location.pathname}`}></div>
         <Helmet>
-          <script src="https://ricard.blog/emoji-reaction/assets/emoji-reaction.js?ver=2.0.2" type="text/javascript" />
+          <script defer src="https://ricard.blog/emoji-reaction/assets/emoji-reaction.js?ver=2.0.3" type="text/javascript" />
         </Helmet>
 
         <MoreLink post={post}/>
