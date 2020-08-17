@@ -1,7 +1,7 @@
 function feedDescription(edge, site) {
   const type = `${edge.node.frontmatter.type === 'series' ? 'Episode' : 'Movie'} review`
 
-  return `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👉 ${site.siteMetadata.siteUrl + edge.node.fields.slug}`
+  return `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👇\n${site.siteMetadata.siteUrl + edge.node.fields.slug}`
 }
 
 module.exports = {
