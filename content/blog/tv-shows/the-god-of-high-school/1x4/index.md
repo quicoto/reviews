@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "The God of High School 1x4" 
-date: "2020-07-31T22:10:40" 
-name: "The God of High School" 
-season: 1 
-episode: 4 
-rating: 2 
-ratingEmoji: "⭐️⭐️" 
-share: true 
+---
+type: series
+title: "The God of High School 1x4"
+date: "2020-07-31T22:10:40"
+name: "The God of High School"
+season: 1
+episode: 4
+rating: 2
+ratingEmoji: "⭐️⭐️"
+share: true
 ---
 
 I'm not giving it 1 star due to the last 2 minutes.

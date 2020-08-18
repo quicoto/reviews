@@ -5,7 +5,7 @@ const TotalEpisodes = () => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark(filter: {frontmatter: {type: {eq: "series"}}}) {
+        allMarkdownRemark(filter: { frontmatter: { type: { eq: "series" } } }) {
           edges {
             node {
               id
@@ -15,13 +15,10 @@ const TotalEpisodes = () => (
       }
     `}
     render={data => {
-      let edges=JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark.edges
+      let edges = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark
+        .edges
 
-      return (
-        <div className="widgets-number">
-          {edges.length}
-        </div>
-      )
+      return <div className="widgets-number">{edges.length}</div>
     }}
   ></StaticQuery>
 )

@@ -15,4 +15,4 @@ I had forgotten how good this show is. I love the language they use. Not only th
 "You mistake intent"
 "Apologies! Non-required"
 
-Then there's the violence of course and the over the top sexual scenes.  How is this rated +16? 😂
+Then there's the violence of course and the over the top sexual scenes. How is this rated +16? 😂

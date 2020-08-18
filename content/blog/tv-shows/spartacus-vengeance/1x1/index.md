@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Vengeance 1x1" 
-date: "2020-07-07T23:48:57" 
-name: "Spartacus: Vengeance" 
-season: 1 
-episode: 1 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Vengeance 1x1"
+date: "2020-07-07T23:48:57"
+name: "Spartacus: Vengeance"
+season: 1
+episode: 1
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Big shoes to fill for the new actor portraying, Spartacus.

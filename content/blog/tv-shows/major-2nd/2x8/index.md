@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Major 2nd 2x8" 
-date: "2020-07-12T18:17:13" 
-name: "Major 2nd" 
-season: 2 
-episode: 8 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: "Major 2nd 2x8"
+date: "2020-07-12T18:17:13"
+name: "Major 2nd"
+season: 2
+episode: 8
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 Freaking Anita, acting almighty.

@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: "Knives Out" 
-date: "2020-07-04T22:16:27" 
-name: "Knives Out" 
-season: 
-episode: 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: movie
+title: "Knives Out"
+date: "2020-07-04T22:16:27"
+name: "Knives Out"
+season:
+episode:
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 I could not even finish it.

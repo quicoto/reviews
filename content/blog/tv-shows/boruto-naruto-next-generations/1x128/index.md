@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x128 
-date: "2020-06-08T19:25:46" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 128 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x128
+date: "2020-06-08T19:25:46"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 128
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Now they've done it. Time travel! Hell yeah!

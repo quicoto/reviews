@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 1x11" 
-date: "2020-07-26T18:29:07" 
-name: "Suits" 
-season: 1 
-episode: 11 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 1x11"
+date: "2020-07-26T18:29:07"
+name: "Suits"
+season: 1
+episode: 11
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 The dark past surfaces. Interesting times! Especially the golden nugget at the end.

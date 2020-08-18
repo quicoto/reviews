@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Tsurune 1x13 
-date: "2020-06-01T21:16:09" 
-name: "Tsurune" 
-season: 1 
-episode: 13 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Tsurune 1x13
+date: "2020-06-01T21:16:09"
+name: "Tsurune"
+season: 1
+episode: 13
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Beautiful finale, there was tension yes but the whole animation, the colors, the music... such a climax to end the tournament. A happy ending all around.

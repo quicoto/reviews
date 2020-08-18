@@ -40,7 +40,7 @@ const SEO = ({ description, lang, meta, title }) => {
       meta={[
         {
           name: `google-site-verification`,
-          content: `k-50-TOicwx8edLJCCIFaImavNlpQKj1fYoc9BH75YU`
+          content: `k-50-TOicwx8edLJCCIFaImavNlpQKj1fYoc9BH75YU`,
         },
         {
           name: `description`,
@@ -52,7 +52,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:locale`,
-          content: 'en_US',
+          content: "en_US",
         },
         {
           property: `og:description`,
@@ -64,11 +64,11 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image:width`,
-          content: '529',
+          content: "529",
         },
         {
           property: `og:image:height`,
-          content: '529',
+          content: "529",
         },
         {
           property: `og:type`,

@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x5" 
-date: "2020-08-04T09:57:24" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 5 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 1x5"
+date: "2020-08-04T09:57:24"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 5
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 The world is full of shit, proven over and over. Bad people will use other people in bad faith, for their own profit. This, even if a futuristic dystopia, is not so far fetched.

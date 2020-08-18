@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Kaguya-sama wa Kokurasetai 2x11 
-date: "2020-06-20T21:50:22" 
-name: "Kaguya-sama wa Kokurasetai" 
-season: 2 
-episode: 11 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Kaguya-sama wa Kokurasetai 2x11
+date: "2020-06-20T21:50:22"
+name: "Kaguya-sama wa Kokurasetai"
+season: 2
+episode: 11
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Such a sad episode. Both the girl and the boyfriend from high school are very face-punchable.

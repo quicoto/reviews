@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 1x3" 
-date: "2020-07-25T16:44:43" 
-name: "Suits" 
-season: 1 
-episode: 3 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 1x3"
+date: "2020-07-25T16:44:43"
+name: "Suits"
+season: 1
+episode: 3
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 This one was a roller coaster, how their plan with the interim CEO didn't work out. That was unexpected.

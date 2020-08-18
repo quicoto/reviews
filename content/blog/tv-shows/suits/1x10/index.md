@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 1x10" 
-date: "2020-07-26T17:28:36" 
-name: "Suits" 
-season: 1 
-episode: 10 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 1x10"
+date: "2020-07-26T17:28:36"
+name: "Suits"
+season: 1
+episode: 10
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Oh Louis, you asshole...

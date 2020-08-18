@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 2x12" 
-date: "2020-07-30T22:00:49" 
-name: "Suits" 
-season: 2 
-episode: 12 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 2x12"
+date: "2020-07-30T22:00:49"
+name: "Suits"
+season: 2
+episode: 12
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This was brutal. Harvey exploded in front of Louis, with valid reasons. Poor Jessica has to deal with the gunslinger, doesn't look easy.

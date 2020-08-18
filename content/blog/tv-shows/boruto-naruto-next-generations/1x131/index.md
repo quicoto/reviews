@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x131 
-date: "2020-06-08T20:49:07" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 131 
-rating: 2 
-ratingEmoji: "⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x131
+date: "2020-06-08T20:49:07"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 131
+rating: 2
+ratingEmoji: "⭐️⭐️"
+share: false
 ---
 
 I was expecting so much more from this episode. It was rather dull. The fighting scene was poor. I guess it meant as a way to make Boruto more aware of his dad and how rough he had it back then.

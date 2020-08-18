@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Boruto - Naruto Next Generations 1x160" 
-date: "2020-08-10T13:20:46" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 160 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: "Boruto - Naruto Next Generations 1x160"
+date: "2020-08-10T13:20:46"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 160
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 When the ending is way better than the episode itself. Boring arc so far. Running out of ideas and need to awaken the Hashirama cell again?

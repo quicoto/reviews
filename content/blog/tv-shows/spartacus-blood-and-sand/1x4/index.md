@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Blood and Sand 1x4" 
-date: "2020-07-05T23:39:32" 
-name: "Spartacus: Blood and Sand" 
-season: 1 
-episode: 4 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Blood and Sand 1x4"
+date: "2020-07-05T23:39:32"
+name: "Spartacus: Blood and Sand"
+season: 1
+episode: 4
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This episode was bloody. The pits are truly from the underworld, they went crazy on this episode.

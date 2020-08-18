@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 3x6" 
-date: "2020-08-02T22:54:21" 
-name: "Suits" 
-season: 3 
-episode: 6 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 3x6"
+date: "2020-08-02T22:54:21"
+name: "Suits"
+season: 3
+episode: 6
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Oh Harvey boy, you messed it up now with Jessica.

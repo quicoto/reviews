@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Watashi ga Motete Dousunda 1x9 
-date: "2020-06-18T22:57:19" 
-name: "Watashi ga Motete Dousunda" 
-season: 1 
-episode: 9 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Watashi ga Motete Dousunda 1x9
+date: "2020-06-18T22:57:19"
+name: "Watashi ga Motete Dousunda"
+season: 1
+episode: 9
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 I wish Serinuma would end up with Shinomiya, I can relate a little.

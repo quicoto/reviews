@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x17" 
-date: "2020-08-08T09:22:52" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 17 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 1x17"
+date: "2020-08-08T09:22:52"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 17
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Kirito's magic power, making friends. As any good main character should.

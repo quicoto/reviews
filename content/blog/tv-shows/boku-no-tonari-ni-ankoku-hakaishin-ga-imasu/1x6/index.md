@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boku no Tonari ni Ankoku Hakaishin ga Imasu 1x6 
-date: "2020-05-29T18:00:26" 
-name: "Boku no Tonari ni Ankoku Hakaishin ga Imasu" 
-season: 1 
-episode: 6 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boku no Tonari ni Ankoku Hakaishin ga Imasu 1x6
+date: "2020-05-29T18:00:26"
+name: "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
+season: 1
+episode: 6
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 I hope Seri-kun can muster the courage to tell her he likes her. He has enough on his hands with those 4 (with the new samurai appearing this episode).

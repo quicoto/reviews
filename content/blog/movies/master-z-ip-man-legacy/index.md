@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: "Master Z: Ip Man Legacy" 
-date: "2020-07-17T22:43:50" 
-name: "Master Z: Ip Man Legacy" 
-season: 
-episode: 
+---
+type: movie
+title: "Master Z: Ip Man Legacy"
+date: "2020-07-17T22:43:50"
+name: "Master Z: Ip Man Legacy"
+season:
+episode:
 rating: 4
-ratingEmoji: "️⭐️⭐️⭐️⭐️" 
-share: false 
+ratingEmoji: "️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This one is not as good as the other Ip Man movies. It does not feature Donnie Yen, still, the fights are decent. Again, not as great.

@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: "Ip Man" 
-date: "2020-07-17T22:23:46" 
-name: "Ip Man" 
-season: 
-episode: 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: "Ip Man"
+date: "2020-07-17T22:23:46"
+name: "Ip Man"
+season:
+episode:
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 One of the best fighting movies of all time, rivaling the classic Bruce Lee himself.

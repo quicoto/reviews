@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Blood and Sand 1x8" 
-date: "2020-07-06T20:52:32" 
-name: "Spartacus: Blood and Sand" 
-season: 1 
-episode: 8 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Blood and Sand 1x8"
+date: "2020-07-06T20:52:32"
+name: "Spartacus: Blood and Sand"
+season: 1
+episode: 8
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 The woman says to the slave: "I can provide with wine, woman, freedom"

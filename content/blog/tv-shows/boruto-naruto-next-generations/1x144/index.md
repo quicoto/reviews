@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x144 
-date: "2020-06-15T21:05:56" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 144 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x144
+date: "2020-06-15T21:05:56"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 144
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 The prison arc is still going? Argh... it seems from the preview it will still go for at least another episode.

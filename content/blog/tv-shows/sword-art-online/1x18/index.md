@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online 1x18" 
-date: "2020-08-14T20:52:19" 
-name: "Sword Art Online" 
-season: 1 
-episode: 18 
-rating: 2 
-ratingEmoji: "⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online 1x18"
+date: "2020-08-14T20:52:19"
+name: "Sword Art Online"
+season: 1
+episode: 18
+rating: 2
+ratingEmoji: "⭐️⭐️"
+share: false
 ---
 
 So the cousin/sister is in love with his cousin/brother?

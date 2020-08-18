@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: The Art of Self-Defense 
-date: "2020-06-14T21:51:01" 
-name: "The Art of Self-Defense" 
-season: 
-episode: 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: movie
+title: The Art of Self-Defense
+date: "2020-06-14T21:51:01"
+name: "The Art of Self-Defense"
+season:
+episode:
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 What did I just watch?

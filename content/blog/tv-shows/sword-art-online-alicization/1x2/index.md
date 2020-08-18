@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x2" 
-date: "2020-08-03T16:42:58" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 1x2"
+date: "2020-08-03T16:42:58"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Beautiful backgrounds. I liked much more the pacing of this episode, slowly introducing the character, the world...

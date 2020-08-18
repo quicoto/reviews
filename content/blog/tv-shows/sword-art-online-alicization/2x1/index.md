@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 2x1" 
-date: "2020-08-09T11:30:09" 
-name: "Sword Art Online - Alicization" 
-season: 2 
-episode: 1 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 2x1"
+date: "2020-08-09T11:30:09"
+name: "Sword Art Online - Alicization"
+season: 2
+episode: 1
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 What is this garbage? In a wheelchair, what the hell is going on?

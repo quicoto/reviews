@@ -14,4 +14,3 @@ Shinogane show she's truly a good guy. I loved how they prepared every single de
 Even though I liked how they helped Miko on the stage it made no sense the vote results were that close. That aside, the episode was good. We had our dose of infuriating scene were they can't seem to be honest with each other. Back to square one? We'll see.
 
 Also, Ishigami is the best. Great character development.
-

@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x124 
-date: "2020-06-07T22:30:04" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 124 
-rating: 2 
-ratingEmoji: "⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x124
+date: "2020-06-07T22:30:04"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 124
+rating: 2
+ratingEmoji: "⭐️⭐️"
+share: false
 ---
 
 Pretty weak episode. The only good thing is the tea kettle Shokaku. Cute and funny!

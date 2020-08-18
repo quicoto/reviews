@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Vengeance 1x10" 
-date: "2020-07-13T16:00:01" 
-name: "Spartacus: Vengeance" 
-season: 1 
-episode: 10 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Vengeance 1x10"
+date: "2020-07-13T16:00:01"
+name: "Spartacus: Vengeance"
+season: 1
+episode: 10
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Great finally. Super bloody and tying lots of loose ends.

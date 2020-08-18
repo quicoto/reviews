@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Veep 1x2 
-date: "2020-06-12T22:05:26" 
-name: "Veep" 
-season: 1 
-episode: 2 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Veep 1x2
+date: "2020-06-12T22:05:26"
+name: "Veep"
+season: 1
+episode: 2
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 So funny when she hears POTUS is having chest pain and she starts to crack a smile. I hope she eventually gets there maybe next season.

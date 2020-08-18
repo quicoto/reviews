@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x151 
-date: "2020-06-24T14:43:35" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 151 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x151
+date: "2020-06-24T14:43:35"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 151
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Oh man, the music for the new opening is awful.

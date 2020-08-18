@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 2x2" 
-date: "2020-07-27T18:25:57" 
-name: "Suits" 
-season: 2 
-episode: 2 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 2x2"
+date: "2020-07-27T18:25:57"
+name: "Suits"
+season: 2
+episode: 2
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 I had completely forgotten how Mike breaks off with Rachen even before starting dating.

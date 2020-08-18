@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Where Your Eyes Linger 1x3" 
-date: "2020-07-16T21:57:12" 
-name: "Where Your Eyes Linger" 
-season: 1 
-episode: 3 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Where Your Eyes Linger 1x3"
+date: "2020-07-16T21:57:12"
+name: "Where Your Eyes Linger"
+season: 1
+episode: 3
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Poor bodyguard quit your job. That's painful to watch.

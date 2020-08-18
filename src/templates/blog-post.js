@@ -8,22 +8,23 @@ import SEO from "../components/seo"
 import Cover from "../components/cover"
 import { rhythm, scale } from "../utils/typography"
 import { stars } from "../utils/shared"
-const slugify = require('@sindresorhus/slugify');
+const slugify = require("@sindresorhus/slugify")
 
 function MoreLink(props) {
   const post = props.post
 
-  if (post.frontmatter.type === 'series') {
+  if (post.frontmatter.type === "series") {
     return (
       <p>
         <Link
           title={`All reviews for: ${post.frontmatter.name}`}
           style={{
             boxShadow: `none`,
-            marginBottom: '10px',
-            marginRight: '15px',
+            marginBottom: "10px",
+            marginRight: "15px",
           }}
-          to={`/tv-shows#${slugify(post.frontmatter.name)}`}>
+          to={`/tv-shows#${slugify(post.frontmatter.name)}`}
+        >
           More reviews for <em>{post.frontmatter.name}</em>
         </Link>
       </p>
@@ -45,7 +46,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article className="item">
         <header>
-          <Cover slug={slugify(post.frontmatter.name)} name={post.frontmatter.name}/>
+          <Cover
+            slug={slugify(post.frontmatter.name)}
+            name={post.frontmatter.name}
+          />
           <h1
             style={{
               marginTop: rhythm(1),
@@ -63,19 +67,25 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
           </p>
-          <div className="rating">
-            {stars(post.frontmatter.rating)}
-          </div>
+          <div className="rating">{stars(post.frontmatter.rating)}</div>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <h4>What do you think?</h4>
-        <div aria-hidden="true" className="emoji-reaction" data-url={`${data.site.siteMetadata.site}${location.pathname}`}></div>
+        <div
+          aria-hidden="true"
+          className="emoji-reaction"
+          data-url={`${data.site.siteMetadata.site}${location.pathname}`}
+        ></div>
         <Helmet>
-          <script defer src="https://ricard.blog/emoji-reaction/assets/emoji-reaction.js?ver=2.0.3" type="text/javascript" />
+          <script
+            defer
+            src="https://ricard.blog/emoji-reaction/assets/emoji-reaction.js?ver=2.0.3"
+            type="text/javascript"
+          />
         </Helmet>
 
-        <MoreLink post={post}/>
+        <MoreLink post={post} />
 
         <hr
           style={{
@@ -83,7 +93,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
         <footer>
-          <Bio short={true}/>
+          <Bio short={true} />
         </footer>
       </article>
     </Layout>

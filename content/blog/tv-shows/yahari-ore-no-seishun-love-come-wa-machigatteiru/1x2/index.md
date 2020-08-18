@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x2 
-date: "2020-06-24T23:24:26" 
-name: "Yahari Ore no Seishun Love Come wa Machigatteiru" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x2
+date: "2020-06-24T23:24:26"
+name: "Yahari Ore no Seishun Love Come wa Machigatteiru"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This episode was so much better! Again the classic the high-school live trying to fake friendship so you can be one more of the pack. Lame. Sad.

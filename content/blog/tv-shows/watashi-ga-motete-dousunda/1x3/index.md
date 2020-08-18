@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Watashi ga Motete Dousunda 1x3 
-date: "2020-06-16T23:05:27" 
-name: "Watashi ga Motete Dousunda" 
-season: 1 
-episode: 3 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Watashi ga Motete Dousunda 1x3
+date: "2020-06-16T23:05:27"
+name: "Watashi ga Motete Dousunda"
+season: 1
+episode: 3
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Funny, no doubt. I think the main character is a little bit oblivious of the 4 guys' real intentions.

@@ -1,16 +1,16 @@
---- 
-type: series 
-title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x12 
-date: "2020-06-29T19:21:11" 
-name: "Yahari Ore no Seishun Love Come wa Machigatteiru" 
-season: 1 
-episode: 12 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x12
+date: "2020-06-29T19:21:11"
+name: "Yahari Ore no Seishun Love Come wa Machigatteiru"
+season: 1
+episode: 12
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
-Such a frustrating episode... 
+Such a frustrating episode...
 
 - The chairman 🙄
 - Yukinoshita telling him they couldn't be friends but now maybe yes? 🙄

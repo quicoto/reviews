@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: Avengers Endgame 
-date: "2020-06-11T23:53:32" 
-name: "Avengers Endgame" 
-season: 
-episode: 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: Avengers Endgame
+date: "2020-06-11T23:53:32"
+name: "Avengers Endgame"
+season:
+episode:
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Amazing production. Great closure to a great franchise.

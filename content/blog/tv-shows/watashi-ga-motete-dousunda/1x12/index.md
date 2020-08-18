@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Watashi ga Motete Dousunda 1x12 
-date: "2020-06-19T23:12:02" 
-name: "Watashi ga Motete Dousunda" 
-season: 1 
-episode: 12 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: Watashi ga Motete Dousunda 1x12
+date: "2020-06-19T23:12:02"
+name: "Watashi ga Motete Dousunda"
+season: 1
+episode: 12
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 Bullshit. Such a bad ending, to be honest. Ok, it's was a comedy but you could've ended it with the Senpai and we would've all been very happy.

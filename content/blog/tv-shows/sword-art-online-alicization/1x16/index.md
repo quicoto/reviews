@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x16" 
-date: "2020-08-07T17:36:36" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 16 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 1x16"
+date: "2020-08-07T17:36:36"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 16
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 She's just too powerful. Also, Eugeo is useless. Dude, you've seen how strong she is and you just "walk" up to her? Run instead, you stupid.

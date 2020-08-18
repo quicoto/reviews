@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Major 2nd 2x11" 
-date: "2020-08-01T22:47:02" 
-name: "Major 2nd" 
-season: 2 
-episode: 11 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Major 2nd 2x11"
+date: "2020-08-01T22:47:02"
+name: "Major 2nd"
+season: 2
+episode: 11
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Good match! Gotta confess I wasn't sure they would pull it off.

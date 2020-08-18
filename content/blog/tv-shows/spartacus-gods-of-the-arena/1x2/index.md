@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Gods of the Arena 1x2" 
-date: "2020-07-02T22:46:40" 
-name: "Spartacus: Gods of the Arena" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Gods of the Arena 1x2"
+date: "2020-07-02T22:46:40"
+name: "Spartacus: Gods of the Arena"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Ah so good! How Oenomaus is forced to fight his doctore and how the two friends are put in unescapable experience just to entertain their masters.

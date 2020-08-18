@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: Ip Man 2 
-date: "2020-06-21T23:37:57" 
-name: "Ip Man 2" 
-season: 
-episode: 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: Ip Man 2
+date: "2020-06-21T23:37:57"
+name: "Ip Man 2"
+season:
+episode:
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 I've re-watched this amazing movie for, I don't know, the fifth time?

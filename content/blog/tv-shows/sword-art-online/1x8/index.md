@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online 1x8" 
-date: "2020-08-11T12:53:55" 
-name: "Sword Art Online" 
-season: 1 
-episode: 8 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online 1x8"
+date: "2020-08-11T12:53:55"
+name: "Sword Art Online"
+season: 1
+episode: 8
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 They make such a lovely couple, even if they haven't realized they are yet.

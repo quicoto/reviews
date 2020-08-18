@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online 1x2" 
-date: "2020-08-10T15:33:55" 
-name: "Sword Art Online" 
-season: 1 
-episode: 2 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online 1x2"
+date: "2020-08-10T15:33:55"
+name: "Sword Art Online"
+season: 1
+episode: 2
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Brutal second episode. Straight to the point, the boss challenge.

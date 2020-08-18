@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Watashi ga Motete Dousunda 1x2 
-date: "2020-06-16T22:42:19" 
-name: "Watashi ga Motete Dousunda" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Watashi ga Motete Dousunda 1x2
+date: "2020-06-16T22:42:19"
+name: "Watashi ga Motete Dousunda"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This show was way better. I bursted out laughing a couple of times.

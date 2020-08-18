@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Star Trek: Lower Decks 1x1" 
-date: "2020-08-07T17:09:20" 
-name: "Star Trek: Lower Decks" 
-season: 1 
-episode: 1 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: true 
+---
+type: series
+title: "Star Trek: Lower Decks 1x1"
+date: "2020-08-07T17:09:20"
+name: "Star Trek: Lower Decks"
+season: 1
+episode: 1
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: true
 ---
 
 I'm not a Star Trek fan but when I saw the trailer for this new TV Show it caught my eye. We've had quite some good animations lately (Rick and Morty, Final Space, Solar Opposites...

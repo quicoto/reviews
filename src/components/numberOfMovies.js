@@ -5,7 +5,7 @@ const NumberOfShows = () => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark(filter: {frontmatter: {type: {eq: "movie"}}}) {
+        allMarkdownRemark(filter: { frontmatter: { type: { eq: "movie" } } }) {
           group(field: frontmatter___name) {
             edges {
               node {
@@ -20,13 +20,10 @@ const NumberOfShows = () => (
       }
     `}
     render={data => {
-      let groups=JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark.group
+      let groups = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark
+        .group
 
-      return (
-        <div className="widgets-number">
-          {groups.length}
-        </div>
-      )
+      return <div className="widgets-number">{groups.length}</div>
     }}
   ></StaticQuery>
 )

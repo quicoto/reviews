@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Fugou Keiji Balance - UNLIMITED 1x1" 
-date: "2020-08-18T09:19:43" 
-name: "Fugou Keiji Balance - UNLIMITED" 
-season: 1 
-episode: 1 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Fugou Keiji Balance - UNLIMITED 1x1"
+date: "2020-08-18T09:19:43"
+name: "Fugou Keiji Balance - UNLIMITED"
+season: 1
+episode: 1
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Ok, I'm intrigued. Why no anime has the guts to kill characters? I would've killed the 2 petty thieves? I would've. Next time don't go robbing a store with guns blazing.

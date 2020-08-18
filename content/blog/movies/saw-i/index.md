@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: Saw I 
-date: "2020-05-29T18:06:31" 
-name: "Saw I" 
-season: 
-episode: 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: Saw I
+date: "2020-05-29T18:06:31"
+name: "Saw I"
+season:
+episode:
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This is the only horror movie film I've watched more than once (ok this one and others in the franchise).

@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 1x2" 
-date: "2020-07-23T23:06:06" 
-name: "Suits" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 1x2"
+date: "2020-07-23T23:06:06"
+name: "Suits"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Another fantastic episode.

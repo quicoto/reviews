@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: The Big Lebowski 
-date: "2020-06-15T23:16:32" 
-name: "The Big Lebowski" 
-season: 
-episode: 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: movie
+title: The Big Lebowski
+date: "2020-06-15T23:16:32"
+name: "The Big Lebowski"
+season:
+episode:
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 This was one weird movie.

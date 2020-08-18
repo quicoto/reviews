@@ -1,16 +1,16 @@
---- 
-type: series 
-title: "Suits 2x16" 
-date: "2020-08-01T17:35:42" 
-name: "Suits" 
-season: 2 
-episode: 16 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 2x16"
+date: "2020-08-01T17:35:42"
+name: "Suits"
+season: 2
+episode: 16
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
-Espectacular season finale. 
+Espectacular season finale.
 
 Everything in it was great. Louis being Louis with Nigel and slowly regaining Donna's trust.
 

@@ -1,7 +1,11 @@
 function feedDescription(edge, site) {
-  const type = `${edge.node.frontmatter.type === 'series' ? 'Episode' : 'Movie'} review`
+  const type = `${
+    edge.node.frontmatter.type === "series" ? "Episode" : "Movie"
+  } review`
 
-  return `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${edge.node.frontmatter.ratingEmoji}\n\n${type} 👇\n${site.siteMetadata.siteUrl + edge.node.fields.slug}`
+  return `📺 Just watched: ${edge.node.frontmatter.title}\n\nRating: ${
+    edge.node.frontmatter.ratingEmoji
+  }\n\n${type} 👇\n${site.siteMetadata.siteUrl + edge.node.fields.slug}`
 }
 
 module.exports = {
@@ -21,26 +25,26 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-plugin-sitemap',
+      resolve: "gatsby-plugin-sitemap",
       options: {
-        resolveSiteUrl: ({site}) => {
-          return 'https://quicoto.github.io'
+        resolveSiteUrl: ({ site }) => {
+          return "https://quicoto.github.io"
         },
-      }
+      },
     },
     {
-      resolve: 'gatsby-plugin-matomo',
+      resolve: "gatsby-plugin-matomo",
       options: {
         dev: true,
         disableCookies: true,
-        matomoJsScript: 'matomo.js',
-        matomoPhpScript: 'matomo.php',
-        matomoUrl: 'https://analytics.quicoto.com',
-        siteId: '11',
-        siteUrl: 'https://quicoto.github.io/reviews'
-      }
+        matomoJsScript: "matomo.js",
+        matomoPhpScript: "matomo.php",
+        matomoUrl: "https://analytics.quicoto.com",
+        siteId: "11",
+        siteUrl: "https://quicoto.github.io/reviews",
+      },
     },
-    'gatsby-plugin-sass',
+    "gatsby-plugin-sass",
     {
       resolve: `gatsby-source-filesystem`,
       options: {

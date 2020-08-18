@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 2x10" 
-date: "2020-07-29T22:55:24" 
-name: "Suits" 
-season: 2 
-episode: 10 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 2x10"
+date: "2020-07-29T22:55:24"
+name: "Suits"
+season: 2
+episode: 10
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Oh wow, they kicked Daniel's ass. That felt good, and using the "fake" document was even better. A life lesson well learned.

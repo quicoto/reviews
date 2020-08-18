@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x132 
-date: "2020-06-08T22:21:01" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 132 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x132
+date: "2020-06-08T22:21:01"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 132
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Nothing escapes the legendary sannin!

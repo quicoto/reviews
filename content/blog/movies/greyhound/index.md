@@ -1,13 +1,13 @@
---- 
-type: movie 
-title: "Greyhound" 
-date: "2020-07-10T22:47:00" 
-name: "Greyhound" 
-season: 
-episode: 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: true 
+---
+type: movie
+title: "Greyhound"
+date: "2020-07-10T22:47:00"
+name: "Greyhound"
+season:
+episode:
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: true
 ---
 
 This movie doesn't have a thick plot, character development, or complex dialogues. Yet it's an action-packed non-stop film.

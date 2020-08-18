@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Where Your Eyes Linger 1x8" 
-date: "2020-07-16T23:25:23" 
-name: "Where Your Eyes Linger" 
-season: 1 
-episode: 8 
-rating: 1 
-ratingEmoji: "⭐️" 
-share: false 
+---
+type: series
+title: "Where Your Eyes Linger 1x8"
+date: "2020-07-16T23:25:23"
+name: "Where Your Eyes Linger"
+season: 1
+episode: 8
+rating: 1
+ratingEmoji: "⭐️"
+share: false
 ---
 
 Such a weird ending.

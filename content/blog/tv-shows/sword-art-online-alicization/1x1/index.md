@@ -1,16 +1,16 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x1" 
-date: "2020-08-03T12:02:46" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 1 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: true 
+---
+type: series
+title: "Sword Art Online - Alicization 1x1"
+date: "2020-08-03T12:02:46"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 1
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: true
 ---
 
-47 minutes episode, what is this?! 
+47 minutes episode, what is this?!
 
 I just discovered this season by sheer luck. The episode is quite chaotic. You start in a new world where Kirito is clearly a kid. Then you jump to a new world (with guns) where he uses the lightsaber (we already saw this in a previous season) and then back to reality.
 

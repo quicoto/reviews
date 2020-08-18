@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Das Boot 2x2" 
-date: "2020-07-17T19:15:04" 
-name: "Das Boot" 
-season: 2 
-episode: 2 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Das Boot 2x2"
+date: "2020-07-17T19:15:04"
+name: "Das Boot"
+season: 2
+episode: 2
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Finally the American shows his true colors. I feel for the German Captain who has to help his enemies in war.

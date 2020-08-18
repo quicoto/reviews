@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online 1x7" 
-date: "2020-08-11T11:02:50" 
-name: "Sword Art Online" 
-season: 1 
-episode: 7 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online 1x7"
+date: "2020-08-11T11:02:50"
+name: "Sword Art Online"
+season: 1
+episode: 7
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Liz lost this round. Although she gained a new friend, which is a win in any case.

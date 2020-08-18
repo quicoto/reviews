@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Tsurune 1x2 
-date: "2020-06-01T14:24:43" 
-name: "Tsurune" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Tsurune 1x2
+date: "2020-06-01T14:24:43"
+name: "Tsurune"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Man, this animation is beautiful. They got me when it seemed the archer in the temple was actually dead 😁 I fell for it.

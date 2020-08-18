@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Blood and Sand 1x2" 
-date: "2020-07-05T21:47:01" 
-name: "Spartacus: Blood and Sand" 
-season: 1 
-episode: 2 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Blood and Sand 1x2"
+date: "2020-07-05T21:47:01"
+name: "Spartacus: Blood and Sand"
+season: 1
+episode: 2
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Poor Crixus was tricked as he looked away to confirm the kill in the final test.

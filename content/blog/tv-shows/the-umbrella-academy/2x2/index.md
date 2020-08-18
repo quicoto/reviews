@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "The Umbrella Academy 2x2" 
-date: "2020-08-01T13:50:34" 
-name: "The Umbrella Academy" 
-season: 2 
-episode: 2 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "The Umbrella Academy 2x2"
+date: "2020-08-01T13:50:34"
+name: "The Umbrella Academy"
+season: 2
+episode: 2
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 So their father is also an expert martial artist? At least when he was young. I find that hard to believe, Diego not able to kick his ass.

@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Das Boot 1x5" 
-date: "2020-07-12T18:49:35" 
-name: "Das Boot" 
-season: 1 
-episode: 5 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Das Boot 1x5"
+date: "2020-07-12T18:49:35"
+name: "Das Boot"
+season: 1
+episode: 5
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Such a good episode ending. The new self-appointed captain has gone even crazier trying to ram the submarine against a destroyer. Madness.

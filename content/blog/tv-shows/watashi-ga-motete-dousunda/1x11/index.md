@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Watashi ga Motete Dousunda 1x11 
-date: "2020-06-19T22:46:46" 
-name: "Watashi ga Motete Dousunda" 
-season: 1 
-episode: 11 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Watashi ga Motete Dousunda 1x11
+date: "2020-06-19T22:46:46"
+name: "Watashi ga Motete Dousunda"
+season: 1
+episode: 11
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Such an epic card battle!

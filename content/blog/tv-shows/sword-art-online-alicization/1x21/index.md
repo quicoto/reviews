@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online - Alicization 1x21" 
-date: "2020-08-09T09:29:10" 
-name: "Sword Art Online - Alicization" 
-season: 1 
-episode: 21 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online - Alicization 1x21"
+date: "2020-08-09T09:29:10"
+name: "Sword Art Online - Alicization"
+season: 1
+episode: 21
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Nice sword fight!

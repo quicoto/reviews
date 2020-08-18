@@ -1,16 +1,16 @@
---- 
-type: series 
-title: "The God of High School 1x1" 
-date: "2020-07-14T21:47:09" 
-name: "The God of High School" 
-season: 1 
-episode: 1 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "The God of High School 1x1"
+date: "2020-07-14T21:47:09"
+name: "The God of High School"
+season: 1
+episode: 1
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
-I was going to give it a 5 star. 
+I was going to give it a 5 star.
 
 Great animation
 Happens in South Korea

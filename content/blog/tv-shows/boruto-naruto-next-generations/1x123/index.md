@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x123 
-date: "2020-06-07T19:15:10" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 123 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x123
+date: "2020-06-07T19:15:10"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 123
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Nooooo! Tenmari and Shikadai got their chakra robbed. Unexpected. Well done.

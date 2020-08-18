@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Suits 1x9" 
-date: "2020-07-26T15:41:35" 
-name: "Suits" 
-season: 1 
-episode: 9 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Suits 1x9"
+date: "2020-07-26T15:41:35"
+name: "Suits"
+season: 1
+episode: 9
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Oh, wow. Rachel got a hell of a deal. Not only the 10% raise but getting the firm to pay for the law school? Last I heard Harvard was 50K a year.

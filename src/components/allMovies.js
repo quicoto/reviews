@@ -2,11 +2,14 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import { List } from "../utils/shared"
 
-const AllMovies = (props) => (
+const AllMovies = props => (
   <StaticQuery
     query={graphql`
       {
-        allMarkdownRemark(sort: {order: ASC, fields: [frontmatter___title]}, filter: {frontmatter: {type: {eq: "movie"}}}) {
+        allMarkdownRemark(
+          sort: { order: ASC, fields: [frontmatter___title] }
+          filter: { frontmatter: { type: { eq: "movie" } } }
+        ) {
           edges {
             node {
               fields {
@@ -24,7 +27,8 @@ const AllMovies = (props) => (
       }
     `}
     render={data => {
-      let edges = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark.edges;
+      let edges = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark
+        .edges
 
       return (
         <div>

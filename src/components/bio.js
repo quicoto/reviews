@@ -65,11 +65,11 @@ const Bio = () => {
 }
 
 Bio.defaultProps = {
-  short: false
+  short: false,
 }
 
 Bio.propTypes = {
-  short: PropTypes.bool
+  short: PropTypes.bool,
 }
 
 export default Bio

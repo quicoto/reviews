@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Blood and Sand 1x12" 
-date: "2020-07-07T21:44:40" 
-name: "Spartacus: Blood and Sand" 
-season: 1 
-episode: 12 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Blood and Sand 1x12"
+date: "2020-07-07T21:44:40"
+name: "Spartacus: Blood and Sand"
+season: 1
+episode: 12
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Spectacular. From Spartacus' fight against the Roman soldiers to the Crixus range moment, passing by Barca's revelation.

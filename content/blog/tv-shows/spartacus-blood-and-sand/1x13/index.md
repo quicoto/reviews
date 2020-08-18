@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Spartacus: Blood and Sand 1x13" 
-date: "2020-07-07T22:40:47" 
-name: "Spartacus: Blood and Sand" 
-season: 1 
-episode: 13 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Spartacus: Blood and Sand 1x13"
+date: "2020-07-07T22:40:47"
+name: "Spartacus: Blood and Sand"
+season: 1
+episode: 13
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Magnificent finale. How Spartacus ends up convincing Crixus that being a slave is no life.

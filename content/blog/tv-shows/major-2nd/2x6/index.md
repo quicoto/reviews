@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Major 2nd 2x6 
-date: "2020-06-07T12:12:28" 
-name: "Major 2nd" 
-season: 2 
-episode: 6 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: true 
+---
+type: series
+title: Major 2nd 2x6
+date: "2020-06-07T12:12:28"
+name: "Major 2nd"
+season: 2
+episode: 6
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: true
 ---
 
 This episode was surprisingly better than the previous one. Anita still bugs the hell out of me, such annoying character.

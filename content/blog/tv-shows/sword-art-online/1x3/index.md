@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Sword Art Online 1x3" 
-date: "2020-08-10T16:01:58" 
-name: "Sword Art Online" 
-season: 1 
-episode: 3 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Sword Art Online 1x3"
+date: "2020-08-10T16:01:58"
+name: "Sword Art Online"
+season: 1
+episode: 3
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Such a sad and yet necessary episode, to build up and evolve Kirito's character.

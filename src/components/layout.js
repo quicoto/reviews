@@ -8,28 +8,21 @@ const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
-  let titleWrapper = (
-    <div className="title-wrapper">
-      {title}
-    </div>
-  )
+  let titleWrapper = <div className="title-wrapper">{title}</div>
 
   let image = (
     <img
       src={logo}
       title="Ricard Torres Reviews"
       alt="Logo"
-      className="header-logo" />
+      className="header-logo"
+    />
   )
-
 
   if (location.pathname === rootPath) {
     header = (
       <h1 className="site-title">
-        <Link
-          activeClassName="site-title-link"
-          to={`/`}
-        >
+        <Link activeClassName="site-title-link" to={`/`}>
           {image}
           {titleWrapper}
         </Link>
@@ -38,10 +31,7 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <h3 className="site-title">
-        <Link
-          className="site-title-link"
-          to={`/`}
-        >
+        <Link className="site-title-link" to={`/`}>
           {image}
           {titleWrapper}
         </Link>
@@ -57,13 +47,37 @@ const Layout = ({ location, title, children }) => {
         </header>
       </div>
       <main className="main-content">{children}</main>
-      <div className="full-width"  style={{ marginBottom: 0 }}>
+      <div className="full-width" style={{ marginBottom: 0 }}>
         <footer className="footer">
           <nav className="nav">
-            <a className="nav-link" href="https://github.com/quicoto/reviews" title="Fork this Github repo">Github</a>
-            <a className="nav-link" href="https://ricard.dev" title="Ricard Torres Code">Code</a>
-            <a className="nav-link" href="https://ricard.blog" title="Ricard Torres Blog">Blog</a>
-            <a className="nav-link" href="https://ricard.blog/podcast" title="Ricard Torres Radio">Podcast</a>
+            <a
+              className="nav-link"
+              href="https://github.com/quicoto/reviews"
+              title="Fork this Github repo"
+            >
+              Github
+            </a>
+            <a
+              className="nav-link"
+              href="https://ricard.dev"
+              title="Ricard Torres Code"
+            >
+              Code
+            </a>
+            <a
+              className="nav-link"
+              href="https://ricard.blog"
+              title="Ricard Torres Blog"
+            >
+              Blog
+            </a>
+            <a
+              className="nav-link"
+              href="https://ricard.blog/podcast"
+              title="Ricard Torres Radio"
+            >
+              Podcast
+            </a>
           </nav>
         </footer>
       </div>

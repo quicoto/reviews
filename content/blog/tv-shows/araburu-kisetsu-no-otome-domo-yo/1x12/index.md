@@ -1,12 +1,12 @@
---- 
-type: series 
-title: Araburu Kisetsu no Otome-domo yo 1x12 
-date: "2020-05-30T11:13:08" 
-name: "Araburu Kisetsu no Otome-domo yo" 
-season: 1 
-episode: 12 
+---
+type: series
+title: Araburu Kisetsu no Otome-domo yo 1x12
+date: "2020-05-30T11:13:08"
+name: "Araburu Kisetsu no Otome-domo yo"
+season: 1
+episode: 12
 rating: 2
-ratingEmoji: "⭐️⭐️" 
+ratingEmoji: "⭐️⭐️"
 share: false
 ---
 

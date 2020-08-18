@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Dagashi Kashi 1x1 
-date: "2020-06-24T16:47:37" 
-name: "Dagashi Kashi" 
-season: 1 
-episode: 1 
-rating: 2 
-ratingEmoji: "⭐️⭐️" 
-share: false 
+---
+type: series
+title: Dagashi Kashi 1x1
+date: "2020-06-24T16:47:37"
+name: "Dagashi Kashi"
+season: 1
+episode: 1
+rating: 2
+ratingEmoji: "⭐️⭐️"
+share: false
 ---
 
 I think I've already seen this one, can't remember so I'm going to give it a try.

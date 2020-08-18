@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Where Your Eyes Linger 1x1" 
-date: "2020-07-16T21:23:37" 
-name: "Where Your Eyes Linger" 
-season: 1 
-episode: 1 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Where Your Eyes Linger 1x1"
+date: "2020-07-16T21:23:37"
+name: "Where Your Eyes Linger"
+season: 1
+episode: 1
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 What is this?! I found myself without nothing to watch and nothing interesting popped up on Netflix.

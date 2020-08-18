@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x4 
-date: "2020-06-25T23:21:17" 
-name: "Yahari Ore no Seishun Love Come wa Machigatteiru" 
-season: 1 
-episode: 4 
-rating: 4 
-ratingEmoji: "⭐️⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x4
+date: "2020-06-25T23:21:17"
+name: "Yahari Ore no Seishun Love Come wa Machigatteiru"
+season: 1
+episode: 4
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This way too funny. Every time the tennis dude makes appearance Hikigaya loses it and wants to marry him? 😁

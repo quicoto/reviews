@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Boruto - Naruto Next Generations 1x154 
-date: "2020-06-28T13:24:08" 
-name: "Boruto - Naruto Next Generations" 
-season: 1 
-episode: 154 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Boruto - Naruto Next Generations 1x154
+date: "2020-06-28T13:24:08"
+name: "Boruto - Naruto Next Generations"
+season: 1
+episode: 154
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Such a letdown. Himawari has the genes from Naruto and the Hyuga clan and his powerful eye does not want to pursuit being a ninja.

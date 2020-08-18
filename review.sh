@@ -102,6 +102,14 @@ nano $file
 echo ""
 echo "***************************"
 echo "*                         *"
+echo "*       Format files      *"
+echo "*                         *"
+echo "***************************"
+npm run format
+
+echo ""
+echo "***************************"
+echo "*                         *"
 echo "*       Git commit        *"
 echo "*                         *"
 echo "***************************"

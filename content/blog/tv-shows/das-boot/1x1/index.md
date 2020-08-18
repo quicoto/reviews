@@ -1,13 +1,13 @@
---- 
-type: series 
-title: "Das Boot 1x1" 
-date: "2020-07-11T21:40:43" 
-name: "Das Boot" 
-season: 1 
-episode: 1 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: "Das Boot 1x1"
+date: "2020-07-11T21:40:43"
+name: "Das Boot"
+season: 1
+episode: 1
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 Interesting! After watching the movie Greyhound this felt natural, the other side of the coin.

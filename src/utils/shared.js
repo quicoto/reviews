@@ -9,7 +9,7 @@ import starHalf from "../../content/assets/star-half.svg"
  * @returns {number}
  */
 export function roundHalf(number) {
-  return Math.round(number*2)/2;
+  return Math.round(number * 2) / 2
 }
 
 /**
@@ -26,42 +26,48 @@ export function Item(props) {
       <h3
         style={{
           marginTop: 0,
-          marginBottom: '2rem'
+          marginBottom: "2rem",
         }}
       >
         <Link
           title={"Review: " + title}
           style={{
-            display: 'block',
+            display: "block",
             boxShadow: `none`,
-            marginBottom: '10px',
-            marginRight: '15px',
+            marginBottom: "10px",
+            marginRight: "15px",
           }}
-          to={slug}>
+          to={slug}
+        >
           {title}
         </Link>
         <span
           style={{
-            alignItems: 'center',
-            display: 'flex'
-          }}>
-            <small
+            alignItems: "center",
+            display: "flex",
+          }}
+        >
+          <small
             style={{
-              display: 'block',
+              display: "block",
               fontSize: `60%`,
-              marginRight: '15px'
+              marginRight: "15px",
             }}
-            >{date}</small>
-            <span
-              className="rating"
-              style={{
-                marginBottom: '0'
-              }}
-            >{stars(rating)}</span>
+          >
+            {date}
+          </small>
+          <span
+            className="rating"
+            style={{
+              marginBottom: "0",
+            }}
+          >
+            {stars(rating)}
+          </span>
         </span>
       </h3>
     </article>
-  );
+  )
 }
 
 /**
@@ -70,12 +76,11 @@ export function Item(props) {
 export function List(props) {
   return (
     <div>
-      { props.edges.map(item =>
-        <Item key={item.node.id}
-        item={item} />
-      )}
+      {props.edges.map(item => (
+        <Item key={item.node.id} item={item} />
+      ))}
     </div>
-  );
+  )
 }
 
 /**
@@ -87,17 +92,17 @@ export function stars(rating) {
     let src = starFull
 
     if (i > rating) {
-      src = starEmpty;
+      src = starEmpty
 
       if ((rating - i) % 1 !== 0) {
         src = starHalf
-        rating = rating - 0.5;
+        rating = rating - 0.5
       } else {
-        rating--;
+        rating--
       }
     }
 
-    stars.push(<img src={src} alt={`Star ${i+1}`} key={i}/>)
+    stars.push(<img src={src} alt={`Star ${i + 1}`} key={i} />)
   }
 
   return stars

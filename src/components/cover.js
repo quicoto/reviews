@@ -2,18 +2,25 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 function Image(props) {
-  if (props.path !== '') {
-    return <img className="cover" src={props.path} alt={props.name} title={props.name} />
+  if (props.path !== "") {
+    return (
+      <img
+        className="cover"
+        src={props.path}
+        alt={props.name}
+        title={props.name}
+      />
+    )
   }
 
-  return ''
+  return ""
 }
 
 function Cover(props) {
-  let imageSrc = '';
+  let imageSrc = ""
   const data = useStaticQuery(graphql`
     {
-      allFile(filter: {relativePath: {regex: "/covers/"}}) {
+      allFile(filter: { relativePath: { regex: "/covers/" } }) {
         edges {
           node {
             name
@@ -22,17 +29,17 @@ function Cover(props) {
         }
       }
     }
-  `);
+  `)
 
   for (let i = 0, len = data.allFile.edges.length; i < len; i++) {
-    const item = data.allFile.edges[i].node;
+    const item = data.allFile.edges[i].node
 
     if (item.name === props.slug) {
       imageSrc = item.publicURL
     }
   }
 
-  return (<Image path={imageSrc} name={props.name} />)
+  return <Image path={imageSrc} name={props.name} />
 }
 
 export default Cover

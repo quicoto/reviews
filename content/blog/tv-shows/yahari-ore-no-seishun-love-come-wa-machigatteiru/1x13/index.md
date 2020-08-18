@@ -1,13 +1,13 @@
---- 
-type: series 
-title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x13 
-date: "2020-06-29T19:46:16" 
-name: "Yahari Ore no Seishun Love Come wa Machigatteiru" 
-season: 1 
-episode: 13 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+---
+type: series
+title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x13
+date: "2020-06-29T19:46:16"
+name: "Yahari Ore no Seishun Love Come wa Machigatteiru"
+season: 1
+episode: 13
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
 
 It certainly ended up better than episode 12th. They wanted to give us a picture of unity and better communication at the club. No need for constant verbal stabbing.
