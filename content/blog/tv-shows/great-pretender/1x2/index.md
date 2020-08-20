@@ -16,4 +16,4 @@ I liked the nugget where Laurent didn't want to rip off the poor dude at the res
 
 Makoto turning the tables at the end. His smug attitude was spot on
 
-![Screenshot](https://cldup.com/DheTeyKkCy.jpg)
+![Screenshot](https://cldup.com/1JugcVXrC4.jpg)
