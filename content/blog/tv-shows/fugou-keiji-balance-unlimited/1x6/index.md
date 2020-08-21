@@ -7,7 +7,7 @@ season: 1
 episode: 6
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 Haru betrayed left and right, first by his team. That hurt. Why would they do that? It wasn't even funny. Freaking lazy cops dude.
