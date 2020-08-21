@@ -7,7 +7,7 @@ season: 1
 episode: 1
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 Oh wow, how many times did they drop the F-word in this episode? I lost count.
@@ -19,3 +19,5 @@ I want to think there are no teachers/coaches like our main character. He swears
 I find it funny because seems absurd that a teacher would do these things. I can see how this show is not for everyone, so far it relies a little on funny jokes and absurd gags. I want to see what direction it takes.
 
 The pilot sold it to me, I'm in. Let's go for the next episode.
+
+![screenshot](https://cldup.com/4B-ZhAAf81.jpg)
