@@ -125,6 +125,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Ricard Torres Reviews",
           },
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
@@ -159,6 +160,7 @@ module.exports = {
               }
             `,
             output: "/rss-all-shows.xml",
+            title: "Ricard Torres Reviews - All Shows",
           },
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
@@ -193,6 +195,7 @@ module.exports = {
               }
             `,
             output: "/rss-all-movies.xml",
+            title: "Ricard Torres Reviews - All Movies",
           },
         ],
       },

@@ -9,6 +9,8 @@ function Item(props) {
 
   props.nodes.map((item, index) => {
     average = average + parseInt(item.frontmatter.rating)
+
+    return true
   })
 
   average = roundHalf(
