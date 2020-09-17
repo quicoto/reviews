@@ -7,7 +7,7 @@ season: 1
 episode: 7
 rating: 3
 ratingEmoji: "⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 It's still funny, yet IMDB reviewers are giving it a harsh 5.9 out of 10. An underrated show which will probably not get renewed. Those who are rating it so low are probably all hardcore Star Trek fans.
