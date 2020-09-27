@@ -1,4 +1,4 @@
-    ---
+---
 
 type: series
 title: "Major 2nd 2x19"
