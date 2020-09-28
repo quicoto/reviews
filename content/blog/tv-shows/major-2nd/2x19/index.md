@@ -1,5 +1,4 @@
 ---
-
 type: series
 title: "Major 2nd 2x19"
 date: "2020-09-27T20:26:32"
@@ -9,7 +8,6 @@ episode: 19
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
-
 ---
 
 Nice game!
