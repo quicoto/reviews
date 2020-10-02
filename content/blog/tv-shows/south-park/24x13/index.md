@@ -4,7 +4,7 @@ title: "South Park 24x0"
 date: "2020-10-01T22:13:07"
 name: "South Park"
 season: 24
-episode: 0
+episode: 13
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: true
