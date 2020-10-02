@@ -1,6 +1,6 @@
 ---
 type: series
-title: "South Park 24x0"
+title: "South Park 24x13"
 date: "2020-10-01T22:13:07"
 name: "South Park"
 season: 24
