@@ -7,7 +7,7 @@ season: 24
 episode: 13
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: true
+share: false
 ---
 
 What a fantastic episode. Content and length-wise, an almost 50-minute pandemic special.
