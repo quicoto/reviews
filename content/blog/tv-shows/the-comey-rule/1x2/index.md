@@ -7,7 +7,7 @@ season: 1
 episode: 2
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 This second part, of almost two hours, triggered so many thoughts. The USA system in regards to the Commander in Chief is plain wrong. The system should prevent things like this to happen.
