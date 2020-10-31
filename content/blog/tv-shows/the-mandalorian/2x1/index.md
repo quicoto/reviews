@@ -7,7 +7,7 @@ season: 2
 episode: 1
 rating: 5
 ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
-share: true
+share: false
 ---
 
 Well, this was great. The same energy and high production from the first season. Each episode looks like a freaking movie, it's so well done.
