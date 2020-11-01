@@ -5,8 +5,8 @@ date: "2020-11-01T16:36:20"
 name: "Major 2nd"
 season: 2
 episode: 24
-rating: 2
-ratingEmoji: "⭐️⭐️"
+rating: 1
+ratingEmoji: "⭐⭐️"
 share: false
 ---
 
