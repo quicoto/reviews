@@ -7,7 +7,7 @@ season: 4
 episode: 1
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 This episode hit harder than I expected. It felt way too real. The struggle, the pain, the death...
