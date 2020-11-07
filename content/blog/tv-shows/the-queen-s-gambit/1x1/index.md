@@ -7,7 +7,7 @@ season: 1
 episode: 1
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 Good! The premise is quite interesting. A woman who is "not suppose" to play chess seems to be a genius. Was it the drugs or is she actually one? I want to believe the latter.
