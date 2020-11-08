@@ -1,8 +1,8 @@
 ---
 type: series
-title: "Major 2nd S2 2x18"
+title: "Major 2nd 2x18"
 date: "2020-09-20T16:36:25"
-name: "Major 2nd S2"
+name: "Major 2nd"
 season: 2
 episode: 18
 rating: 3
