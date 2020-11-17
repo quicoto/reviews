@@ -19,3 +19,5 @@ The best approach? Park, no doubt. Very pragmatic, having to work with someone n
 How about Dr. Lim and her evil plan? Loved the twist there. It was all part of the test.
 
 I felt very emotional to see Shaun apologize to Lea. How far he's come! Saying he wants to hug her? C'mon, remember the first season?
+
+![Episode screenshot](https://cldup.com/KYomu3jI1T.png)
