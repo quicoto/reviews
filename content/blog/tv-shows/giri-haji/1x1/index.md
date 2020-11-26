@@ -25,3 +25,5 @@ The brother troublemaker and the big brother, the detective, who's used to save 
 I might have preferred if all the action happened in Tokyo but I see the appeal of having this foreigner detective find his way in the English capital. A detective who, by the way, speaks great English.
 
 I'm on board, will watch more.
+
+![Giri/Haji 1x1](https://cldup.com/d2tpr1yAf2.png)
