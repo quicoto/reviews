@@ -1,8 +1,8 @@
 ---
 type: movie
-title: "Mulan 2020"
+title: "Mulan (2020)"
 date: "2020-09-09T22:25:25"
-name: "Mulan 2020"
+name: "Mulan (2020)"
 season:
 episode:
 rating: 3
