@@ -5,8 +5,8 @@ date: "2020-05-19T20:35:18"
 name: "The Last Dance"
 season: 1
 episode: 5
-rating: 5
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 ---
 
 Barcelona! No credits or text on the screen but as soon as they showed the shot of the Montjuïc Olympic Stadium I recognized my city.

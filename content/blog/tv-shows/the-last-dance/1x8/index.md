@@ -5,8 +5,8 @@ date: "2020-05-20T23:01:50"
 name: "The Last Dance"
 season: 1
 episode: 8
-rating: 5
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 ---
 
 How good can this guy get? He goes to play baseball for 21 months and he's able to come back and win the NBA Final next year.

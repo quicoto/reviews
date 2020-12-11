@@ -5,8 +5,8 @@ date: "2020-05-21T22:10:16"
 name: "The Last Dance"
 season: 1
 episode: 10
-rating: 5
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 ---
 
 It's done. Quite the documentary, out of a movie. Speaking from a viewer who hasn't followed any basketball, I loved it. I knew of Micheal Jordan, I knew Denis Rodman. However the information I got was a vague "there were very good".
