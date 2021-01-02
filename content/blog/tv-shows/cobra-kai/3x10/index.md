@@ -24,8 +24,7 @@ The true Karate kid, great acting from William Zabka. How he feels responsible f
 
 We got to see Johnny with Miguel's mum, finally taking a step further in their friendly relationship. We did not get see much in the last episode but I guess more will come in season 4.
 
-![Cobra Kai Season 3](https://cldup.com/XqTWjXwC3h.jpg)
-
+![Cobra Kai Season 3](https://cldup.com/WAxen9V0Us.jpg)
 ## Daniel LaRusso
 
 Oh yeah, the old Karate Kid gets his hands dirty this season. The trip to Onikawa was full of nostalgia. Was not super interested until Chozen appears. That was very nice! The secret scroll techniques? Priceless.
@@ -54,8 +53,6 @@ I gotta roll my eyes here. I don't like this character. I do see how she struggl
 
 Now, this is a character I can get on board with. Loved the chemistry she brought in the few scenes she starred in. It doesn't feel we'll get to see more of her next season. Even if she worked so well with Johnny I hope he makes up his mind and goes back to Miguel's mum.
 
-![Cobra Kai Season 3](https://cldup.com/WAxen9V0Us.jpg)
-
 ## The house fight scene
 
 Wow, beautiful long one shot of the main fight. I appreciate the direction and production here. It's not the best martial arts sequence we've ever seen but I appreciate non-martial art professionals doing it so well.
@@ -75,3 +72,5 @@ Fighting is the solution to everything in this season. Love it.
 ## Season 4
 
 Can't wait for the next season, they've set up the stage for the tournament. The logical path is that the good guys win but who knows, I'm sure it will have its ups and downs. The joined forces of Miyagi-Do and Eagle Fangs... looks li it will be fun to watch. The teaching styles will collide, it will be fun.
+
+![Cobra Kai Season 3](https://cldup.com/XqTWjXwC3h.jpg)
