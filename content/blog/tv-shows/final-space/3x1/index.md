@@ -12,6 +12,8 @@ share: true
 
 I'm disappointed. I was expecting more about this first episode. It was quite messy. Sure, it picks up where we left off but it's just too chaotic.
 
+First of all, what was that piece of s*** of opening? First and second seasons were good. This one, I don't even know how to describe it. It just shows Gary falling through a dimensional waterslide. Maybe they'll change the opening in the next episode?
+
 I've re-watched the first two seasons these past weeks and I can't recall why Invictus is so focused on Gary.
 
 Why is Quinn trying to hide her transformation (?). Hasn't Gary proved to you over and over that you can trust him? That he will love you no matter what? The dude was messaging you for 5 years without ever getting a response. He has moved heaven and earth to rescue you. Give me a break, woman.
