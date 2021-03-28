@@ -12,7 +12,7 @@ share: true
 
 I'm disappointed. I was expecting more about this first episode. It was quite messy. Sure, it picks up where we left off but it's just too chaotic.
 
-First of all, what was that piece of s*** of opening? First and second seasons were good. This one, I don't even know how to describe it. It just shows Gary falling through a dimensional waterslide. Maybe they'll change the opening in the next episode?
+First of all, what was that piece of s\*\*\* of opening? First and second seasons were good. This one, I don't even know how to describe it. It just shows Gary falling through a dimensional waterslide. Maybe they'll change the opening in the next episode?
 
 I've re-watched the first two seasons these past weeks and I can't recall why Invictus is so focused on Gary.
 
