@@ -241,3 +241,19 @@ $green: #2ecc71;
     padding-left: 10px;
   }
 }
+
+.builder {
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  textarea,
+  select {
+    width: 100%;
+  }
+
+  .row {
+    margin-bottom: 0.5rem;
+  }
+}
