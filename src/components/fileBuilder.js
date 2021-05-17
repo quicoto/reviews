@@ -17,8 +17,10 @@ export default class FileBuilder extends React.Component{
   prepareMarkdown(state) {
     const now = new Date();
     let month = now.getMonth()+1;
+    let seconds = now.getSeconds();
     if (month < 10) month = `0${month}`
-    const date = `${now.getFullYear()}-${month}-${now.getDate()}T${now.getHours()}:${now.getMinutes()}:${now.getSeconds()}`
+    if (seconds < 10) seconds = `0${seconds}`
+    const date = `${now.getFullYear()}-${month}-${now.getDate()}T${now.getHours()}:${now.getMinutes()}:${seconds}`
     const defaultComment = "*[No review was written for this episode]*"
     let rating = ""
 
