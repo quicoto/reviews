@@ -256,4 +256,15 @@ $green: #2ecc71;
   .row {
     margin-bottom: 0.5rem;
   }
+
+  .actions {
+    margin-top: 2rem;
+    text-align: center;
+
+    button {
+      display: block;
+      margin-bottom: 2rem;
+      width: 100%;
+    }
+  }
 }
