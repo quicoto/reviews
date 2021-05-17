@@ -1,5 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+const slugify = require("@sindresorhus/slugify")
 
 export default class FileBuilder extends React.Component{
 
@@ -151,7 +152,7 @@ ${state.comment ? state.comment : defaultComment }`
             </div>
             <div className="actions">
               <button onClick={this.onClick}>Copy</button>
-              <a href="https://github.com/quicoto/reviews/new/master/content/blog/tv-shows/?filename=tv-shows/test.md">Create file on Github</a>
+              <a href={`https://github.com/quicoto/reviews/new/master/content/blog/tv-shows/?filename=tv-shows/${slugify(this.state.show)}/${this.state.season}x${this.state.episode}/index.md`}>Create file on Github</a>
             </div>
           </form>
      </div>
