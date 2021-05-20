@@ -12,7 +12,8 @@ share: false
 
 Of course, the super dependable big brother who takes care of everyone. Cliche much?
 
-Wait the dude has a special nose? Is he a and?
+Wait the dude has a special nose? Is he a dog? 
+
 I love how the old man invited him to spend the night and gave him dinner. Only in ancient Japan.
 
 Little did the big brother knew how his family would be slaughtered during the night. That was heavy.
