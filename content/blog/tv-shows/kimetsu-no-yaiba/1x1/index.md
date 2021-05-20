@@ -10,7 +10,7 @@ ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
 
-Of course, the super dependable big brother who takes care of everyone. Cliche much?
+Of course, the super dependable big brother who takes care of everyone. Cliché much?
 
 Wait the dude has a special nose? Is he a dog? 
 
