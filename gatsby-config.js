@@ -11,7 +11,7 @@ function feedDescription(edge, site) {
 module.exports = {
   pathPrefix: "/reviews",
   siteMetadata: {
-    title: `Ricard Torres Reviews`,
+    title: `Ricard's Reviews`,
     author: {
       name: `Ricard Torres`,
       summary: `Senior Front-end Software Engineer from Barcelona, Haidong Gumdo Instructor (korean martial art of the sword), street photographer, travel lover, TV addict, Boston Red Sox fan, and privacy advocate.`,
@@ -125,7 +125,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Ricard Torres Reviews",
+            title: "Ricard's Reviews",
           },
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
@@ -160,7 +160,7 @@ module.exports = {
               }
             `,
             output: "/rss-all-shows.xml",
-            title: "Ricard Torres Reviews - All Shows",
+            title: "Ricard's Reviews - All Shows",
           },
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
@@ -195,7 +195,7 @@ module.exports = {
               }
             `,
             output: "/rss-all-movies.xml",
-            title: "Ricard Torres Reviews - All Movies",
+            title: "Ricard's Reviews - All Movies",
           },
         ],
       },
@@ -203,7 +203,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Ricard Torres Reviews`,
+        name: `Ricard's Reviews`,
         short_name: `Reviews`,
         start_url: `/reviews/`,
         background_color: `#ffffff`,
