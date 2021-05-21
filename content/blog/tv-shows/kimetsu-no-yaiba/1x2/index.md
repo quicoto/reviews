@@ -10,7 +10,7 @@ ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
 
-A taking head! That's new. Still, the main character has the most positive attitude.
+A talking head! That's new. Still, the main character has the most positive attitude.
 
 I shouldn't be surprised she can make herself young and old. These daemons are something else.
 
