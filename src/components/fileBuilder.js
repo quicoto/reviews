@@ -17,7 +17,7 @@ export default class FileBuilder extends React.Component {
     const now = new Date()
     let month = now.getMonth() + 1
     if (month < 10) month = `0${month}`
-    const date = `${now.getFullYear()}-${month}-${now.getDate()}T${now.getHours()}:${now.getMinutes()}:00`
+    const date = `${now.getFullYear()}-${month}-${now.getDate()}T00:00:00`
     const defaultComment = "*[No review was written for this episode]*"
     let rating = ""
 
