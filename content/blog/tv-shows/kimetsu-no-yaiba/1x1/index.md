@@ -12,7 +12,7 @@ share: false
 
 Of course, the super dependable big brother who takes care of everyone. Cliché much?
 
-Wait the dude has a special nose? Is he a dog? 
+Wait the dude has a special nose? Is he a dog?
 
 I love how the old man invited him to spend the night and gave him dinner. Only in ancient Japan.
 
