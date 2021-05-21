@@ -9,3 +9,5 @@ rating: 3
 ratingEmoji: "⭐️⭐️⭐️"
 share: false
 ---
+
+I like how they approached the "veteran veneration" some people have for senior roles. You can never know everything. I have lived this too many times me being the young one teaching the senior. You gotta respect them but they also gotta respect they might not know everything.
