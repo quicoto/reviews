@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The Mandalorian 2x4"
-date: "2020-11-20T21:40:51"
+date: "2020-11-20T00:00:00"
 name: "The Mandalorian"
 season: 2
 episode: 4

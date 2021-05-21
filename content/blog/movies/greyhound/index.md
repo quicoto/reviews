@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Greyhound"
-date: "2020-07-10T22:47:00"
+date: "2020-07-10T00:00:00"
 name: "Greyhound"
 season:
 episode:

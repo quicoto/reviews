@@ -1,7 +1,7 @@
 ---
 type: series
 title: Kakushigoto 1x5
-date: "2020-05-19T19:38:14"
+date: "2020-05-19T00:00:00"
 name: "Kakushigoto"
 season: 1
 episode: 5

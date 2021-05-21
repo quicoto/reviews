@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Mission: Impossible - Rogue Nation"
-date: "2020-10-10T23:30:27"
+date: "2020-10-10T00:00:00"
 name: "Mission: Impossible - Rogue Nation"
 season:
 episode:

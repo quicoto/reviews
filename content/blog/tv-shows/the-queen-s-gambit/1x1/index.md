@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The Queen's Gambit 1x1"
-date: "2020-11-07T22:08:18"
+date: "2020-11-07T00:00:00"
 name: "The Queen's Gambit"
 season: 1
 episode: 1

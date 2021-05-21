@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Fugou Keiji Balance - UNLIMITED 1x10"
-date: "2020-09-20T16:07:42"
+date: "2020-09-20T00:00:00"
 name: "Fugou Keiji Balance - UNLIMITED"
 season: 1
 episode: 10

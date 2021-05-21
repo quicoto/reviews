@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The Good Doctor 4x5"
-date: "2020-12-01T23:15:49"
+date: "2020-12-01T00:00:00"
 name: "The Good Doctor"
 season: 4
 episode: 5

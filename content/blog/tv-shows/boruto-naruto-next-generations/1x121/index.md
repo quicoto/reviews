@@ -1,7 +1,7 @@
 ---
 type: series
 title: Boruto - Naruto Next Generations 1x121
-date: "2020-06-07T18:48:56"
+date: "2020-06-07T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 121

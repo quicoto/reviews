@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Saw I
-date: "2020-05-29T18:06:31"
+date: "2020-05-29T00:00:00"
 name: "Saw I"
 season:
 episode:

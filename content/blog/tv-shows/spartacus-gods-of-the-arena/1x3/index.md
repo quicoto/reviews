@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Spartacus: Gods of the Arena 1x3"
-date: "2020-07-02T23:46:19"
+date: "2020-07-02T00:00:00"
 name: "Spartacus: Gods of the Arena"
 season: 1
 episode: 3
@@ -18,7 +18,7 @@ I love how the mix slow-motion cameras from time to time, great photography!
 
 type: series
 title: "Spartacus: Gods of the Arena 1x4"
-date: "2020-07-03T13:36:36"
+date: "2020-07-03T00:00:00"
 name: "Spartacus: Gods of the Arena"
 season: 1
 episode: 4

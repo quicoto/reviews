@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Haikyuu! Riku vs Kuu 1x2"
-date: "2020-11-28T20:56:49"
+date: "2020-11-28T00:00:00"
 name: "Haikyuu! Riku vs Kuu"
 season: 1
 episode: 2

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Suits 1x6"
-date: "2020-07-25T17:39:50"
+date: "2020-07-25T00:00:00"
 name: "Suits"
 season: 1
 episode: 6

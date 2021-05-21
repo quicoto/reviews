@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Grey's Anatomy 17x2"
-date: "2020-11-15T20:32:28"
+date: "2020-11-15T00:00:00"
 name: "Grey's Anatomy"
 season: 17
 episode: 2

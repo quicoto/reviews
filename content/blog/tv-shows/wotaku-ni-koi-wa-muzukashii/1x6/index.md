@@ -1,7 +1,7 @@
 ---
 type: series
 title: Wotaku ni Koi wa Muzukashii 1x6
-date: "2020-06-03T20:11:20"
+date: "2020-06-03T00:00:00"
 name: "Wotaku ni Koi wa Muzukashii"
 season: 1
 episode: 6

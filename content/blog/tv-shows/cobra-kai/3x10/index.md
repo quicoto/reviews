@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Cobra Kai 3x10"
-date: "2021-01-02T20:59:43"
+date: "2021-01-02T00:00:00"
 name: "Cobra Kai"
 season: 3
 episode: 10

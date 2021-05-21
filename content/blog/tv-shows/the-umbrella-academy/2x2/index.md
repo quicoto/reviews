@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The Umbrella Academy 2x2"
-date: "2020-08-01T13:50:34"
+date: "2020-08-01T00:00:00"
 name: "The Umbrella Academy"
 season: 2
 episode: 2

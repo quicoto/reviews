@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Great Pretender 1x3"
-date: "2020-08-20T21:45:47"
+date: "2020-08-20T00:00:00"
 name: "Great Pretender"
 season: 1
 episode: 3

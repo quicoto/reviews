@@ -1,7 +1,7 @@
 ---
 type: series
 title: UPLOAD 1x10
-date: "2020-05-29T18:13:38"
+date: "2020-05-29T00:00:00"
 name: "UPLOAD"
 season: 1
 episode: 10

@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Master Z: Ip Man Legacy"
-date: "2020-07-17T22:43:50"
+date: "2020-07-17T00:00:00"
 name: "Master Z: Ip Man Legacy"
 season:
 episode:

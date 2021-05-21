@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Kimetsu no Yaiba 1x1"
-date: "2021-05-20T22:08:58"
+date: "2021-05-20T00:00:00"
 name: "Kimetsu no Yaiba"
 season: 1
 episode: 1

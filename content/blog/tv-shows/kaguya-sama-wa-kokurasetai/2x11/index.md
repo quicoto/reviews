@@ -1,7 +1,7 @@
 ---
 type: series
 title: Kaguya-sama wa Kokurasetai 2x11
-date: "2020-06-20T21:50:22"
+date: "2020-06-20T00:00:00"
 name: "Kaguya-sama wa Kokurasetai"
 season: 2
 episode: 11

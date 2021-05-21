@@ -1,7 +1,7 @@
 ---
 type: series
 title: The Last Dance 1x7
-date: "2020-05-20T18:03:46"
+date: "2020-05-20T00:00:00"
 name: "The Last Dance"
 season: 1
 episode: 7

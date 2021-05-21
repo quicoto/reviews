@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Art of Self-Defense
-date: "2020-06-14T21:51:01"
+date: "2020-06-14T00:00:00"
 name: "The Art of Self-Defense"
 season:
 episode:

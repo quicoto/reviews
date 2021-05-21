@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The Comey Rule 1x2"
-date: "2020-10-04T21:02:11"
+date: "2020-10-04T00:00:00"
 name: "The Comey Rule"
 season: 1
 episode: 2

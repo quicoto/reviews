@@ -1,7 +1,7 @@
 ---
 type: series
 title: Uchi Tama - Uchi no Tama Shirimasen ka 1x3
-date: "2020-05-27T22:53:16"
+date: "2020-05-27T00:00:00"
 name: "Uchi Tama - Uchi no Tama Shirimasen ka"
 season: 1
 episode: 3

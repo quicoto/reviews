@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Stargate SG-1 1x6"
-date: "2021-05-17T22:32:53"
+date: "2021-05-17T00:00:00"
 name: "Stargate SG-1"
 season: 1
 episode: 6

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Lucifer 5x2"
-date: "2020-08-21T18:15:18"
+date: "2020-08-21T00:00:00"
 name: "Lucifer"
 season: 5
 episode: 2

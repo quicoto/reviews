@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Big Lebowski
-date: "2020-06-15T23:16:32"
+date: "2020-06-15T00:00:00"
 name: "The Big Lebowski"
 season:
 episode:

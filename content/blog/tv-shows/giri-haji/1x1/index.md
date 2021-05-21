@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Giri/Haji 1x1"
-date: "2020-11-26T23:06:48"
+date: "2020-11-26T00:00:00"
 name: "Giri/Haji"
 season: 1
 episode: 1

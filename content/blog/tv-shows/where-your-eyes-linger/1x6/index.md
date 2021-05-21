@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Where Your Eyes Linger 1x6"
-date: "2020-07-16T22:50:16"
+date: "2020-07-16T00:00:00"
 name: "Where Your Eyes Linger"
 season: 1
 episode: 6

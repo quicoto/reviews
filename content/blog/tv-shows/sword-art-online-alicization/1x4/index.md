@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Sword Art Online - Alicization 1x4"
-date: "2020-08-03T19:15:30"
+date: "2020-08-03T00:00:00"
 name: "Sword Art Online - Alicization"
 season: 1
 episode: 4

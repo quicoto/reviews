@@ -1,7 +1,7 @@
 ---
 type: series
 title: Boku no Tonari ni Ankoku Hakaishin ga Imasu 1x6
-date: "2020-05-29T18:00:26"
+date: "2020-05-29T00:00:00"
 name: "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
 season: 1
 episode: 6

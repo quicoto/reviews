@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Black Clover 1x2"
-date: "2020-12-02T23:17:04"
+date: "2020-12-02T00:00:00"
 name: "Black Clover"
 season: 1
 episode: 2

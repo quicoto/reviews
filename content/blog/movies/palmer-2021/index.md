@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Palmer (2021)"
-date: "2021-01-30T23:56:56"
+date: "2021-01-30T00:00:00"
 name: "Palmer (2021)"
 season:
 episode:

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Major 2nd 2x20"
-date: "2020-10-04T22:23:49"
+date: "2020-10-04T00:00:00"
 name: "Major 2nd"
 season: 2
 episode: 20

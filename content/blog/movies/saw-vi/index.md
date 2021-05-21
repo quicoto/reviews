@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Saw VI
-date: "2020-05-24T23:15:15"
+date: "2020-05-24T00:00:00"
 name: "Saw VI"
 rating: 2
 ratingEmoji: "⭐️⭐️"

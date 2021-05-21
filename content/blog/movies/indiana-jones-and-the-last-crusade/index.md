@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Indiana Jones and the Last Crusade
-date: "2020-05-29T18:19:57"
+date: "2020-05-29T00:00:00"
 name: "Indiana Jones and the Last Crusade"
 season:
 episode:

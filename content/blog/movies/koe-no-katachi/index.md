@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Koe no Katachi
-date: "2020-05-31T23:40:01"
+date: "2020-05-31T00:00:00"
 name: "Koe no Katachi"
 season:
 episode:

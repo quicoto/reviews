@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Haikyuu!!: To the Top 2x1"
-date: "2020-10-02T22:23:59"
+date: "2020-10-02T00:00:00"
 name: "Haikyuu!!: To the Top"
 season: 2
 episode: 1

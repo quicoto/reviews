@@ -1,7 +1,7 @@
 ---
 type: series
 title: The Office 3x17
-date: "2020-05-27T17:38:48"
+date: "2020-05-27T00:00:00"
 name: "The Office"
 season: 3
 episode: 17

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Seinfeld 1x1"
-date: "2020-09-07T23:03:22"
+date: "2020-09-07T00:00:00"
 name: "Seinfeld"
 season: 1
 episode: 1

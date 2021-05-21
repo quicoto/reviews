@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Hoops 1x4"
-date: "2020-08-21T20:00:00"
+date: "2020-08-21T00:00:00"
 name: "Hoops"
 season: 1
 episode: 4

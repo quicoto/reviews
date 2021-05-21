@@ -1,7 +1,7 @@
 ---
 type: series
 title: Dagashi Kashi 1x1
-date: "2020-06-24T16:47:37"
+date: "2020-06-24T00:00:00"
 name: "Dagashi Kashi"
 season: 1
 episode: 1

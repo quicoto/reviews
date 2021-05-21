@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Avengers Endgame
-date: "2020-06-11T23:53:32"
+date: "2020-06-11T00:00:00"
 name: "Avengers Endgame"
 season:
 episode:

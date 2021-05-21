@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Spartacus: Vengeance 1x1"
-date: "2020-07-07T23:48:57"
+date: "2020-07-07T00:00:00"
 name: "Spartacus: Vengeance"
 season: 1
 episode: 1

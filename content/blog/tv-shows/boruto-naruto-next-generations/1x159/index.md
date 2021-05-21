@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Boruto - Naruto Next Generations 1x159"
-date: "2020-08-02T16:47:24"
+date: "2020-08-02T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 159

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Lupin 1x1"
-date: "2021-01-10T21:28:38"
+date: "2021-01-10T00:00:00"
 name: "Lupin"
 season: 1
 episode: 1

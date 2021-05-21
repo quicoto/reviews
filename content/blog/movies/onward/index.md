@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Onward
-date: "2020-06-05T23:45:26"
+date: "2020-06-05T00:00:00"
 name: "Onward"
 season:
 episode:

@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Apollo 11
-date: "2020-05-29T23:11:14"
+date: "2020-05-29T00:00:00"
 name: "Apollo 11"
 season:
 episode:

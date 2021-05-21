@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Sword Art Online 1x25"
-date: "2020-08-16T11:08:03"
+date: "2020-08-16T00:00:00"
 name: "Sword Art Online"
 season: 1
 episode: 25

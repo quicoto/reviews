@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Station 19 4x2"
-date: "2020-11-22T10:19:49"
+date: "2020-11-22T00:00:00"
 name: "Station 19"
 season: 4
 episode: 2

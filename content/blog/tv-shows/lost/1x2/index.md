@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Lost 1x2"
-date: "2020-09-09T22:21:07"
+date: "2020-09-09T00:00:00"
 name: "Lost"
 season: 1
 episode: 2

@@ -1,7 +1,7 @@
 ---
 type: series
 title: Veep 1x1
-date: "2020-06-12T18:16:25"
+date: "2020-06-12T00:00:00"
 name: "Veep"
 season: 1
 episode: 1

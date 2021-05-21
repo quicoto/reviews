@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Mob Psycho 100 1x2"
-date: "2020-08-20T12:45:59"
+date: "2020-08-20T00:00:00"
 name: "Mob Psycho 100"
 season: 1
 episode: 2

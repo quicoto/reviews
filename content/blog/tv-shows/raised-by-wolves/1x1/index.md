@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Raised by Wolves 1x1"
-date: "2020-09-20T18:08:11"
+date: "2020-09-20T00:00:00"
 name: "Raised by Wolves"
 season: 1
 episode: 1

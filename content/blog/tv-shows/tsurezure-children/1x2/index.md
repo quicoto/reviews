@@ -1,7 +1,7 @@
 ---
 type: series
 title: Tsurezure Children 1x2
-date: "2020-05-30T16:04:58"
+date: "2020-05-30T00:00:00"
 name: "Tsurezure Children"
 season: 1
 episode: 2

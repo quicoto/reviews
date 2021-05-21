@@ -1,7 +1,7 @@
 ---
 type: series
 title: Yahari Ore no Seishun Love Come wa Machigatteiru 1x5
-date: "2020-06-26T18:08:01"
+date: "2020-06-26T00:00:00"
 name: "Yahari Ore no Seishun Love Come wa Machigatteiru"
 season: 1
 episode: 5

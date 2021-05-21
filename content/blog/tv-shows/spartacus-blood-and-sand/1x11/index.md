@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Spartacus: Blood and Sand 1x11"
-date: "2020-07-06T23:38:53"
+date: "2020-07-06T00:00:00"
 name: "Spartacus: Blood and Sand"
 season: 1
 episode: 11

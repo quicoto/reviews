@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Das Boot 1x2"
-date: "2020-07-12T00:43:45"
+date: "2020-07-12T00:00:00"
 name: "Das Boot"
 season: 1
 episode: 2

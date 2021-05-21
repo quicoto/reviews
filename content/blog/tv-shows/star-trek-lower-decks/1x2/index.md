@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Star Trek: Lower Decks 1x2"
-date: "2020-08-14T13:47:18"
+date: "2020-08-14T00:00:00"
 name: "Star Trek: Lower Decks"
 season: 1
 episode: 2

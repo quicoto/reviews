@@ -1,7 +1,7 @@
 ---
 type: series
 title: Boruto - Naruto Next Generations 1x145
-date: "2020-06-16T18:57:27"
+date: "2020-06-16T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 145

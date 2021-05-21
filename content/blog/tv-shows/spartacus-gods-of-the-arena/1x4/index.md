@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Spartacus: Gods of the Arena 1x4"
-date: "2020-07-03T13:37:31"
+date: "2020-07-03T00:00:00"
 name: "Spartacus: Gods of the Arena"
 season: 1
 episode: 4

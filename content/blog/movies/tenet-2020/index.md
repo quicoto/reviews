@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Tenet (2020)"
-date: "2020-12-09T00:23:42"
+date: "2020-12-09T00:00:00"
 name: "Tenet (2020)"
 season:
 episode:

@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Final Space 3x1"
-date: "2021-03-21T21:22:10"
+date: "2021-03-21T00:00:00"
 name: "Final Space"
 season: 3
 episode: 1

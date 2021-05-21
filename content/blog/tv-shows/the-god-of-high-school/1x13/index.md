@@ -1,7 +1,7 @@
 ---
 type: series
 title: "The God of High School 1x13"
-date: "2020-09-28T22:09:46"
+date: "2020-09-28T00:00:00"
 name: "The God of High School"
 season: 1
 episode: 13

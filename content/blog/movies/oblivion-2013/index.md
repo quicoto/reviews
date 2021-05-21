@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Oblivion (2013)"
-date: "2020-12-07T00:40:20"
+date: "2020-12-07T00:00:00"
 name: "Oblivion (2013)"
 season:
 episode:

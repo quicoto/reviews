@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Haikyuu!!: To the Top 2x8"
-date: "2020-11-21T20:00:20"
+date: "2020-11-21T00:00:00"
 name: "Haikyuu!!: To the Top"
 season: 2
 episode: 8

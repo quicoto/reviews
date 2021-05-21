@@ -1,7 +1,7 @@
 ---
 type: series
 title: Boruto - Naruto Next Generations 1x127
-date: "2020-06-08T18:51:28"
+date: "2020-06-08T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 127

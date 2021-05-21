@@ -1,7 +1,7 @@
 ---
 type: series
 title: 3D Kanojo Real Girl 1x1
-date: "2020-06-04T19:55:53"
+date: "2020-06-04T00:00:00"
 name: "3D Kanojo Real Girl"
 season: 1
 episode: 1

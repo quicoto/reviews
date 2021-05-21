@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Mulan (2020)"
-date: "2020-09-09T22:25:25"
+date: "2020-09-09T00:00:00"
 name: "Mulan (2020)"
 season:
 episode:

@@ -1,7 +1,7 @@
 ---
 type: series
 title: Yahari Ore no Seishun Love Come wa Machigatteiru Zoku 1x4
-date: "2020-07-01T20:25:23"
+date: "2020-07-01T00:00:00"
 name: "Yahari Ore no Seishun Love Come wa Machigatteiru Zoku"
 season: 1
 episode: 4

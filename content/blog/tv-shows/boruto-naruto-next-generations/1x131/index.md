@@ -1,7 +1,7 @@
 ---
 type: series
 title: Boruto - Naruto Next Generations 1x131
-date: "2020-06-08T20:49:07"
+date: "2020-06-08T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 131

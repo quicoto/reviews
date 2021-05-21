@@ -1,7 +1,7 @@
 ---
 type: series
 title: Rick and Morty 4x10
-date: "2020-06-01T10:41:24"
+date: "2020-06-01T00:00:00"
 name: "Rick and Morty"
 season: 4
 episode: 10

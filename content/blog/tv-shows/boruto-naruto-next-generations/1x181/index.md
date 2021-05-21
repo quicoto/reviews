@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Boruto - Naruto Next Generations 1x181"
-date: "2021-01-10T19:28:44"
+date: "2021-01-10T00:00:00"
 name: "Boruto - Naruto Next Generations"
 season: 1
 episode: 181

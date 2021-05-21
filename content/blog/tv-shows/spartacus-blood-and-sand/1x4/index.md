@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Spartacus: Blood and Sand 1x4"
-date: "2020-07-05T23:39:32"
+date: "2020-07-05T00:00:00"
 name: "Spartacus: Blood and Sand"
 season: 1
 episode: 4

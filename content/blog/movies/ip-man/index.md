@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Ip Man"
-date: "2020-07-17T22:23:46"
+date: "2020-07-17T00:00:00"
 name: "Ip Man"
 season:
 episode:

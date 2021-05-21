@@ -1,7 +1,7 @@
 ---
 type: series
 title: Watashi ga Motete Dousunda 1x9
-date: "2020-06-18T22:57:19"
+date: "2020-06-18T00:00:00"
 name: "Watashi ga Motete Dousunda"
 season: 1
 episode: 9

@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Se7en"
-date: "2020-10-04T21:12:52"
+date: "2020-10-04T00:00:00"
 name: "Se7en"
 season:
 episode:

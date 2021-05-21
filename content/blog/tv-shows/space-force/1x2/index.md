@@ -1,7 +1,7 @@
 ---
 type: series
 title: Space Force 1x2
-date: "2020-05-29T17:28:52"
+date: "2020-05-29T00:00:00"
 name: "Space Force"
 season: 1
 episode: 2

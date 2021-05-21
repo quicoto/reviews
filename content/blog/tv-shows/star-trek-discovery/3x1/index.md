@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Star Trek: Discovery 3x1"
-date: "2020-10-18T19:11:58"
+date: "2020-10-18T00:00:00"
 name: "Star Trek: Discovery"
 season: 3
 episode: 1

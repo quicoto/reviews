@@ -1,7 +1,7 @@
 ---
 type: series
 title: Tsurune 1x5
-date: "2020-06-01T16:29:57"
+date: "2020-06-01T00:00:00"
 name: "Tsurune"
 season: 1
 episode: 5

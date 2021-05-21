@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "A Few Good Men"
-date: "2020-08-17T16:35:27"
+date: "2020-08-17T00:00:00"
 name: "A Few Good Men"
 season:
 episode:

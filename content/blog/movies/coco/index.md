@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Coco"
-date: "2021-01-10T18:52:56"
+date: "2021-01-10T00:00:00"
 name: "Coco"
 season:
 episode:

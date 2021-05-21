@@ -1,7 +1,7 @@
 ---
 type: movie
 title: "Knives Out"
-date: "2020-07-04T22:16:27"
+date: "2020-07-04T00:00:00"
 name: "Knives Out"
 season:
 episode:

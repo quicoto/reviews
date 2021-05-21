@@ -1,7 +1,7 @@
 ---
 type: series
 title: "Debris 1x1"
-date: "2021-03-03T23:00:43"
+date: "2021-03-03T00:00:00"
 name: "Debris"
 season: 1
 episode: 1
