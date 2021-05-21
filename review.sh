@@ -50,7 +50,7 @@ function slug(){
 }
 
 theSlug=$(slug "$name")
-date=$(date +%Y-%m-%dT%T)
+date=$(date +%Y-%m-%dT00:00:00)
 fullName="$(echo $name) $(echo $season)x$(echo $episode)"
 
 if [ $type == movie ]
