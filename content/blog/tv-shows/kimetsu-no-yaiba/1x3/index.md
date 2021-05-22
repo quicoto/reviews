@@ -32,6 +32,6 @@ If only my students would understand that! 😎
 
 ## Closing words
 
-Fantastic episode, the fights deserve a 5 out of 5. The last bit is a little bit confusing, was he dreaming about the masked swordsman and the wise girl? Was he real? I don't fully get it, hopefully, it will get clarified in the next one.
+Fantastic episode, the fights deserve a 5 out of 5. The last part is a little bit confusing, was he dreaming about the masked swordsman and the wise girl? Was he real? I don't fully get it, hopefully, it will get clarified in the next one.
 
 ![screenshot](https://cldup.com/dS8KVFe7qn.jpg)
