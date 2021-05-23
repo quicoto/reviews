@@ -26,6 +26,6 @@ So the two other slayers that helped Tanjiro in the last episode were actually d
 
 This episode felt super short. The animation was superb in this one too.	I hope they keep up the quality.
 
-So he slashed his neck, nice Wondering if that's the end or if perhaps it was too easy and the daemon has a trick up its sleeve.
+So he slashed his neck, nice. Wondering if that's the end or if perhaps it was too easy and the daemon has a trick up its sleeve.
 
 ![screenshot](https://cldup.com/zUvk-2MI2j.jpg)
