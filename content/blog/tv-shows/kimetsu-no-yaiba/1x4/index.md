@@ -6,7 +6,7 @@ name: "Kimetsu no Yaiba"
 season: 1
 episode: 4
 rating: 3
-ratingEmoji: "⭐️⭐️⭐️"
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
 
