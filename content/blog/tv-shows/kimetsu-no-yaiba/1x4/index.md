@@ -5,7 +5,7 @@ date: "2021-05-23T00:00:00"
 name: "Kimetsu no Yaiba"
 season: 1
 episode: 4
-rating: 3
+rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
