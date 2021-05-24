@@ -26,7 +26,7 @@ Such a nice fight! Wooden vs steel. Of course, wood won, because it's not the we
 
 Ok, I like this girl!
 
-> Train to death, there's nothing else you can do 
+> Train to death, there's nothing else you can do
 
 If only my students would understand that! 😎
 

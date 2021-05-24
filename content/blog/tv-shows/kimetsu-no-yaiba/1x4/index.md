@@ -24,7 +24,7 @@ So the two other slayers that helped Tanjiro in the last episode were actually d
 
 ## Water surface slash!
 
-This episode felt super short. The animation was superb in this one too.	I hope they keep up the quality.
+This episode felt super short. The animation was superb in this one too. I hope they keep up the quality.
 
 So he slashed his neck, nice. Wondering if that's the end or if perhaps it was too easy and the daemon has a trick up its sleeve.
 
