@@ -9,3 +9,5 @@ rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
+
+Espectacular animation of the fight. Happy that Bakugo is changing his attitude, acknowledging is the only way to move forward.
