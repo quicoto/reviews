@@ -20,4 +20,4 @@ I would have liked to travel to Korea to choose the steel for my sword, I guess 
 
 He only said 2 phrases but I'm already a fan 💯
 
-! [] (https://cldup.com/zAfjM3MHz1.jpg) 
+![screenshot](https://cldup.com/zAfjM3MHz1.jpg) 
