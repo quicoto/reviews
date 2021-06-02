@@ -49,6 +49,9 @@ function ShowsList(props) {
     topShows.push(show)
   })
 
+  // Discard shows with less than 6 reviews
+  topShows = topShows.filter(show => show.totalCount > 6)
+
   // Order DESC (best average first and then if tie, by total count)
   topShows.sort(function (a, b) {
     let n = b.average - a.average
@@ -59,7 +62,10 @@ function ShowsList(props) {
     return b.totalCount - a.totalCount
   })
 
-  topShows = topShows.slice(0, 5)
+  topShows = topShows.slice(0, 10)
+
+  // eslint-disable-next-line no-console
+  console.log(topShows)
 
   return (
     <ul>

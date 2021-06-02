@@ -5,8 +5,8 @@ date: "2020-05-30T00:00:00"
 name: "Tsurezure Children"
 season: 1
 episode: 2
-rating: 4
-ratingEmoji: "⭐️⭐️⭐️⭐️"
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
 share: false
 ---
 
