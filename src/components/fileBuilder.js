@@ -15,7 +15,7 @@ export default class FileBuilder extends React.Component {
 
   prepareMarkdown(state) {
     const now = new Date()
-    let day = now.getDate();
+    let day = now.getDate()
     let month = now.getMonth() + 1
 
     if (day < 10) day = `0${day}`
