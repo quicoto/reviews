@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/community/2x14/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x14/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/final-space/3x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,10 +16,10 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/final-space/3x12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/final-space/3x12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/luther/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/luther/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -205,9 +206,9 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/mob-psycho-100/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/mob-psycho-100/2x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/movies/a-few-good-men/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x161/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/major-2nd/2x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
