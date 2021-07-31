@@ -7,25 +7,27 @@ function ShowItem(props) {
   const name = props.show
 
   return (
-    <h3
-      style={{
-        marginBottom: "2rem",
-        marginTop: "0",
-      }}
-    >
-      <Link
-        title={`All reviews for: ${name}`}
+    <li>
+      <h3
         style={{
-          boxShadow: `none`,
-          marginBottom: "10px",
-          marginRight: "15px",
+          marginBottom: "2rem",
+          marginTop: "0",
         }}
-        to={`/tv-shows#${slugify(name)}`}
       >
-        <strong>{name}</strong>{" "}
-        <span className="rating">{stars(props.average)}</span>
-      </Link>
-    </h3>
+        <Link
+          title={`All reviews for: ${name}`}
+          style={{
+            boxShadow: `none`,
+            marginBottom: "10px",
+            marginRight: "15px",
+          }}
+          to={`/tv-shows#${slugify(name)}`}
+        >
+          <strong>{name}</strong>{" "}
+          <span className="rating">{stars(props.average)}</span>
+        </Link>
+      </h3>
+    </li>
   )
 }
 
@@ -64,11 +66,8 @@ function ShowsList(props) {
 
   topShows = topShows.slice(0, 10)
 
-  // eslint-disable-next-line no-console
-  console.log(topShows)
-
   return (
-    <ul>
+    <ul className='list-no-style'>
       {topShows.map((show, index) => (
         <ShowItem
           key={index.toString()}

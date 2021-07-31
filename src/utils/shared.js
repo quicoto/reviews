@@ -22,7 +22,7 @@ export function Item(props) {
   const date = props.item.node.frontmatter.date
 
   return (
-    <article>
+    <li>
       <h3
         style={{
           marginTop: 0,
@@ -66,7 +66,7 @@ export function Item(props) {
           </span>
         </span>
       </h3>
-    </article>
+    </li>
   )
 }
 
@@ -75,11 +75,11 @@ export function Item(props) {
  */
 export function List(props) {
   return (
-    <div>
+    <ul className="list-no-style">
       {props.edges.map(item => (
         <Item key={item.node.id} item={item} />
       ))}
-    </div>
+    </ul>
   )
 }
 
