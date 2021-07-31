@@ -67,7 +67,7 @@ function ShowsList(props) {
   topShows = topShows.slice(0, 10)
 
   return (
-    <ul className='list-no-style'>
+    <ul className="list-no-style">
       {topShows.map((show, index) => (
         <ShowItem
           key={index.toString()}
