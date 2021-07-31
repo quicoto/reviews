@@ -247,33 +247,6 @@ $green: #109649;
   }
 }
 
-.builder {
-  label {
-    display: block;
-    margin-bottom: 0.5rem;
-  }
-
-  textarea,
-  select {
-    width: 100%;
-  }
-
-  .row {
-    margin-bottom: 0.5rem;
-  }
-
-  .actions {
-    margin-top: 2rem;
-    text-align: center;
-
-    button {
-      display: block;
-      margin-bottom: 2rem;
-      width: 100%;
-    }
-  }
-}
-
 .list-no-style {
   list-style-type: none;
 }
