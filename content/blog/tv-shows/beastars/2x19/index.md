@@ -1,6 +1,6 @@
 ---
 type: series
-title: "2x19"
+title: "Beastars 2x19"
 date: "2021-08-01T18:46:33"
 name: "Beastars"
 season: 2
