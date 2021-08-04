@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/5x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/beastars/2x24/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/beastars/2x23/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -578,8 +579,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/boku-no-tonari-ni-ankoku-hakaishin-ga-imasu/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/2x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-office/3x16/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/movies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
