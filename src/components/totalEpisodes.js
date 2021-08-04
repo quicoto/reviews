@@ -18,7 +18,11 @@ const TotalEpisodes = () => (
       let edges = JSON.parse(JSON.stringify(data, null, 4)).allMarkdownRemark
         .edges
 
-      return <div className="widgets-number">{new Intl.NumberFormat().format(edges.length)}</div>
+      return (
+        <div className="widgets-number">
+          {new Intl.NumberFormat().format(edges.length)}
+        </div>
+      )
     }}
   ></StaticQuery>
 )

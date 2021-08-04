@@ -1,6 +1,6 @@
 ---
 type: series
-time: time: 25
+time: 25
 title: UPLOAD 1x10
 date: "2020-05-29T00:00:00"
 name: "UPLOAD"
