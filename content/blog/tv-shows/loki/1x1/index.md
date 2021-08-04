@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "Loki 1x1"
 date: "2021-06-13T00:00:00"
 name: "Loki"

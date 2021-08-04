@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Hataraku Saibou 1x1"
 date: "2021-05-24T00:00:00"
 name: "Hataraku Saibou"

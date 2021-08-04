@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Black Clover 1x1"
 date: "2020-11-30T00:00:00"
 name: "Black Clover"

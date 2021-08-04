@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Final Space 3x1"
 date: "2021-03-21T00:00:00"
 name: "Final Space"

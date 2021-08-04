@@ -1,5 +1,6 @@
 ---
 type: series
+time: 120
 title: "The Comey Rule 1x1"
 date: "2020-09-30T00:00:00"
 name: "The Comey Rule"

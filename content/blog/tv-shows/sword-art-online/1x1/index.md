@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Sword Art Online 1x1"
 date: "2020-08-10T00:00:00"
 name: "Sword Art Online"

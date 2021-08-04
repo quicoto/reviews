@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Gekkan Shoujo Nozaki-kun 1x1
 date: "2020-05-30T00:00:00"
 name: "Gekkan Shoujo Nozaki-kun"

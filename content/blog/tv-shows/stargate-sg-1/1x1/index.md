@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Stargate SG-1 1x1"
 date: "2021-05-17T00:00:00"
 name: "Stargate SG-1"

@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Luther 1x1"
 date: "2021-06-06T00:00:00"
 name: "Luther"

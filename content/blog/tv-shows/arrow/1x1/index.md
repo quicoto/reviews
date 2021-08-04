@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Arrow 1x1"
 date: "2021-06-12T00:00:00"
 name: "Arrow"

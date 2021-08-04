@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Tsurune 1x1
 date: "2020-06-01T00:00:00"
 name: "Tsurune"

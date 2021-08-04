@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Araburu Kisetsu no Otome-domo yo 1x12
 date: "2020-05-30T00:00:00"
 name: "Araburu Kisetsu no Otome-domo yo"

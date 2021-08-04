@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Kakushigoto 1x5
 date: "2020-05-19T00:00:00"
 name: "Kakushigoto"

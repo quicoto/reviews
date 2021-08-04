@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Atypical 4x1"
 date: "2021-07-09T00:00:00"
 name: "Atypical"

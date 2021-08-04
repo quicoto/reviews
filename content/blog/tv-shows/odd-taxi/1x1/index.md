@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Odd Taxi 1x1"
 date: "2021-08-03T00:00:00"
 name: "Odd Taxi"

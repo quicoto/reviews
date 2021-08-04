@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Major 2nd 2x5
 date: "2020-05-30T00:00:00"
 name: "Major 2nd"

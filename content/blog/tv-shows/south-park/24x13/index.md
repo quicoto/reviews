@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "South Park 24x13"
 date: "2020-10-01T00:00:00"
 name: "South Park"

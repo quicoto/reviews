@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Seinfeld 1x1"
 date: "2020-09-07T00:00:00"
 name: "Seinfeld"

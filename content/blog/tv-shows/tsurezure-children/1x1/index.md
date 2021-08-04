@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Tsurezure Children 1x1
 date: "2020-05-30T00:00:00"
 name: "Tsurezure Children"

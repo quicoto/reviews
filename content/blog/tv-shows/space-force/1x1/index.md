@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Space Force 1x1
 date: "2020-05-29T00:00:00"
 name: "Space Force"

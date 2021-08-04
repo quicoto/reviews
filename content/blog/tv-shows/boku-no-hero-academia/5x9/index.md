@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Boku no Hero Academia 5x9"
 date: "2021-05-24T00:00:00"
 name: "Boku no Hero Academia"

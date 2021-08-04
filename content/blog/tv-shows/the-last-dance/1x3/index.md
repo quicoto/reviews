@@ -1,5 +1,6 @@
 ---
 type: series
+time: 120
 title: The Last Dance 1x3
 date: "2020-05-17T00:00:00"
 name: "The Last Dance"

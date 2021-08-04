@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Hoops 1x4"
 date: "2020-08-21T00:00:00"
 name: "Hoops"

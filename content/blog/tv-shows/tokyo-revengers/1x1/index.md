@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Tokyo Revengers 1x1"
 date: "2021-05-30T00:00:00"
 name: "Tokyo Revengers"

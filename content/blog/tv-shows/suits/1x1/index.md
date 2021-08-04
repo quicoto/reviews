@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Suits 1x1"
 date: "2020-07-22T00:00:00"
 name: "Suits"

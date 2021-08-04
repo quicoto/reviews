@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Community 2x14"
 date: "2021-06-15T00:00:00"
 name: "Community"

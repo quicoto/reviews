@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Where Your Eyes Linger 1x1"
 date: "2020-07-16T00:00:00"
 name: "Where Your Eyes Linger"

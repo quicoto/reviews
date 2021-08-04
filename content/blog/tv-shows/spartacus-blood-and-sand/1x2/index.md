@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Spartacus: Blood and Sand 1x2"
 date: "2020-07-05T00:00:00"
 name: "Spartacus: Blood and Sand"

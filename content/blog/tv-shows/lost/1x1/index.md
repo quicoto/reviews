@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Lost 1x1"
 date: "2020-09-09T00:00:00"
 name: "Lost"

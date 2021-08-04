@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "The Good Doctor 4x1"
 date: "2020-11-03T00:00:00"
 name: "The Good Doctor"

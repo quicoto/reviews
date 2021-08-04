@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: Veep 1x1
 date: "2020-06-12T00:00:00"
 name: "Veep"

@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Star Trek: Discovery 3x1"
 date: "2020-10-18T00:00:00"
 name: "Star Trek: Discovery"

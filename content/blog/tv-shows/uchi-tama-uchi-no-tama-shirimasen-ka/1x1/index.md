@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Uchi Tama - Uchi no Tama Shirimasen ka 1x1
 date: "2020-05-24T00:00:00"
 name: "Uchi Tama - Uchi no Tama Shirimasen ka"

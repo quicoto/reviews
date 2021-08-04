@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "The Queen's Gambit 1x1"
 date: "2020-11-07T00:00:00"
 name: "The Queen's Gambit"

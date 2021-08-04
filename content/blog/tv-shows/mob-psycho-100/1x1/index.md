@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Mob Psycho 100 1x1"
 date: "2020-08-20T00:00:00"
 name: "Mob Psycho 100"

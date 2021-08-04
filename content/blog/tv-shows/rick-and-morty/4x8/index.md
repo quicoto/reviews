@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Rick and Morty 4x8
 date: "2020-05-18T00:00:00"
 name: "Rick and Morty"

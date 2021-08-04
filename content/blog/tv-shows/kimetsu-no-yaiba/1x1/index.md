@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Kimetsu no Yaiba 1x1"
 date: "2021-05-20T00:00:00"
 name: "Kimetsu no Yaiba"

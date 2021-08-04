@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Lupin 1x1"
 date: "2021-01-10T00:00:00"
 name: "Lupin"

@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: Watashi ga Motete Dousunda 1x1
 date: "2020-06-16T00:00:00"
 name: "Watashi ga Motete Dousunda"

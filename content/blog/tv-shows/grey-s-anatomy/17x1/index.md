@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Grey's Anatomy 17x1"
 date: "2020-11-13T00:00:00"
 name: "Grey's Anatomy"

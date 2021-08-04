@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Ijiranaide Nagatoro-san 1x1"
 date: "2021-06-27T00:00:00"
 name: "Ijiranaide Nagatoro-san"

@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Giri/Haji 1x1"
 date: "2020-11-26T00:00:00"
 name: "Giri/Haji"

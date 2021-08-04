@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Cobra Kai 3x10"
 date: "2021-01-02T00:00:00"
 name: "Cobra Kai"

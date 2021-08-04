@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "The Umbrella Academy 2x1"
 date: "2020-07-31T00:00:00"
 name: "The Umbrella Academy"

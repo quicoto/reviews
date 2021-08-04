@@ -2,6 +2,7 @@
 import React from "react"
 import { PageProps, Link, graphql } from "gatsby"
 
+import TotalTime from "../components/totalTime"
 import TotalMovies from "../components/totalMovies"
 import TotalEpisodes from "../components/totalEpisodes"
 import TopShows from "../components/topShows"
@@ -41,6 +42,10 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
         <div className="widgets-column">
           <h2>Total movies</h2>
           <TotalMovies />
+        </div>
+        <div className="widgets-column">
+          <h2>Time spent</h2>
+          <TotalTime />
         </div>
       </div>
 

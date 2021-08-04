@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Beastars 1x1"
 date: "2021-07-18T00:00:00"
 name: "Beastars"

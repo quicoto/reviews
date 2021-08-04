@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Fugou Keiji Balance - UNLIMITED 1x1"
 date: "2020-08-18T00:00:00"
 name: "Fugou Keiji Balance - UNLIMITED"

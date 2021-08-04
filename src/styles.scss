@@ -96,6 +96,14 @@ $green: #109649;
   &-number {
     color: $green;
     font-size: 3rem;
+
+    &--time {
+      font-size: 1.5rem;
+
+      p {
+        margin-bottom: 0;
+      }
+    }
   }
 }
 
