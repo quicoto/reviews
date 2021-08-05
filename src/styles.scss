@@ -117,8 +117,12 @@ $green: #109649;
 }
 
 .bio {
-  display: flex;
   font-size: 18px;
+
+  &Heading {
+    margin: 0 0 1rem 0;
+    text-transform: none;
+  }
 }
 
 .nav {
