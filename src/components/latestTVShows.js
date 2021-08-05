@@ -8,7 +8,7 @@ const LatestMovies = props => (
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
-          limit: 5
+          limit: 6
           filter: { frontmatter: { type: { eq: "series" } } }
         ) {
           edges {
@@ -17,6 +17,7 @@ const LatestMovies = props => (
                 slug
               }
               frontmatter {
+                name
                 date(formatString: "MMMM DD, YYYY")
                 title
                 rating
@@ -32,8 +33,8 @@ const LatestMovies = props => (
         .edges
 
       return (
-        <div>
-          <List edges={edges} />
+        <div className="latestItems">
+          <List edges={edges} cover={true}/>
         </div>
       )
     }}

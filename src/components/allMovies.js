@@ -16,6 +16,7 @@ const AllMovies = props => (
                 slug
               }
               frontmatter {
+                name
                 date(formatString: "MMMM DD, YYYY")
                 title
                 rating

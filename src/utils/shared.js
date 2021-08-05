@@ -1,8 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
+import Cover from "../components/cover"
 import starFull from "../../content/assets/star.svg"
 import starEmpty from "../../content/assets/star-empty.svg"
 import starHalf from "../../content/assets/star-half.svg"
+const slugify = require("@sindresorhus/slugify")
 
 /**
  * @param  {number} number
@@ -16,6 +18,7 @@ export function roundHalf(number) {
  * @param  {Object} props
  */
 export function Item(props) {
+  const name = props.item.node.frontmatter.name
   const title = props.item.node.frontmatter.title
   const slug = props.item.node.fields.slug
   const rating = props.item.node.frontmatter.rating
@@ -23,37 +26,23 @@ export function Item(props) {
 
   return (
     <li>
-      <h3
-        style={{
-          marginTop: 0,
-          marginBottom: "2rem",
-        }}
-      >
+      <h3 className="itemHeading">
         <Link
           title={"Review: " + title}
-          style={{
-            display: "block",
-            boxShadow: `none`,
-            marginBottom: "10px",
-            marginRight: "15px",
-          }}
+          className="itemLink"
           to={slug}
         >
-          {title}
+          {props.cover &&
+            <Cover
+              props
+              slug={slugify(name)}
+              name={name}
+            />
+          }
+          <div>{title}</div>
         </Link>
-        <span
-          style={{
-            alignItems: "center",
-            display: "flex",
-          }}
-        >
-          <small
-            style={{
-              display: "block",
-              fontSize: `60%`,
-              marginRight: "15px",
-            }}
-          >
+        <span className="itemRatingWrapper">
+          <small className="itemRatingDate">
             {date}
           </small>
           <span
@@ -77,7 +66,7 @@ export function List(props) {
   return (
     <ul className="list-no-style">
       {props.edges.map(item => (
-        <Item key={item.node.id} item={item} />
+        <Item key={item.node.id} item={item} cover={props.cover} />
       ))}
     </ul>
   )
