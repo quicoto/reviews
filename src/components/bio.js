@@ -28,9 +28,7 @@ const Bio = () => {
   return (
     <div className="bio">
       <h3 className="bioHeading">{author.name}</h3>
-      <p>
-        {author.summary}
-      </p>
+      <p>{author.summary}</p>
     </div>
   )
 }

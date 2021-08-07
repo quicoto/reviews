@@ -27,24 +27,12 @@ export function Item(props) {
   return (
     <li>
       <h3 className="itemHeading">
-        <Link
-          title={"Review: " + title}
-          className="itemLink"
-          to={slug}
-        >
-          {props.cover &&
-            <Cover
-              props
-              slug={slugify(name)}
-              name={name}
-            />
-          }
+        <Link title={"Review: " + title} className="itemLink" to={slug}>
+          {props.cover && <Cover props slug={slugify(name)} name={name} />}
           <div>{title}</div>
         </Link>
         <span className="itemRatingWrapper">
-          <small className="itemRatingDate">
-            {date}
-          </small>
+          <small className="itemRatingDate">{date}</small>
           <span
             className="rating"
             style={{

@@ -34,7 +34,7 @@ const LatestMovies = props => (
 
       return (
         <div className="latestItems">
-          <List edges={edges} cover={true}/>
+          <List edges={edges} cover={true} />
         </div>
       )
     }}

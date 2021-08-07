@@ -12,4 +12,4 @@ share: false
 
 How the roasted Grey's Anatomy? Priceless.
 
-Such a good drama, when they start showing kids and animals it feels like a cheap trick. Still, the episode felt good, and as the doctor said we need to focus on the miracles. Maybe in our lives too, even if we're not saving anyone dwelling too much in negativity is just not healthy. 
+Such a good drama, when they start showing kids and animals it feels like a cheap trick. Still, the episode felt good, and as the doctor said we need to focus on the miracles. Maybe in our lives too, even if we're not saving anyone dwelling too much in negativity is just not healthy.
