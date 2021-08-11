@@ -1,6 +1,6 @@
 # Ricard Torres Reviews
 
-Gatbsy blog to post my TV Shows reviews.
+Gatbsy blog to post my TV Shows and Movies reviews.
 
 ## Review Builder
 
