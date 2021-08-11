@@ -1,5 +1,6 @@
 ---
 type: series
+time: 50
 title: "My First First Love 1x1"
 date: "2021-08-11T00:00:00"
 name: "My First First Love"
