@@ -1,5 +1,6 @@
 ---
 type: series
+time: 125
 title: "Racket Boys 1x1"
 date: "2021-08-19T00:00:00"
 name: "Racket Boys"
