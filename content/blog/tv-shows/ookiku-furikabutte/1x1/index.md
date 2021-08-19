@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Ookiku Furikabutte 1x1"
 date: "2021-08-19T00:00:00"
 name: "Ookiku Furikabutte"
