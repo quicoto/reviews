@@ -1,0 +1,13 @@
+---
+type: series
+title: "Racket Boys 1x3"
+date: "2021-08-19T23:19:28"
+name: "Racket Boys"
+season: 1
+episode: 3
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
+---
+
+*[No review was written for this episode]*
