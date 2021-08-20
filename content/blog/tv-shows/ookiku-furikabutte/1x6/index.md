@@ -1,8 +1,8 @@
 ---
 type: series
-title: "ookiku-furikabutte 1x6"
+title: "Ookiku Furikabutte 1x6"
 date: "2021-08-20T11:32:47"
-name: "ookiku-furikabutte"
+name: "Ookiku Furikabutte"
 season: 1
 episode: 6
 rating: 4
