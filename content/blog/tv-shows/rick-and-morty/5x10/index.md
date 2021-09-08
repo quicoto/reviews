@@ -7,7 +7,7 @@ season: 5
 episode: 10
 rating: 5
 ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
-share: false
+share: true
 ---
 
 Brutally meta, the back story, the evil Morty... too much to digest!
