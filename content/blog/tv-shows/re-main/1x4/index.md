@@ -1,8 +1,8 @@
 ---
 type: series
-title: "Re-main 1x4"
+title: "Re-Main 1x4"
 date: "2021-08-29T16:02:06"
-name: "Re-main"
+name: "Re-Main"
 season: 1
 episode: 4
 rating: 4
