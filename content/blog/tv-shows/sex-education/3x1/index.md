@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "Sex Education 3x1"
 date: "2021-09-17T23:02:18"
 name: "Sex Education"
