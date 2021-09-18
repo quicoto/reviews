@@ -39,7 +39,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
-    "prettier": "2.1.2"
+    "prettier": "2.4.1"
   },
   "homepage": "https://quicoto.github.io/reviews/",
   "license": "MIT",
