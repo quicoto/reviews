@@ -12,4 +12,4 @@ share: true
 
 The plot thickens. I like we can not really guess what's going to happen. I suppose he'll get vetted and infiltrate the inner circle. But will he be able to bring him down?
 
-I did  not fully understand why he had to die in that old town, why do the drug trafficking? Was it all part of the cover? Felt a little unnecessary when Angela's deputy simply made up the charges after knowing he had "crossed the bridge"
+I did not fully understand why he had to die in that old town, why do the drug trafficking? Was it all part of the cover? Felt a little unnecessary when Angela's deputy simply made up the charges after knowing he had "crossed the bridge"

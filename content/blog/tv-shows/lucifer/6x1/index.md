@@ -10,6 +10,6 @@ ratingEmoji: "⭐️⭐️⭐️"
 share: true
 ---
 
-I was expecting more. I don't know. It was not bad, just average. Below what we saw in the last episodes of the previous season. 
+I was expecting more. I don't know. It was not bad, just average. Below what we saw in the last episodes of the previous season.
 
 Linda is still the best character.

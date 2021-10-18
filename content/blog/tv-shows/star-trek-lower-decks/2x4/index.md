@@ -12,4 +12,4 @@ share: true
 
 So Mariner is simply good at everything? They say sports but ends up beating them at the economy/monopoly. Poor dudes.
 
-The whole black ops thing was funny. Especially at the end when she starts yet another rumor but about those two. 
+The whole black ops thing was funny. Especially at the end when she starts yet another rumor but about those two.
