@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "Sijipeuseu: The Myth 1x1"
 date: "2021-10-18T00:00:00"
 name: "Sijipeuseu: The Myth"
