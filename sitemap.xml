@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x5/--- type: series title: &quot;Inside Job 1x5&quot; date: &quot;2021-11-01T19:36:45&quot; name: &quot;Inside Job&quot; season: 1 episode: 5 rating: 3 ratingEmoji: &quot;⭐️⭐️⭐️&quot; share: false --- *[No review was written for this episode]*index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/another-life/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/inside-job/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -102,10 +106,10 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x14/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x16/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x17/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x18/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x19/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x20/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -176,8 +180,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/racket-boys/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/movies/burn-after-reading/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x16/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x21/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x20/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x21/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x14/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -543,8 +547,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x161/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/major-2nd/2x13/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x22/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x24/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x23/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x24/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x25/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x20/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x21/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -590,8 +594,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x11/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -669,9 +673,9 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/spartacus-gods-of-the-arena/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -748,8 +752,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/2x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/major-2nd/2x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/movies/onward/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/3d-kanojo-real-girl/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/3d-kanojo-real-girl/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/3d-kanojo-real-girl/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/wotaku-ni-koi-wa-muzukashii/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/wotaku-ni-koi-wa-muzukashii/1x11/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/wotaku-ni-koi-wa-muzukashii/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -769,12 +773,12 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/tsurune/1x9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/movies/koe-no-katachi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/gekkan-shoujo-nozaki-kun/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/gekkan-shoujo-nozaki-kun/1x3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/gekkan-shoujo-nozaki-kun/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/gekkan-shoujo-nozaki-kun/1x2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/araburu-kisetsu-no-otome-domo-yo/1x12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/gekkan-shoujo-nozaki-kun/1x1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/2x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -805,8 +809,8 @@
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/boku-no-tonari-ni-ankoku-hakaishin-ga-imasu/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kakushigoto/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/4x8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/the-last-dance/1x4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/2x6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
