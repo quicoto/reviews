@@ -2,9 +2,9 @@ name: Build and Deploy
 on:
   # Trigger the workflow on push
   # but only for the master branch
-  # push:
-    # branches:
-      # - master
+  push:
+    branches:
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
