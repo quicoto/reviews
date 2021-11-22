@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkricard_torres_reviews=self.webpackChunkricard_torres_reviews||[]).push([[883],{9616:function(e,t,a){a.r(t);var r=a(7294),n=a(4824),s=a(9524);t.default=function(e){var t=e.data,a=e.location,i=t.site.siteMetadata.title;return r.createElement(n.Z,{location:a,title:i},r.createElement(s.Z,{title:"404: Not Found"}),r.createElement("h1",null,"Not Found"),r.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-8fd056778cab8d52a6df.js.map
