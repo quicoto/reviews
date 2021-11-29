@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/cowboy-bebop-2021/1x3/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"c753757f-f907-51a7-a501-8169de18200b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cowboy Bebop (2021)","title":"Cowboy Bebop (2021) 1x3","date":"November 29, 2021","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cowboy-bebop-2021/1x3/","previous":{"fields":{"slug":"/tv-shows/hawkeye/1x2/"},"frontmatter":{"title":"Hawkeye 1x2"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
