@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/cowboy-bebop-2021/1x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"75c827e3-cfa1-540d-b0a8-7c56cbcabd7d","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cowboy Bebop (2021)","title":"Cowboy Bebop (2021) 1x6","date":"December 03, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cowboy-bebop-2021/1x6/","previous":{"fields":{"slug":"/tv-shows/cowboy-bebop-2021/1x5/"},"frontmatter":{"title":"Cowboy Bebop (2021) 1x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
