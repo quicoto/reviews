@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kimetsu-no-yaiba/2x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"30732199-bff8-5601-948d-4a36ab476943","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kimetsu no Yaiba","title":"Kimetsu no Yaiba 2x4","date":"December 08, 2021","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kimetsu-no-yaiba/2x4/","previous":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/2x5/"},"frontmatter":{"title":"Kimetsu no Yaiba 2x5"}},"next":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/2x3/"},"frontmatter":{"title":"Kimetsu no Yaiba 2x3"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
