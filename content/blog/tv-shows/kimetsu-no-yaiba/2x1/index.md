@@ -1,12 +1,12 @@
 ---
 type: series
 title: "Kimetsu no Yaiba 2x1"
-date: "2021-11-01T20:20:43"
+date: "2021-12-08T20:20:43"
 name: "Kimetsu no Yaiba"
 season: 2
 episode: 1
-rating: 1
-ratingEmoji: "⭐️"
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
 share: false
 ---
 
