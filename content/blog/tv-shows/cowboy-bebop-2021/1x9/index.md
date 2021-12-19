@@ -5,8 +5,8 @@ date: "2021-12-05T22:28:51"
 name: "Cowboy Bebop (2021)"
 season: 1
 episode: 9
-rating: 3
-ratingEmoji: "⭐️⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
 
