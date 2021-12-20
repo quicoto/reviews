@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/white-collar/1x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a41b025c-fc84-506f-a3a1-b8936d56835a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 1x11","date":"December 20, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/1x11/","previous":{"fields":{"slug":"/tv-shows/star-trek-discovery/4x2/"},"frontmatter":{"title":"Star Trek: Discovery 4x2"}},"next":{"fields":{"slug":"/tv-shows/white-collar/1x10/"},"frontmatter":{"title":"White Collar 1x10"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
