@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/white-collar/2x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e9ad9398-a25b-5df7-9552-1e6061d4ba35","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 2x1","date":"December 26, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/2x1/","previous":{"fields":{"slug":"/tv-shows/white-collar/1x13/"},"frontmatter":{"title":"White Collar 1x13"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
