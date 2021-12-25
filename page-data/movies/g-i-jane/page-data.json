@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/g-i-jane/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d77424cf-cf3b-5e18-826e-0c8737e7115c","excerpt":"","html":"","frontmatter":{"name":"G.I. Jane","title":"G.I. Jane","date":"December 25, 2021","rating":4,"type":"movie"}}},"pageContext":{"slug":"/movies/g-i-jane/","previous":{"fields":{"slug":"/movies/the-matrix-resurrections/"},"frontmatter":{"title":"The Matrix Resurrections"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
