@@ -4,7 +4,7 @@ import Cover from "../components/cover"
 import starFull from "../../content/assets/star.svg"
 import starEmpty from "../../content/assets/star-empty.svg"
 import starHalf from "../../content/assets/star-half.svg"
-import slugify from '@sindresorhus/slugify'
+import slugify from "@sindresorhus/slugify"
 
 /**
  * @param  {number} number

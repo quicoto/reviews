@@ -1,7 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql, Link } from "gatsby"
 import { stars, roundHalf } from "../utils/shared"
-import slugify from '@sindresorhus/slugify'
+import slugify from "@sindresorhus/slugify"
 
 function ShowItem(props) {
   const name = props.show

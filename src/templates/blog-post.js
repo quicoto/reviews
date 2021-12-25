@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 import Cover from "../components/cover"
 import { rhythm, scale } from "../utils/typography"
 import { stars } from "../utils/shared"
-import slugify from '@sindresorhus/slugify'
+import slugify from "@sindresorhus/slugify"
 
 function MoreLink(props) {
   const post = props.post
