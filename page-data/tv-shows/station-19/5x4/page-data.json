@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/station-19/5x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f512191f-e81f-5283-9753-93ccfaf8a05b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Station 19","title":"Station 19 5x4","date":"December 27, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/station-19/5x4/","previous":{"fields":{"slug":"/tv-shows/station-19/5x3/"},"frontmatter":{"title":"Station 19 5x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
