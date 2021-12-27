@@ -56,22 +56,11 @@ const TotalTime = () => (
       })
 
       const hours = Math.round((movies.length * 120) / 60 + seriesMinutes / 60)
-      const days = Math.round(hours / 24)
-      const months = Math.round(days / 30)
-      const years = Math.round(months / 12)
 
       return (
         <div className="widgets-number widgets-number--time">
           <p hidden={hours === 0}>
             {new Intl.NumberFormat().format(hours)} hours
-          </p>
-          <p hidden={days === 0}>{new Intl.NumberFormat().format(days)} days</p>
-          <p hidden={months === 0}>
-            {new Intl.NumberFormat().format(months)} month
-            {months > 1 ? "s" : ""}
-          </p>
-          <p hidden={years === 0}>
-            {new Intl.NumberFormat().format(years)} years
           </p>
         </div>
       )
