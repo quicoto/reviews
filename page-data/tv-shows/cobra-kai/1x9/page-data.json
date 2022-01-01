@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/cobra-kai/1x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f0027559-49f0-52bc-bd11-4d2e973e59b4","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cobra Kai","title":"Cobra Kai 1x9","date":"January 01, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cobra-kai/1x9/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x1/"},"frontmatter":{"title":"Cobra Kai 4x1"}},"next":{"fields":{"slug":"/tv-shows/cobra-kai/1x8/"},"frontmatter":{"title":"Cobra Kai 1x8"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
