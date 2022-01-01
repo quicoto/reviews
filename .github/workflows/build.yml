@@ -4,7 +4,7 @@ on:
   # but only for the master branch
   push:
     branches:
-      - old_master
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
