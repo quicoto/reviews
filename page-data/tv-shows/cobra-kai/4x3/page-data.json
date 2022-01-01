@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/cobra-kai/4x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1dcd707b-15e9-576a-98cf-d52eabc73750","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cobra Kai","title":"Cobra Kai 4x3","date":"January 01, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cobra-kai/4x3/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x2/"},"frontmatter":{"title":"Cobra Kai 4x2"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1dcd707b-15e9-576a-98cf-d52eabc73750","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cobra Kai","title":"Cobra Kai 4x3","date":"January 01, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cobra-kai/4x3/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x4/"},"frontmatter":{"title":"Cobra Kai 4x4"}},"next":null}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
