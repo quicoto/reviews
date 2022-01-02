@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/cobra-kai/4x10/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"06e34346-d3c1-5e76-afbd-719da398899b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Cobra Kai","title":"Cobra Kai 4x10","date":"January 02, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/cobra-kai/4x10/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x8/"},"frontmatter":{"title":"Cobra Kai 4x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
