@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Haikyuu!! 1x1"
 date: "2022-01-06T22:08:56"
 name: "Haikyuu!!"
