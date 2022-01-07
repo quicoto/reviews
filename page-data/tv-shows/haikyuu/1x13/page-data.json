@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/haikyuu/1x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b775ca6f-aa53-56ba-9912-fd35db834b5a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 1x13","date":"January 07, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/1x13/","previous":{"fields":{"slug":"/tv-shows/the-book-of-boba-fett/1x3/"},"frontmatter":{"title":"The Book of Boba Fett 1x3"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b775ca6f-aa53-56ba-9912-fd35db834b5a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 1x13","date":"January 07, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/1x13/","previous":{"fields":{"slug":"/tv-shows/haikyuu/1x14/"},"frontmatter":{"title":"Haikyuu!! 1x14"}},"next":null}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
