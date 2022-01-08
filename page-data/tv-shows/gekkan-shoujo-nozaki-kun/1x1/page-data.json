@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/gekkan-shoujo-nozaki-kun/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a29b5773-f09b-563b-9a16-56a4d1bc7643","excerpt":"Alright, I’m interested. Interesting that the dude is a manga artist writing a love novel while acknowledging he lacks the experience. A new character makes…","html":"<p>Alright, I’m interested. Interesting that the dude is a manga artist writing a love novel while acknowledging he lacks the experience.</p>\n<p>A new character makes appearance in the last second, let’s see how this evolves.</p>","frontmatter":{"name":"Gekkan Shoujo Nozaki-kun","title":"Gekkan Shoujo Nozaki-kun 1x1","date":"May 30, 2020","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/gekkan-shoujo-nozaki-kun/1x1/","previous":null,"next":{"fields":{"slug":"/tv-shows/araburu-kisetsu-no-otome-domo-yo/1x12/"},"frontmatter":{"title":"Araburu Kisetsu no Otome-domo yo 1x12"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
