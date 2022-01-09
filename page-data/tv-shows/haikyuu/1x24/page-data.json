@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/haikyuu/1x24/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1c3102b0-1e65-57e2-b694-60f95b038828","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 1x24","date":"January 09, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/1x24/","previous":{"fields":{"slug":"/tv-shows/the-office/6x2/"},"frontmatter":{"title":"The Office 6x2"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/1x23/"},"frontmatter":{"title":"Haikyuu!! 1x23"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
