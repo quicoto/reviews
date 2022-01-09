@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/the-office/6x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bf856866-0a10-562e-b8f1-955be1a2ebc7","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office","title":"The Office 6x2","date":"January 09, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office/6x2/","previous":{"fields":{"slug":"/tv-shows/haikyuu/1x18/"},"frontmatter":{"title":"Haikyuu!! 1x18"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
