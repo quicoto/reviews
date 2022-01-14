@@ -5,8 +5,8 @@ date: "2022-01-07T16:45:07"
 name: "The Book of Boba Fett"
 season: 1
 episode: 3
-rating: 4
-ratingEmoji: "⭐️⭐️⭐️⭐️"
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
 share: false
 ---
 
