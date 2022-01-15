@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/our-beloved-summer/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"18f0f2d6-c786-5c04-bb85-6a8c6a209cd7","excerpt":"","html":"","frontmatter":{"name":"Our Beloved Summer","title":"Our Beloved Summer 1x1","date":"January 02, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/our-beloved-summer/1x1/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x4/"},"frontmatter":{"title":"Cobra Kai 4x4"}},"next":{"fields":{"slug":"/tv-shows/cobra-kai/4x6/"},"frontmatter":{"title":"Cobra Kai 4x6"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"18f0f2d6-c786-5c04-bb85-6a8c6a209cd7","excerpt":"","html":"","frontmatter":{"name":"Our Beloved Summer","title":"Our Beloved Summer 1x1","date":"January 02, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/our-beloved-summer/1x1/","previous":{"fields":{"slug":"/tv-shows/cobra-kai/4x3/"},"frontmatter":{"title":"Cobra Kai 4x3"}},"next":{"fields":{"slug":"/tv-shows/cobra-kai/4x6/"},"frontmatter":{"title":"Cobra Kai 4x6"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
