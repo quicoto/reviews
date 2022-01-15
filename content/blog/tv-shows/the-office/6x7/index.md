@@ -5,8 +5,8 @@ date: "2022-01-14T21:29:55"
 name: "The Office"
 season: 6
 episode: 7
-rating: 2
-ratingEmoji: "⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
 
