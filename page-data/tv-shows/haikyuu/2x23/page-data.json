@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/haikyuu/2x23/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ae6e0ca4-9f8f-5bd1-bb67-187e78898445","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 2x23","date":"January 16, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/2x23/","previous":{"fields":{"slug":"/tv-shows/haikyuu/2x18/"},"frontmatter":{"title":"Haikyuu!! 2x18"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/2x22/"},"frontmatter":{"title":"Haikyuu!! 2x22"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
