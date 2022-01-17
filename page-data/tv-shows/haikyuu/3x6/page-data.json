@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/haikyuu/3x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1b96fc77-e6df-5d7f-bb11-a1074883f0c6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 3x6","date":"January 17, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/3x6/","previous":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/3x6/"},"frontmatter":{"title":"Kimetsu no Yaiba 3x6"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/3x5/"},"frontmatter":{"title":"Haikyuu!! 3x5"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
