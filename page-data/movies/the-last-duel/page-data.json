@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/the-last-duel/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"6753f151-66f3-5665-b819-81000904898b","excerpt":"","html":"","frontmatter":{"name":"The Last Duel","title":"The Last Duel","date":"January 23, 2022","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-last-duel/","previous":{"fields":{"slug":"/tv-shows/star-trek-discovery/4x7/"},"frontmatter":{"title":"Star Trek: Discovery 4x7"}},"next":{"fields":{"slug":"/tv-shows/the-book-of-boba-fett/1x4/"},"frontmatter":{"title":"The Book of Boba Fett 1x4"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
