@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/stargate-sg-1/2x18/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8fca818b-eb96-540b-a014-7b8b4682f2e6","excerpt":"","html":"","frontmatter":{"name":"Stargate SG-1","title":"Stargate SG-1 2x18","date":"September 03, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/stargate-sg-1/2x18/","previous":{"fields":{"slug":"/tv-shows/stargate-sg-1/2x19/"},"frontmatter":{"title":"Stargate SG-1 2x19"}},"next":{"fields":{"slug":"/tv-shows/stargate-sg-1/2x17/"},"frontmatter":{"title":"Stargate SG-1 2x17"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8fca818b-eb96-540b-a014-7b8b4682f2e6","excerpt":"","html":"","frontmatter":{"name":"Stargate SG-1","title":"Stargate SG-1 2x18","date":"September 03, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/stargate-sg-1/2x18/","previous":{"fields":{"slug":"/tv-shows/the-night-manager/1x2/"},"frontmatter":{"title":"The Night Manager 1x2"}},"next":{"fields":{"slug":"/tv-shows/stargate-sg-1/2x22/"},"frontmatter":{"title":"Stargate SG-1 2x22"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
