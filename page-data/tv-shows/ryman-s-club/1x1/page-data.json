@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/ryman-s-club/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"c2fea2a9-5d93-526c-be7d-4adac73fd6e6","excerpt":"","html":"","frontmatter":{"name":"Ryman's Club","title":"Ryman's Club 1x1","date":"January 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ryman-s-club/1x1/","previous":{"fields":{"slug":"/tv-shows/the-office/6x14/"},"frontmatter":{"title":"The Office 6x14"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
