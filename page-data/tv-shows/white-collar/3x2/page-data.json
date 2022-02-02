@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/white-collar/3x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"03435cf8-1872-5318-b5ed-8aebeaa948a7","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x2","date":"February 02, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x2/","previous":{"fields":{"slug":"/tv-shows/white-collar/3x1/"},"frontmatter":{"title":"White Collar 3x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
