@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/das-boot/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f3bd70c8-3756-5bac-8793-1227d8cece2b","excerpt":"Interesting! After watching the movie Greyhound this felt natural, the other side of the coin. So far so good. I’m watching it in German, the original version…","html":"<p>Interesting! After watching the movie Greyhound this felt natural, the other side of the coin.</p>\n<p>So far so good. I’m watching it in German, the original version, with subtitles. So far interesting. Spying, WWII, and submarines. The props and productions look very expensive, very well done.</p>","frontmatter":{"name":"Das Boot","title":"Das Boot 1x1","date":"July 11, 2020","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/das-boot/1x1/","previous":null,"next":{"fields":{"slug":"/tv-shows/major-2nd/2x8/"},"frontmatter":{"title":"Major 2nd 2x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
