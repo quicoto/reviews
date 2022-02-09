@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2b40368e-bf8c-5cc6-b589-d2118bb5c68c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 1x8","date":"February 09, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/1x8/","previous":{"fields":{"slug":"/tv-shows/fringe/1x7/"},"frontmatter":{"title":"Fringe 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
