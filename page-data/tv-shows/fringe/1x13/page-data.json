@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/1x13/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9e9a4d79-9c96-54cf-af1e-8cbfa4c93dd3","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 1x13","date":"February 11, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/1x13/","previous":{"fields":{"slug":"/tv-shows/fringe/1x12/"},"frontmatter":{"title":"Fringe 1x12"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
