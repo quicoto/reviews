@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kimetsu-no-yaiba/3x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"6e01e6d1-1dba-52ef-b7ba-cda6f93996ca","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kimetsu no Yaiba","title":"Kimetsu no Yaiba 3x11","date":"February 13, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kimetsu-no-yaiba/3x11/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/3x3/"},"frontmatter":{"title":"Snowpiercer 3x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
