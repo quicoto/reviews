@@ -1,8 +1,8 @@
 ---
 type: series
-title: "ryman-s-club 1x4"
+title: "Ryman's Club 1x4"
 date: "2022-02-20T17:33:46"
-name: "ryman-s-club"
+name: "Ryman's Club"
 season: 1
 episode: 4
 rating: 3
