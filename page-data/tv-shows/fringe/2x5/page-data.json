@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/2x5/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8bbff3e8-1199-5848-9a5e-cb18bad91f13","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x5","date":"February 20, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x5/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/3x4/"},"frontmatter":{"title":"Snowpiercer 3x4"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8bbff3e8-1199-5848-9a5e-cb18bad91f13","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x5","date":"February 20, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x5/","previous":{"fields":{"slug":"/tv-shows/fringe/2x6/"},"frontmatter":{"title":"Fringe 2x6"}},"next":null}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
