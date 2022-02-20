@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/2x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"004a1c64-4c8d-5c2a-83ce-e76fffb772b0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x7","date":"February 20, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x7/","previous":{"fields":{"slug":"/tv-shows/south-park/25x3/"},"frontmatter":{"title":"South Park 25x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
