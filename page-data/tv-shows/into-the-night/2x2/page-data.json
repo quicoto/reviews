@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/into-the-night/2x2/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"94617516-6d99-580c-909c-d5483457eff1","excerpt":"","html":"","frontmatter":{"name":"Into the Night","title":"Into the Night 2x2","date":"September 11, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/into-the-night/2x2/","previous":{"fields":{"slug":"/tv-shows/into-the-night/2x1/"},"frontmatter":{"title":"Into the Night 2x1"}},"next":{"fields":{"slug":"/tv-shows/into-the-night/2x4/"},"frontmatter":{"title":"Into the Night 2x4"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"94617516-6d99-580c-909c-d5483457eff1","excerpt":"","html":"","frontmatter":{"name":"Into the Night","title":"Into the Night 2x2","date":"September 11, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/into-the-night/2x2/","previous":{"fields":{"slug":"/tv-shows/star-trek-lower-decks/2x5/"},"frontmatter":{"title":"Star Trek: Lower Decks 2x5"}},"next":{"fields":{"slug":"/tv-shows/into-the-night/2x1/"},"frontmatter":{"title":"Into the Night 2x1"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}

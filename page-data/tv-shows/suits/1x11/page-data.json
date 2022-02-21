@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/suits/1x11/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f3543b6d-a94f-5d85-8ff3-3a25eadd9f09","excerpt":"The dark past surfaces. Interesting times! Especially the golden nugget at the end. Rachel and Mike are going strong. I’ve never been fought over by two woman…","html":"<p>The dark past surfaces. Interesting times! Especially the golden nugget at the end.</p>\n<p>Rachel and Mike are going strong. I’ve never been fought over by two woman, but that’s something you can be proud of. Even if it might produce headaches 😂</p>","frontmatter":{"name":"Suits","title":"Suits 1x11","date":"July 26, 2020","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/suits/1x11/","previous":null,"next":{"fields":{"slug":"/tv-shows/suits/1x10/"},"frontmatter":{"title":"Suits 1x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
