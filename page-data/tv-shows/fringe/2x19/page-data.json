@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/2x19/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e92233a1-f50a-5071-80c1-8b0872966d23","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"fringe","title":"fringe 2x19","date":"February 26, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x19/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/3x5/"},"frontmatter":{"title":"snowpiercer 3x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
