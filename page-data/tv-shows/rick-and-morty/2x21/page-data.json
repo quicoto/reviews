@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/rick-and-morty/2x21/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"89dd1cb0-1d70-5a5a-a308-fab70b556305","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"rick-and-morty","title":"rick-and-morty 2x21","date":"February 27, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/rick-and-morty/2x21/","previous":{"fields":{"slug":"/tv-shows/fringe/2x20/"},"frontmatter":{"title":"fringe 2x20"}},"next":null}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
