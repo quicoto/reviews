@@ -1,8 +1,8 @@
 ---
 type: series
-title: "fringe 2x21"
+title: "Fringe 2x21"
 date: "2022-02-27T00:10:08"
-name: "fringe"
+name: "Fringe"
 season: 2
 episode: 21
 rating: 5
