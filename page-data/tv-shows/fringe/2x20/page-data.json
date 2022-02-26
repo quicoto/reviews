@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/2x20/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"45f6410d-084c-57a2-bbd0-86196ffcc4d9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"fringe","title":"fringe 2x20","date":"February 26, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x20/","previous":{"fields":{"slug":"/tv-shows/fringe/2x19/"},"frontmatter":{"title":"fringe 2x19"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"45f6410d-084c-57a2-bbd0-86196ffcc4d9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"fringe","title":"fringe 2x20","date":"February 26, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x20/","previous":{"fields":{"slug":"/tv-shows/fringe/2x19/"},"frontmatter":{"title":"fringe 2x19"}},"next":{"fields":{"slug":"/tv-shows/fringe/2x21/"},"frontmatter":{"title":"fringe 2x21"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
