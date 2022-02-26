@@ -1,8 +1,8 @@
 ---
 type: series
-title: "snowpiercer 3x5"
+title: "Snowpiercer 3x5"
 date: "2022-02-25T19:46:52"
-name: "snowpiercer"
+name: "Snowpiercer"
 season: 3
 episode: 5
 rating: 2
