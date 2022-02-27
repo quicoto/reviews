@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fc321488-8437-50ee-8faa-13af306c8d8a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x1","date":"February 27, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x1/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x5/"},"frontmatter":{"title":"Ryman's Club 1x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
