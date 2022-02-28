@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/3x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a006c97e-1110-5b4a-b4ee-f88fe9869de1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x6","date":"February 28, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x6/","previous":{"fields":{"slug":"/tv-shows/fringe/3x5/"},"frontmatter":{"title":"Fringe 3x5"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a006c97e-1110-5b4a-b4ee-f88fe9869de1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x6","date":"February 28, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x6/","previous":{"fields":{"slug":"/tv-shows/fringe/3x5/"},"frontmatter":{"title":"Fringe 3x5"}},"next":{"fields":{"slug":"/tv-shows/fringe/3x7/"},"frontmatter":{"title":"Fringe 3x7"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
