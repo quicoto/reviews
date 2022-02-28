@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/3x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bf108319-de91-58ed-ac94-9c87dd80dbc0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x4","date":"February 27, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x4/","previous":{"fields":{"slug":"/tv-shows/fringe/3x3/"},"frontmatter":{"title":"Fringe 3x3"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bf108319-de91-58ed-ac94-9c87dd80dbc0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x4","date":"February 27, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x4/","previous":{"fields":{"slug":"/tv-shows/fringe/3x3/"},"frontmatter":{"title":"Fringe 3x3"}},"next":{"fields":{"slug":"/tv-shows/white-collar/3x8/"},"frontmatter":{"title":"White Collar 3x8"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
