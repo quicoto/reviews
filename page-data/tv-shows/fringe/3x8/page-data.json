@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"db7e436b-1a16-574d-8417-71d33c4acb6c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x8","date":"February 28, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x8/","previous":{"fields":{"slug":"/tv-shows/fringe/3x7/"},"frontmatter":{"title":"Fringe 3x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
