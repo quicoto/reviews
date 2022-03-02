@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8fbbe591-7ec6-51e2-9bfc-dfb837d9f8b6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x11","date":"March 02, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x11/","previous":{"fields":{"slug":"/tv-shows/fringe/3x10/"},"frontmatter":{"title":"Fringe 3x10"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
