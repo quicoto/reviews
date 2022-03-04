@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/3x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e4b18aae-4401-5588-acb5-a7552324d1e8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x13","date":"March 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x13/","previous":{"fields":{"slug":"/tv-shows/fringe/3x12/"},"frontmatter":{"title":"Fringe 3x12"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e4b18aae-4401-5588-acb5-a7552324d1e8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x13","date":"March 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x13/","previous":{"fields":{"slug":"/tv-shows/fringe/3x12/"},"frontmatter":{"title":"Fringe 3x12"}},"next":{"fields":{"slug":"/tv-shows/fringe/3x14/"},"frontmatter":{"title":"Fringe 3x14"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
