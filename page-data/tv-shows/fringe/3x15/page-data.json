@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x15/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2df63571-467b-51a2-9182-8f0b94d28bca","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x15","date":"March 05, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x15/","previous":{"fields":{"slug":"/tv-shows/fringe/3x14/"},"frontmatter":{"title":"Fringe 3x14"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
