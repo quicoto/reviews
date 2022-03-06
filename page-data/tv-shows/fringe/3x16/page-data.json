@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x16/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"04a52326-c13e-51c1-8316-495d6bb442cb","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x16","date":"March 06, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x16/","previous":{"fields":{"slug":"/tv-shows/fringe/3x15/"},"frontmatter":{"title":"Fringe 3x15"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
