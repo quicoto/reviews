@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/3x21/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"dedc027b-96fc-5d37-b64c-ac81ccae3617","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x21","date":"March 09, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x21/","previous":{"fields":{"slug":"/tv-shows/fringe/3x20/"},"frontmatter":{"title":"Fringe 3x20"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"dedc027b-96fc-5d37-b64c-ac81ccae3617","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x21","date":"March 09, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x21/","previous":{"fields":{"slug":"/tv-shows/fringe/3x20/"},"frontmatter":{"title":"Fringe 3x20"}},"next":{"fields":{"slug":"/tv-shows/reacher/1x4/"},"frontmatter":{"title":"Reacher 1x4"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
