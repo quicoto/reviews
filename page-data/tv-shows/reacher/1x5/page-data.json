@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/reacher/1x5/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"80ef2816-4d78-5d5f-a351-d717356171ff","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Reacher","title":"Reacher 1x5","date":"March 10, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/reacher/1x5/","previous":{"fields":{"slug":"/tv-shows/reacher/1x4/"},"frontmatter":{"title":"Reacher 1x4"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/reacher/1x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0896f874-1fe2-5b99-8220-114d2e7a4a0f","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Reacher","title":"Reacher 1x4","date":"March 09, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/reacher/1x4/","previous":{"fields":{"slug":"/tv-shows/fringe/3x21/"},"frontmatter":{"title":"Fringe 3x21"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0896f874-1fe2-5b99-8220-114d2e7a4a0f","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Reacher","title":"Reacher 1x4","date":"March 09, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/reacher/1x4/","previous":{"fields":{"slug":"/tv-shows/fringe/3x21/"},"frontmatter":{"title":"Fringe 3x21"}},"next":{"fields":{"slug":"/tv-shows/reacher/1x5/"},"frontmatter":{"title":"Reacher 1x5"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
