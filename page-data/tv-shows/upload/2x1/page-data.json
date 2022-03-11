@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/upload/2x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2b99ed3a-e299-5ae9-8339-468a335165fa","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"UPLOAD","title":"UPLOAD 2x1","date":"March 11, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/upload/2x1/","previous":{"fields":{"slug":"/tv-shows/fringe/3x22/"},"frontmatter":{"title":"Fringe 3x22"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
