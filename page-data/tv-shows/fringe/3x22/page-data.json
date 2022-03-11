@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/3x22/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bb501989-6644-53dc-8aeb-303442da333e","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x22","date":"March 11, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x22/","previous":{"fields":{"slug":"/tv-shows/reacher/1x5/"},"frontmatter":{"title":"Reacher 1x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
