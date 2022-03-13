@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/4x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9f9ad9bd-c08a-56d9-99ff-290c8ae3cb07","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x4","date":"March 12, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x4/","previous":{"fields":{"slug":"/tv-shows/fringe/4x3/"},"frontmatter":{"title":"Fringe 4x3"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9f9ad9bd-c08a-56d9-99ff-290c8ae3cb07","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x4","date":"March 12, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x4/","previous":{"fields":{"slug":"/tv-shows/fringe/4x3/"},"frontmatter":{"title":"Fringe 4x3"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x5/"},"frontmatter":{"title":"Fringe 4x5"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
