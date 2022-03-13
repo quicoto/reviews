@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/ryman-s-club/1x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"097fc0ff-70aa-56f7-807c-a7d1485bb8fb","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ryman's Club","title":"Ryman's Club 1x7","date":"March 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ryman-s-club/1x7/","previous":{"fields":{"slug":"/tv-shows/fringe/4x8/"},"frontmatter":{"title":"Fringe 4x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
