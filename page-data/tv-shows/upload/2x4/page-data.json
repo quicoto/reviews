@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/upload/2x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"63efa6a4-bb04-587c-aba1-514495054d3b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"UPLOAD","title":"UPLOAD 2x4","date":"March 13, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/upload/2x4/","previous":{"fields":{"slug":"/tv-shows/upload/2x3/"},"frontmatter":{"title":"UPLOAD 2x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

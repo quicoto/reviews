@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/upload/2x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"066430cf-af15-5af8-a641-0835086b6571","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"UPLOAD","title":"UPLOAD 2x3","date":"March 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/upload/2x3/","previous":{"fields":{"slug":"/tv-shows/upload/2x2/"},"frontmatter":{"title":"UPLOAD 2x2"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"066430cf-af15-5af8-a641-0835086b6571","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"UPLOAD","title":"UPLOAD 2x3","date":"March 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/upload/2x3/","previous":{"fields":{"slug":"/tv-shows/upload/2x2/"},"frontmatter":{"title":"UPLOAD 2x2"}},"next":{"fields":{"slug":"/tv-shows/upload/2x4/"},"frontmatter":{"title":"UPLOAD 2x4"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
