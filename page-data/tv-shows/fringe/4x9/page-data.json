@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/4x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bb4f1932-ea96-53cf-bce5-463045237a9c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x9","date":"March 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x9/","previous":{"fields":{"slug":"/tv-shows/upload/2x7/"},"frontmatter":{"title":"UPLOAD 2x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
