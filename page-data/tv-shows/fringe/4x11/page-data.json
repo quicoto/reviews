@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/4x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ffaa8b7b-9dcd-5cc1-af30-15ad909654f6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x11","date":"March 15, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x11/","previous":{"fields":{"slug":"/tv-shows/fringe/4x10/"},"frontmatter":{"title":"Fringe 4x10"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
