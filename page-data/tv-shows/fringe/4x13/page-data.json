@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/4x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bba465f3-0831-506a-ac3d-8d9e7994a2f1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x13","date":"March 16, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x13/","previous":{"fields":{"slug":"/tv-shows/fringe/4x12/"},"frontmatter":{"title":"Fringe 4x12"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bba465f3-0831-506a-ac3d-8d9e7994a2f1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x13","date":"March 16, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x13/","previous":{"fields":{"slug":"/tv-shows/fringe/4x12/"},"frontmatter":{"title":"Fringe 4x12"}},"next":{"fields":{"slug":"/tv-shows/reacher/1x7/"},"frontmatter":{"title":"Reacher 1x7"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
