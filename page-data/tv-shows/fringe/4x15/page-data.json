@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/4x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2b1317e2-1982-50ac-a8a1-1b771cea5384","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x15","date":"March 18, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x15/","previous":{"fields":{"slug":"/tv-shows/reacher/1x8/"},"frontmatter":{"title":"Reacher 1x8"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2b1317e2-1982-50ac-a8a1-1b771cea5384","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x15","date":"March 18, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x15/","previous":{"fields":{"slug":"/tv-shows/reacher/1x8/"},"frontmatter":{"title":"Reacher 1x8"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x16/"},"frontmatter":{"title":"Fringe 4x16"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
