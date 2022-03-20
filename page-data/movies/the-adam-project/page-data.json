@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/the-adam-project/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d39dca87-2897-5d90-a604-3f10659701c4","excerpt":"","html":"","frontmatter":{"name":"The Adam Project","title":"The Adam Project","date":"March 20, 2022","rating":3,"type":"movie"}}},"pageContext":{"slug":"/movies/the-adam-project/","previous":{"fields":{"slug":"/tv-shows/fringe/4x18/"},"frontmatter":{"title":"Fringe 4x18"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x19/"},"frontmatter":{"title":"Fringe 4x19"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
