@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/fringe/4x18/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"93440ca0-a565-5e74-a3e3-e463aeee3b86","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x18","date":"March 19, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x18/","previous":{"fields":{"slug":"/tv-shows/fringe/4x17/"},"frontmatter":{"title":"Fringe 4x17"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"93440ca0-a565-5e74-a3e3-e463aeee3b86","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x18","date":"March 19, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x18/","previous":{"fields":{"slug":"/tv-shows/fringe/4x17/"},"frontmatter":{"title":"Fringe 4x17"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x19/"},"frontmatter":{"title":"Fringe 4x19"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
