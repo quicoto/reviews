@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/ryman-s-club/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"727da6a6-c660-53b3-9876-c17d37c435a3","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ryman's Club","title":"Ryman's Club 1x8","date":"March 21, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ryman-s-club/1x8/","previous":{"fields":{"slug":"/tv-shows/white-collar/3x11/"},"frontmatter":{"title":"White Collar 3x11"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
