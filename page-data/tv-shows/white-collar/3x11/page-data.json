@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/white-collar/3x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"47ee4814-86b4-5958-85f8-2b261e7d985c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x11","date":"March 21, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x11/","previous":{"fields":{"slug":"/tv-shows/white-collar/3x10/"},"frontmatter":{"title":"White Collar 3x10"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
