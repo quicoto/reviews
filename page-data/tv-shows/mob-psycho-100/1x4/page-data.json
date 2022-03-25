@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/mob-psycho-100/1x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9568ec85-a479-5c33-bc6b-da7cc561c4bb","excerpt":"Very funny when the Body Improvement Club guys show up to rescue Mob and they destroy everyone. I felt bad though when the dude with the powers shows up, even…","html":"<p>Very funny when the Body Improvement Club guys show up to rescue Mob and they destroy everyone. I felt bad though when the dude with the powers shows up, even when they respected the rules of the game… he used his powers to blow them away. Not fair.</p>","frontmatter":{"name":"Mob Psycho 100","title":"Mob Psycho 100 1x4","date":"August 21, 2020","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/mob-psycho-100/1x4/","previous":null,"next":{"fields":{"slug":"/tv-shows/lucifer/5x2/"},"frontmatter":{"title":"Lucifer 5x2"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
