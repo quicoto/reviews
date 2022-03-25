@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/kotaro-lives-alone/1x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"cc454d0b-be3f-59ec-b44c-a101a469ee91","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kotaro Lives Alone","title":"Kotaro Lives Alone 1x4","date":"March 24, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kotaro-lives-alone/1x4/","previous":{"fields":{"slug":"/tv-shows/fringe/5x6/"},"frontmatter":{"title":"Fringe 5x6"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"cc454d0b-be3f-59ec-b44c-a101a469ee91","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kotaro Lives Alone","title":"Kotaro Lives Alone 1x4","date":"March 24, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kotaro-lives-alone/1x4/","previous":{"fields":{"slug":"/tv-shows/fringe/5x3/"},"frontmatter":{"title":"Fringe 5x3"}},"next":null}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
