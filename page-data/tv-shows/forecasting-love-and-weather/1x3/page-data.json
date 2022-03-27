@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/forecasting-love-and-weather/1x3/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2bc2c98f-275d-5a8d-b104-ab2a7dd1f476","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Forecasting Love and Weather","title":"Forecasting Love and Weather 1x3","date":"March 27, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/forecasting-love-and-weather/1x3/","previous":{"fields":{"slug":"/tv-shows/forecasting-love-and-weather/1x2/"},"frontmatter":{"title":"Forecasting Love and Weather 1x2"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
