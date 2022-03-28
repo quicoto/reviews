@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/5x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"656d509b-4fc0-561c-8385-20cb2c6b0ef7","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 5x7","date":"March 28, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/5x7/","previous":{"fields":{"slug":"/tv-shows/white-collar/3x14/"},"frontmatter":{"title":"White Collar 3x14"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
