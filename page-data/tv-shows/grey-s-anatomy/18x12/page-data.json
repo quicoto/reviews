@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/grey-s-anatomy/18x12/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d290e814-7ecc-58fd-80a4-cd39e8825e12","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Grey's Anatomy","title":"Grey's Anatomy 18x12","date":"March 30, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/grey-s-anatomy/18x12/","previous":{"fields":{"slug":"/tv-shows/station-19/5x12/"},"frontmatter":{"title":"Station 19 5x12"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
