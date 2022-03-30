@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/fringe/5x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9068e610-e307-5894-911e-d330f09204bf","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 5x8","date":"March 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/5x8/","previous":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x12/"},"frontmatter":{"title":"Grey's Anatomy 18x12"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
