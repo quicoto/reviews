@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/thermae-romae-novae/1x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ad73ff82-2a4c-5450-bb2e-d2d1cff5e05a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Thermae Romae Novae","title":"Thermae Romae Novae 1x2","date":"March 31, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/thermae-romae-novae/1x2/","previous":{"fields":{"slug":"/tv-shows/thermae-romae-novae/1x1/"},"frontmatter":{"title":"Thermae Romae Novae 1x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
