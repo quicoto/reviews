@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/s-w-a-t/1x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ead74050-62b7-5528-bfee-fa58720ca8f6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 1x6","date":"April 03, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/1x6/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/1x5/"},"frontmatter":{"title":"S.W.A.T. 1x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
