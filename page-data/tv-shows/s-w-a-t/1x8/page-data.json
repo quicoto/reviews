@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/s-w-a-t/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1fd6d7ac-3074-5804-b50b-5dd3b8734568","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 1x8","date":"April 03, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/1x8/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/1x7/"},"frontmatter":{"title":"S.W.A.T. 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
