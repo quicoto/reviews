@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/grey-s-anatomy/18x13/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"abe2984f-cb4d-5c83-b2b4-77532f9080dc","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Grey's Anatomy","title":"Grey's Anatomy 18x13","date":"April 06, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/grey-s-anatomy/18x13/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/1x20/"},"frontmatter":{"title":"S.W.A.T. 1x20"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
