@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/s-w-a-t/2x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bf760344-726c-5238-a2ec-70ecf2699848","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x3","date":"April 07, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x3/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x2/"},"frontmatter":{"title":"S.W.A.T. 2x2"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bf760344-726c-5238-a2ec-70ecf2699848","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x3","date":"April 07, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x3/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x2/"},"frontmatter":{"title":"S.W.A.T. 2x2"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/2x4/"},"frontmatter":{"title":"S.W.A.T. 2x4"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
