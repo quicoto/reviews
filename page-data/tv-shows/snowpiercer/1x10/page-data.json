@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/snowpiercer/1x10/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"96a18d96-d36b-5912-9c01-248029038a2c","excerpt":"","html":"","frontmatter":{"name":"Snowpiercer","title":"Snowpiercer 1x10","date":"January 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/snowpiercer/1x10/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/1x1/"},"frontmatter":{"title":"Snowpiercer 1x1"}},"next":{"fields":{"slug":"/tv-shows/ryman-s-club/1x1/"},"frontmatter":{"title":"Ryman's Club 1x1"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"96a18d96-d36b-5912-9c01-248029038a2c","excerpt":"","html":"","frontmatter":{"name":"Snowpiercer","title":"Snowpiercer 1x10","date":"January 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/snowpiercer/1x10/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/1x2/"},"frontmatter":{"title":"Snowpiercer 1x2"}},"next":{"fields":{"slug":"/tv-shows/snowpiercer/1x1/"},"frontmatter":{"title":"Snowpiercer 1x1"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
