@@ -1,8 +1,7 @@
 ---
 type: series
 time: 30
-title: "The Orb
-ital Children 1x1"
+title: "The Orbital Children 1x1"
 date: "2022-04-06T22:42:47"
 name: "The Orbital Children"
 season: 1
