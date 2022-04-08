@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/the-platform/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"4a1c9ec0-015f-5a80-8441-d48c75014683","excerpt":"","html":"","frontmatter":{"name":"The Platform","title":"The Platform","date":"April 08, 2022","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-platform/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x6/"},"frontmatter":{"title":"S.W.A.T. 2x6"}},"next":{"fields":{"slug":"/tv-shows/white-collar/4x1/"},"frontmatter":{"title":"White Collar 4x1"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
