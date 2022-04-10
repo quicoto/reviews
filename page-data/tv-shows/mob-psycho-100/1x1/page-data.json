@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/mob-psycho-100/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"3e6d1e2a-a30f-5a09-a0bb-fb61c7dcd67b","excerpt":"Ok, it’s funny. I feel a little bad for Mob who is being taken advantage of by the self-proclaimed psychic. I wouldn’t mind this ruse if he at least paid him…","html":"<p>Ok, it’s funny. I feel a little bad for Mob who is being taken advantage of by the self-proclaimed psychic.</p>\n<p>I wouldn’t mind this ruse if he at least paid him more.</p>","frontmatter":{"name":"Mob Psycho 100","title":"Mob Psycho 100 1x1","date":"August 20, 2020","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/mob-psycho-100/1x1/","previous":{"fields":{"slug":"/tv-shows/mob-psycho-100/1x2/"},"frontmatter":{"title":"Mob Psycho 100 1x2"}},"next":{"fields":{"slug":"/tv-shows/great-pretender/1x3/"},"frontmatter":{"title":"Great Pretender 1x3"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

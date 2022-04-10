@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/suits/2x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9b220356-5db8-50d7-83dd-750b8317198a","excerpt":"To think that Jessica would be ok with keeping Mike if this were the real world… it’s crazy. To think that Mike is worried about losing his job without thinking…","html":"<p>To think that Jessica would be ok with keeping Mike if this were the real world… it’s crazy.</p>\n<p>To think that Mike is worried about losing his job without thinking he might go to prison, if someone else would find out… is also crazy.</p>","frontmatter":{"name":"Suits","title":"Suits 2x1","date":"July 26, 2020","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/suits/2x1/","previous":{"fields":{"slug":"/tv-shows/suits/1x3/"},"frontmatter":{"title":"Suits 1x3"}},"next":{"fields":{"slug":"/tv-shows/suits/1x9/"},"frontmatter":{"title":"Suits 1x9"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

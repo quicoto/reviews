@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/rick-and-morty/4x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2d71c86c-b761-5bca-a74c-1928355d65cb","excerpt":"This episode was quite average. Nothing really outstanding. Rick, as usual, contues to be an ass when backed into a corner. Jerry was the best. I’ve never gone…","html":"<p>This episode was quite average. Nothing really outstanding. Rick, as usual, contues to be an ass when backed into a corner.</p>\n<p>Jerry was the best. I’ve never gone camping but when I do I hope is with Jerry.</p>","frontmatter":{"name":"Rick and Morty","title":"Rick and Morty 4x9","date":"May 25, 2020","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/rick-and-morty/4x9/","previous":{"fields":{"slug":"/movies/saw-vi/"},"frontmatter":{"title":"Saw VI"}},"next":{"fields":{"slug":"/tv-shows/uchi-tama-uchi-no-tama-shirimasen-ka/1x2/"},"frontmatter":{"title":"Uchi Tama - Uchi no Tama Shirimasen ka 1x2"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
