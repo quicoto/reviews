@@ -1,13 +1,13 @@
 ---
 type: series
-time: 25
-title: Kaguya-sama wa Kokurasetai 2x6
-date: "2020-05-17T00:00:00"
+title: "Kaguya-sama wa Kokurasetai 2x6"
+date: "2022-04-10T00:00:00"
 name: "Kaguya-sama wa Kokurasetai"
 season: 2
 episode: 6
 rating: 4
 ratingEmoji: "⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 Shinogane show she's truly a good guy. I loved how they prepared every single detail of the speech, all coordinated.

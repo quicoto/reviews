@@ -1,12 +1,13 @@
 ---
 type: series
-title: Kaguya-sama wa Kokurasetai 2x7
-date: "2020-05-23T00:00:00"
+title: "Kaguya-sama wa Kokurasetai 2x7"
+date: "2022-04-10T00:00:00"
 name: "Kaguya-sama wa Kokurasetai"
 season: 2
 episode: 7
 rating: 5
 ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: false
 ---
 
 This episode was one of the best in both seasons. Ishigami for the win! I need a spin-off series for his character!
