@@ -1,12 +1,12 @@
---- 
-type: series 
+---
+type: series
 time: 65
-title: "Forecasting Love and Weather 1x1" 
-date: "2022-03-26T00:00:00" 
-name: "Forecasting Love and Weather" 
-season: 1 
-episode: 1 
-rating: 3 
-ratingEmoji: "⭐️⭐️⭐️" 
-share: false 
+title: "Forecasting Love and Weather 1x1"
+date: "2022-03-26T00:00:00"
+name: "Forecasting Love and Weather"
+season: 1
+episode: 1
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+share: false
 ---
