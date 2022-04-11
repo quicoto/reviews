@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/forecasting-love-and-weather/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ad2a394e-dbef-5e10-8b8f-847198ac6b75","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Forecasting Love and Weather","title":"Forecasting Love and Weather 1x8","date":"April 11, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/forecasting-love-and-weather/1x8/","previous":{"fields":{"slug":"/tv-shows/forecasting-love-and-weather/1x7/"},"frontmatter":{"title":"Forecasting Love and Weather 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
