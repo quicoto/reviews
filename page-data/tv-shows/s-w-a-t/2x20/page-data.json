@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/2x20/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"5247dea5-c74b-5b85-a2bc-4045b919c9ca","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x20","date":"April 20, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x20/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x12/"},"frontmatter":{"title":"Ryman's Club 1x12"}},"next":null}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
