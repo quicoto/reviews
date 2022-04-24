@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/in-time/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"6df48cca-1999-5828-8850-6864908767cb","excerpt":"","html":"","frontmatter":{"name":"In Time","title":"In Time","date":"April 24, 2022","rating":3,"type":"movie"}}},"pageContext":{"slug":"/movies/in-time/","previous":{"fields":{"slug":"/movies/metal-lords/"},"frontmatter":{"title":"Metal Lords"}},"next":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x3/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x3"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
