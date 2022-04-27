@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/s-w-a-t/2x23/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a1df2e12-0efd-5301-bfed-578466a13942","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x23","date":"April 27, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x23/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x22/"},"frontmatter":{"title":"S.W.A.T. 2x22"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
