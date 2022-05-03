@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/s-w-a-t/3x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d9100e00-adf2-5408-8a72-0edbad7dcfad","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 3x6","date":"May 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/3x6/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/3x5/"},"frontmatter":{"title":"S.W.A.T. 3x5"}},"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d9100e00-adf2-5408-8a72-0edbad7dcfad","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 3x6","date":"May 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/3x6/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/3x5/"},"frontmatter":{"title":"S.W.A.T. 3x5"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/3x7/"},"frontmatter":{"title":"S.W.A.T. 3x7"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
