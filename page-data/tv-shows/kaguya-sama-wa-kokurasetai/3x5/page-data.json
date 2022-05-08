@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kaguya-sama-wa-kokurasetai/3x5/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8a74cb17-4daf-5f42-8960-932ed619aae3","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kaguya-sama wa Kokurasetai","title":"Kaguya-sama wa Kokurasetai 3x5","date":"May 08, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x5/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/3x9/"},"frontmatter":{"title":"S.W.A.T. 3x9"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
