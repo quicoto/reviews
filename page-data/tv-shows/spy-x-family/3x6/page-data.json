@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/spy-x-family/3x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7775e9e8-b52e-5911-a979-590fc24927fa","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Spy x Family","title":"Spy x Family 3x6","date":"May 15, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/spy-x-family/3x6/","previous":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x6/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x6"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
