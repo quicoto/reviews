@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kaguya-sama-wa-kokurasetai/3x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fe4df53e-f656-509b-b806-5a7439b070be","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kaguya-sama wa Kokurasetai","title":"Kaguya-sama wa Kokurasetai 3x6","date":"May 15, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x6/","previous":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x16/"},"frontmatter":{"title":"Grey's Anatomy 18x16"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
