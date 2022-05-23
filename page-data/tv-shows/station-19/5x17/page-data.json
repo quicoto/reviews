@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/station-19/5x17/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f634d0f9-7c1b-5603-9b8b-dfae2999d7b8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Station 19","title":"Station 19 5x17","date":"May 23, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/station-19/5x17/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x7/"},"frontmatter":{"title":"Spy x Family 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
