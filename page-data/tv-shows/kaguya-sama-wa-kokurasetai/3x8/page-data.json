@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kaguya-sama-wa-kokurasetai/3x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"68821e6b-09e3-5c99-812f-bf6b3be93478","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kaguya-sama wa Kokurasetai","title":"Kaguya-sama wa Kokurasetai 3x8","date":"May 28, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x8/","previous":{"fields":{"slug":"/tv-shows/obi-wan-kenobi/1x1/"},"frontmatter":{"title":"Obi-Wan Kenobi 1x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
