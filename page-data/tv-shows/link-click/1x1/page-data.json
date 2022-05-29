@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/link-click/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"011624c6-4f37-5c02-978d-8be1e536cbb7","excerpt":"","html":"","frontmatter":{"name":"Link Click","title":"Link Click 1x1","date":"May 29, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/link-click/1x1/","previous":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x8/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
