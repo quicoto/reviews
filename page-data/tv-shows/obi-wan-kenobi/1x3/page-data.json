@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/obi-wan-kenobi/1x3/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ebacacf4-67d2-5074-84b9-9a4b52022aa3","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Obi-Wan Kenobi","title":"Obi-Wan Kenobi 1x3","date":"June 02, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/obi-wan-kenobi/1x3/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x8/"},"frontmatter":{"title":"Spy x Family 1x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
