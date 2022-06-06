@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/kaguya-sama-wa-kokurasetai/3x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9776f4c3-c4c8-5759-a5dd-4cccd0e0267a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kaguya-sama wa Kokurasetai","title":"Kaguya-sama wa Kokurasetai 3x9","date":"June 06, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x9/","previous":{"fields":{"slug":"/tv-shows/obi-wan-kenobi/1x3/"},"frontmatter":{"title":"Obi-Wan Kenobi 1x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
