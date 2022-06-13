@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/love-death-and-robots/3x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f6128ce3-0db6-5e3e-b455-45a59825b4bf","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Love, Death & Robots","title":"Love, Death & Robots 3x2","date":"June 12, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/love-death-and-robots/3x2/","previous":{"fields":{"slug":"/tv-shows/love-death-and-robots/3x1/"},"frontmatter":{"title":"Love, Death & Robots 3x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
