@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hataraku-maou-sama/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0369fa09-6138-5fcc-b3a7-ff223fe0d9f5","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 1x1","date":"June 16, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/1x1/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x10/"},"frontmatter":{"title":"Spy x Family 1x10"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
