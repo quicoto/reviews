@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/for-all-mankind/1x3/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"09dcb02c-1c30-5b79-a053-7a35fdd00584","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 1x3","date":"June 21, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/1x3/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/1x2/"},"frontmatter":{"title":"For All Mankind 1x2"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
