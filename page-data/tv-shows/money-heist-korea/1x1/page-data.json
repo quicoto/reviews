@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/money-heist-korea/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"90d0c861-c5b5-534b-a0e7-f05efcddd977","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Money Heist: Korea","title":"Money Heist: Korea 1x1","date":"June 25, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/money-heist-korea/1x1/","previous":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x13/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x13"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
