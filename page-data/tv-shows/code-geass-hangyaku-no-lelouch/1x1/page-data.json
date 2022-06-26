@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/code-geass-hangyaku-no-lelouch/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"5d63c07c-ad2b-57ca-8a91-98900af52aff","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Code Geass - Hangyaku no Lelouch","title":"Code Geass - Hangyaku no Lelouch 1x1","date":"June 26, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/code-geass-hangyaku-no-lelouch/1x1/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x12/"},"frontmatter":{"title":"Spy x Family 1x12"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
