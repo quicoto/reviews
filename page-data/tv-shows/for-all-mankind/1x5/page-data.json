@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/for-all-mankind/1x5/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"96507cba-3705-5dc5-9279-76fd183718bd","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 1x5","date":"June 26, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/1x5/","previous":{"fields":{"slug":"/tv-shows/code-geass-hangyaku-no-lelouch/1x1/"},"frontmatter":{"title":"Code Geass - Hangyaku no Lelouch 1x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
