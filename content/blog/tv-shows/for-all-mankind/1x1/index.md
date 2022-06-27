@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "For All Mankind 1x1"
 date: "2022-06-20T20:29:15"
 name: "For All Mankind"

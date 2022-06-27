@@ -1,5 +1,6 @@
 ---
 type: series
+time: 23
 title: "Jujutsu Kaisen 1x1"
 date: "2022-06-26T18:44:07"
 name: "Jujutsu Kaisen"
