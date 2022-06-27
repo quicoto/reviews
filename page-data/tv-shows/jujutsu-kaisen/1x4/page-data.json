@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/jujutsu-kaisen/1x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a3f125d9-5ec6-5044-a1f3-b8d00b0a062a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x4","date":"June 27, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x4/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x3/"},"frontmatter":{"title":"Jujutsu Kaisen 1x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
