@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/jujutsu-kaisen/1x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b0acfb94-d2ca-5cd3-9652-15af41326611","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x7","date":"June 28, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x7/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/1x7/"},"frontmatter":{"title":"For All Mankind 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
