@@ -1,5 +1,6 @@
 ---
 type: series
+time: 54
 title: "Westworld 4x1"
 date: "2022-06-29T22:59:36"
 name: "Westworld"
