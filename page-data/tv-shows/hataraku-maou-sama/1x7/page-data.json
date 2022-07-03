@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hataraku-maou-sama/1x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9b089b59-6243-58a6-b2d7-a04ca5f0cdde","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 1x7","date":"July 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/1x7/","previous":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x6/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x6"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
