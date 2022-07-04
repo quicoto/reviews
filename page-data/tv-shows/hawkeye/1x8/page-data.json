@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hawkeye/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2cde261e-5030-5d32-a90d-f199aaf1def7","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hawkeye","title":"Hawkeye 1x8","date":"July 04, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hawkeye/1x8/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x9/"},"frontmatter":{"title":"Jujutsu Kaisen 1x9"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
