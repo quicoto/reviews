@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/for-all-mankind/2x7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e0bdefa3-536b-5138-9e88-ff55fa97fb41","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 2x7","date":"July 07, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/2x7/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x15/"},"frontmatter":{"title":"Jujutsu Kaisen 1x15"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
