@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/for-all-mankind/2x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9a2ccbcd-c82d-5b7f-b3f6-67928370280b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 2x9","date":"July 09, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/2x9/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/2x8/"},"frontmatter":{"title":"For All Mankind 2x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
