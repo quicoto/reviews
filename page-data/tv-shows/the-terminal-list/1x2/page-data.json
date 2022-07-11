@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/the-terminal-list/1x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b381f756-7f10-5ef8-97c0-ce026473fa1b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Terminal List","title":"The Terminal List 1x2","date":"July 11, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-terminal-list/1x2/","previous":{"fields":{"slug":"/tv-shows/westworld/4x3/"},"frontmatter":{"title":"Westworld 4x3"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
