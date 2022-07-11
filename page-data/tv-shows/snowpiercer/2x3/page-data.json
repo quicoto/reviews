@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tv-shows/snowpiercer/2x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b83b8620-6023-57f1-b67a-2f5501154e89","excerpt":"","html":"","frontmatter":{"name":"Snowpiercer","title":"Snowpiercer 2x3","date":"January 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/snowpiercer/2x3/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/2x4/"},"frontmatter":{"title":"Snowpiercer 2x4"}},"next":{"fields":{"slug":"/tv-shows/snowpiercer/2x10/"},"frontmatter":{"title":"Snowpiercer 2x10"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b83b8620-6023-57f1-b67a-2f5501154e89","excerpt":"","html":"","frontmatter":{"name":"Snowpiercer","title":"Snowpiercer 2x3","date":"January 30, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/snowpiercer/2x3/","previous":{"fields":{"slug":"/tv-shows/snowpiercer/2x4/"},"frontmatter":{"title":"Snowpiercer 2x4"}},"next":{"fields":{"slug":"/tv-shows/snowpiercer/2x2/"},"frontmatter":{"title":"Snowpiercer 2x2"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
