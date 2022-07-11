@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "The Terminal List 1x1"
 date: "2022-07-10T23:21:11"
 name: "The Terminal List"
