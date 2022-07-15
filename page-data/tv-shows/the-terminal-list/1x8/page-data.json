@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/the-terminal-list/1x8/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"aaed8681-b095-5277-ab75-4caa7adbb3fc","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Terminal List","title":"The Terminal List 1x8","date":"July 15, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-terminal-list/1x8/","previous":{"fields":{"slug":"/tv-shows/the-terminal-list/1x7/"},"frontmatter":{"title":"The Terminal List 1x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
