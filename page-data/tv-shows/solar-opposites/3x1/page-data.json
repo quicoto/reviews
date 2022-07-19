@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/solar-opposites/3x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d0f1960b-e90e-58d1-94d7-c87f5d18d98b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Solar Opposites","title":"Solar Opposites 3x1","date":"July 19, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/solar-opposites/3x1/","previous":{"fields":{"slug":"/tv-shows/solar-opposites/2x8/"},"frontmatter":{"title":"Solar Opposites 2x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
