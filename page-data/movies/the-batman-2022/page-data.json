@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/movies/the-batman-2022/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8e8d6e1d-e880-516d-a77b-1f0149fa27c4","excerpt":"","html":"","frontmatter":{"name":"The Batman (2022)","title":"The Batman (2022)","date":"April 24, 2022","rating":1,"type":"movie"}}},"pageContext":{"slug":"/movies/the-batman-2022/","previous":{"fields":{"slug":"/movies/in-time/"},"frontmatter":{"title":"In Time"}},"next":{"fields":{"slug":"/movies/metal-lords/"},"frontmatter":{"title":"Metal Lords"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8e8d6e1d-e880-516d-a77b-1f0149fa27c4","excerpt":"","html":"","frontmatter":{"name":"The Batman (2022)","title":"The Batman (2022)","date":"April 24, 2022","rating":1,"type":"movie"}}},"pageContext":{"slug":"/movies/the-batman-2022/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x20/"},"frontmatter":{"title":"S.W.A.T. 2x20"}},"next":{"fields":{"slug":"/movies/metal-lords/"},"frontmatter":{"title":"Metal Lords"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}

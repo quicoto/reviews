@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/movies/metal-lords/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7e1a4441-a197-5c03-b765-cbb100410db3","excerpt":"","html":"","frontmatter":{"name":"Metal Lords","title":"Metal Lords","date":"April 24, 2022","rating":3,"type":"movie"}}},"pageContext":{"slug":"/movies/metal-lords/","previous":{"fields":{"slug":"/movies/the-batman-2022/"},"frontmatter":{"title":"The Batman (2022)"}},"next":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x3/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x3"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7e1a4441-a197-5c03-b765-cbb100410db3","excerpt":"","html":"","frontmatter":{"name":"Metal Lords","title":"Metal Lords","date":"April 24, 2022","rating":3,"type":"movie"}}},"pageContext":{"slug":"/movies/metal-lords/","previous":{"fields":{"slug":"/movies/the-batman-2022/"},"frontmatter":{"title":"The Batman (2022)"}},"next":{"fields":{"slug":"/movies/in-time/"},"frontmatter":{"title":"In Time"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
