@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/movies/the-matrix-resurrections/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9130483c-8649-5316-b644-9b6723ef7479","excerpt":"","html":"","frontmatter":{"name":"The Matrix Resurrections","title":"The Matrix Resurrections","date":"December 25, 2021","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-matrix-resurrections/","previous":{"fields":{"slug":"/movies/g-i-jane/"},"frontmatter":{"title":"G.I. Jane"}},"next":{"fields":{"slug":"/tv-shows/white-collar/1x13/"},"frontmatter":{"title":"White Collar 1x13"}}}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9130483c-8649-5316-b644-9b6723ef7479","excerpt":"","html":"","frontmatter":{"name":"The Matrix Resurrections","title":"The Matrix Resurrections","date":"December 25, 2021","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-matrix-resurrections/","previous":{"fields":{"slug":"/tv-shows/hawkeye/1x4/"},"frontmatter":{"title":"Hawkeye 1x4"}},"next":{"fields":{"slug":"/movies/g-i-jane/"},"frontmatter":{"title":"G.I. Jane"}}}},
     "staticQueryHashes": ["160965972","3274528899","4047580407"]}
