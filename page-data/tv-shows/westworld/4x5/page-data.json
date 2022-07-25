@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/westworld/4x5/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"aa28dde9-5ec8-5f00-baa4-0fd77a449c2e","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Westworld","title":"Westworld 4x5","date":"July 25, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/westworld/4x5/","previous":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x8/"},"frontmatter":{"title":"Malcolm in the Middle 1x8"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
