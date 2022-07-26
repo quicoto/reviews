@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/malcolm-in-the-middle/1x9/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"57136f00-a459-53b4-b943-68bf06e4add4","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Malcolm in the Middle","title":"Malcolm in the Middle 1x9","date":"July 26, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/malcolm-in-the-middle/1x9/","previous":{"fields":{"slug":"/tv-shows/the-office-blind-date/1x11/"},"frontmatter":{"title":"The Office Blind Date 1x11"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
