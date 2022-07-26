@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/the-office-blind-date/1x11/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bfbe2c05-36a5-5ae5-8223-c90a84ce04f3","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office Blind Date","title":"The Office Blind Date 1x11","date":"July 26, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office-blind-date/1x11/","previous":{"fields":{"slug":"/tv-shows/the-office-blind-date/1x10/"},"frontmatter":{"title":"The Office Blind Date 1x10"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
