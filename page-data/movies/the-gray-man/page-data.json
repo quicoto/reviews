@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/the-gray-man/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"833196c0-5f3d-5ea6-81be-43554396cb01","excerpt":"","html":"","frontmatter":{"name":"The Gray Man","title":"The Gray Man","date":"July 29, 2022","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-gray-man/","previous":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x12/"},"frontmatter":{"title":"Malcolm in the Middle 1x12"}},"next":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x14/"},"frontmatter":{"title":"Malcolm in the Middle 1x14"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
