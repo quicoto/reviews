@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/solar-opposites/3x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"988ced16-e33c-5d96-b3a7-189b16de0c79","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Solar Opposites","title":"Solar Opposites 3x4","date":"July 31, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/solar-opposites/3x4/","previous":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x14/"},"frontmatter":{"title":"Malcolm in the Middle 1x14"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
