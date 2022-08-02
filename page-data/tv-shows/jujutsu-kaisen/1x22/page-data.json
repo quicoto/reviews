@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/jujutsu-kaisen/1x22/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8dce1a2b-7c63-5e2a-b79e-b5120582d5cf","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x22","date":"August 02, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x22/","previous":{"fields":{"slug":"/tv-shows/solar-opposites/3x11/"},"frontmatter":{"title":"Solar Opposites 3x11"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
