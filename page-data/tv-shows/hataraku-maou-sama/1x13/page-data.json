@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hataraku-maou-sama/1x13/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"29b68f90-e896-57f3-b6e5-6f59ec46194a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 1x13","date":"August 03, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/1x13/","previous":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x12/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x12"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
