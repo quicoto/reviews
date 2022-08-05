@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/black-bird/1x2/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d00389c1-6ea4-5c59-b644-62fd6fe3b57d","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Black Bird","title":"Black Bird 1x2","date":"August 05, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/black-bird/1x2/","previous":{"fields":{"slug":"/tv-shows/black-bird/1x1/"},"frontmatter":{"title":"Black Bird 1x1"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
