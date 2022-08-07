@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/severance/1x6/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"73153431-d1f0-5cc2-b62a-1fbcdd4a9095","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Severance","title":"Severance 1x6","date":"August 07, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/severance/1x6/","previous":{"fields":{"slug":"/tv-shows/severance/1x5/"},"frontmatter":{"title":"Severance 1x5"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
