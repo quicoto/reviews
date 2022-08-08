@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/slow-horses/1x3/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"c6cb7ccc-6725-5e56-bdc4-204735ce441a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Slow Horses","title":"Slow Horses 1x3","date":"August 08, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/slow-horses/1x3/","previous":{"fields":{"slug":"/tv-shows/slow-horses/1x2/"},"frontmatter":{"title":"Slow Horses 1x2"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
