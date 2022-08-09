@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/movies/elvis/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1146588f-a00e-51a1-a548-17a10d39c40b","excerpt":"","html":"","frontmatter":{"name":"Elvis","title":"Elvis","date":"August 09, 2022","rating":4,"type":"movie"}}},"pageContext":{"slug":"/movies/elvis/","previous":{"fields":{"slug":"/tv-shows/slow-horses/1x6/"},"frontmatter":{"title":"Slow Horses 1x6"}},"next":{"fields":{"slug":"/tv-shows/westworld/4x7/"},"frontmatter":{"title":"Westworld 4x7"}}}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
