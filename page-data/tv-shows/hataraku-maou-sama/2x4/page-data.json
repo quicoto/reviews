@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hataraku-maou-sama/2x4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"df460adc-be09-5dec-b1f3-777a86a270a8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 2x4","date":"August 09, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/2x4/","previous":{"fields":{"slug":"/tv-shows/westworld/4x7/"},"frontmatter":{"title":"Westworld 4x7"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
