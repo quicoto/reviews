@@ -16,7 +16,7 @@
     "watch:js": "esbuild src/js/main.js --bundle --outfile=dist/js/main.js --watch",
     "watch:test": "NODE_OPTIONS=--experimental-vm-modules jest --watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
-    "lint": "eslint 'src/js/**/*.js'"
+    "lint": "eslint 'backend/**/*.js'"
   },
   "dependencies": {
     "@sindresorhus/slugify": "2.1.0",
