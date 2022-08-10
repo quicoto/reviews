@@ -2,9 +2,22 @@
 
 Gatbsy blog to post my TV Shows and Movies reviews.
 
-## Review Builder
+## To Do
 
-https://codepen.io/quicoto/full/NWjzqwb
+- [x] Creates movies from content
+- [ ] Frontmatter is processed and removed from HTML
+- [ ] Template is create for single movies/tv shows
+- [ ] Creates episode from content
+- [ ] Creates "all movies" page
+- [ ] Creates "all tv shows" page
+- [ ] Template is created for homepage
+- [ ] Creates homepage with latest movies and shows
+- [ ] Creates RSS feeds
+- [ ] Adds a widget to homepage with stats
+
+## Review Generator
+
+https://github.com/quicoto/reviews-generator
 
 ## How to post to Twitter or Mastodon?
 
