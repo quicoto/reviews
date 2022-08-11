@@ -10,9 +10,12 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Adds image to each single
 - [x] Creates episode from content
 - [x] Creates "all movies" page
-- [ ] Creates "all tv shows" page
+- [x] Creates "all tv shows" page
 - [ ] Adds a back to all movies link
 - [ ] Adds anchor ID to each show
+- [ ] Formats time in Movie list
+- [ ] Formats time in Movie single
+- [ ] Formats time in shows single
 - [ ] Links to show anchor from single show
 - [ ] Template is created for homepage
 - [ ] Creates homepage with latest movies and shows

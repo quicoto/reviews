@@ -94,3 +94,46 @@ export function allMovies(list) {
     .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
     .replaceAll('%TITLE%', 'All Movie Reviews');
 }
+
+function _showsItem(show) {
+  const episodes = utils.sortEpisodes(show.episodes);
+  const episodesList = episodes.map(
+    (episode) => {
+      const url = utils.createAbsoluteURL(
+        `tv-shows/${slugify(episode.frontmatter.name)}/${episode.frontmatter.season}x${episode.frontmatter.episode}`,
+      );
+
+      return `<li>
+      <a href="${url}" title="${episode.frontmatter.name} ${episode.frontmatter.season}x${episode.frontmatter.episode}">${episode.frontmatter.season}x${episode.frontmatter.episode}</a>
+    </li>`;
+    },
+  ).join('\n');
+
+  const averageRating = utils.roundHalf(
+    +Number.parseFloat(
+      episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0) / episodes.length,
+    ).toFixed(1),
+  );
+
+  return `
+  <li>
+    <h3>${show.episodes[0].frontmatter.name}</h3>
+    <div>Rating: ${averageRating}</div>
+    <div class="rating">${_rating(averageRating).join('\n')}</div>
+    <ul>${episodesList}</ul>
+  </li>
+`;
+}
+
+export function allShows(list) {
+  const header = utils.readFile(Paths.template.header);
+  const footer = utils.readFile(Paths.template.footer);
+  const html = utils.readFile(Paths.template.list);
+  const content = list.map(_showsItem).join('\n');
+
+  return html
+    .replaceAll('%HEADER%', header)
+    .replaceAll('%FOOTER%', footer)
+    .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
+    .replaceAll('%TITLE%', 'All TV Show Reviews');
+}

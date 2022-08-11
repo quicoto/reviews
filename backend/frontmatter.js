@@ -4,6 +4,15 @@
 /* eslint-disable camelcase */
 // Process front matter and pass to cb
 
+export function splitMeta(meta) {
+  let [key, value] = meta.split(': ', 1);
+
+  // "title" + ": " (2 characters)
+  value = meta.substring(key.length + 2);
+
+  return [key, value];
+}
+
 export function frontMatterPlugin(md, cb) {
   const min_markers = 3;
   const marker_str = '-';
@@ -128,7 +137,7 @@ export function frontMatterPlugin(md, cb) {
     const metaObj = {};
 
     token.meta.split('\n').forEach((meta) => {
-      const [key, value] = meta.split(': ');
+      const [key, value] = splitMeta(meta);
 
       metaObj[key.trim()] = value?.trim().replaceAll('"', '') || null;
     });

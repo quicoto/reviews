@@ -1,5 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 import * as fs from 'fs';
+import slugify from '@sindresorhus/slugify';
 import MarkdownIt from 'markdown-it';
 import * as utils from './utils.js';
 import { frontMatterPlugin } from './frontmatter.js';
@@ -45,11 +46,9 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     // eslint-disable-next-line no-console
     console.log(`Processing movie: ${movieFrontMatter.title}`);
 
-    utils.createFile(movie, Paths.output.movies, movieHTML);
+    if (!fs.existsSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`);
 
-    if (!fs.existsSync(`${Paths.output.movies}/${movie}`)) fs.mkdirSync(`${Paths.output.movies}/${movie}`);
-
-    utils.createFile('index', `${Paths.output.movies}/${movie}`, movieHTML);
+    utils.createFile('index', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
   });
 
   /*
@@ -69,34 +68,54 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     *******************
   */
   const tvshows = await fs.promises.readdir(`${Paths.content.tvshows}`);
+  const allShows = [];
 
   for (const show of tvshows) {
     const episodes = await fs.promises.readdir(`${Paths.content.tvshows}/${show}`);
+    const currentShow = {
+      name: show,
+      episodes: [],
+    };
 
     episodes.forEach((episode) => {
-      let showFrontMatter = '';
-      const showContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episode}/index.md`);
+      let episodeFrontMatter = '';
+      const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episode}/index.md`);
 
       const md = new MarkdownIt()
         .use(frontMatterPlugin, (frontMatter) => {
-          showFrontMatter = frontMatter;
+          episodeFrontMatter = frontMatter;
         });
-      const html = md.render(showContent);
-      const showData = {
+      const html = md.render(episodeContent);
+      const episodeData = {
         content: html,
-        frontmatter: showFrontMatter,
+        frontmatter: episodeFrontMatter,
       };
-      const showHTML = templates.single(showData);
+      const episodeHTML = templates.single(episodeData);
+
+      currentShow.episodes.push(episodeData);
 
       // eslint-disable-next-line no-console
-      console.log(`Processing TV Show: ${showFrontMatter.title}`);
+      console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
 
-      if (!fs.existsSync(`${Paths.output.tvshows}/${show}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}`);
-      if (!fs.existsSync(`${Paths.output.tvshows}/${show}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}/${episode}`);
+      if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`);
+      if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`);
 
-      utils.createFile('index', `${Paths.output.tvshows}/${show}/${episode}`, showHTML);
+      utils.createFile('index', `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`, episodeHTML);
     });
+
+    allShows.push(currentShow);
   }
+
+  /*
+    *******************
+    All TV Shows
+    *******************
+  */
+  utils.createFile(
+    'index',
+    Paths.output.tvshows,
+    templates.allShows(allShows),
+  );
 
   const t1 = performance.now();
 
