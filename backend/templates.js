@@ -45,12 +45,9 @@ export function single(config) {
   } = config;
   const {
     type,
-    time,
     title,
     date,
     name,
-    season,
-    episode,
     rating,
   } = frontmatter;
   const image = utils.createAbsoluteURL(`covers/${slugify(name)}.jpg`);
@@ -85,8 +82,10 @@ function _movieItem(movie) {
   return `
   <li>
     <h3><a href="${url}" title="${movie.frontmatter.title}">${movie.frontmatter.title}</a></h3>
-    <time>${utils.formatDate(movie.frontmatter.date)}</time>
-    <div class="rating">${_rating(movie.frontmatter.rating).join('\n')}</div>
+    <div class="meta">
+      <div class="rating">${_rating(movie.frontmatter.rating).join('\n')}</div>
+      <time>${utils.formatDate(movie.frontmatter.date)}</time>
+    </div>
   </li>
 `;
 }
@@ -118,16 +117,15 @@ function _showsItem(show) {
     },
   ).join('\n');
 
+  // eslint-disable-next-line max-len
+  const totalRating = episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0);
   const averageRating = utils.roundHalf(
-    +Number.parseFloat(
-      episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0) / episodes.length,
-    ).toFixed(1),
+    +Number.parseFloat(totalRating / episodes.length).toFixed(1),
   );
 
   return `
   <li>
     <h3 id="${slugify(show.episodes[0].frontmatter.name)}">${show.episodes[0].frontmatter.name}</h3>
-    <div>Rating: ${averageRating}</div>
     <div class="rating">${_rating(averageRating).join('\n')}</div>
     <ul>${episodesList}</ul>
   </li>
@@ -197,14 +195,14 @@ function _card(item) {
 export function homepage(latestShows, latestMovies) {
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.list);
+  const html = utils.readFile(Paths.template.homepage);
   const showsList = latestShows.map(_card).join('\n');
   const moviesList = latestMovies.map(_card).join('\n');
-  const content = `<ul>${showsList}</ul><ul>${moviesList}</ul>`;
 
   return html
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
-    .replaceAll('%CONTENT%', content)
+    .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${showsList}</ul>`)
+    .replaceAll('%LATEST_MOVIES%', `<ul class="cards">${moviesList}</ul>`)
     .replaceAll('%TITLE%', 'Home');
 }
