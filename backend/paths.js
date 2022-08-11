@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const root = `${__dirname}/..`;
-const dist = `${root}/dist`;
+const dist = `${root}/reviews`;
 
 export default {
   template: {
@@ -14,12 +14,14 @@ export default {
     single: `${root}/src/html/single.html`,
   },
   content: {
-    images: `${root}/content/assets/covers`,
+    assets: `${root}/content/assets`,
+    images: `${root}/content/covers`,
     movies: `${root}/content/movies`,
     tvshows: `${root}/content/tv-shows`,
   },
   output: {
     folder: dist,
+    assets: `${dist}/assets`,
     images: `${dist}/covers`,
     movies: `${dist}/movies`,
     tvshows: `${dist}/tv-shows`,

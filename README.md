@@ -8,13 +8,15 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Frontmatter is processed and removed from HTML
 - [x] Template is created for single movies/tv shows
 - [x] Adds image to each single
-- [ ] Creates episode from content
+- [x] Creates episode from content
 - [ ] Creates "all movies" page
 - [ ] Creates "all tv shows" page
+- [ ] Adds anchor ID to each show
+- [ ] Links to show anchor from single show
 - [ ] Template is created for homepage
 - [ ] Creates homepage with latest movies and shows
 - [ ] Creates RSS feeds
-- [ ] GitHub Actions is upated with new functions
+- [x] GitHub Actions is upated with new functions
 - [ ] Adds a widget to homepage with stats
 
 ## Review Generator

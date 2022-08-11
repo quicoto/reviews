@@ -7,10 +7,10 @@ import * as templates from './templates.js';
 import Paths from './paths.js';
 
 // Create the requried folders
-fs.mkdir(Paths.output.folder, () => {});
-fs.mkdir(Paths.output.movies, () => {});
-fs.mkdir(Paths.output.tvshows, () => {});
-fs.mkdir(Paths.output.images, () => {});
+if (!fs.existsSync(Paths.output.folder)) fs.mkdirSync(Paths.output.folder);
+if (!fs.existsSync(Paths.output.movies)) fs.mkdirSync(Paths.output.movies);
+if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
+if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
 (async () => {
   const t0 = performance.now();
@@ -31,8 +31,7 @@ fs.mkdir(Paths.output.images, () => {});
   //   const html = md.render(movieContent);
   //   const movieData = templates.single({
   //     content: html,
-  //     title: movieFrontMatter.title,
-  //     imageId: `${movie}`,
+  //     frontmatter: movieFrontMatter
   //   });
 
   //   // eslint-disable-next-line no-console
@@ -57,17 +56,16 @@ fs.mkdir(Paths.output.images, () => {});
       const html = md.render(showContent);
       const showData = templates.single({
         content: html,
-        title: showFrontMatter.title,
-        imageId: `${show}`,
+        frontmatter: showFrontMatter,
       });
 
       // eslint-disable-next-line no-console
       console.log(`Processing tv show: ${showFrontMatter.title}`);
 
-      fs.mkdir(`${Paths.content.tvshows}/${show}`, () => {});
-      fs.mkdir(`${Paths.content.tvshows}/${show}/${episode}`, () => {});
+      if (!fs.existsSync(`${Paths.output.tvshows}/${show}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}`);
+      if (!fs.existsSync(`${Paths.output.tvshows}/${show}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}/${episode}`);
 
-      utils.createFile(episode, `${Paths.content.tvshows}/${show}/${episode}`, showData);
+      utils.createFile('index', `${Paths.output.tvshows}/${show}/${episode}`, showData);
     });
   }
 
