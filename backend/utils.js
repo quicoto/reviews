@@ -1,4 +1,5 @@
 import * as fs from 'fs';
+import * as nodePath from 'path';
 
 export function readFile(path) {
   return fs.readFileSync(path, { encoding: 'utf8', flag: 'r' });
@@ -27,6 +28,8 @@ export function sortEpisodes(list) {
 
     if (+show1.frontmatter.episode < +show2.frontmatter.episode) return -1;
     if (+show1.frontmatter.episode > +show2.frontmatter.episode) return 1;
+
+    return 0;
   });
 }
 
@@ -36,4 +39,45 @@ export function sortEpisodes(list) {
  */
 export function roundHalf(number) {
   return Math.round(number * 2) / 2;
+}
+
+export function formatDate(date) {
+  return new Date(date).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
+export function getLastModified(parentDirectory, limit) {
+  const getDirectories = (source) => {
+    const files = [];
+
+    function getFiles(dir) {
+      fs.readdirSync(dir).map((file) => {
+        const absolutePath = nodePath.join(dir, file);
+
+        const stats = fs.statSync(absolutePath);
+
+        if (fs.statSync(absolutePath).isDirectory()) {
+          return getFiles(absolutePath);
+        }
+        const modified = {
+          name: file,
+          dir,
+          created: stats.birthtime,
+          modified: stats.mtime,
+        };
+        return files.push(modified);
+      });
+    }
+
+    getFiles(source);
+    return files;
+  };
+
+  const files = getDirectories(parentDirectory);
+  const lastModified = files.sort((a, b) => b.modified - a.modified);
+
+  return lastModified.slice(0, limit);
 }

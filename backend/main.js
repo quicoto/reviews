@@ -21,6 +21,19 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
   /*
     *******************
+    Homepage
+    *******************
+  */
+
+  // eslint-disable-next-line no-console
+  const lastMovies = utils.getLastModified(Paths.content.movies, 6);
+  const lastShows = utils.getLastModified(Paths.content.tvshows, 6);
+  const homepageHTML = templates.homepage(lastShows, lastMovies);
+
+  utils.createFile('index', `${Paths.output.folder}`, homepageHTML);
+
+  /*
+    *******************
     Movies
     *******************
   */

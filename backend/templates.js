@@ -1,6 +1,8 @@
 /* eslint-disable no-param-reassign */
 import slugify from '@sindresorhus/slugify';
+import MarkdownIt from 'markdown-it';
 import * as utils from './utils.js';
+import { frontMatterPlugin } from './frontmatter.js';
 import Paths from './paths.js';
 
 function _rating(rating) {
@@ -50,20 +52,19 @@ export function single(config) {
     season,
     episode,
     rating,
-    ratingEmoji,
-    share,
   } = frontmatter;
   const image = utils.createAbsoluteURL(`covers/${slugify(name)}.jpg`);
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const singleTemplate = utils.readFile(Paths.template.single);
+  const reviewDate = utils.formatDate(date);
   let backLink = '';
 
   if (type === 'series') {
     const url = utils.createAbsoluteURL(
       `tv-shows#${slugify(name)}`,
     );
-    backLink = `<a href="${url}" title="More reviews for ${title}">More reviews for ${title}</a>`;
+    backLink = `<a href="${url}" title="More reviews for ${name}">More reviews for ${name}</a>`;
   }
 
   return singleTemplate
@@ -71,6 +72,7 @@ export function single(config) {
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%CONTENT%', content)
     .replaceAll('%TITLE%', title)
+    .replaceAll('%TIME%', reviewDate)
     .replaceAll('%BACKLINK%', backLink)
     .replaceAll('%RATING%', _rating(averageRating || rating).join('\n'))
     .replaceAll('%IMAGE%', image);
@@ -83,7 +85,7 @@ function _movieItem(movie) {
   return `
   <li>
     <h3><a href="${url}" title="${movie.frontmatter.title}">${movie.frontmatter.title}</a></h3>
-    <time>${movie.frontmatter.date}</time>
+    <time>${utils.formatDate(movie.frontmatter.date)}</time>
     <div class="rating">${_rating(movie.frontmatter.rating).join('\n')}</div>
   </li>
 `;
@@ -143,4 +145,66 @@ export function allShows(list) {
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
     .replaceAll('%TITLE%', 'All TV Show Reviews');
+}
+
+function _card(item) {
+  const fileContent = utils.readFile(`${item.dir}/${item.name}`);
+  let fileFrontmatter = '';
+
+  const md = new MarkdownIt()
+    .use(frontMatterPlugin, (frontMatter) => {
+      fileFrontmatter = frontMatter;
+    });
+  const html = md.render(fileContent);
+  const itemData = {
+    content: html,
+    frontmatter: fileFrontmatter,
+  };
+  const imageSrc = utils.createAbsoluteURL(`covers/${slugify(itemData.frontmatter.name)}.jpg`);
+  let url = '';
+
+  if (itemData.frontmatter.type === 'movie') {
+    url = utils.createAbsoluteURL(
+      `movies/${slugify(itemData.frontmatter.name)}/`,
+    );
+  } else if (itemData.frontmatter.type === 'series') {
+    url = utils.createAbsoluteURL(
+      `tv-shows/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.season}x${itemData.frontmatter.episode}`,
+    );
+  }
+
+  return `
+  <li class="card">
+    <h3 class="card-heading">
+      <a title="${itemData.frontmatter.title}" class="card-link" href="${url}">
+        <img
+          class="card-image cover" src="${imageSrc}" alt="${itemData.frontmatter.title} cover" title="${itemData.frontmatter.title}">
+        <div>${itemData.frontmatter.title}</div>
+      </a>
+    </h3>
+    <div class="card-footer">
+      <time>${utils.formatDate(itemData.frontmatter.date)}</time>
+      <div class="rating">${_rating(itemData.frontmatter.rating).join('\n')}</div>
+    </div>
+  </li>`;
+}
+
+/**
+ * @param  {array} latestShows
+ * @param  {array} latestMovies
+ * @return {string}
+ */
+export function homepage(latestShows, latestMovies) {
+  const header = utils.readFile(Paths.template.header);
+  const footer = utils.readFile(Paths.template.footer);
+  const html = utils.readFile(Paths.template.list);
+  const showsList = latestShows.map(_card).join('\n');
+  const moviesList = latestMovies.map(_card).join('\n');
+  const content = `<ul>${showsList}</ul><ul>${moviesList}</ul>`;
+
+  return html
+    .replaceAll('%HEADER%', header)
+    .replaceAll('%FOOTER%', footer)
+    .replaceAll('%CONTENT%', content)
+    .replaceAll('%TITLE%', 'Home');
 }

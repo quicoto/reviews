@@ -8,6 +8,7 @@ const dist = `${root}/reviews`;
 
 export default {
   template: {
+    homepage: `${root}/src/html/homepage.html`,
     footer: `${root}/src/html/footer.html`,
     header: `${root}/src/html/header.html`,
     index: `${root}/src/html/single.html`,
