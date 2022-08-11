@@ -12,6 +12,7 @@ export default {
     header: `${root}/src/html/header.html`,
     index: `${root}/src/html/single.html`,
     single: `${root}/src/html/single.html`,
+    list: `${root}/src/html/list.html`,
   },
   content: {
     assets: `${root}/content/assets`,

@@ -80,11 +80,11 @@ EOM
 
 echo $template
 
-file=./content/blog/tv-shows/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
+file=./content/tv-shows/$( echo $theSlug)/$(echo $season)x$( echo $episode)/index.md
 
 if [ $type == movie ]
 then
-  file=./content/blog/movies/$( echo $theSlug)/index.md
+  file=./content/movies/$( echo $theSlug)/index.md
 fi
 
 mkfileP() { mkdir -p "$(dirname "$1")" || return; touch "$1"; }

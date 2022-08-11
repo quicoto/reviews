@@ -9,8 +9,9 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Template is created for single movies/tv shows
 - [x] Adds image to each single
 - [x] Creates episode from content
-- [ ] Creates "all movies" page
+- [x] Creates "all movies" page
 - [ ] Creates "all tv shows" page
+- [ ] Adds a back to all movies link
 - [ ] Adds anchor ID to each show
 - [ ] Links to show anchor from single show
 - [ ] Template is created for homepage

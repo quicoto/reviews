@@ -58,13 +58,39 @@ export function single(config) {
 
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.single);
+  const singleTemplate = utils.readFile(Paths.template.single);
 
-  return html
+  return singleTemplate
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%CONTENT%', content)
     .replaceAll('%TITLE%', title)
     .replaceAll('%RATING%', _rating(averageRating || rating).join('\n'))
     .replaceAll('%IMAGE%', image);
+}
+
+function _movieItem(movie) {
+  const url = utils.createAbsoluteURL(
+    `movies/${slugify(movie.frontmatter.name)}`,
+  );
+  return `
+  <li>
+    <h3><a href="${url}" title="${movie.frontmatter.title}">${movie.frontmatter.title}</a></h3>
+    <time>${movie.frontmatter.date}</time>
+    <div class="rating">${_rating(movie.frontmatter.rating).join('\n')}</div>
+  </li>
+`;
+}
+
+export function allMovies(list) {
+  const header = utils.readFile(Paths.template.header);
+  const footer = utils.readFile(Paths.template.footer);
+  const html = utils.readFile(Paths.template.list);
+  const content = list.map(_movieItem).join('\n');
+
+  return html
+    .replaceAll('%HEADER%', header)
+    .replaceAll('%FOOTER%', footer)
+    .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
+    .replaceAll('%TITLE%', 'All Movie Reviews');
 }

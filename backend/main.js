@@ -18,28 +18,56 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   // eslint-disable-next-line no-console
   console.time('Start content creation');
 
-  // const movies = await fs.promises.readdir(`${Paths.content.movies}`);
+  /*
+    *******************
+    Movies
+    *******************
+  */
+  const movies = await fs.promises.readdir(`${Paths.content.movies}`);
+  const allMovies = [];
 
-  // movies.forEach((movie) => {
-  //   let movieFrontMatter = '';
-  //   const movieContent = utils.readFile(`${Paths.content.movies}/${movie}/index.md`);
+  movies.forEach((movie) => {
+    let movieFrontMatter = '';
+    const movieContent = utils.readFile(`${Paths.content.movies}/${movie}/index.md`);
 
-  //   const md = new MarkdownIt()
-  //     .use(frontMatterPlugin, (frontMatter) => {
-  //       movieFrontMatter = frontMatter;
-  //     });
-  //   const html = md.render(movieContent);
-  //   const movieData = templates.single({
-  //     content: html,
-  //     frontmatter: movieFrontMatter
-  //   });
+    const md = new MarkdownIt()
+      .use(frontMatterPlugin, (frontMatter) => {
+        movieFrontMatter = frontMatter;
+      });
+    const html = md.render(movieContent);
+    const movieData = {
+      content: html,
+      frontmatter: movieFrontMatter,
+    };
+    const movieHTML = templates.single(movieData);
+    allMovies.push(movieData);
 
-  //   // eslint-disable-next-line no-console
-  //   console.log(`Processing movie: ${movieFrontMatter.title}`);
+    // eslint-disable-next-line no-console
+    console.log(`Processing movie: ${movieFrontMatter.title}`);
 
-  //   utils.createFile(movie, Paths.output.movies, movieData);
-  // });
+    utils.createFile(movie, Paths.output.movies, movieHTML);
 
+    if (!fs.existsSync(`${Paths.output.movies}/${movie}`)) fs.mkdirSync(`${Paths.output.movies}/${movie}`);
+
+    utils.createFile('index', `${Paths.output.movies}/${movie}`, movieHTML);
+  });
+
+  /*
+    *******************
+    All Movies
+    *******************
+  */
+  utils.createFile(
+    'index',
+    Paths.output.movies,
+    templates.allMovies(allMovies),
+  );
+
+  /*
+    *******************
+    TV Shows
+    *******************
+  */
   const tvshows = await fs.promises.readdir(`${Paths.content.tvshows}`);
 
   for (const show of tvshows) {
@@ -54,18 +82,19 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
           showFrontMatter = frontMatter;
         });
       const html = md.render(showContent);
-      const showData = templates.single({
+      const showData = {
         content: html,
         frontmatter: showFrontMatter,
-      });
+      };
+      const showHTML = templates.single(showData);
 
       // eslint-disable-next-line no-console
-      console.log(`Processing tv show: ${showFrontMatter.title}`);
+      console.log(`Processing TV Show: ${showFrontMatter.title}`);
 
       if (!fs.existsSync(`${Paths.output.tvshows}/${show}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}`);
       if (!fs.existsSync(`${Paths.output.tvshows}/${show}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${show}/${episode}`);
 
-      utils.createFile('index', `${Paths.output.tvshows}/${show}/${episode}`, showData);
+      utils.createFile('index', `${Paths.output.tvshows}/${show}/${episode}`, showHTML);
     });
   }
 
