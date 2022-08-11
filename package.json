@@ -6,11 +6,12 @@
   "author": "Ricard Torres <torres.rick@gmail.com>",
   "type": "module",
   "scripts": {
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "build": "run-p test lint build",
+    "format": "prettier --write \"content/**/*.md\"",
     "build:content": "node backend/main.js",
     "build:assets": "npm run build:css && npm run build:html && npm run build:js",
     "build:css": "sass src/scss/main.scss dist/css/main.css --style=compressed --no-source-map",
-    "build:html": "node html.js",
+    "build:html": "node backend/html.js",
     "build:js": "esbuild src/js/main.js --bundle --minify --outfile=dist/js/main.js",
     "watch:css": "sass src/scss/main.scss dist/css/main.css --watch",
     "watch:js": "esbuild src/js/main.js --bundle --outfile=dist/js/main.js --watch",
@@ -20,8 +21,9 @@
   },
   "dependencies": {
     "@sindresorhus/slugify": "2.1.0",
-    "markdown-it": "^13.0.1",
     "esbuild": "^0.15.0",
+    "markdown-it": "^13.0.1",
+    "npm-run-all": "^4.1.5",
     "sass": "^1.54.4"
   },
   "devDependencies": {

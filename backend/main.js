@@ -1,23 +1,14 @@
 import * as fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
 import MarkdownIt from 'markdown-it';
-// import MarkdownItFrontMatter from 'markdown-it-front-matter';
 import * as utils from './utils.js';
 import { frontMatterPlugin } from './frontmatter.js';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const paths = {
-  output: `${__dirname}/../dist`,
-  movies: `${__dirname}/../content/movies`,
-  tvshows: `${__dirname}/../content/tv-shows`,
-};
+import * as templates from './templates.js';
+import Paths from './paths.js';
 
 // Create the requried folders
-fs.mkdir(paths.output, () => {});
+fs.mkdir(Paths.output.folder, () => {});
+fs.mkdir(Paths.output.movies, () => {});
+fs.mkdir(Paths.output.tvshows, () => {});
 
 (async () => {
   const t0 = performance.now();
@@ -25,11 +16,11 @@ fs.mkdir(paths.output, () => {});
   // eslint-disable-next-line no-console
   console.time('Start content creation');
 
-  const movies = await fs.promises.readdir(`${paths.movies}`);
+  const movies = await fs.promises.readdir(`${Paths.content.movies}`);
 
   movies.forEach((movie) => {
     let movieData = '';
-    const movieContent = utils.readFile(`${paths.movies}/${movie}/index.md`);
+    const movieContent = utils.readFile(`${Paths.content.movies}/${movie}/index.md`);
 
     const md = new MarkdownIt()
       .use(frontMatterPlugin, (frontMatter) => {
@@ -37,6 +28,10 @@ fs.mkdir(paths.output, () => {});
       });
 
     const html = md.render(movieContent);
+    const movieHTML = templates.single({
+      content: html,
+      title: movieData.title,
+    });
 
     // eslint-disable-next-line no-console
     console.log(movieData);
@@ -44,7 +39,7 @@ fs.mkdir(paths.output, () => {});
     // eslint-disable-next-line no-console
     console.log(`Processing movie: ${movieData.title}`);
 
-    utils.createFile(movie, paths.output, html);
+    utils.createFile(movie, Paths.output.movies, movieHTML);
   });
 
   const t1 = performance.now();

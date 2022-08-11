@@ -4,8 +4,8 @@
     {
         "type": "node",
         "request": "launch",
-        "name": "Launch Current Opened File",
-        "program": "${file}"
+        "name": "Main.js",
+        "program": "backend/main.js"
     }
   ]
 }

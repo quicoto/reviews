@@ -6,7 +6,9 @@ export function readFile(path) {
 
 export function createFile(name, path, data) {
   const fileName = `${name}.html`;
-  fs.writeFileSync(`${path}/${fileName}`, data, (err) => {
+  const processeData = data.replaceAll('%VERSION%', process.env.npm_package_version);
+
+  fs.writeFileSync(`${path}/${fileName}`, processeData, (err) => {
     if (!err) {
       // eslint-disable-next-line no-console
       console.log(`File created: ${fileName}`);
