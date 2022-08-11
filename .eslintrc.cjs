@@ -17,5 +17,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'prefer-destructuring': 'off',
     'import/extensions': 'off',
+    'no-await-in-loop': 'off',
   },
 };
