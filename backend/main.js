@@ -3,12 +3,12 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import MarkdownIt from 'markdown-it';
+// import MarkdownItFrontMatter from 'markdown-it-front-matter';
 import * as utils from './utils.js';
+import { frontMatterPlugin } from './frontmatter.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-const md = new MarkdownIt();
 
 const paths = {
   output: `${__dirname}/../dist`,
@@ -28,10 +28,21 @@ fs.mkdir(paths.output, () => {});
   const movies = await fs.promises.readdir(`${paths.movies}`);
 
   movies.forEach((movie) => {
-    // eslint-disable-next-line no-console
-    console.log(`Processing movie: ${movie}`);
+    let movieData = '';
     const movieContent = utils.readFile(`${paths.movies}/${movie}/index.md`);
+
+    const md = new MarkdownIt()
+      .use(frontMatterPlugin, (frontMatter) => {
+        movieData = frontMatter;
+      });
+
     const html = md.render(movieContent);
+
+    // eslint-disable-next-line no-console
+    console.log(movieData);
+
+    // eslint-disable-next-line no-console
+    console.log(`Processing movie: ${movieData.title}`);
 
     utils.createFile(movie, paths.output, html);
   });

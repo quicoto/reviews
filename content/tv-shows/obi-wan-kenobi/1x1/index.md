@@ -1,14 +1,14 @@
---- 
+---
 time: 50
-type: series 
-title: "Obi-Wan Kenobi 1x1" 
-date: "2022-05-28T00:00:00" 
-name: "Obi-Wan Kenobi" 
-season: 1 
-episode: 1 
-rating: 5 
-ratingEmoji: "⭐️⭐️⭐️⭐️⭐️" 
-share: true 
+type: series
+title: "Obi-Wan Kenobi 1x1"
+date: "2022-05-28T00:00:00"
+name: "Obi-Wan Kenobi"
+season: 1
+episode: 1
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
+share: true
 ---
 
 If you're a Star Wars fan, you will like this first episode.
