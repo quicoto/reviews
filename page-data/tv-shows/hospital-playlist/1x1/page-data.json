@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/tv-shows/hospital-playlist/1x1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"07bdda12-06cf-5276-b454-3259c9193fac","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hospital Playlist","title":"Hospital Playlist 1x1","date":"August 11, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hospital-playlist/1x1/","previous":{"fields":{"slug":"/tv-shows/my-first-first-love/1x4/"},"frontmatter":{"title":"My First First Love 1x4"}},"next":null}},
+    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
