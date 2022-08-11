@@ -8,8 +8,9 @@
   "scripts": {
     "build": "run-p test lint build",
     "format": "prettier --write \"content/**/*.md\"",
-    "build:content": "node backend/main.js",
     "build:assets": "npm run build:css && npm run build:html && npm run build:js",
+    "build:content": "node backend/main.js",
+    "build:covers": "node backend/covers.js",
     "build:css": "sass src/scss/main.scss dist/css/main.css --style=compressed --no-source-map",
     "build:html": "node backend/html.js",
     "build:js": "esbuild src/js/main.js --bundle --minify --outfile=dist/js/main.js",

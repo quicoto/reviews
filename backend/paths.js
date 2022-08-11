@@ -14,11 +14,13 @@ export default {
     single: `${root}/src/html/single.html`,
   },
   content: {
+    images: `${root}/content/assets/covers`,
     movies: `${root}/content/movies`,
     tvshows: `${root}/content/tv-shows`,
   },
   output: {
     folder: dist,
+    images: `${dist}/covers`,
     movies: `${dist}/movies`,
     tvshows: `${dist}/tv-shows`,
   },

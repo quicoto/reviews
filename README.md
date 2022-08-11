@@ -7,6 +7,7 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Creates movies from content
 - [x] Frontmatter is processed and removed from HTML
 - [x] Template is created for single movies/tv shows
+- [x] Adds image to each single
 - [ ] Creates episode from content
 - [ ] Creates "all movies" page
 - [ ] Creates "all tv shows" page

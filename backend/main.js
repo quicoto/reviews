@@ -9,6 +9,7 @@ import Paths from './paths.js';
 fs.mkdir(Paths.output.folder, () => {});
 fs.mkdir(Paths.output.movies, () => {});
 fs.mkdir(Paths.output.tvshows, () => {});
+fs.mkdir(Paths.output.images, () => {});
 
 (async () => {
   const t0 = performance.now();
@@ -19,27 +20,24 @@ fs.mkdir(Paths.output.tvshows, () => {});
   const movies = await fs.promises.readdir(`${Paths.content.movies}`);
 
   movies.forEach((movie) => {
-    let movieData = '';
+    let movieFrontMatter = '';
     const movieContent = utils.readFile(`${Paths.content.movies}/${movie}/index.md`);
 
     const md = new MarkdownIt()
       .use(frontMatterPlugin, (frontMatter) => {
-        movieData = frontMatter;
+        movieFrontMatter = frontMatter;
       });
-
     const html = md.render(movieContent);
-    const movieHTML = templates.single({
+    const movieData = templates.single({
       content: html,
-      title: movieData.title,
+      title: movieFrontMatter.title,
+      imageId: `${movie}`,
     });
 
     // eslint-disable-next-line no-console
-    console.log(movieData);
+    console.log(`Processing movie: ${movieFrontMatter.title}`);
 
-    // eslint-disable-next-line no-console
-    console.log(`Processing movie: ${movieData.title}`);
-
-    utils.createFile(movie, Paths.output.movies, movieHTML);
+    utils.createFile(movie, Paths.output.movies, movieData);
   });
 
   const t1 = performance.now();

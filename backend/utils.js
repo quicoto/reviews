@@ -15,3 +15,7 @@ export function createFile(name, path, data) {
     }
   });
 }
+
+export function createAbsoluteURL(path) {
+  return `/reviews/${path}`;
+}
