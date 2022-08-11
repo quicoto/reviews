@@ -11,8 +11,7 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Creates episode from content
 - [x] Creates "all movies" page
 - [x] Creates "all tv shows" page
-- [ ] Adds a back to all movies link
-- [ ] Adds anchor ID to each show
+- [x] Adds anchor ID to each show
 - [ ] Formats time in Movie list
 - [ ] Formats time in Movie single
 - [ ] Formats time in shows single
@@ -22,6 +21,7 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [ ] Creates RSS feeds
 - [x] GitHub Actions is upated with new functions
 - [ ] Adds a widget to homepage with stats
+- [ ] Deletes old Gatbsy files
 
 ## Review Generator
 

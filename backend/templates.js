@@ -53,18 +53,25 @@ export function single(config) {
     ratingEmoji,
     share,
   } = frontmatter;
-
   const image = utils.createAbsoluteURL(`covers/${slugify(name)}.jpg`);
-
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const singleTemplate = utils.readFile(Paths.template.single);
+  let backLink = '';
+
+  if (type === 'series') {
+    const url = utils.createAbsoluteURL(
+      `tv-shows#${slugify(name)}`,
+    );
+    backLink = `<a href="${url}" title="More reviews for ${title}">More reviews for ${title}</a>`;
+  }
 
   return singleTemplate
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%CONTENT%', content)
     .replaceAll('%TITLE%', title)
+    .replaceAll('%BACKLINK%', backLink)
     .replaceAll('%RATING%', _rating(averageRating || rating).join('\n'))
     .replaceAll('%IMAGE%', image);
 }
@@ -117,7 +124,7 @@ function _showsItem(show) {
 
   return `
   <li>
-    <h3>${show.episodes[0].frontmatter.name}</h3>
+    <h3 id="${slugify(show.episodes[0].frontmatter.name)}">${show.episodes[0].frontmatter.name}</h3>
     <div>Rating: ${averageRating}</div>
     <div class="rating">${_rating(averageRating).join('\n')}</div>
     <ul>${episodesList}</ul>
