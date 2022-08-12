@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'The Mandalorian';
-const seasons = 2;
-const episodesPerSeason = [8, 8];
-const time = 50;
-const rating = 4;
+const showName = 'The Umbrella Academy';
+const seasons = 1;
+const episodesPerSeason = [10];
+const time = 40;
+const rating = 3;
 /*
   *******************
   END Configuration
