@@ -8,12 +8,7 @@ export function readFile(path) {
 export function createFile(fileName, path, data) {
   const processedData = data.replaceAll('%VERSION%', process.env.npm_package_version);
 
-  fs.writeFileSync(`${path}/${fileName}`, processedData, (err) => {
-    if (!err) {
-      // eslint-disable-next-line no-console
-      console.log(`File created: ${fileName}`);
-    }
-  });
+  fs.writeFileSync(`${path}/${fileName}`, processedData);
 }
 
 export function createAbsoluteURL(path, withDomain = false) {
