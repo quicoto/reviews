@@ -106,15 +106,9 @@ export function allMovies(list) {
 function _showsItem(show) {
   const episodes = utils.sortEpisodes(show.episodes);
   const episodesList = episodes.map(
-    (episode) => {
-      const url = utils.createAbsoluteURL(
-        `tv-shows/${slugify(episode.frontmatter.name)}/${episode.frontmatter.season}x${episode.frontmatter.episode}`,
-      );
-
-      return `<li>
-      <a href="${url}" title="${episode.frontmatter.name} ${episode.frontmatter.season}x${episode.frontmatter.episode}">${episode.frontmatter.season}x${episode.frontmatter.episode}</a>
-    </li>`;
-    },
+    (episode) => `<li>
+      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.season}x${episode.frontmatter.episode}">${episode.frontmatter.season}x${episode.frontmatter.episode}</a>
+    </li>`,
   ).join('\n');
 
   // eslint-disable-next-line max-len
@@ -159,22 +153,11 @@ function _card(item) {
     frontmatter: fileFrontmatter,
   };
   const imageSrc = utils.createAbsoluteURL(`covers/${slugify(itemData.frontmatter.name)}.jpg`);
-  let url = '';
-
-  if (itemData.frontmatter.type === 'movie') {
-    url = utils.createAbsoluteURL(
-      `movies/${slugify(itemData.frontmatter.name)}/`,
-    );
-  } else if (itemData.frontmatter.type === 'series') {
-    url = utils.createAbsoluteURL(
-      `tv-shows/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.season}x${itemData.frontmatter.episode}`,
-    );
-  }
 
   return `
   <li class="card">
     <h3 class="card-heading">
-      <a title="${itemData.frontmatter.title}" class="card-link" href="${url}">
+      <a title="${itemData.frontmatter.title}" class="card-link" href="${utils.createURL(itemData)}">
         <img
           class="card-image cover" src="${imageSrc}" alt="${itemData.frontmatter.title} cover" title="${itemData.frontmatter.title}">
         <div>${itemData.frontmatter.title}</div>
@@ -205,4 +188,44 @@ export function homepage(latestShows, latestMovies) {
     .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${showsList}</ul>`)
     .replaceAll('%LATEST_MOVIES%', `<ul class="cards">${moviesList}</ul>`)
     .replaceAll('%TITLE%', 'Home');
+}
+
+function _feedDescription(item) {
+  const type = `${
+    item.frontmatter.type === 'series' ? 'Episode' : 'Movie'
+  } review`;
+
+  return `📺 Just watched: ${item.frontmatter.title}\n\nRating: ${
+    item.frontmatter.ratingEmoji
+  }\n\n${type} 👇\n${utils.createURL(item, true)}`;
+}
+
+export function rssItem(item) {
+  const fileContent = utils.readFile(`${item.dir}/${item.name}`);
+  let fileFrontmatter = '';
+
+  const md = new MarkdownIt()
+    .use(frontMatterPlugin, (frontMatter) => {
+      fileFrontmatter = frontMatter;
+    });
+  const html = md.render(fileContent);
+  const itemData = {
+    content: html,
+    frontmatter: fileFrontmatter,
+  };
+
+  return `<item>
+  <title><![CDATA[${itemData.frontmatter.title}]]></title>
+  <description><![CDATA[${_feedDescription(itemData)}]]></description>
+  <link>${utils.createURL(itemData, true)}</link>
+  <guid isPermaLink="true">${utils.createURL(itemData, true)}</guid>
+  <pubDate>${utils.formatRSSDate(item.modified)}</pubDate>
+</item>`;
+}
+
+export function rss() {
+  const xml = utils.readFile(Paths.template.rss);
+  const buildDate = utils.formatRSSDate();
+
+  return xml.replaceAll('%BUILDDATE%', buildDate);
 }

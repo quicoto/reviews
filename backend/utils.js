@@ -1,12 +1,12 @@
 import * as fs from 'fs';
 import * as nodePath from 'path';
+import slugify from '@sindresorhus/slugify';
 
 export function readFile(path) {
   return fs.readFileSync(path, { encoding: 'utf8', flag: 'r' });
 }
 
-export function createFile(name, path, data) {
-  const fileName = `${name}.html`;
+export function createFile(fileName, path, data) {
   const processeData = data.replaceAll('%VERSION%', process.env.npm_package_version);
 
   fs.writeFileSync(`${path}/${fileName}`, processeData, (err) => {
@@ -17,8 +17,14 @@ export function createFile(name, path, data) {
   });
 }
 
-export function createAbsoluteURL(path) {
-  return `/reviews/${path}`;
+export function createAbsoluteURL(path, withDomain = false) {
+  let url = `/reviews/${path}`;
+
+  if (withDomain) {
+    url = `https://quicoto.github.io${url}`;
+  }
+
+  return url;
 }
 
 export function sortEpisodes(list) {
@@ -80,4 +86,30 @@ export function getLastModified(parentDirectory, limit) {
   const lastModified = files.sort((a, b) => b.modified - a.modified);
 
   return lastModified.slice(0, limit);
+}
+
+export function formatRSSDate(date) {
+  let newDate = new Date();
+
+  if (date) newDate = new Date(date);
+
+  return new Intl.DateTimeFormat('en-US', { dateStyle: 'full', timeStyle: 'long' }).format(newDate);
+}
+
+export function createURL(itemData, withDomain = false) {
+  let url = '';
+
+  if (itemData.frontmatter.type === 'movie') {
+    url = createAbsoluteURL(
+      `movies/${slugify(itemData.frontmatter.name)}/`,
+      withDomain,
+    );
+  } else if (itemData.frontmatter.type === 'series') {
+    url = createAbsoluteURL(
+      `tv-shows/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.season}x${itemData.frontmatter.episode}`,
+      withDomain,
+    );
+  }
+
+  return url;
 }

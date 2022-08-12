@@ -30,7 +30,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   const lastShows = utils.getLastModified(Paths.content.tvshows, 6);
   const homepageHTML = templates.homepage(lastShows, lastMovies);
 
-  utils.createFile('index', `${Paths.output.folder}`, homepageHTML);
+  utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
 
   /*
     *******************
@@ -61,7 +61,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
     if (!fs.existsSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`);
 
-    utils.createFile('index', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
+    utils.createFile('index.html', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
   });
 
   /*
@@ -70,7 +70,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     *******************
   */
   utils.createFile(
-    'index',
+    'index.html',
     Paths.output.movies,
     templates.allMovies(allMovies),
   );
@@ -113,7 +113,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`);
       if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`);
 
-      utils.createFile('index', `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`, episodeHTML);
+      utils.createFile('index.html', `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`, episodeHTML);
     });
 
     allShows.push(currentShow);
@@ -125,10 +125,38 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     *******************
   */
   utils.createFile(
-    'index',
+    'index.html',
     Paths.output.tvshows,
     templates.allShows(allShows),
   );
+
+  /*
+    *******************
+    RSS
+    *******************
+  */
+  const template = templates.rss();
+
+  const last20Movies = utils.getLastModified(Paths.content.movies, 20);
+  const last20Shows = utils.getLastModified(Paths.content.tvshows, 20);
+  const last20All = utils.getLastModified(Paths.content.blog, 20);
+
+  const rssTVShows = template.replace(
+    '%ITEMS%',
+    last20Shows.map(templates.rssItem).join('\n'),
+  );
+  const rssMovies = template.replace(
+    '%ITEMS%',
+    last20Movies.map(templates.rssItem).join('\n'),
+  );
+  const rssAll = template.replace(
+    '%ITEMS%',
+    last20All.map(templates.rssItem).join('\n'),
+  );
+
+  utils.createFile('rss-all-shows.xml', Paths.output.rss.tvshows, rssTVShows);
+  utils.createFile('rss-all-movies.xml', Paths.output.rss.movies, rssMovies);
+  utils.createFile('rss.xml', Paths.output.rss.all, rssAll);
 
   const t1 = performance.now();
 

@@ -8,6 +8,7 @@ const dist = `${root}/reviews`;
 
 export default {
   template: {
+    rss: `${root}/src/template.rss`,
     homepage: `${root}/src/html/homepage.html`,
     footer: `${root}/src/html/footer.html`,
     header: `${root}/src/html/header.html`,
@@ -17,11 +18,17 @@ export default {
   },
   content: {
     assets: `${root}/content/assets`,
+    blog: `${root}/content/blog`,
     images: `${root}/content/covers`,
-    movies: `${root}/content/movies`,
-    tvshows: `${root}/content/tv-shows`,
+    movies: `${root}/content/blog/movies`,
+    tvshows: `${root}/content/blog/tv-shows`,
   },
   output: {
+    rss: {
+      all: dist,
+      tvshows: dist,
+      movies: dist,
+    },
     folder: dist,
     assets: `${dist}/assets`,
     images: `${dist}/covers`,
