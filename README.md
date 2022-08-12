@@ -1,11 +1,6 @@
 # Ricard Torres Reviews
 
-Gatbsy blog to post my TV Shows and Movies reviews.
-
-## To Do
-
-- [ ] Adds a widget to homepage with stats
-- [ ] Deletes old Gatbsy files
+Handcrafted site built with NodeJS and markdown content to share my TV Show and Movie reviews.
 
 ## Review Generator
 
