@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Boku no Tonari ni Ankoku Hakaishin ga Imasu';
+const showName = 'Community';
 const time = 25;
-const seasons = 1;
-const episodesPerSeason = [3];
+const seasons = 2;
+const episodesPerSeason = [25, 13];
 const rating = 3;
 /*
   *******************
