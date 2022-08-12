@@ -39,6 +39,14 @@ const SEO = ({ description, lang, meta, title }) => {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
+          name: 'robots',
+          content: 'noindex'
+        },
+        {
+          name: 'robots',
+          content: 'nofollow'
+        },
+        {
           name: `google-site-verification`,
           content: `k-50-TOicwx8edLJCCIFaImavNlpQKj1fYoc9BH75YU`,
         },
