@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Lupin';
+const showName = 'Major 2nd';
 const seasons = 2;
-const episodesPerSeason = [5, 5];
-const time = 40;
+const episodesPerSeason = [25, 25];
+const time = 25;
 const rating = 3;
 /*
   *******************
