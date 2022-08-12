@@ -2,7 +2,7 @@
 type: series
 time: 25
 title: Atypical 3x7
-date: "2022-08-12T20:53:23"
+date: "2022-08-12T00:00:00"
 name: "Atypical"
 season: 3
 episode: 7

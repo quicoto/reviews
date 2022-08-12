@@ -31,11 +31,8 @@ function _formatDate() {
 
   const day = _fixNumber(now.getDate());
   const month = _fixNumber(now.getMonth() + 1);
-  const hours = _fixNumber(now.getHours());
-  const minutes = _fixNumber(now.getMinutes());
-  const seconds = _fixNumber(now.getSeconds());
 
-  return `${now.getFullYear()}-${month}-${day}T${hours}:${minutes}:${seconds}`;
+  return `${now.getFullYear()}-${month}-${day}T00:00:00`;
 }
 
 for (let season = 1; season <= seasons; season += 1) {
