@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = "Grey's Anatomy";
-const seasons = 17;
-const episodesPerSeason = [9, 27, 25, 17, 24, 24, 22, 24, 24, 24, 25, 24, 24, 24, 25, 21, 17];
+const showName = 'Into the Night';
+const seasons = 1;
+const episodesPerSeason = [6];
 const time = 40;
 const rating = 3;
 /*
