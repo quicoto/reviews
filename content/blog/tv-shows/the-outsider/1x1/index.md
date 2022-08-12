@@ -1,5 +1,6 @@
 ---
 type: series
+time: 60
 title: "The Outsider 1x1"
 date: "2022-08-12T22:45:40"
 name: "The Outsider"
