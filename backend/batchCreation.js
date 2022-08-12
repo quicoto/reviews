@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Suits';
-const seasons = 9;
-const episodesPerSeason = [12, 16, 16, 16, 16, 16, 16, 16, 10];
+const showName = 'The Good Doctor';
+const seasons = 4;
+const episodesPerSeason = [18, 18, 20, 20];
 const time = 40;
-const rating = 4;
+const rating = 3;
 /*
   *******************
   END Configuration
