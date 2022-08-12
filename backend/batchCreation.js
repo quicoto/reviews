@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'The Good Doctor';
-const seasons = 4;
-const episodesPerSeason = [18, 18, 20, 20];
+const showName = 'The Looming Tower';
+const seasons = 1;
+const episodesPerSeason = [9];
 const time = 40;
 const rating = 3;
 /*
