@@ -144,7 +144,11 @@ time {
 
   .card {
     margin-bottom: 2rem;
-    width: 47%;
+    width: 100%;
+
+    @media (min-width: $screen-md) {
+      width: 47%;
+    }
 
     @media (min-width: $screen-lg) {
       width: 31%;
