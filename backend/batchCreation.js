@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Final Space';
-const time = 25;
-const seasons = 2;
-const episodesPerSeason = [10, 13];
-const rating = 4;
+const showName = "Grey's Anatomy";
+const seasons = 17;
+const episodesPerSeason = [9, 27, 25, 17, 24, 24, 22, 24, 24, 24, 25, 24, 24, 24, 25, 21, 17];
+const time = 40;
+const rating = 3;
 /*
   *******************
   END Configuration
