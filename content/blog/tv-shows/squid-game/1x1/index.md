@@ -1,4 +1,5 @@
 ---
+time: 60
 type: series
 title: "Squid Game 1x1"
 date: "2021-09-20T00:00:00"

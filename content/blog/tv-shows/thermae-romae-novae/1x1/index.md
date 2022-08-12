@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Thermae Romae Novae 1x1"
 date: "2022-03-31T00:00:00"

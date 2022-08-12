@@ -1,6 +1,6 @@
 $screen-md: 600px;
 $screen-lg: 900px;
-$primary: #0984e3;
+$primary: rgba(252,70,107,1);
 $secondary: #109649;
 
 * {
@@ -19,6 +19,8 @@ body {
   font-size: 1rem;
   padding: 0;
   margin: 0;
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 }
 
 h1, h2, h3, h4 {
@@ -61,12 +63,11 @@ footer .innerWrapper {
 header,
 footer {
   color: white;
-  background: $primary;
 
   a {
     color: white;
     text-decoration: none;
-    border: dashed $primary 2px;
+    border: dashed transparent 2px;
     padding: 0.5rem;
 
     &:hover {
@@ -107,9 +108,9 @@ img {
 }
 
 main {
+  background: white;
   margin-bottom: 2rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 1rem;
 }
 
 footer {
@@ -211,5 +212,26 @@ time {
 
   li {
     margin: 0;
+  }
+}
+
+.stats {
+  background: $secondary;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-around;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: white;
+  padding: 1rem;
+
+  h3 {
+    margin-bottom: 1rem;
+  }
+
+  span {
+    font-size: 2rem;
+    // color: $secondary;
   }
 }

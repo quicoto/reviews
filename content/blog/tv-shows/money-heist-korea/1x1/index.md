@@ -1,4 +1,5 @@
 ---
+time: 75
 type: series
 title: "Money Heist: Korea 1x1"
 date: "2022-06-25T23:38:12"

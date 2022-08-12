@@ -124,10 +124,25 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     Homepage
     *******************
   */
+  let showsMinutesWatched = 0;
+  const moviesMinutesWatched = (allMovies.length * 120);
 
-  const lastMovies = allMovies.sort(utils.sortByDate).slice(0, 6);
-  const lastShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
-  const homepageHTML = templates.homepage(lastShows, lastMovies);
+  allShows.forEach((show) => {
+    const showTime = +show.episodes.find((episode) => episode.frontmatter.time).frontmatter.time;
+    const totalTime = showTime * show.episodes.length;
+
+    showsMinutesWatched += totalTime;
+  });
+
+  const latestMovies = allMovies.sort(utils.sortByDate).slice(0, 6);
+  const latestShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
+  const homepageHTML = templates.homepage({
+    latestShows,
+    latestMovies,
+    minutesWatched: moviesMinutesWatched + showsMinutesWatched,
+    uniqueMovies: allMovies.length,
+    uniqueTVShows: allShows.length,
+  });
 
   utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
 

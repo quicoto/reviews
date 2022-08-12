@@ -1,4 +1,5 @@
 ---
+time: 50
 type: series
 title: "Black Bird 1x1"
 date: "2022-08-05T17:54:08"

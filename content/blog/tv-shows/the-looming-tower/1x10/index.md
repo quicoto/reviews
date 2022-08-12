@@ -1,4 +1,5 @@
 ---
+time: 50
 type: series
 title: "The Looming Tower 1x10"
 date: "2021-08-07T00:00:00"

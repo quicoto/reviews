@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Kanata no Astra 1x1"
 date: "2021-11-01T23:26:57"

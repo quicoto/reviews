@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Spy x Family 1x1"
 date: "2022-04-10T19:51:39"

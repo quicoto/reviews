@@ -1,4 +1,5 @@
 ---
+time: 75
 type: series
 title: "Hometown Cha-Cha-Cha 1x1"
 date: "2022-07-19T22:02:14"

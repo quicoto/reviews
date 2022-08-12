@@ -1,4 +1,5 @@
 ---
+time: 50
 type: series
 title: "Slow Horses 1x1"
 date: "2022-08-08T14:00:07"

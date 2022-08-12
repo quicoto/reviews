@@ -157,22 +157,37 @@ function _card(itemData) {
 }
 
 /**
- * @param  {array} latestShows
- * @param  {array} latestMovies
+ * @param {object} conifg
+ * @param  {array} config.latestShows
+ * @param  {array} config.latestMovies
+ * @param {number} config.minnutesWatched
+ * @param {number} config.uniqueMovies
+ * @param {number} config.uniqueTVShows
  * @return {string}
  */
-export function homepage(latestShows, latestMovies) {
+export function homepage(config) {
+  const {
+    latestShows,
+    latestMovies,
+    minutesWatched,
+    uniqueMovies,
+    uniqueTVShows,
+  } = config;
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const html = utils.readFile(Paths.template.homepage);
   const showsList = latestShows.map(_card).join('\n');
   const moviesList = latestMovies.map(_card).join('\n');
+  const formatTimeWatched = new Intl.NumberFormat('en-US').format(Math.round(minutesWatched / 60));
 
   return html
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${showsList}</ul>`)
     .replaceAll('%LATEST_MOVIES%', `<ul class="cards">${moviesList}</ul>`)
+    .replaceAll('%MINUTESWATCHED%', formatTimeWatched)
+    .replaceAll('%UNIQUEMOVIES%', uniqueMovies)
+    .replaceAll('%UNIQUETVSHOWS%', uniqueTVShows)
     .replaceAll('%TITLE%', 'Home');
 }
 

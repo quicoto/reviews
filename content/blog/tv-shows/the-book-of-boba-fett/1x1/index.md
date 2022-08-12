@@ -1,4 +1,5 @@
 ---
+time: 40
 type: series
 title: "The Book of Boba Fett 1x1"
 date: "2021-12-29T00:00:00"

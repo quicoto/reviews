@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Code Geass - Hangyaku no Lelouch 1x1"
 date: "2022-06-26T13:05:58"
