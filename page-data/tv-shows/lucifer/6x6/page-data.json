@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/lucifer/6x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"167cddf5-1a11-5e84-a498-c86459b8b1b8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Lucifer","title":"Lucifer 6x6","date":"September 19, 2021","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/lucifer/6x6/","previous":{"fields":{"slug":"/tv-shows/star-trek-lower-decks/2x6/"},"frontmatter":{"title":"Star Trek: Lower Decks 2x6"}},"next":{"fields":{"slug":"/tv-shows/sex-education/3x3/"},"frontmatter":{"title":"Sex Education 3x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

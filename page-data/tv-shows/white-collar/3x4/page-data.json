@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/white-collar/3x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7d7670a7-47cb-5d06-ae38-84775c681ba0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x4","date":"February 13, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x4/","previous":{"fields":{"slug":"/tv-shows/fringe/1x15/"},"frontmatter":{"title":"Fringe 1x15"}},"next":{"fields":{"slug":"/tv-shows/the-book-of-boba-fett/1x7/"},"frontmatter":{"title":"The Book of Boba Fett 1x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

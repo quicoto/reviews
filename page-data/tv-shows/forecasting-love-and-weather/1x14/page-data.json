@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/forecasting-love-and-weather/1x14/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"23805676-df53-54c3-a07c-8efc4cfeee6a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Forecasting Love and Weather","title":"Forecasting Love and Weather 1x14","date":"May 02, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/forecasting-love-and-weather/1x14/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x4/"},"frontmatter":{"title":"Spy x Family 1x4"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/3x5/"},"frontmatter":{"title":"S.W.A.T. 3x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

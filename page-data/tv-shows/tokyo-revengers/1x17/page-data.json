@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/tokyo-revengers/1x17/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f71e1540-23b6-52ee-a23e-66e5251ce4f6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Tokyo Revengers","title":"1x17","date":"August 01, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/tokyo-revengers/1x17/","previous":{"fields":{"slug":"/movies/the-spy-gone-north/"},"frontmatter":{"title":"The Spy Gone North"}},"next":{"fields":{"slug":"/tv-shows/beastars/2x18/"},"frontmatter":{"title":"Beastars 2x18"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

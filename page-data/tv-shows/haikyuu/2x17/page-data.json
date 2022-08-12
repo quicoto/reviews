@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/haikyuu/2x17/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b68ec14a-166f-5069-bc60-b7b2d00b1502","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 2x17","date":"January 15, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/2x17/","previous":{"fields":{"slug":"/tv-shows/the-office/6x6/"},"frontmatter":{"title":"The Office 6x6"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/2x16/"},"frontmatter":{"title":"Haikyuu!! 2x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

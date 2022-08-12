@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-terminal-list/1x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7f204871-ce80-52c4-845e-04162e17da38","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Terminal List","title":"The Terminal List 1x6","date":"July 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-terminal-list/1x6/","previous":{"fields":{"slug":"/tv-shows/the-terminal-list/1x5/"},"frontmatter":{"title":"The Terminal List 1x5"}},"next":{"fields":{"slug":"/tv-shows/the-terminal-list/1x7/"},"frontmatter":{"title":"The Terminal List 1x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

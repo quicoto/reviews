@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/obi-wan-kenobi/1x5/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"775fcc26-de37-5a32-b3eb-da6a1ce0eb6d","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Obi-Wan Kenobi","title":"Obi-Wan Kenobi 1x5","date":"June 15, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/obi-wan-kenobi/1x5/","previous":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x10/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x10"}},"next":{"fields":{"slug":"/tv-shows/spy-x-family/1x10/"},"frontmatter":{"title":"Spy x Family 1x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

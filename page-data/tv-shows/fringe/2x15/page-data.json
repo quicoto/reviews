@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/2x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9c9b2783-10bb-5b6a-9609-86b9746e24bf","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x15","date":"February 24, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x15/","previous":{"fields":{"slug":"/tv-shows/fringe/2x14/"},"frontmatter":{"title":"Fringe 2x14"}},"next":{"fields":{"slug":"/tv-shows/fringe/2x16/"},"frontmatter":{"title":"Fringe 2x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

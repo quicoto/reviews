@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/2x22/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"32f8c9bd-9fab-5fa7-904b-f492772087c2","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x22","date":"February 27, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x22/","previous":{"fields":{"slug":"/tv-shows/fringe/2x17/"},"frontmatter":{"title":"Fringe 2x17"}},"next":{"fields":{"slug":"/tv-shows/ryman-s-club/1x5/"},"frontmatter":{"title":"Ryman's Club 1x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

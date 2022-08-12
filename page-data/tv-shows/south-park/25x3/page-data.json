@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/south-park/25x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"39e3ec12-bdc0-5cba-99d7-0142d36d8c4c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"South Park","title":"South Park 25x3","date":"February 20, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/south-park/25x3/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x4/"},"frontmatter":{"title":"Ryman's Club 1x4"}},"next":{"fields":{"slug":"/tv-shows/fringe/2x7/"},"frontmatter":{"title":"Fringe 2x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

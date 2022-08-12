@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/stargate-sg-1/4x2/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1b8c1ebb-0756-5819-a369-2d791815850d","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Stargate SG-1","title":"Stargate SG-1 4x2","date":"September 13, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/stargate-sg-1/4x2/","previous":{"fields":{"slug":"/tv-shows/re-main/1x9/"},"frontmatter":{"title":"Re-Main 1x9"}},"next":{"fields":{"slug":"/tv-shows/lucifer/6x3/"},"frontmatter":{"title":"Lucifer 6x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

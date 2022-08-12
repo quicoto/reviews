@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/malcolm-in-the-middle/1x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a1736186-f63a-5812-b8ae-47cda6f110f0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Malcolm in the Middle","title":"Malcolm in the Middle 1x8","date":"July 25, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/malcolm-in-the-middle/1x8/","previous":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x7/"},"frontmatter":{"title":"Malcolm in the Middle 1x7"}},"next":{"fields":{"slug":"/tv-shows/westworld/4x5/"},"frontmatter":{"title":"Westworld 4x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

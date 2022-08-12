@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/snowpiercer/3x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b4f0f9cc-34f4-55a1-aefe-7d1ac4f0487c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Snowpiercer","title":"Snowpiercer 3x3","date":"February 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/snowpiercer/3x3/","previous":{"fields":{"slug":"/tv-shows/the-book-of-boba-fett/1x7/"},"frontmatter":{"title":"The Book of Boba Fett 1x7"}},"next":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/3x11/"},"frontmatter":{"title":"Kimetsu no Yaiba 3x11"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

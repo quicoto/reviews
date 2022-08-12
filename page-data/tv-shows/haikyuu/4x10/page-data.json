@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/haikyuu/4x10/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0a81727f-18a3-54ef-996e-85205cf62b4e","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 4x10","date":"January 25, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/4x10/","previous":{"fields":{"slug":"/tv-shows/haikyuu/4x11/"},"frontmatter":{"title":"Haikyuu!! 4x11"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/4x13/"},"frontmatter":{"title":"Haikyuu!! 4x13"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

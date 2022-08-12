@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/my-first-first-love/1x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"4fbd9d8b-05d4-53f3-a041-c703045660ff","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"My First First Love","title":"My First First Love 1x3","date":"August 15, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/my-first-first-love/1x3/","previous":{"fields":{"slug":"/tv-shows/tokyo-revengers/1x19/"},"frontmatter":{"title":"Tokyo Revengers 1x19"}},"next":{"fields":{"slug":"/tv-shows/boruto-naruto-next-generations/1x211/"},"frontmatter":{"title":"Boruto - Naruto Next Generations 1x211"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

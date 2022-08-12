@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/station-19/5x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f703b8ff-6978-5262-bf90-c887d573b9ab","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Station 19","title":"Station 19 5x6","date":"December 28, 2021","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/station-19/5x6/","previous":{"fields":{"slug":"/tv-shows/star-trek-discovery/4x5/"},"frontmatter":{"title":"Star Trek: Discovery 4x5"}},"next":{"fields":{"slug":"/tv-shows/station-19/5x5/"},"frontmatter":{"title":"Station 19 5x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/4x16/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"dfc814d0-a2d0-58cd-8796-a95a411faef1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x16","date":"March 18, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x16/","previous":{"fields":{"slug":"/tv-shows/fringe/4x15/"},"frontmatter":{"title":"Fringe 4x15"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x17/"},"frontmatter":{"title":"Fringe 4x17"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/prison-playbook/1x2/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d63a7232-0539-50dc-aa56-dee9459ad4aa","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Prison Playbook","title":"Prison Playbook 1x2","date":"September 09, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/prison-playbook/1x2/","previous":{"fields":{"slug":"/tv-shows/d-p/1x3/"},"frontmatter":{"title":"D.P. 1x3"}},"next":{"fields":{"slug":"/tv-shows/stargate-sg-1/4x1/"},"frontmatter":{"title":"Stargate SG-1 4x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

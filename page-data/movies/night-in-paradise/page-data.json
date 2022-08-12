@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/movies/night-in-paradise/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0e3e60d0-aba4-5867-b06c-674937ada61c","excerpt":"","html":"","frontmatter":{"name":"Night in Paradise","title":"Night in Paradise","date":"August 10, 2022","rating":1,"type":"movie"}}},"pageContext":{"slug":"/movies/night-in-paradise/","previous":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/2x4/"},"frontmatter":{"title":"Hataraku Maou-sama! 2x4"}},"next":{"fields":{"slug":"/tv-shows/my-first-first-love/1x4/"},"frontmatter":{"title":"My First First Love 1x4"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

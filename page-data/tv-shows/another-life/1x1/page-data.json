@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/another-life/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fdae89f7-ff26-5432-b793-dd340edf5116","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Another Life","title":"Another Life 1x1","date":"October 23, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/another-life/1x1/","previous":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x3/"},"frontmatter":{"title":"Grey's Anatomy 18x3"}},"next":{"fields":{"slug":"/tv-shows/another-life/1x2/"},"frontmatter":{"title":"Another Life 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

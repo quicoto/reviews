@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/reacher/1x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"3a465dc9-4a15-55bf-8bdf-3e03399cbbb2","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Reacher","title":"Reacher 1x6","date":"March 13, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/reacher/1x6/","previous":{"fields":{"slug":"/tv-shows/fringe/4x9/"},"frontmatter":{"title":"Fringe 4x9"}},"next":{"fields":{"slug":"/tv-shows/white-collar/3x9/"},"frontmatter":{"title":"White Collar 3x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

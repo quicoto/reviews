@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/black-bird/1x5/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"79312d4d-ce36-502f-af0a-6e08cf929277","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Black Bird","title":"Black Bird 1x5","date":"August 06, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/black-bird/1x5/","previous":{"fields":{"slug":"/tv-shows/black-bird/1x4/"},"frontmatter":{"title":"Black Bird 1x4"}},"next":{"fields":{"slug":"/tv-shows/severance/1x1/"},"frontmatter":{"title":"Severance 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

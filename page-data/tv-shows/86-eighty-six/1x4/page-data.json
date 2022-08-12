@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/86-eighty-six/1x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7b60b423-0cd6-5a36-90fc-e99e9400a7e9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"86 - Eighty Six","title":"86 - Eighty Six 1x4","date":"August 06, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/86-eighty-six/1x4/","previous":{"fields":{"slug":"/tv-shows/odd-taxi/1x5/"},"frontmatter":{"title":"Odd Taxi 1x5"}},"next":{"fields":{"slug":"/tv-shows/the-looming-tower/1x10/"},"frontmatter":{"title":"The Looming Tower 1x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

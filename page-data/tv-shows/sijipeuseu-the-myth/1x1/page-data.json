@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/sijipeuseu-the-myth/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1d14f2b5-f1ce-50ae-a686-6584b62d618a","excerpt":"Could not even finish the first episode, not sure who’s buying that the dude can fix the plane mid air.","html":"<p>Could not even finish the first episode, not sure who’s buying that the dude can fix the plane mid air.</p>","frontmatter":{"name":"Sijipeuseu: The Myth","title":"Sijipeuseu: The Myth 1x1","date":"October 18, 2021","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/sijipeuseu-the-myth/1x1/","previous":{"fields":{"slug":"/tv-shows/star-trek-lower-decks/2x10/"},"frontmatter":{"title":"Star Trek: Lower Decks 2x10"}},"next":{"fields":{"slug":"/movies/free-guy/"},"frontmatter":{"title":"Free Guy"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

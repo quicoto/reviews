@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/solar-opposites/3x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d792a662-2517-5932-97b6-b938f004d959","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Solar Opposites","title":"Solar Opposites 3x3","date":"July 20, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/solar-opposites/3x3/","previous":{"fields":{"slug":"/tv-shows/solar-opposites/3x2/"},"frontmatter":{"title":"Solar Opposites 3x2"}},"next":{"fields":{"slug":"/tv-shows/hometown-cha-cha-cha/1x2/"},"frontmatter":{"title":"Hometown Cha-Cha-Cha 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

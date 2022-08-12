@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/inside-job/1x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1f76e1dc-8f02-5273-94aa-bf7091f51098","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Inside Job","title":"Inside Job 1x3","date":"October 25, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/inside-job/1x3/","previous":{"fields":{"slug":"/tv-shows/inside-job/1x-4/"},"frontmatter":{"title":"Inside Job 1x4"}},"next":{"fields":{"slug":"/tv-shows/another-life/1x3/"},"frontmatter":{"title":"Another Life 1x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

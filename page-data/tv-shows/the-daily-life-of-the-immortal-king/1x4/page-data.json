@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-daily-life-of-the-immortal-king/1x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"6ca5e015-fe17-532e-b02f-375be87a46e2","excerpt":"","html":"","frontmatter":{"name":"The Daily Life of the Immortal King","title":"The Daily Life of the Immortal King 1x4","date":"July 27, 2021","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-daily-life-of-the-immortal-king/1x4/","previous":{"fields":{"slug":"/tv-shows/beastars/1x10/"},"frontmatter":{"title":"Beastars 1x10"}},"next":{"fields":{"slug":"/tv-shows/the-daily-life-of-the-immortal-king/1x3/"},"frontmatter":{"title":"The Daily Life of the Immortal King 1x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

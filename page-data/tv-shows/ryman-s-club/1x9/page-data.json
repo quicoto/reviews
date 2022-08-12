@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/ryman-s-club/1x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"8f961c90-de29-55c2-9609-2861be64fc52","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ryman's Club","title":"Ryman's Club 1x9","date":"April 02, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ryman-s-club/1x9/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/1x4/"},"frontmatter":{"title":"S.W.A.T. 1x4"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/1x5/"},"frontmatter":{"title":"S.W.A.T. 1x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

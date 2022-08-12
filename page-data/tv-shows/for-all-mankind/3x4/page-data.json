@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/for-all-mankind/3x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"68ffba45-064c-5700-9b8a-857b8293e7e0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 3x4","date":"August 01, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/3x4/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/3x2/"},"frontmatter":{"title":"For All Mankind 3x2"}},"next":{"fields":{"slug":"/tv-shows/solar-opposites/3x7/"},"frontmatter":{"title":"Solar Opposites 3x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

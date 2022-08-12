@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/solar-opposites/3x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"5b6860cc-8bd9-5235-b22d-120813d6ae37","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Solar Opposites","title":"Solar Opposites 3x8","date":"August 01, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/solar-opposites/3x8/","previous":{"fields":{"slug":"/tv-shows/westworld/4x6/"},"frontmatter":{"title":"Westworld 4x6"}},"next":{"fields":{"slug":"/tv-shows/for-all-mankind/3x7/"},"frontmatter":{"title":"For All Mankind 3x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

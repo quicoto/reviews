@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/star-trek-discovery/4x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"965e7383-182a-5a42-94d2-fd9053685353","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Star Trek: Discovery","title":"Star Trek: Discovery 4x3","date":"December 22, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/star-trek-discovery/4x3/","previous":{"fields":{"slug":"/tv-shows/star-trek-discovery/4x4/"},"frontmatter":{"title":"Star Trek: Discovery 4x4"}},"next":{"fields":{"slug":"/tv-shows/hawkeye/1x6/"},"frontmatter":{"title":"Hawkeye 1x6"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

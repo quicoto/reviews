@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/re-main/1x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"500aa128-2691-513d-a99f-37e6a84f7843","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Re-Main","title":"Re-Main 1x8","date":"September 05, 2021","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/re-main/1x8/","previous":{"fields":{"slug":"/tv-shows/the-night-manager/1x3/"},"frontmatter":{"title":"The Night Manager 1x3"}},"next":{"fields":{"slug":"/tv-shows/boku-no-hero-academia/5x22/"},"frontmatter":{"title":"Boku no Hero Academia 5x22"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

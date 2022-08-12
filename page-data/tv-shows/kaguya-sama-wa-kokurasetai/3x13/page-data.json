@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/kaguya-sama-wa-kokurasetai/3x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"eb4faec7-6e5d-5a60-9007-8cfe9d9f6e15","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kaguya-sama wa Kokurasetai","title":"Kaguya-sama wa Kokurasetai 3x13","date":"June 24, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x13/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/1x4/"},"frontmatter":{"title":"For All Mankind 1x4"}},"next":{"fields":{"slug":"/tv-shows/money-heist-korea/1x1/"},"frontmatter":{"title":"Money Heist: Korea 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

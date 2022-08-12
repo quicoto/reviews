@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/ryman-s-club/1x11/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"15259690-c6a5-5b90-8357-528be5a27ac1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ryman's Club","title":"Ryman's Club 1x11","date":"April 10, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ryman-s-club/1x11/","previous":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x1/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x1"}},"next":{"fields":{"slug":"/tv-shows/spy-x-family/1x1/"},"frontmatter":{"title":"Spy x Family 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

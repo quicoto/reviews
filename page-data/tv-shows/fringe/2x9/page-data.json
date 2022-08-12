@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/2x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"5f41014e-0de4-55fa-b2d8-809a567588d1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 2x9","date":"February 21, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/2x9/","previous":{"fields":{"slug":"/tv-shows/fringe/2x8/"},"frontmatter":{"title":"Fringe 2x8"}},"next":{"fields":{"slug":"/tv-shows/fringe/2x10/"},"frontmatter":{"title":"Fringe 2x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

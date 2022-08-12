@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/lucifer/6x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a4abdafc-dd9b-5091-96d4-584e3d1e0060","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Lucifer","title":"Lucifer 6x9","date":"September 27, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/lucifer/6x9/","previous":{"fields":{"slug":"/tv-shows/squid-game/1x7/"},"frontmatter":{"title":"Squid Game 1x7"}},"next":{"fields":{"slug":"/tv-shows/lucifer/6x10/"},"frontmatter":{"title":"Lucifer 6x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

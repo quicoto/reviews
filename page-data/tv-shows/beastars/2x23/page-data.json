@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/beastars/2x23/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fff4270b-03c4-574a-b517-507d145fe047","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Beastars","title":"Beastars 2x23","date":"August 03, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/beastars/2x23/","previous":{"fields":{"slug":"/tv-shows/odd-taxi/1x1/"},"frontmatter":{"title":"Odd Taxi 1x1"}},"next":{"fields":{"slug":"/tv-shows/beastars/2x24/"},"frontmatter":{"title":"Beastars 2x24"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

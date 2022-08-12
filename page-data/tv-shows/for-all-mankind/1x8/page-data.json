@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/for-all-mankind/1x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fb378400-2f97-56c8-afea-d555f2ff67ea","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 1x8","date":"July 03, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/1x8/","previous":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x7/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x7"}},"next":{"fields":{"slug":"/tv-shows/for-all-mankind/1x9/"},"frontmatter":{"title":"For All Mankind 1x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

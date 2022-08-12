@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office-blind-date/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"7c72b0af-6e6e-5ea1-9647-823ffa66db30","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office Blind Date","title":"The Office Blind Date 1x1","date":"July 20, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office-blind-date/1x1/","previous":{"fields":{"slug":"/tv-shows/hometown-cha-cha-cha/1x2/"},"frontmatter":{"title":"Hometown Cha-Cha-Cha 1x2"}},"next":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x1/"},"frontmatter":{"title":"Malcolm in the Middle 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

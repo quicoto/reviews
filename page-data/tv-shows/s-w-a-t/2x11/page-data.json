@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/2x11/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b77bd35f-7ef7-5cac-8acc-7a9c27ccb835","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x11","date":"April 10, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x11/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x10/"},"frontmatter":{"title":"S.W.A.T. 2x10"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/2x12/"},"frontmatter":{"title":"S.W.A.T. 2x12"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/odd-taxi/1x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bd4d15f9-9ad8-576b-87c9-8cb66ee3a420","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Odd Taxi","title":"Odd Taxi 1x6","date":"August 10, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/odd-taxi/1x6/","previous":{"fields":{"slug":"/tv-shows/86-eighty-six/1x6/"},"frontmatter":{"title":"86 - Eighty Six 1x6"}},"next":{"fields":{"slug":"/tv-shows/boruto-naruto-next-generations/1x210/"},"frontmatter":{"title":"Boruto - Naruto Next Generations 1x210"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

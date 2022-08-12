@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/station-19/5x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1b1eacea-564f-5ed1-ae28-ed9c518fcf55","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Station 19","title":"Station 19 5x8","date":"January 28, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/station-19/5x8/","previous":{"fields":{"slug":"/tv-shows/haikyuu/4x14/"},"frontmatter":{"title":"Haikyuu!! 4x14"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/4x15/"},"frontmatter":{"title":"Haikyuu!! 4x15"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

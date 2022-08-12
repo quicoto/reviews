@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office/5x23/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e1f1fd55-4c11-507a-a5e9-78b54caef4a0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office","title":"The Office 5x23","date":"December 19, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office/5x23/","previous":{"fields":{"slug":"/tv-shows/beck-mongolian-chop-squad/1x11/"},"frontmatter":{"title":"Beck: Mongolian Chop Squad 1x11"}},"next":{"fields":{"slug":"/tv-shows/the-office/5x22/"},"frontmatter":{"title":"The Office 5x22"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

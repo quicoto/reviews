@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/jujutsu-kaisen/1x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fa9321d6-4d2a-514f-b1ba-a81e61be81bf","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x15","date":"July 07, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x15/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x14/"},"frontmatter":{"title":"Jujutsu Kaisen 1x14"}},"next":{"fields":{"slug":"/tv-shows/for-all-mankind/2x7/"},"frontmatter":{"title":"For All Mankind 2x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

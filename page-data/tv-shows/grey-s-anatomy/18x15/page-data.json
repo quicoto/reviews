@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/grey-s-anatomy/18x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"fc1e1029-1ef5-5e98-8795-42ed90f75066","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Grey's Anatomy","title":"Grey's Anatomy 18x15","date":"April 14, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/grey-s-anatomy/18x15/","previous":{"fields":{"slug":"/tv-shows/station-19/5x15/"},"frontmatter":{"title":"Station 19 5x15"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/2x16/"},"frontmatter":{"title":"S.W.A.T. 2x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

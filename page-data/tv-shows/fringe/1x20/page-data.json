@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/1x20/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d050a366-1df9-582d-934d-7514f87a1248","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 1x20","date":"February 17, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/1x20/","previous":{"fields":{"slug":"/tv-shows/fringe/1x19/"},"frontmatter":{"title":"Fringe 1x19"}},"next":{"fields":{"slug":"/tv-shows/fringe/1x21/"},"frontmatter":{"title":"Fringe 1x21"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

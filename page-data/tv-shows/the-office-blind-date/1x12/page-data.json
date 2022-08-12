@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office-blind-date/1x12/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"97e71d01-9f58-54c5-94a9-50ba1616bbb5","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office Blind Date","title":"The Office Blind Date 1x12","date":"July 27, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office-blind-date/1x12/","previous":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x11/"},"frontmatter":{"title":"Malcolm in the Middle 1x11"}},"next":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x13/"},"frontmatter":{"title":"Malcolm in the Middle 1x13"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/ookiku-furikabutte/2x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"4ac54c00-8242-577a-a3de-5ef5ae40ab6d","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ookiku Furikabutte","title":"Ookiku Furikabutte 2x13","date":"August 25, 2021","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ookiku-furikabutte/2x13/","previous":{"fields":{"slug":"/tv-shows/ookiku-furikabutte/2x10/"},"frontmatter":{"title":"Ookiku Furikabutte 2x10"}},"next":{"fields":{"slug":"/tv-shows/ookiku-furikabutte/2x12/"},"frontmatter":{"title":"Ookiku Furikabutte 2x12"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

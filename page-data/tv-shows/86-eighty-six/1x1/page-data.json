@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/86-eighty-six/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"db0f2ea9-1061-599d-8783-b95b1d931996","excerpt":"","html":"","frontmatter":{"name":"86 - Eighty Six","title":"86 - Eighty Six 1x1","date":"August 05, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/86-eighty-six/1x1/","previous":{"fields":{"slug":"/tv-shows/odd-taxi/1x3/"},"frontmatter":{"title":"Odd Taxi 1x3"}},"next":{"fields":{"slug":"/tv-shows/86-eighty-six/1x2/"},"frontmatter":{"title":"86 - Eighty Six 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

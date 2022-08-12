@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/4x21/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"4d2547ba-6fcb-5ba9-82c3-c0fd43ba5d75","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 4x21","date":"March 20, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/4x21/","previous":{"fields":{"slug":"/tv-shows/fringe/4x20/"},"frontmatter":{"title":"Fringe 4x20"}},"next":{"fields":{"slug":"/tv-shows/fringe/4x22/"},"frontmatter":{"title":"Fringe 4x22"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

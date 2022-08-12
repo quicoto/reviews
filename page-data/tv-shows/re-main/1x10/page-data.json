@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/re-main/1x10/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"17ef469c-d6f0-54df-9aad-1cde3360b811","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Re-Main","title":"Re-Main 1x10","date":"September 19, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/re-main/1x10/","previous":{"fields":{"slug":"/movies/the-matrix/"},"frontmatter":{"title":"The Matrix"}},"next":{"fields":{"slug":"/tv-shows/boku-no-hero-academia/5x24/"},"frontmatter":{"title":"Boku no Hero Academia 5x24"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

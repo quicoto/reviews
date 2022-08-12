@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/haikyuu/1x17/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"25f50403-2e64-5d84-8986-4ab26b0f5144","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 1x17","date":"January 08, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/1x17/","previous":{"fields":{"slug":"/tv-shows/haikyuu/1x15/"},"frontmatter":{"title":"Haikyuu!! 1x15"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/1x16/"},"frontmatter":{"title":"Haikyuu!! 1x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d87c58ae-735e-5dd8-b64e-7f0813c158fe","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kono Subarashii Sekai ni Shukufuku wo!","title":"Kono Subarashii Sekai ni Shukufuku wo! 1x4","date":"June 20, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x4/","previous":{"fields":{"slug":"/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x3/"},"frontmatter":{"title":"Kono Subarashii Sekai ni Shukufuku wo! 1x3"}},"next":{"fields":{"slug":"/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x5/"},"frontmatter":{"title":"Kono Subarashii Sekai ni Shukufuku wo! 1x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

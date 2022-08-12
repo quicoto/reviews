@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/sex-education/3x4/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"997a6ccb-dee0-5d2d-82cf-4e64640486dc","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Sex Education","title":"Sex Education 3x4","date":"September 20, 2021","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/sex-education/3x4/","previous":{"fields":{"slug":"/tv-shows/squid-game/1x2/"},"frontmatter":{"title":"Squid Game 1x2"}},"next":{"fields":{"slug":"/tv-shows/squid-game/1x3/"},"frontmatter":{"title":"Squid Game 1x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

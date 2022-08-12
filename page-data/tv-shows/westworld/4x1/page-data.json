@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/westworld/4x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"462972d9-6a30-58ab-beb1-e0912bac99c9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Westworld","title":"Westworld 4x1","date":"June 29, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/westworld/4x1/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x6/"},"frontmatter":{"title":"Jujutsu Kaisen 1x6"}},"next":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x6/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x6"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

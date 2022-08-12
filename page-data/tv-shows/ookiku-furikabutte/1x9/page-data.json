@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/ookiku-furikabutte/1x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"6f37e63e-0b19-5e0c-9b26-8f5417d55838","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ookiku Furikabutte","title":"Ookiku Furikabutte 1x9","date":"August 20, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ookiku-furikabutte/1x9/","previous":{"fields":{"slug":"/tv-shows/racket-boys/1x4/"},"frontmatter":{"title":"Racket Boys 1x4"}},"next":{"fields":{"slug":"/tv-shows/ookiku-furikabutte/1x8/"},"frontmatter":{"title":"Ookiku Furikabutte 1x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

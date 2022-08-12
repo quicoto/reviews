@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/movies/the-contractor-2022/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a91bcfb1-5488-5d67-92a5-848d5cb1dc35","excerpt":"","html":"","frontmatter":{"name":"The Contractor 2022","title":"The Contractor 2022","date":"June 08, 2022","rating":2,"type":"movie"}}},"pageContext":{"slug":"/movies/the-contractor-2022/","previous":{"fields":{"slug":"/tv-shows/spy-x-family/1x9/"},"frontmatter":{"title":"Spy x Family 1x9"}},"next":{"fields":{"slug":"/tv-shows/obi-wan-kenobi/1x4/"},"frontmatter":{"title":"Obi-Wan Kenobi 1x4"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

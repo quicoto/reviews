@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/spy-x-family/1x12/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"108eb10f-1dfd-5bb3-98c2-f750bceb689a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Spy x Family","title":"Spy x Family 1x12","date":"June 26, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/spy-x-family/1x12/","previous":{"fields":{"slug":"/tv-shows/money-heist-korea/1x1/"},"frontmatter":{"title":"Money Heist: Korea 1x1"}},"next":{"fields":{"slug":"/tv-shows/code-geass-hangyaku-no-lelouch/1x1/"},"frontmatter":{"title":"Code Geass - Hangyaku no Lelouch 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

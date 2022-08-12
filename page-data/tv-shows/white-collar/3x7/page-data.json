@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/white-collar/3x7/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"596ca176-c5a2-583d-a55d-df26d7f13527","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x7","date":"February 21, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x7/","previous":{"fields":{"slug":"/tv-shows/fringe/2x7/"},"frontmatter":{"title":"Fringe 2x7"}},"next":{"fields":{"slug":"/tv-shows/fringe/2x8/"},"frontmatter":{"title":"Fringe 2x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

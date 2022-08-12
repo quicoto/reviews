@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/5x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"73782c41-3dab-52ea-8737-d6d175d5fedd","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 5x1","date":"March 20, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/5x1/","previous":{"fields":{"slug":"/tv-shows/fringe/4x22/"},"frontmatter":{"title":"Fringe 4x22"}},"next":{"fields":{"slug":"/tv-shows/fringe/5x2/"},"frontmatter":{"title":"Fringe 5x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

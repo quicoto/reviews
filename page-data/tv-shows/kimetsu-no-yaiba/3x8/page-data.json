@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/kimetsu-no-yaiba/3x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9732b158-10fc-5921-b708-fb97273f6fe0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Kimetsu no Yaiba","title":"Kimetsu no Yaiba 3x8","date":"January 30, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/kimetsu-no-yaiba/3x8/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x1/"},"frontmatter":{"title":"Ryman's Club 1x1"}},"next":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x8/"},"frontmatter":{"title":"Grey's Anatomy 18x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

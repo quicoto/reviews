@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office/6x11/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"11ce5421-bda6-5904-b781-f27530de365f","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office","title":"The Office 6x11","date":"January 24, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office/6x11/","previous":{"fields":{"slug":"/tv-shows/the-office/6x12/"},"frontmatter":{"title":"The Office 6x12"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/4x7/"},"frontmatter":{"title":"Haikyuu!! 4x7"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

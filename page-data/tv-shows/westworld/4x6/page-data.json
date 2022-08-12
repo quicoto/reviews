@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/westworld/4x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"741d4860-faee-5475-b3ab-7cecb7b47679","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Westworld","title":"Westworld 4x6","date":"August 01, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/westworld/4x6/","previous":{"fields":{"slug":"/tv-shows/for-all-mankind/3x6/"},"frontmatter":{"title":"For All Mankind 3x6"}},"next":{"fields":{"slug":"/tv-shows/solar-opposites/3x8/"},"frontmatter":{"title":"Solar Opposites 3x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

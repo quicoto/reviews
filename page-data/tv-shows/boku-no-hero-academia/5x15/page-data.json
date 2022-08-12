@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/boku-no-hero-academia/5x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"79fe083f-84bf-540a-8dfb-9131166c0147","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Boku no Hero Academia","title":"Boku no Hero Academia 5x15","date":"July 15, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/boku-no-hero-academia/5x15/","previous":{"fields":{"slug":"/tv-shows/loki/1x6/"},"frontmatter":{"title":"Loki 1x6"}},"next":{"fields":{"slug":"/tv-shows/tokyo-revengers/1x14/"},"frontmatter":{"title":"Tokyo Revengers 1x14"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

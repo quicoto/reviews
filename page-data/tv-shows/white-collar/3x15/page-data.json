@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/white-collar/3x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0cd9f60d-068b-52ef-8c64-ef6b50b7beb9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x15","date":"April 07, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x15/","previous":{"fields":{"slug":"/tv-shows/the-orbital-children/1x1/"},"frontmatter":{"title":"The Orbital Children 1x1"}},"next":{"fields":{"slug":"/tv-shows/white-collar/3x16/"},"frontmatter":{"title":"White Collar 3x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

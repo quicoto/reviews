@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/3x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"ddce030f-eb76-5920-bfc0-5fd092b4510a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 3x8","date":"May 04, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/3x8/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/3x7/"},"frontmatter":{"title":"S.W.A.T. 3x7"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/3x9/"},"frontmatter":{"title":"S.W.A.T. 3x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

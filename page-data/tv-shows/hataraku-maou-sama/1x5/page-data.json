@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/hataraku-maou-sama/1x5/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"c69839f3-1056-55f6-a31d-76b05e3ef854","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 1x5","date":"June 27, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/1x5/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x5/"},"frontmatter":{"title":"Jujutsu Kaisen 1x5"}},"next":{"fields":{"slug":"/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x6/"},"frontmatter":{"title":"Kono Subarashii Sekai ni Shukufuku wo! 1x6"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

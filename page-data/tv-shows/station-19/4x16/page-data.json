@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/station-19/4x16/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1a18d2f9-365e-5f7f-9749-851686af6cdb","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Station 19","title":"Station 19 4x16","date":"June 11, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/station-19/4x16/","previous":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/1x12/"},"frontmatter":{"title":"Kimetsu no Yaiba 1x12"}},"next":{"fields":{"slug":"/tv-shows/mugen-no-juunin-immortal/1x2/"},"frontmatter":{"title":"Mugen no Juunin Immortal 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

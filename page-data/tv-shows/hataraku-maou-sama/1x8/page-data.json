@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/hataraku-maou-sama/1x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a43b4479-65e5-5f3e-9099-70d71230a719","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 1x8","date":"August 03, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/1x8/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x24/"},"frontmatter":{"title":"Jujutsu Kaisen 1x24"}},"next":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x9/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

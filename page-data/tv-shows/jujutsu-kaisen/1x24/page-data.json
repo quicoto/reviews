@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/jujutsu-kaisen/1x24/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bedaedb9-0435-5bb9-925b-60a80b634939","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x24","date":"August 03, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x24/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x23/"},"frontmatter":{"title":"Jujutsu Kaisen 1x23"}},"next":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/1x8/"},"frontmatter":{"title":"Hataraku Maou-sama! 1x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

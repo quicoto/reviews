@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office-blind-date/1x8/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bbef929a-8c83-57ce-9e5a-87046a8cbbd6","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office Blind Date","title":"The Office Blind Date 1x8","date":"July 24, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office-blind-date/1x8/","previous":{"fields":{"slug":"/tv-shows/the-office-blind-date/1x7/"},"frontmatter":{"title":"The Office Blind Date 1x7"}},"next":{"fields":{"slug":"/tv-shows/the-office-blind-date/1x9/"},"frontmatter":{"title":"The Office Blind Date 1x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

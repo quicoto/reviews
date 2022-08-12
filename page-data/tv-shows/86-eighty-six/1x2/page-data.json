@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/86-eighty-six/1x2/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"952e4cd3-e84e-5727-995b-9161118e1ee1","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"86 - Eighty Six","title":"86 - Eighty Six 1x2","date":"August 05, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/86-eighty-six/1x2/","previous":{"fields":{"slug":"/tv-shows/86-eighty-six/1x1/"},"frontmatter":{"title":"86 - Eighty Six 1x1"}},"next":{"fields":{"slug":"/tv-shows/the-good-doctor/4x19/"},"frontmatter":{"title":"The Good Doctor 4x19"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/beck-mongolian-chop-squad/1x13/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"d25d533b-d39f-5a88-9ca7-438989b78d1a","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Beck: Mongolian Chop Squad","title":"Beck: Mongolian Chop Squad 1x13","date":"December 19, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/beck-mongolian-chop-squad/1x13/","previous":{"fields":{"slug":"/tv-shows/kimetsu-no-yaiba/3x3/"},"frontmatter":{"title":"Kimetsu no Yaiba 3x3"}},"next":{"fields":{"slug":"/tv-shows/beck-mongolian-chop-squad/1x12/"},"frontmatter":{"title":"Beck: Mongolian Chop Squad 1x12"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

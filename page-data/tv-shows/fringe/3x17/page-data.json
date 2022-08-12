@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/fringe/3x17/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e20155e3-db84-569a-b15a-5381c9d3a8ef","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Fringe","title":"Fringe 3x17","date":"March 06, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/fringe/3x17/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x6/"},"frontmatter":{"title":"Ryman's Club 1x6"}},"next":{"fields":{"slug":"/tv-shows/fringe/3x18/"},"frontmatter":{"title":"Fringe 3x18"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

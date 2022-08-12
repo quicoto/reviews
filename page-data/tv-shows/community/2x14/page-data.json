@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/community/2x14/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a10126cb-6700-5608-bf6b-14bdac34aa83","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Community","title":"Community 2x14","date":"June 15, 2021","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/community/2x14/","previous":{"fields":{"slug":"/tv-shows/final-space/3x13/"},"frontmatter":{"title":"Final Space 3x13"}},"next":{"fields":{"slug":"/tv-shows/loki/1x2/"},"frontmatter":{"title":"Loki 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

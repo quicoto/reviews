@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/3x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"48c67a7c-2076-5ed9-ac7d-ba5713793ade","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 3x1","date":"April 27, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/3x1/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x23/"},"frontmatter":{"title":"S.W.A.T. 2x23"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/3x2/"},"frontmatter":{"title":"S.W.A.T. 3x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

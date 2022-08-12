@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/malcolm-in-the-middle/1x7/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"2b039cb1-32e1-5dfa-9aab-0544531750b2","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Malcolm in the Middle","title":"Malcolm in the Middle 1x7","date":"July 25, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/malcolm-in-the-middle/1x7/","previous":{"fields":{"slug":"/tv-shows/the-office-blind-date/1x9/"},"frontmatter":{"title":"The Office Blind Date 1x9"}},"next":{"fields":{"slug":"/tv-shows/malcolm-in-the-middle/1x8/"},"frontmatter":{"title":"Malcolm in the Middle 1x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

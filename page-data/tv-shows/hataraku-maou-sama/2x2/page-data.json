@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/hataraku-maou-sama/2x2/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"f0e97f60-d189-537e-a053-0b7c5baa4ad9","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Hataraku Maou-sama!","title":"Hataraku Maou-sama! 2x2","date":"August 04, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/hataraku-maou-sama/2x2/","previous":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/2x1/"},"frontmatter":{"title":"Hataraku Maou-sama! 2x1"}},"next":{"fields":{"slug":"/tv-shows/hataraku-maou-sama/2x3/"},"frontmatter":{"title":"Hataraku Maou-sama! 2x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

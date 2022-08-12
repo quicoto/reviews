@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/jujutsu-kaisen/1x20/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"9493dafc-67ee-524e-8516-4d7bb7b80f97","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Jujutsu Kaisen","title":"Jujutsu Kaisen 1x20","date":"July 11, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/jujutsu-kaisen/1x20/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x19/"},"frontmatter":{"title":"Jujutsu Kaisen 1x19"}},"next":{"fields":{"slug":"/tv-shows/westworld/4x3/"},"frontmatter":{"title":"Westworld 4x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

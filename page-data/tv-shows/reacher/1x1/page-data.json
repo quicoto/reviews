@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/reacher/1x1/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"63beb02b-25ef-522f-b3d8-ec9934c36f97","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Reacher","title":"Reacher 1x1","date":"March 07, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/reacher/1x1/","previous":{"fields":{"slug":"/tv-shows/fringe/3x19/"},"frontmatter":{"title":"Fringe 3x19"}},"next":{"fields":{"slug":"/tv-shows/reacher/1x2/"},"frontmatter":{"title":"Reacher 1x2"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

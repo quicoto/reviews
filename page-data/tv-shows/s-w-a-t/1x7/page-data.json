@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/1x7/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"11033dd6-6ad5-5d29-9797-45e9c826eb23","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 1x7","date":"April 03, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/1x7/","previous":{"fields":{"slug":"/tv-shows/ryman-s-club/1x10/"},"frontmatter":{"title":"Ryman's Club 1x10"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/1x8/"},"frontmatter":{"title":"S.W.A.T. 1x8"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

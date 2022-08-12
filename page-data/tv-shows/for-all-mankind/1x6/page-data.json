@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/for-all-mankind/1x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e7569610-0a80-555f-b5fd-51c3485346af","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"For All Mankind","title":"For All Mankind 1x6","date":"June 26, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/for-all-mankind/1x6/","previous":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x2/"},"frontmatter":{"title":"Jujutsu Kaisen 1x2"}},"next":{"fields":{"slug":"/tv-shows/jujutsu-kaisen/1x3/"},"frontmatter":{"title":"Jujutsu Kaisen 1x3"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/3x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"98877268-c252-5870-89c9-3c145077f815","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 3x9","date":"May 05, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/3x9/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/3x8/"},"frontmatter":{"title":"S.W.A.T. 3x8"}},"next":{"fields":{"slug":"/tv-shows/kaguya-sama-wa-kokurasetai/3x5/"},"frontmatter":{"title":"Kaguya-sama wa Kokurasetai 3x5"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

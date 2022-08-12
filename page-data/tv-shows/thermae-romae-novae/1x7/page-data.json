@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/thermae-romae-novae/1x7/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"62f6c40f-0a11-5f99-9e53-fd300ea21353","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Thermae Romae Novae","title":"Thermae Romae Novae 1x7","date":"April 12, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/thermae-romae-novae/1x7/","previous":{"fields":{"slug":"/tv-shows/station-19/5x14/"},"frontmatter":{"title":"Station 19 5x14"}},"next":{"fields":{"slug":"/tv-shows/white-collar/4x4/"},"frontmatter":{"title":"White Collar 4x4"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

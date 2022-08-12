@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/1x19/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"69a70b28-4083-5d2d-815b-749e798a28e8","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 1x19","date":"April 06, 2022","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/1x19/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/1x18/"},"frontmatter":{"title":"S.W.A.T. 1x18"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/1x20/"},"frontmatter":{"title":"S.W.A.T. 1x20"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

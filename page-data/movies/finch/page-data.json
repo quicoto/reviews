@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/movies/finch/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"3b6706e8-6ea0-5ca7-bd6d-626edebc99f3","excerpt":"","html":"","frontmatter":{"name":"Finch","title":"Finch","date":"December 19, 2021","rating":3,"type":"movie"}}},"pageContext":{"slug":"/movies/finch/","previous":{"fields":{"slug":"/movies/shang-chi-and-the-legend-of-the-ten-rings/"},"frontmatter":{"title":"Shang-Chi and the Legend of the Ten Rings"}},"next":{"fields":{"slug":"/tv-shows/cowboy-bebop-2021/1x10/"},"frontmatter":{"title":"Cowboy Bebop (2021) 1x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

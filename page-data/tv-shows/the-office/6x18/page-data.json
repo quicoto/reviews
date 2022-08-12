@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office/6x18/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1a8cdbc7-9eb6-5c83-8a68-90112716a18b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office","title":"The Office 6x18","date":"February 14, 2022","rating":2,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office/6x18/","previous":{"fields":{"slug":"/tv-shows/white-collar/3x5/"},"frontmatter":{"title":"White Collar 3x5"}},"next":{"fields":{"slug":"/tv-shows/fringe/1x17/"},"frontmatter":{"title":"Fringe 1x17"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

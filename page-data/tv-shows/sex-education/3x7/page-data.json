@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/sex-education/3x7/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"0bde555a-1da0-5ef7-876a-e527d9b45ddb","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Sex Education","title":"Sex Education 3x7","date":"October 03, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/sex-education/3x7/","previous":{"fields":{"slug":"/tv-shows/sex-education/3x6/"},"frontmatter":{"title":"Sex Education 3x6"}},"next":{"fields":{"slug":"/tv-shows/re-main/1x12/"},"frontmatter":{"title":"Re-Main 1x12"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/s-w-a-t/2x18/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"04753ff5-b5ea-5707-83d2-8be515246c33","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"S.W.A.T.","title":"S.W.A.T. 2x18","date":"April 17, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/s-w-a-t/2x18/","previous":{"fields":{"slug":"/tv-shows/s-w-a-t/2x17/"},"frontmatter":{"title":"S.W.A.T. 2x17"}},"next":{"fields":{"slug":"/tv-shows/forecasting-love-and-weather/1x9/"},"frontmatter":{"title":"Forecasting Love and Weather 1x9"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

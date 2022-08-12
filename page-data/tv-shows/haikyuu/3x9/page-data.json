@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/haikyuu/3x9/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"c0562295-0e08-5e82-8b0b-2415c4b847e2","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Haikyuu!!","title":"Haikyuu!! 3x9","date":"January 21, 2022","rating":5,"type":"series"}}},"pageContext":{"slug":"/tv-shows/haikyuu/3x9/","previous":{"fields":{"slug":"/tv-shows/haikyuu/3x7/"},"frontmatter":{"title":"Haikyuu!! 3x7"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/3x10/"},"frontmatter":{"title":"Haikyuu!! 3x10"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

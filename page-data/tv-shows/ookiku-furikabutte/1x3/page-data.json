@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/ookiku-furikabutte/1x3/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"1f53ccd4-93ad-595e-88c2-78d178066a4b","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Ookiku Furikabutte","title":"Ookiku Furikabutte 1x3","date":"August 20, 2021","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/ookiku-furikabutte/1x3/","previous":{"fields":{"slug":"/tv-shows/ookiku-furikabutte/1x2/"},"frontmatter":{"title":"Ookiku Furikabutte 1x2"}},"next":{"fields":{"slug":"/tv-shows/ookiku-furikabutte/1x4/"},"frontmatter":{"title":"Ookiku Furikabutte 1x4"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

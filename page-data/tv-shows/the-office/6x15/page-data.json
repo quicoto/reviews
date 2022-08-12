@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/the-office/6x15/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"bc49647f-94c8-557f-adb1-f1274671ebc7","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"The Office","title":"The Office 6x15","date":"January 30, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/the-office/6x15/","previous":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x8/"},"frontmatter":{"title":"Grey's Anatomy 18x8"}},"next":{"fields":{"slug":"/tv-shows/haikyuu/4x16/"},"frontmatter":{"title":"Haikyuu!! 4x16"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

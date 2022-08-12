@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/white-collar/2x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"e74e6692-314d-5646-b6ff-105074279a2c","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 2x6","date":"December 29, 2021","rating":3,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/2x6/","previous":{"fields":{"slug":"/tv-shows/white-collar/2x5/"},"frontmatter":{"title":"White Collar 2x5"}},"next":{"fields":{"slug":"/tv-shows/grey-s-anatomy/18x6/"},"frontmatter":{"title":"Grey's Anatomy 18x6"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

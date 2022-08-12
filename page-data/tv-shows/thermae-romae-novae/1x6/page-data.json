@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/thermae-romae-novae/1x6/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"a02428f3-7d33-5fb9-9713-9f32f8d1bfff","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"Thermae Romae Novae","title":"Thermae Romae Novae 1x6","date":"April 01, 2022","rating":1,"type":"series"}}},"pageContext":{"slug":"/tv-shows/thermae-romae-novae/1x6/","previous":{"fields":{"slug":"/tv-shows/thermae-romae-novae/1x4/"},"frontmatter":{"title":"Thermae Romae Novae 1x4"}},"next":{"fields":{"slug":"/tv-shows/s-w-a-t/1x1/"},"frontmatter":{"title":"S.W.A.T. 1x1"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}

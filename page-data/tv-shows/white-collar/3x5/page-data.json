@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/tv-shows/white-collar/3x5/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Ricard's Reviews","site":"https://quicoto.github.io"}},"markdownRemark":{"id":"b969bac0-003c-5cf2-b49f-be1b583498c0","excerpt":"[No review was written for this episode]","html":"<p><em>[No review was written for this episode]</em></p>","frontmatter":{"name":"White Collar","title":"White Collar 3x5","date":"February 14, 2022","rating":4,"type":"series"}}},"pageContext":{"slug":"/tv-shows/white-collar/3x5/","previous":{"fields":{"slug":"/tv-shows/fringe/1x16/"},"frontmatter":{"title":"Fringe 1x16"}},"next":{"fields":{"slug":"/tv-shows/the-office/6x18/"},"frontmatter":{"title":"The Office 6x18"}}}},
-    "staticQueryHashes": ["160965972","3274528899","4047580407"]}
