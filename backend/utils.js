@@ -65,40 +65,6 @@ export function formatDate(date) {
   });
 }
 
-export function getDirectoryFiles(source) {
-  const files = [];
-
-  function getFiles(dir) {
-    fs.readdirSync(dir).map((file) => {
-      const absolutePath = nodePath.join(dir, file);
-
-      const stats = fs.statSync(absolutePath);
-
-      if (fs.statSync(absolutePath).isDirectory()) {
-        return getFiles(absolutePath);
-      }
-      const modified = {
-        name: file,
-        dir,
-        created: stats.birthtime,
-        modified: stats.mtime,
-      };
-      return files.push(modified);
-    });
-  }
-
-  getFiles(source);
-
-  return files;
-}
-
-export function getLastModified(parentDirectory, limit) {
-  const files = getDirectoryFiles(parentDirectory);
-  const lastModified = files.sort((a, b) => b.modified - a.modified);
-
-  return lastModified.slice(0, limit);
-}
-
 export function formatRSSDate(date) {
   let newDate = new Date();
 

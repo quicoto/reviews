@@ -125,9 +125,6 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     *******************
   */
 
-  // eslint-disable-next-line no-console
-  console.log(allEpisodes);
-
   const lastMovies = allMovies.sort(utils.sortByDate).slice(0, 6);
   const lastShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
   const homepageHTML = templates.homepage(lastShows, lastMovies);
@@ -141,13 +138,16 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   */
   const template = templates.rss();
 
-  const last20Movies = utils.getLastModified(Paths.content.movies, 20);
-  const last20Shows = utils.getLastModified(Paths.content.tvshows, 20);
-  const last20All = utils.getLastModified(Paths.content.blog, 20);
+  const last20Movies = allMovies.sort(utils.sortByDate).slice(0, 20);
+  const last20Episodes = allEpisodes.sort(utils.sortByDate).slice(0, 20);
+
+  const last20All = allEpisodes.concat(allMovies)
+    .filter((item) => item.frontmatter.share === 'true')
+    .sort(utils.sortByDate).slice(0, 20);
 
   const rssTVShows = template.replace(
     '%ITEMS%',
-    last20Shows.map(templates.rssItem).join('\n'),
+    last20Episodes.map(templates.rssItem).join('\n'),
   );
   const rssMovies = template.replace(
     '%ITEMS%',

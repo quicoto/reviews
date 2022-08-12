@@ -188,26 +188,13 @@ function _feedDescription(item) {
   }\n\n${type} 👇\n${utils.createURL(item, true)}`;
 }
 
-export function rssItem(item) {
-  const fileContent = utils.readFile(`${item.dir}/${item.name}`);
-  let fileFrontmatter = '';
-
-  const md = new MarkdownIt()
-    .use(frontMatterPlugin, (frontMatter) => {
-      fileFrontmatter = frontMatter;
-    });
-  const html = md.render(fileContent);
-  const itemData = {
-    content: html,
-    frontmatter: fileFrontmatter,
-  };
-
+export function rssItem(itemData) {
   return `<item>
   <title><![CDATA[${itemData.frontmatter.title}]]></title>
   <description><![CDATA[${_feedDescription(itemData)}]]></description>
   <link>${utils.createURL(itemData, true)}</link>
   <guid isPermaLink="true">${utils.createURL(itemData, true)}</guid>
-  <pubDate>${utils.formatRSSDate(item.modified)}</pubDate>
+  <pubDate>${utils.formatRSSDate(itemData.frontmatter.date)}</pubDate>
 </item>`;
 }
 
