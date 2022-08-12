@@ -46,7 +46,11 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     // eslint-disable-next-line no-console
     console.log(`Processing movie: ${movieFrontMatter.title}`);
 
-    if (!fs.existsSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.movies}/${slugify(movieFrontMatter.name)}`);
+    const movieFolder = `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`;
+
+    if (!fs.existsSync(movieFolder)) {
+      fs.mkdirSync(movieFolder);
+    }
 
     utils.createFile('index.html', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
   });
@@ -99,10 +103,18 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       // eslint-disable-next-line no-console
       console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
 
-      if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`);
-      if (!fs.existsSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`)) fs.mkdirSync(`${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`);
+      const showFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`;
+      const episodeFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`;
 
-      utils.createFile('index.html', `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`, episodeHTML);
+      if (!fs.existsSync(showFolder)) {
+        fs.mkdirSync(showFolder);
+      }
+
+      if (!fs.existsSync(episodeFolder)) {
+        fs.mkdirSync(episodeFolder);
+      }
+
+      utils.createFile('index.html', episodeFolder, episodeHTML);
     });
 
     allShows.push(currentShow);
