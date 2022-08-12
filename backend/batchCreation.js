@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Community';
+const showName = 'Final Space';
 const time = 25;
 const seasons = 2;
-const episodesPerSeason = [25, 13];
-const rating = 3;
+const episodesPerSeason = [10, 13];
+const rating = 4;
 /*
   *******************
   END Configuration
