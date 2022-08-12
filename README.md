@@ -20,7 +20,7 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Navigation menu
 - [x] Styling
 - [x] Creates homepage with latest movies and shows
-- [ ] Creates RSS feeds
+- [x] Creates RSS feeds
 - [x] GitHub Actions is upated with new functions
 - [ ] Adds a widget to homepage with stats
 - [ ] Deletes old Gatbsy files
