@@ -139,19 +139,7 @@ export function allShows(list) {
     .replaceAll('%TITLE%', 'All TV Show Reviews');
 }
 
-function _card(item) {
-  const fileContent = utils.readFile(`${item.dir}/${item.name}`);
-  let fileFrontmatter = '';
-
-  const md = new MarkdownIt()
-    .use(frontMatterPlugin, (frontMatter) => {
-      fileFrontmatter = frontMatter;
-    });
-  const html = md.render(fileContent);
-  const itemData = {
-    content: html,
-    frontmatter: fileFrontmatter,
-  };
+function _card(itemData) {
   const imageSrc = utils.createAbsoluteURL(`covers/${slugify(itemData.frontmatter.name)}.jpg`);
 
   return `

@@ -21,19 +21,6 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
   /*
     *******************
-    Homepage
-    *******************
-  */
-
-  // eslint-disable-next-line no-console
-  const lastMovies = utils.getLastModified(Paths.content.movies, 6);
-  const lastShows = utils.getLastModified(Paths.content.tvshows, 6);
-  const homepageHTML = templates.homepage(lastShows, lastMovies);
-
-  utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
-
-  /*
-    *******************
     Movies
     *******************
   */
@@ -82,6 +69,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   */
   const tvshows = await fs.promises.readdir(`${Paths.content.tvshows}`);
   const allShows = [];
+  const allEpisodes = [];
 
   for (const show of tvshows) {
     const episodes = await fs.promises.readdir(`${Paths.content.tvshows}/${show}`);
@@ -105,6 +93,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       };
       const episodeHTML = templates.single(episodeData);
 
+      allEpisodes.push(episodeData);
       currentShow.episodes.push(episodeData);
 
       // eslint-disable-next-line no-console
@@ -129,6 +118,21 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     Paths.output.tvshows,
     templates.allShows(allShows),
   );
+
+  /*
+    *******************
+    Homepage
+    *******************
+  */
+
+  // eslint-disable-next-line no-console
+  console.log(allEpisodes);
+
+  const lastMovies = allMovies.sort(utils.sortByDate).slice(0, 6);
+  const lastShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
+  const homepageHTML = templates.homepage(lastShows, lastMovies);
+
+  utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
 
   /*
     *******************

@@ -39,6 +39,16 @@ export function sortEpisodes(list) {
   });
 }
 
+export function sortByDate(show1, show2) {
+  const date1 = new Date(show1.frontmatter.date);
+  const date2 = new Date(show2.frontmatter.date);
+
+  if (date1 < date2) return 1;
+  if (date1 > date2) return -1;
+
+  return 0;
+}
+
 /**
  * @param  {number} number
  * @returns {number}
@@ -55,34 +65,35 @@ export function formatDate(date) {
   });
 }
 
+export function getDirectoryFiles(source) {
+  const files = [];
+
+  function getFiles(dir) {
+    fs.readdirSync(dir).map((file) => {
+      const absolutePath = nodePath.join(dir, file);
+
+      const stats = fs.statSync(absolutePath);
+
+      if (fs.statSync(absolutePath).isDirectory()) {
+        return getFiles(absolutePath);
+      }
+      const modified = {
+        name: file,
+        dir,
+        created: stats.birthtime,
+        modified: stats.mtime,
+      };
+      return files.push(modified);
+    });
+  }
+
+  getFiles(source);
+
+  return files;
+}
+
 export function getLastModified(parentDirectory, limit) {
-  const getDirectories = (source) => {
-    const files = [];
-
-    function getFiles(dir) {
-      fs.readdirSync(dir).map((file) => {
-        const absolutePath = nodePath.join(dir, file);
-
-        const stats = fs.statSync(absolutePath);
-
-        if (fs.statSync(absolutePath).isDirectory()) {
-          return getFiles(absolutePath);
-        }
-        const modified = {
-          name: file,
-          dir,
-          created: stats.birthtime,
-          modified: stats.mtime,
-        };
-        return files.push(modified);
-      });
-    }
-
-    getFiles(source);
-    return files;
-  };
-
-  const files = getDirectories(parentDirectory);
+  const files = getDirectoryFiles(parentDirectory);
   const lastModified = files.sort((a, b) => b.modified - a.modified);
 
   return lastModified.slice(0, limit);
@@ -93,7 +104,7 @@ export function formatRSSDate(date) {
 
   if (date) newDate = new Date(date);
 
-  return new Intl.DateTimeFormat('en-US', { dateStyle: 'full', timeStyle: 'long' }).format(newDate);
+  return new Date(newDate).toUTCString();
 }
 
 export function createURL(itemData, withDomain = false) {
