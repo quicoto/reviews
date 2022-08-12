@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Into the Night';
-const seasons = 1;
-const episodesPerSeason = [6];
+const showName = 'Lucifer';
+const seasons = 5;
+const episodesPerSeason = [13, 18, 26, 10, 16];
 const time = 40;
 const rating = 3;
 /*
@@ -63,10 +63,12 @@ share: false
       fs.mkdirSync(episodeFolder);
     }
 
-    utils.createFile(
-      'index.md',
-      episodeFolder,
-      template,
-    );
+    if (!fs.existsSync(`${episodeFolder}/index.md`)) {
+      utils.createFile(
+        'index.md',
+        episodeFolder,
+        template,
+      );
+    }
   }
 }
