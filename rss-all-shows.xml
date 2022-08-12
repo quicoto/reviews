@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 12 Aug 2022 20:48:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 12 Aug 2022 21:42:11 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Outsider 1x2]]></title>
+  <description><![CDATA[📺 Just watched: The Outsider 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-outsider/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-outsider/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-outsider/1x2</guid>
+  <pubDate>Fri, 12 Aug 2022 23:41:21 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Outsider 1x1]]></title>
   <description><![CDATA[📺 Just watched: The Outsider 1x1
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/lost/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/lost/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x4</guid>
-  <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lost 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Lost 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lost/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lost/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x5</guid>
   <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
 </item>
 </channel>
