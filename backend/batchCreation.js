@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Sex Education';
-const seasons = 3;
-const episodesPerSeason = [8, 8, 8];
+const showName = 'Spartacus: Vengeance';
+const seasons = 1;
+const episodesPerSeason = [10];
 const time = 60;
-const rating = 3;
+const rating = 4;
 /*
   *******************
   END Configuration
