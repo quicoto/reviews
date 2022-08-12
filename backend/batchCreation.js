@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Lucifer';
-const seasons = 5;
-const episodesPerSeason = [13, 18, 26, 10, 16];
+const showName = 'Lupin';
+const seasons = 2;
+const episodesPerSeason = [5, 5];
 const time = 40;
 const rating = 3;
 /*
