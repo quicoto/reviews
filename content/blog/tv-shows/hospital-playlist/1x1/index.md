@@ -11,4 +11,4 @@ ratingEmoji: ⭐️⭐️⭐️
 share: false
 ---
 
-*[No review was written for this episode]*
+Very long episodes! Not super fan of the medical drama but the relationships between the characters.

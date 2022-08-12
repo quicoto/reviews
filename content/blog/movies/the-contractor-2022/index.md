@@ -9,3 +9,5 @@ rating: 2
 ratingEmoji: "⭐️⭐️"
 share: false
 ---
+
+Not very new or exciting. No epic gun fights. I would skip.

@@ -9,3 +9,5 @@ rating: 1
 ratingEmoji: "⭐️"
 share: false
 ---
+
+I had to drop this movie half way through. So boring. Main actor didn't cut it for me.
