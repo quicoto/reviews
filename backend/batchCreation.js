@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Atypical';
+const showName = 'Boku no Tonari ni Ankoku Hakaishin ga Imasu';
 const time = 25;
-const seasons = 3;
-const episodesPerSeason = [8, 10, 10];
+const seasons = 1;
+const episodesPerSeason = [3];
 const rating = 3;
 /*
   *******************
