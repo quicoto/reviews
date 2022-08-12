@@ -9,10 +9,10 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Westworld';
-const seasons = 2;
-const episodesPerSeason = [10, 10];
+const seasons = 3;
+const episodesPerSeason = [10, 10, 8];
 const time = 54;
-const rating = 3;
+const rating = 2;
 /*
   *******************
   END Configuration
