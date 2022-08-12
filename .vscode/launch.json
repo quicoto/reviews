@@ -5,7 +5,7 @@
         "type": "node",
         "request": "launch",
         "name": "Main.js",
-        "program": "backend/batchCreation.js"
+        "program": "backend/main.js"
     }
   ]
 }

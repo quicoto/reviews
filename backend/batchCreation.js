@@ -40,24 +40,23 @@ function _formatDate() {
 
 for (let season = 1; season <= seasons; season += 1) {
   for (let episode = 1; episode <= episodesPerSeason[season - 1]; episode += 1) {
-    const template = `
-      ---
-      type: series
-      time: ${time}
-      title: ${showName} ${season}x${episode}
-      date: "${_formatDate()}"
-      name: "${showName}"
-      season: ${season}
-      episode: ${episode}
-      rating: ${rating}
-      ratingEmoji: "${'⭐️'.repeat(rating)}"
-      share: false
-      ---
+    const template = `---
+type: series
+time: ${time}
+title: ${showName} ${season}x${episode}
+date: "${_formatDate()}"
+name: "${showName}"
+season: ${season}
+episode: ${episode}
+rating: ${rating}
+ratingEmoji: "${'⭐️'.repeat(rating)}"
+share: false
+---
 
-      *[No review was written for this episode]*`;
+*[No review was written for this episode]*`;
 
-    const showFolder = `${Paths.output.tvshows}/${slugify(showName)}`;
-    const episodeFolder = `${Paths.output.tvshows}/${slugify(showName)}/${season}x${episode}`;
+    const showFolder = `${Paths.content.tvshows}/${slugify(showName)}`;
+    const episodeFolder = `${Paths.content.tvshows}/${slugify(showName)}/${season}x${episode}`;
 
     if (!fs.existsSync(showFolder)) {
       fs.mkdirSync(showFolder);
