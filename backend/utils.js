@@ -1,5 +1,4 @@
 import * as fs from 'fs';
-import * as nodePath from 'path';
 import slugify from '@sindresorhus/slugify';
 
 export function readFile(path) {

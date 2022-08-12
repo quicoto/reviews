@@ -1,8 +1,6 @@
 /* eslint-disable no-param-reassign */
 import slugify from '@sindresorhus/slugify';
-import MarkdownIt from 'markdown-it';
 import * as utils from './utils.js';
-import { frontMatterPlugin } from './frontmatter.js';
 import Paths from './paths.js';
 
 function _rating(rating) {
