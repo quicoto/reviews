@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'The X-Files';
-const time = 45;
-const seasons = 1;
-const episodesPerSeason = [24];
+const showName = 'Atypical';
+const time = 25;
+const seasons = 3;
+const episodesPerSeason = [8, 10, 10];
 const rating = 3;
 /*
   *******************
