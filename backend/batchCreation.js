@@ -11,7 +11,7 @@ import Paths from './paths.js';
 const showName = 'The X-Files';
 const time = 45;
 const seasons = 1;
-const episodesPerSeason = [2];
+const episodesPerSeason = [24];
 const rating = 3;
 /*
   *******************
@@ -67,7 +67,7 @@ share: false
     }
 
     utils.createFile(
-      'index.html',
+      'index.md',
       episodeFolder,
       template,
     );
