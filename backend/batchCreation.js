@@ -39,7 +39,7 @@ function _formatDate() {
 }
 
 for (let season = 1; season <= seasons; season += 1) {
-  for (let episode = 1; episode <= episodesPerSeason[season]; episode += 1) {
+  for (let episode = 1; episode <= episodesPerSeason[season - 1]; episode += 1) {
     const template = `
       ---
       type: series
