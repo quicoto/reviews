@@ -118,6 +118,8 @@ footer {
 }
 
 .rating {
+  align-content: center;
+  align-items: center;
   display: flex;
 
   img {
@@ -169,10 +171,7 @@ time {
 .list {
   h3 {
     margin-bottom: 0.5rem;
-  }
-
-  li {
-    margin-bottom: 1.5rem;
+    padding-top: 1.5rem;
   }
 
   .meta {
@@ -201,5 +200,16 @@ time {
 
   .rating {
     margin-bottom: 1rem;
+  }
+}
+
+.episode-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+
+  li {
+    margin: 0;
   }
 }

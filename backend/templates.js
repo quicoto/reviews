@@ -127,7 +127,7 @@ function _showsItem(show) {
   <li>
     <h3 id="${slugify(show.episodes[0].frontmatter.name)}">${show.episodes[0].frontmatter.name}</h3>
     <div class="rating">${_rating(averageRating).join('\n')}</div>
-    <ul>${episodesList}</ul>
+    <ul class="episode-list">${episodesList}</ul>
   </li>
 `;
 }

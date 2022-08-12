@@ -18,8 +18,8 @@ Gatbsy blog to post my TV Shows and Movies reviews.
 - [x] Links to show anchor from single show
 - [x] Template is created for homepage
 - [x] Navigation menu
-- [ ] Styling
-- [ ] Creates homepage with latest movies and shows
+- [x] Styling
+- [x] Creates homepage with latest movies and shows
 - [ ] Creates RSS feeds
 - [x] GitHub Actions is upated with new functions
 - [ ] Adds a widget to homepage with stats
