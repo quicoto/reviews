@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 12 Aug 2022 13:31:21 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 12 Aug 2022 14:10:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Hospital Playlist 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Hospital Playlist 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/hospital-playlist/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/hospital-playlist/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/hospital-playlist/1x2</guid>
+  <pubDate>Fri, 12 Aug 2022 16:09:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Hospital Playlist 1x1]]></title>
   <description><![CDATA[📺 Just watched: Hospital Playlist 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/severance/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/severance/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/severance/1x1</guid>
   <pubDate>Sat, 06 Aug 2022 14:29:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Bird 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Black Bird 1x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-bird/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-bird/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-bird/1x5</guid>
-  <pubDate>Sat, 06 Aug 2022 10:42:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
