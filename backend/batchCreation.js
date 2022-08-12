@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Rick and Morty';
-const seasons = 5;
-const episodesPerSeason = [11, 10, 10, 10, 10];
-const time = 25;
-const rating = 4;
+const showName = 'Sex Education';
+const seasons = 3;
+const episodesPerSeason = [8, 8, 8];
+const time = 60;
+const rating = 3;
 /*
   *******************
   END Configuration
