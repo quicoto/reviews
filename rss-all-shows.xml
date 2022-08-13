@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 13 Aug 2022 15:14:24 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 13 Aug 2022 16:08:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Sandman 1x3]]></title>
+  <description><![CDATA[📺 Just watched: The Sandman 1x3
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-sandman/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-sandman/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-sandman/1x3</guid>
+  <pubDate>Sat, 13 Aug 2022 18:07:09 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Sandman 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Sandman 1x2
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/lost/1x22]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/lost/1x22</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x22</guid>
-  <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lost 1x23]]></title>
-  <description><![CDATA[📺 Just watched: Lost 1x23
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lost/1x23]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lost/1x23</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x23</guid>
   <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
 </item>
 </channel>
