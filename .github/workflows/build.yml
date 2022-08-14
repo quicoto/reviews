@@ -16,7 +16,7 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm ci --production
+          npm ci --omit=dev --ignore-scripts
           npm run build
 
       - name: Deploy 🚀
