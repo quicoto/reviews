@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 Aug 2022 10:45:57 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Aug 2022 14:18:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Day Shift]]></title>
+  <description><![CDATA[📺 Just watched: Day Shift
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/day-shift/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/day-shift/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/day-shift/</guid>
+  <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Night in Paradise]]></title>
   <description><![CDATA[📺 Just watched: Night in Paradise
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-matrix/]]></description>
   <link>https://quicoto.github.io/reviews/movies/the-matrix/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-matrix/</guid>
   <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Burn After Reading]]></title>
-  <description><![CDATA[📺 Just watched: Burn After Reading
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/burn-after-reading/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/burn-after-reading/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/burn-after-reading/</guid>
-  <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
