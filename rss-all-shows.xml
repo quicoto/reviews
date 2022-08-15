@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 Aug 2022 20:08:38 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 15 Aug 2022 08:17:37 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Westworld 4x8]]></title>
+  <description><![CDATA[📺 Just watched: Westworld 4x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/westworld/4x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/westworld/4x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/westworld/4x8</guid>
+  <pubDate>Mon, 15 Aug 2022 10:16:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My First First Love 1x5]]></title>
   <description><![CDATA[📺 Just watched: My First First Love 1x5
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/lost/1x17]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/lost/1x17</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x17</guid>
-  <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lost 1x18]]></title>
-  <description><![CDATA[📺 Just watched: Lost 1x18
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lost/1x18]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lost/1x18</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x18</guid>
   <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
 </item>
 </channel>
