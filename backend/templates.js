@@ -22,7 +22,7 @@ function _rating(rating) {
       }
     }
 
-    stars.push(`<img src="${utils.createAbsoluteURL(src)}" alt="Star ${i}" />`);
+    stars.push(`<img width="35" src="${utils.createAbsoluteURL(src)}" alt="Star ${i}" />`);
   }
 
   return stars;
