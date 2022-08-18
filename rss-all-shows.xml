@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 16 Aug 2022 20:18:24 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Aug 2022 15:51:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My First First Love 1x8]]></title>
+  <description><![CDATA[📺 Just watched: My First First Love 1x8
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8</guid>
+  <pubDate>Thu, 18 Aug 2022 17:46:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My First First Love 1x7]]></title>
   <description><![CDATA[📺 Just watched: My First First Love 1x7
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/lost/1x14]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/lost/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x14</guid>
-  <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lost 1x15]]></title>
-  <description><![CDATA[📺 Just watched: Lost 1x15
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lost/1x15]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lost/1x15</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x15</guid>
   <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
 </item>
 </channel>
