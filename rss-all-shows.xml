@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Aug 2022 15:15:46 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 15:16:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 3x11]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 3x11
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/3x11]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/3x11</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/3x11</guid>
+  <pubDate>Fri, 19 Aug 2022 17:15:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 3x10]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 3x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-x-files/2x11]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x11</guid>
   <pubDate>Fri, 19 Aug 2022 16:08:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The X-Files 2x10]]></title>
-  <description><![CDATA[📺 Just watched: The X-Files 2x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-x-files/2x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x10</guid>
-  <pubDate>Fri, 19 Aug 2022 16:08:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
