@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Aug 2022 14:18:32 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 14:21:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 2x19]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 2x19
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/2x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x19</guid>
+  <pubDate>Fri, 19 Aug 2022 16:20:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 2x18]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 2x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/my-first-first-love/2x1]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/my-first-first-love/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-first-first-love/2x1</guid>
   <pubDate>Thu, 18 Aug 2022 18:36:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My First First Love 1x8]]></title>
-  <description><![CDATA[📺 Just watched: My First First Love 1x8
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x8</guid>
-  <pubDate>Thu, 18 Aug 2022 17:46:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
