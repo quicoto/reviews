@@ -11,13 +11,13 @@ fs.readdir(Paths.content.assets, (err, files) => {
     console.log(err);
   } else {
     // eslint-disable-next-line no-console
-    console.log('\nCurrent directory filenames:');
+    if (!process.env.NODE_ENV) console.log('\nCurrent directory filenames:');
 
     files.forEach((file) => {
       fs.copyFileSync(`${Paths.content.assets}/${file}`, `${Paths.output.assets}/${file}`);
 
       // eslint-disable-next-line no-console
-      console.log(`Copying: ${file}`);
+      if (!process.env.NODE_ENV) console.log(`Copying: ${file}`);
     });
   }
 });

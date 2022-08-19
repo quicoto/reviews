@@ -114,10 +114,11 @@ function _showsItem(show) {
   const averageRating = utils.roundHalf(
     +Number.parseFloat(totalRating / episodes.length).toFixed(1),
   );
+  const anchor = slugify(show.episodes[0].frontmatter.name);
 
   return `
   <li>
-    <h3 id="${slugify(show.episodes[0].frontmatter.name)}">${show.episodes[0].frontmatter.name}</h3>
+    <h3 id="${anchor}"><a href="#${anchor}" class="show-anchor">#</a> ${show.episodes[0].frontmatter.name}</h3>
     <div class="rating">${_rating(averageRating).join('\n')}</div>
     <ul class="episode-list">${episodesList}</ul>
   </li>

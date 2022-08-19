@@ -1,4 +1,5 @@
 /* eslint-disable no-restricted-syntax */
+import process from 'process';
 import * as fs from 'fs';
 import slugify from '@sindresorhus/slugify';
 import MarkdownIt from 'markdown-it';
@@ -17,7 +18,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   const t0 = performance.now();
 
   // eslint-disable-next-line no-console
-  console.time('Start content creation');
+  console.log('Start content creation');
 
   /*
     *******************
@@ -44,7 +45,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     allMovies.push(movieData);
 
     // eslint-disable-next-line no-console
-    console.log(`Processing movie: ${movieFrontMatter.title}`);
+    if (!process.env.NODE_ENV) console.log(`Processing movie: ${movieFrontMatter.title}`);
 
     const movieFolder = `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`;
 
@@ -101,7 +102,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       currentShow.episodes.push(episodeData);
 
       // eslint-disable-next-line no-console
-      console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
+      if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
 
       const showFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`;
       const episodeFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`;
