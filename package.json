@@ -6,7 +6,7 @@
   "author": "Ricard Torres <torres.rick@gmail.com>",
   "type": "module",
   "scripts": {
-    "build": "NODE_ENV=production run-p build:*",
+    "build": "run-p build:*",
     "build:content": "node backend/main.js",
     "build:assets": "node backend/assets.js",
     "build:covers": "node backend/covers.js",
