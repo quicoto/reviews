@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 18 Aug 2022 19:55:37 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 13:52:28 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 2x4]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 2x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x4</guid>
+  <pubDate>Fri, 19 Aug 2022 15:51:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 2x3]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 2x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-outsider/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-outsider/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-outsider/1x1</guid>
   <pubDate>Fri, 12 Aug 2022 22:45:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lost 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Lost 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lost/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lost/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lost/1x10</guid>
-  <pubDate>Fri, 12 Aug 2022 20:47:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
