@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Westworld';
-const seasons = 3;
-const episodesPerSeason = [10, 10, 8];
-const time = 54;
-const rating = 2;
+const showName = 'The X-Files';
+const seasons = 2;
+const episodesPerSeason = [1, 25];
+const time = 45;
+const rating = 3;
 /*
   *******************
   END Configuration
