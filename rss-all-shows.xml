@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Aug 2022 14:10:41 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 14:11:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 2x14]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 2x14
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/2x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x14</guid>
+  <pubDate>Fri, 19 Aug 2022 16:10:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 2x13]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 2x13
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x5]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x5</guid>
   <pubDate>Sun, 14 Aug 2022 22:07:49 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Outsider 1x7]]></title>
-  <description><![CDATA[📺 Just watched: The Outsider 1x7
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-outsider/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-outsider/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-outsider/1x7</guid>
-  <pubDate>Sun, 14 Aug 2022 12:45:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
