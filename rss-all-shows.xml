@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Aug 2022 14:06:55 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 14:07:46 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 2x9]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 2x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/2x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/2x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/2x9</guid>
+  <pubDate>Fri, 19 Aug 2022 16:07:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 2x8]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 2x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-sandman/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-sandman/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-sandman/1x2</guid>
   <pubDate>Sat, 13 Aug 2022 17:13:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Sandman 1x1]]></title>
-  <description><![CDATA[📺 Just watched: The Sandman 1x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-sandman/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-sandman/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-sandman/1x1</guid>
-  <pubDate>Sat, 13 Aug 2022 16:23:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
