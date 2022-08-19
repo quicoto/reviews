@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Aug 2022 15:16:56 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Aug 2022 20:57:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sweet & Sour]]></title>
+  <description><![CDATA[📺 Just watched: Sweet & Sour
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/sweet-and-sour/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/sweet-and-sour/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/sweet-and-sour/</guid>
+  <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Day Shift]]></title>
   <description><![CDATA[📺 Just watched: Day Shift
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/free-guy/]]></description>
   <link>https://quicoto.github.io/reviews/movies/free-guy/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/free-guy/</guid>
   <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Matrix]]></title>
-  <description><![CDATA[📺 Just watched: The Matrix
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-matrix/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-matrix/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-matrix/</guid>
-  <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
