@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 28 Aug 2022 07:57:36 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 28 Aug 2022 07:57:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[South Park 25x4]]></title>
+  <description><![CDATA[📺 Just watched: South Park 25x4
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/south-park/25x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/south-park/25x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/25x4</guid>
+  <pubDate>Sun, 28 Aug 2022 09:57:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[South Park 25x5]]></title>
   <description><![CDATA[📺 Just watched: South Park 25x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-x-files/3x18]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/3x18</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/3x18</guid>
   <pubDate>Mon, 22 Aug 2022 15:51:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Something in the Rain 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Something in the Rain 1x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1</guid>
-  <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
