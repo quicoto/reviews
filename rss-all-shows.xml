@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 28 Aug 2022 05:47:59 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 28 Aug 2022 07:57:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[South Park 25x5]]></title>
+  <description><![CDATA[📺 Just watched: South Park 25x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/south-park/25x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/south-park/25x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/25x5</guid>
+  <pubDate>Sun, 28 Aug 2022 09:34:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The X-Files 4x4]]></title>
   <description><![CDATA[📺 Just watched: The X-Files 4x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x1</guid>
   <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The X-Files 3x17]]></title>
-  <description><![CDATA[📺 Just watched: The X-Files 3x17
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-x-files/3x17]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/3x17</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/3x17</guid>
-  <pubDate>Sun, 21 Aug 2022 22:17:31 GMT</pubDate>
 </item>
 </channel>
 </rss>
