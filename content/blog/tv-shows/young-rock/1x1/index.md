@@ -1,0 +1,13 @@
+---
+type: series
+title: "Young Rock 1x1"
+date: "2022-08-28T14:59:23"
+name: "Young Rock"
+season: 1
+episode: 1
+rating: 4
+ratingEmoji: ⭐️⭐️⭐️⭐️
+share: false
+---
+
+*[No review was written for this episode]*
