@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Young Rock 1x1"
 date: "2022-08-28T14:59:23"
 name: "Young Rock"
