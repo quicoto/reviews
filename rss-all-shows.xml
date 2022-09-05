@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 05 Sep 2022 11:58:21 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 05 Sep 2022 16:52:26 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Star Trek: Lower Decks 3x2]]></title>
+  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</guid>
+  <pubDate>Mon, 05 Sep 2022 18:51:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Grey's Anatomy 18x19]]></title>
   <description><![CDATA[📺 Just watched: Grey's Anatomy 18x19
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x5]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x5</guid>
   <pubDate>Sat, 27 Aug 2022 14:18:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The X-Files 4x2]]></title>
-  <description><![CDATA[📺 Just watched: The X-Files 4x2
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-x-files/4x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/4x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/4x2</guid>
-  <pubDate>Fri, 26 Aug 2022 22:28:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
