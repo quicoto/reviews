@@ -1,5 +1,6 @@
 ---
 type: series
+time: 65
 title: "House of the Dragon 1x1"
 date: "2022-09-04T22:31:45"
 name: "House of the Dragon"
