@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 06 Sep 2022 20:48:59 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 08 Sep 2022 06:37:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Thor: Love and Thunder]]></title>
+  <description><![CDATA[📺 Just watched: Thor: Love and Thunder
+
+Rating: ⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/thor-love-and-thunder/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/thor-love-and-thunder/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/thor-love-and-thunder/</guid>
+  <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Skyfall]]></title>
   <description><![CDATA[📺 Just watched: Skyfall
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/]]></desc
   <link>https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/</guid>
   <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[No Time to Die]]></title>
-  <description><![CDATA[📺 Just watched: No Time to Die
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/no-time-to-die/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/no-time-to-die/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/no-time-to-die/</guid>
-  <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
