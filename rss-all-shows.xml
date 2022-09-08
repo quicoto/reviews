@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 08 Sep 2022 06:37:12 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 08 Sep 2022 11:42:40 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Malcolm in the Middle 1x15]]></title>
+  <description><![CDATA[📺 Just watched: Malcolm in the Middle 1x15
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x15]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x15</guid>
+  <pubDate>Thu, 08 Sep 2022 13:41:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Something in the Rain 1x14]]></title>
   <description><![CDATA[📺 Just watched: Something in the Rain 1x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/young-rock/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/young-rock/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/young-rock/1x1</guid>
   <pubDate>Sun, 28 Aug 2022 14:59:23 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[South Park 25x6]]></title>
-  <description><![CDATA[📺 Just watched: South Park 25x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/south-park/25x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/south-park/25x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/25x6</guid>
-  <pubDate>Sun, 28 Aug 2022 11:02:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
