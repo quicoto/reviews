@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Sep 2022 15:38:03 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Sep 2022 16:15:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cobra Kai 5x5]]></title>
+  <description><![CDATA[📺 Just watched: Cobra Kai 5x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5</guid>
+  <pubDate>Mon, 12 Sep 2022 18:14:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cobra Kai 5x4]]></title>
   <description><![CDATA[📺 Just watched: Cobra Kai 5x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1</guid>
   <pubDate>Sun, 04 Sep 2022 22:31:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Lord of the Rings: The Rings of Power 1x2]]></title>
-  <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x2</guid>
-  <pubDate>Sun, 04 Sep 2022 20:28:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
