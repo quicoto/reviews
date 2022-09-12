@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Sep 2022 16:49:03 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Sep 2022 17:24:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cobra Kai 5x7]]></title>
+  <description><![CDATA[📺 Just watched: Cobra Kai 5x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</guid>
+  <pubDate>Mon, 12 Sep 2022 19:23:30 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cobra Kai 5x6]]></title>
   <description><![CDATA[📺 Just watched: Cobra Kai 5x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</guid>
   <pubDate>Mon, 05 Sep 2022 18:51:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 18x19]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 18x19
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19</guid>
-  <pubDate>Mon, 05 Sep 2022 13:49:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
