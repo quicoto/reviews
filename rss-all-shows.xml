@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Sep 2022 16:15:05 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Sep 2022 16:49:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cobra Kai 5x6]]></title>
+  <description><![CDATA[📺 Just watched: Cobra Kai 5x6
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6</guid>
+  <pubDate>Mon, 12 Sep 2022 18:48:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cobra Kai 5x5]]></title>
   <description><![CDATA[📺 Just watched: Cobra Kai 5x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x19</guid>
   <pubDate>Mon, 05 Sep 2022 13:49:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[House of the Dragon 1x1]]></title>
-  <description><![CDATA[📺 Just watched: House of the Dragon 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x1</guid>
-  <pubDate>Sun, 04 Sep 2022 22:31:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
