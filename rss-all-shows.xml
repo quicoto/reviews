@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Sep 2022 17:24:18 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Sep 2022 20:50:22 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cobra Kai 5x8]]></title>
+  <description><![CDATA[📺 Just watched: Cobra Kai 5x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8</guid>
+  <pubDate>Mon, 12 Sep 2022 22:49:31 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cobra Kai 5x7]]></title>
   <description><![CDATA[📺 Just watched: Cobra Kai 5x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x1</guid>
   <pubDate>Mon, 05 Sep 2022 19:17:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 3x2]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x2</guid>
-  <pubDate>Mon, 05 Sep 2022 18:51:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
