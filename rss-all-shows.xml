@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 13 Sep 2022 20:52:23 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Sep 2022 20:23:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Something in the Rain 1x16]]></title>
+  <description><![CDATA[📺 Just watched: Something in the Rain 1x16
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16</guid>
+  <pubDate>Wed, 14 Sep 2022 22:22:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[House of the Dragon 1x4]]></title>
   <description><![CDATA[📺 Just watched: House of the Dragon 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x2]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x2</guid>
   <pubDate>Mon, 05 Sep 2022 22:04:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Something in the Rain 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Something in the Rain 1x12
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x12</guid>
-  <pubDate>Mon, 05 Sep 2022 21:09:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
