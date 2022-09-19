@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 18 Sep 2022 18:17:08 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 19 Sep 2022 16:31:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 6x3]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 6x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3</guid>
+  <pubDate>Mon, 19 Sep 2022 18:30:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Silent Sea 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Silent Sea 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x15]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x15</guid>
   <pubDate>Thu, 08 Sep 2022 22:06:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Malcolm in the Middle 1x16]]></title>
-  <description><![CDATA[📺 Just watched: Malcolm in the Middle 1x16
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x16</guid>
-  <pubDate>Thu, 08 Sep 2022 13:51:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
