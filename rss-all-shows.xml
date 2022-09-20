@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 19 Sep 2022 21:02:05 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Sep 2022 11:40:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Malcolm in the Middle 2x1]]></title>
+  <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1</guid>
+  <pubDate>Tue, 20 Sep 2022 13:39:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[House of the Dragon 1x5]]></title>
   <description><![CDATA[📺 Just watched: House of the Dragon 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x3]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x3</guid>
   <pubDate>Sun, 11 Sep 2022 21:37:08 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Lord of the Rings: The Rings of Power 1x3]]></title>
-  <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 1x3
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x3</guid>
-  <pubDate>Fri, 09 Sep 2022 14:41:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
