@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 20 Sep 2022 19:39:28 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Sep 2022 20:38:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Extracurricular 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Extracurricular 1x2
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2</guid>
+  <pubDate>Tue, 20 Sep 2022 22:37:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Extracurricular 1x1]]></title>
   <description><![CDATA[📺 Just watched: Extracurricular 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x3</guid>
   <pubDate>Mon, 12 Sep 2022 13:35:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Cobra Kai 5x2]]></title>
-  <description><![CDATA[📺 Just watched: Cobra Kai 5x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x2</guid>
-  <pubDate>Sun, 11 Sep 2022 22:56:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
