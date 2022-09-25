@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 22 Sep 2022 18:14:03 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Sep 2022 20:46:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Andor 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Andor 1x1
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/andor/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/andor/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/andor/1x1</guid>
+  <pubDate>Sun, 25 Sep 2022 22:44:12 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[The Lord of the Rings: The Rings of Power 1x5]]></title>
+  <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 1x5
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x5</guid>
+  <pubDate>Fri, 23 Sep 2022 18:48:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Star Trek: Lower Decks 3x5]]></title>
   <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x5
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</guid>
   <pubDate>Mon, 12 Sep 2022 19:23:30 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Cobra Kai 5x6]]></title>
-  <description><![CDATA[📺 Just watched: Cobra Kai 5x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x6</guid>
-  <pubDate>Mon, 12 Sep 2022 18:48:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Cobra Kai 5x5]]></title>
-  <description><![CDATA[📺 Just watched: Cobra Kai 5x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x5</guid>
-  <pubDate>Mon, 12 Sep 2022 18:14:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
