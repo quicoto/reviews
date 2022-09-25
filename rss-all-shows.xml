@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 25 Sep 2022 20:46:05 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Sep 2022 21:34:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Andor 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Andor 1x2
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/andor/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/andor/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/andor/1x2</guid>
+  <pubDate>Sun, 25 Sep 2022 23:33:29 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Andor 1x1]]></title>
   <description><![CDATA[📺 Just watched: Andor 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8</guid>
   <pubDate>Mon, 12 Sep 2022 22:49:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Cobra Kai 5x7]]></title>
-  <description><![CDATA[📺 Just watched: Cobra Kai 5x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x7</guid>
-  <pubDate>Mon, 12 Sep 2022 19:23:30 GMT</pubDate>
 </item>
 </channel>
 </rss>
