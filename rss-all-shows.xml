@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 27 Sep 2022 11:29:36 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 27 Sep 2022 11:52:17 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Malcolm in the Middle 2x4]]></title>
+  <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x4
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4</guid>
+  <pubDate>Tue, 27 Sep 2022 13:51:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Malcolm in the Middle 2x3]]></title>
   <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x10</guid>
   <pubDate>Thu, 15 Sep 2022 23:23:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Cobra Kai 5x9]]></title>
-  <description><![CDATA[📺 Just watched: Cobra Kai 5x9
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9</guid>
-  <pubDate>Thu, 15 Sep 2022 22:37:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
