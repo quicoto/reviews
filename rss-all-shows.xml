@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 26 Sep 2022 20:39:44 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 27 Sep 2022 11:29:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Malcolm in the Middle 2x3]]></title>
+  <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3</guid>
+  <pubDate>Tue, 27 Sep 2022 13:28:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rick and Morty 6x4]]></title>
   <description><![CDATA[📺 Just watched: Rick and Morty 6x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x9</guid>
   <pubDate>Thu, 15 Sep 2022 22:37:19 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Something in the Rain 1x16]]></title>
-  <description><![CDATA[📺 Just watched: Something in the Rain 1x16
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16</guid>
-  <pubDate>Wed, 14 Sep 2022 22:22:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
