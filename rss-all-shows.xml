@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 29 Sep 2022 18:49:42 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Sep 2022 20:30:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Friends 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Friends 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/friends/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x1</guid>
+  <pubDate>Thu, 29 Sep 2022 22:10:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Star Trek: Lower Decks 3x6]]></title>
   <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x2</guid>
   <pubDate>Tue, 20 Sep 2022 14:01:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Malcolm in the Middle 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x1</guid>
-  <pubDate>Tue, 20 Sep 2022 13:39:15 GMT</pubDate>
 </item>
 </channel>
 </rss>

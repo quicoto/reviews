@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 29 Sep 2022 18:49:42 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Sep 2022 20:30:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Game]]></title>
+  <description><![CDATA[📺 Just watched: The Game
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/the-game/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/the-game/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-game/</guid>
+  <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Thor: Love and Thunder]]></title>
   <description><![CDATA[📺 Just watched: Thor: Love and Thunder
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rin
   <link>https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rings/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rings/</guid>
   <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Josee to Tora to Sakana-tachi]]></title>
-  <description><![CDATA[📺 Just watched: Josee to Tora to Sakana-tachi
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/</guid>
-  <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
