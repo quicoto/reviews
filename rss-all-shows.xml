@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 28 Sep 2022 16:55:41 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Sep 2022 12:15:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 4x5]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 4x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/4x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/4x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/4x5</guid>
+  <pubDate>Thu, 29 Sep 2022 14:14:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Conversations with a Killer: The Ted Bundy Tapes 1x4]]></title>
   <description><![CDATA[📺 Just watched: Conversations with a Killer: The Ted Bundy Tapes 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x3</guid>
   <pubDate>Mon, 19 Sep 2022 18:30:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Silent Sea 1x2]]></title>
-  <description><![CDATA[📺 Just watched: The Silent Sea 1x2
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-silent-sea/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-silent-sea/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-silent-sea/1x2</guid>
-  <pubDate>Sun, 18 Sep 2022 20:16:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
