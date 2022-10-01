@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 30 Sep 2022 17:18:19 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 01 Oct 2022 17:54:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The X-Files 4x8]]></title>
+  <description><![CDATA[📺 Just watched: The X-Files 4x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-x-files/4x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/4x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/4x8</guid>
+  <pubDate>Sat, 01 Oct 2022 19:53:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Lord of the Rings: The Rings of Power 1x6]]></title>
   <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x4]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x4</guid>
   <pubDate>Wed, 21 Sep 2022 18:15:26 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Extracurricular 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Extracurricular 1x2
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2</guid>
-  <pubDate>Tue, 20 Sep 2022 22:37:38 GMT</pubDate>
 </item>
 </channel>
 </rss>
