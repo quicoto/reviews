@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 03 Oct 2022 16:43:06 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 03 Oct 2022 17:14:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 6x5]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 6x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x5</guid>
+  <pubDate>Mon, 03 Oct 2022 19:10:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[House of the Dragon 1x7]]></title>
   <description><![CDATA[📺 Just watched: House of the Dragon 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6</guid>
   <pubDate>Mon, 26 Sep 2022 21:34:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Andor 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Andor 1x2
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/andor/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/andor/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/andor/1x2</guid>
-  <pubDate>Sun, 25 Sep 2022 23:33:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
