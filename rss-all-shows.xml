@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 03 Oct 2022 17:14:59 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 04 Oct 2022 19:32:15 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Friends 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Friends 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/friends/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x2</guid>
+  <pubDate>Tue, 04 Oct 2022 21:31:26 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rick and Morty 6x5]]></title>
   <description><![CDATA[📺 Just watched: Rick and Morty 6x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4</guid>
   <pubDate>Mon, 26 Sep 2022 22:38:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[House of the Dragon 1x6]]></title>
-  <description><![CDATA[📺 Just watched: House of the Dragon 1x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x6</guid>
-  <pubDate>Mon, 26 Sep 2022 21:34:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
