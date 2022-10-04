@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 04 Oct 2022 19:32:15 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 04 Oct 2022 19:53:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Friends 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Friends 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/friends/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x3</guid>
+  <pubDate>Tue, 04 Oct 2022 21:53:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Friends 1x2]]></title>
   <description><![CDATA[📺 Just watched: Friends 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x3</guid>
   <pubDate>Tue, 27 Sep 2022 13:28:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rick and Morty 6x4]]></title>
-  <description><![CDATA[📺 Just watched: Rick and Morty 6x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4</guid>
-  <pubDate>Mon, 26 Sep 2022 22:38:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
