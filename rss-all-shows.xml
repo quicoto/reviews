@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 05 Oct 2022 15:21:54 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 05 Oct 2022 15:42:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Friends 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Friends 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/friends/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x5</guid>
+  <pubDate>Wed, 05 Oct 2022 17:42:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Friends 1x4]]></title>
   <description><![CDATA[📺 Just watched: Friends 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/conversations-with-a-killer-the-ted-b
   <link>https://quicoto.github.io/reviews/tv-shows/conversations-with-a-killer-the-ted-bundy-tapes/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/conversations-with-a-killer-the-ted-bundy-tapes/1x1</guid>
   <pubDate>Wed, 28 Sep 2022 14:37:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Malcolm in the Middle 2x4]]></title>
-  <description><![CDATA[📺 Just watched: Malcolm in the Middle 2x4
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4</guid>
-  <pubDate>Tue, 27 Sep 2022 13:51:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
