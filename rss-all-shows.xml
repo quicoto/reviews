@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 06 Oct 2022 18:41:31 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 06 Oct 2022 21:10:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Friends 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Friends 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/friends/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x9</guid>
+  <pubDate>Thu, 06 Oct 2022 23:09:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Friends 1x8]]></title>
   <description><![CDATA[📺 Just watched: Friends 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/friends/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/friends/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x1</guid>
   <pubDate>Thu, 29 Sep 2022 22:10:19 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 3x6]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x6</guid>
-  <pubDate>Thu, 29 Sep 2022 20:49:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
