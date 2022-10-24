@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 23 Oct 2022 14:00:48 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 24 Oct 2022 07:02:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[House of the Dragon 1x10]]></title>
+  <description><![CDATA[📺 Just watched: House of the Dragon 1x10
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10</guid>
+  <pubDate>Mon, 24 Oct 2022 16:01:10 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Grey's Anatomy 19x3]]></title>
   <description><![CDATA[📺 Just watched: Grey's Anatomy 19x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/friends/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/friends/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x6</guid>
   <pubDate>Wed, 05 Oct 2022 21:49:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The X-Files 4x14]]></title>
-  <description><![CDATA[📺 Just watched: The X-Files 4x14
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-x-files/4x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-x-files/4x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-x-files/4x14</guid>
-  <pubDate>Wed, 05 Oct 2022 18:52:21 GMT</pubDate>
 </item>
 </channel>
 </rss>
