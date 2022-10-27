@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 26 Oct 2022 15:06:05 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 27 Oct 2022 06:59:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Crash Landing on You 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Crash Landing on You 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3</guid>
+  <pubDate>Thu, 27 Oct 2022 15:58:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Crash Landing on You 1x2]]></title>
   <description><![CDATA[📺 Just watched: Crash Landing on You 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/atypical/4x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/atypical/4x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/atypical/4x10</guid>
   <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Loki 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Loki 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/loki/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/loki/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/loki/1x4</guid>
-  <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
