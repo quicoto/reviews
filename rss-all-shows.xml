@@ -5,7 +5,7 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Oct 2022 11:49:41 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Oct 2022 12:13:22 GMT</lastBuildDate>
 
       <item>
   <title><![CDATA[Grey's Anatomy 19x4]]></title>
@@ -30,6 +30,18 @@ https://quicoto.github.io/reviews/tv-shows/station-19/6x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x4</guid>
   <pubDate>Sun, 30 Oct 2022 15:38:01 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Blue Lock 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x3</guid>
+  <pubDate>Sun, 30 Oct 2022 13:12:29 GMT</pubDate>
 </item>
 <item>
   <title><![CDATA[Blue Lock 1x2]]></title>
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8</guid>
   <pubDate>Fri, 14 Oct 2022 14:09:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 19x1]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x1</guid>
-  <pubDate>Wed, 12 Oct 2022 21:43:16 GMT</pubDate>
 </item>
 </channel>
 </rss>
