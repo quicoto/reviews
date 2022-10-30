@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Oct 2022 05:44:51 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Oct 2022 06:38:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Station 19 6x4]]></title>
+  <description><![CDATA[📺 Just watched: Station 19 6x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/station-19/6x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x4</guid>
+  <pubDate>Sun, 30 Oct 2022 15:38:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Crash Landing on You 1x5]]></title>
   <description><![CDATA[📺 Just watched: Crash Landing on You 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x6</guid>
   <pubDate>Mon, 10 Oct 2022 16:24:38 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Lord of the Rings: The Rings of Power 1x7]]></title>
-  <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x7</guid>
-  <pubDate>Sun, 09 Oct 2022 23:36:38 GMT</pubDate>
 </item>
 </channel>
 </rss>
