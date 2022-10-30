@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 27 Oct 2022 06:59:24 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Oct 2022 05:44:15 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Crash Landing on You 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Crash Landing on You 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x4</guid>
+  <pubDate>Sun, 30 Oct 2022 06:43:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Crash Landing on You 1x3]]></title>
   <description><![CDATA[📺 Just watched: Crash Landing on You 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/friends/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/friends/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x9</guid>
   <pubDate>Thu, 06 Oct 2022 23:09:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Friends 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Friends 1x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/friends/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/friends/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/friends/1x8</guid>
-  <pubDate>Thu, 06 Oct 2022 20:40:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
