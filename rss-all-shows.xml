@@ -5,7 +5,7 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Oct 2022 12:19:37 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Oct 2022 12:54:58 GMT</lastBuildDate>
 
       <item>
   <title><![CDATA[Grey's Anatomy 19x4]]></title>
@@ -30,6 +30,18 @@ https://quicoto.github.io/reviews/tv-shows/station-19/6x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x4</guid>
   <pubDate>Sun, 30 Oct 2022 15:38:01 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Blue Lock 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x4</guid>
+  <pubDate>Sun, 30 Oct 2022 13:54:09 GMT</pubDate>
 </item>
 <item>
   <title><![CDATA[Blue Lock 1x3]]></title>
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/station-19/6x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x2</guid>
   <pubDate>Sun, 16 Oct 2022 22:05:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 3x8]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x8</guid>
-  <pubDate>Fri, 14 Oct 2022 14:09:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
