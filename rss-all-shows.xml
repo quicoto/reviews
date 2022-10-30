@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Oct 2022 18:16:59 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Oct 2022 18:39:37 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boku no Hero Academia 6x2]]></title>
+  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2</guid>
+  <pubDate>Sun, 30 Oct 2022 19:38:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x1]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-po
   <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x8</guid>
   <pubDate>Mon, 17 Oct 2022 18:17:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 19x2]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x2</guid>
-  <pubDate>Sun, 16 Oct 2022 22:48:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
