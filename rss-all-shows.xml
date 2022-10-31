@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Oct 2022 21:33:25 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 Oct 2022 21:44:32 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Big Mouth 6x2]]></title>
+  <description><![CDATA[📺 Just watched: Big Mouth 6x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/big-mouth/6x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/big-mouth/6x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/big-mouth/6x2</guid>
+  <pubDate>Mon, 31 Oct 2022 22:43:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Big Mouth 6x1]]></title>
   <description><![CDATA[📺 Just watched: Big Mouth 6x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3</guid>
   <pubDate>Sun, 23 Oct 2022 23:00:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Station 19 6x3]]></title>
-  <description><![CDATA[📺 Just watched: Station 19 6x3
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/station-19/6x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x3</guid>
-  <pubDate>Sun, 23 Oct 2022 20:39:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
