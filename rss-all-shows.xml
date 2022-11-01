@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 31 Oct 2022 21:44:32 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 01 Nov 2022 07:46:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boku no Hero Academia 6x5]]></title>
+  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5</guid>
+  <pubDate>Tue, 01 Nov 2022 08:45:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Big Mouth 6x2]]></title>
   <description><![CDATA[📺 Just watched: Big Mouth 6x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10</guid>
   <pubDate>Mon, 24 Oct 2022 16:01:10 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 19x3]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3</guid>
-  <pubDate>Sun, 23 Oct 2022 23:00:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
