@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 02 Nov 2022 21:28:06 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 03 Nov 2022 22:14:30 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x1</guid>
+  <pubDate>Thu, 03 Nov 2022 23:08:44 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Big Mouth 6x3]]></title>
   <description><![CDATA[📺 Just watched: Big Mouth 6x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x3</guid>
   <pubDate>Thu, 27 Oct 2022 15:58:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Crash Landing on You 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Crash Landing on You 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x2</guid>
-  <pubDate>Thu, 27 Oct 2022 00:05:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
