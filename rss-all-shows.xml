@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 04 Nov 2022 11:41:43 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Nov 2022 11:41:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[House 1x5]]></title>
+  <description><![CDATA[📺 Just watched: House 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/house/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/house/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house/1x5</guid>
+  <pubDate>Fri, 04 Nov 2022 12:41:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[House 1x4]]></title>
   <description><![CDATA[📺 Just watched: House 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x2</guid>
   <pubDate>Sun, 30 Oct 2022 12:48:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x1
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1</guid>
-  <pubDate>Sun, 30 Oct 2022 12:17:51 GMT</pubDate>
 </item>
 </channel>
 </rss>
