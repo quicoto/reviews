@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 04 Nov 2022 11:41:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Nov 2022 11:41:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[House 1x4]]></title>
+  <description><![CDATA[📺 Just watched: House 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/house/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/house/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house/1x4</guid>
+  <pubDate>Fri, 04 Nov 2022 12:41:03 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[House 1x3]]></title>
+  <description><![CDATA[📺 Just watched: House 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/house/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/house/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house/1x3</guid>
+  <pubDate>Fri, 04 Nov 2022 12:40:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[House 1x2]]></title>
   <description><![CDATA[📺 Just watched: House 1x2
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x1</guid>
   <pubDate>Sun, 30 Oct 2022 12:17:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 3x10]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 3x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x10</guid>
-  <pubDate>Sun, 30 Oct 2022 11:30:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Crash Landing on You 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Crash Landing on You 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x5</guid>
-  <pubDate>Sun, 30 Oct 2022 06:44:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
