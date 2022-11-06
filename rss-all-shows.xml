@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 06 Nov 2022 16:05:26 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 06 Nov 2022 20:39:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Station 19 6x5]]></title>
+  <description><![CDATA[📺 Just watched: Station 19 6x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/station-19/6x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x5</guid>
+  <pubDate>Sun, 06 Nov 2022 21:39:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x6]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x2</guid>
   <pubDate>Sun, 30 Oct 2022 19:38:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x1]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x1
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x1</guid>
-  <pubDate>Sun, 30 Oct 2022 19:16:07 GMT</pubDate>
 </item>
 </channel>
 </rss>
