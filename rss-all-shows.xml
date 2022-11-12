@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 11 Nov 2022 17:59:54 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 12 Nov 2022 18:12:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boku no Hero Academia 6x7]]></title>
+  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x7
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7</guid>
+  <pubDate>Sat, 12 Nov 2022 19:11:21 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Grey's Anatomy 19x5]]></title>
   <description><![CDATA[📺 Just watched: Grey's Anatomy 19x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x6]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x6</guid>
   <pubDate>Tue, 01 Nov 2022 22:09:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x5]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x5</guid>
-  <pubDate>Tue, 01 Nov 2022 08:45:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
