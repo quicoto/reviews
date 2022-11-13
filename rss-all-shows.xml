@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 13 Nov 2022 13:41:16 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 13 Nov 2022 15:35:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 1x10
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10</guid>
+  <pubDate>Sun, 13 Nov 2022 16:35:02 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 1x9]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/house/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/house/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house/1x3</guid>
   <pubDate>Fri, 04 Nov 2022 12:40:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[House 1x2]]></title>
-  <description><![CDATA[📺 Just watched: House 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/house/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/house/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/house/1x2</guid>
-  <pubDate>Fri, 04 Nov 2022 12:40:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
