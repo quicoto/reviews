@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 16 Nov 2022 19:29:45 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 16 Nov 2022 22:04:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 1x17]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 1x17
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/1x17]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x17</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x17</guid>
+  <pubDate>Wed, 16 Nov 2022 23:03:51 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 1x16]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 1x16
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6</guid>
   <pubDate>Sun, 06 Nov 2022 17:04:43 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x5</guid>
-  <pubDate>Sun, 06 Nov 2022 16:35:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
