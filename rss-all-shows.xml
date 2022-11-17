@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 16 Nov 2022 22:04:34 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 17 Nov 2022 22:16:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x1]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1</guid>
+  <pubDate>Thu, 17 Nov 2022 23:15:02 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 1x17]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 1x17
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/station-19/6x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x5</guid>
   <pubDate>Sun, 06 Nov 2022 21:39:15 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x6]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x6</guid>
-  <pubDate>Sun, 06 Nov 2022 17:04:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
