@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 17 Nov 2022 22:16:36 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 19 Nov 2022 16:03:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2</guid>
+  <pubDate>Sat, 19 Nov 2022 17:02:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x1]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x5</guid>
   <pubDate>Mon, 07 Nov 2022 13:07:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Station 19 6x5]]></title>
-  <description><![CDATA[📺 Just watched: Station 19 6x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/station-19/6x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x5</guid>
-  <pubDate>Sun, 06 Nov 2022 21:39:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
