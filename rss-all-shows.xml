@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 20 Nov 2022 14:47:55 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 20 Nov 2022 15:30:53 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x4]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x4</guid>
+  <pubDate>Sun, 20 Nov 2022 16:30:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x3]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x7</guid>
   <pubDate>Sat, 12 Nov 2022 19:11:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 19x5]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x5</guid>
-  <pubDate>Fri, 11 Nov 2022 18:59:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
