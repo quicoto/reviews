@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 23 Nov 2022 18:36:18 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 23 Nov 2022 21:41:32 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Peripheral 1x1]]></title>
+  <description><![CDATA[📺 Just watched: The Peripheral 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1</guid>
+  <pubDate>Wed, 23 Nov 2022 22:40:08 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Inside Job 2x2]]></title>
   <description><![CDATA[📺 Just watched: Inside Job 2x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6</guid>
   <pubDate>Sun, 13 Nov 2022 11:05:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x6</guid>
-  <pubDate>Sat, 12 Nov 2022 23:06:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
