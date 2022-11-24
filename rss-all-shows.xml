@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 24 Nov 2022 07:48:47 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Nov 2022 12:49:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x5]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x5</guid>
+  <pubDate>Thu, 24 Nov 2022 13:48:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Peripheral 1x1]]></title>
   <description><![CDATA[📺 Just watched: The Peripheral 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9</guid>
   <pubDate>Sun, 13 Nov 2022 14:40:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Grey's Anatomy 19x6]]></title>
-  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x6</guid>
-  <pubDate>Sun, 13 Nov 2022 11:05:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
