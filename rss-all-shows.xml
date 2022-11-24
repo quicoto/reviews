@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 24 Nov 2022 12:49:41 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Nov 2022 19:35:22 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Inside Job 2x3]]></title>
+  <description><![CDATA[📺 Just watched: Inside Job 2x3
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/inside-job/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/inside-job/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/inside-job/2x3</guid>
+  <pubDate>Thu, 24 Nov 2022 20:34:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x5]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x10</guid>
   <pubDate>Sun, 13 Nov 2022 16:35:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 1x9]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 1x9
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x9</guid>
-  <pubDate>Sun, 13 Nov 2022 14:40:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
