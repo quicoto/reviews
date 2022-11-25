@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 25 Nov 2022 17:57:07 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Nov 2022 18:55:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 6x7]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 6x7
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x7</guid>
+  <pubDate>Fri, 25 Nov 2022 19:54:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Peripheral 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Peripheral 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/1x13]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x13</guid>
   <pubDate>Mon, 14 Nov 2022 19:49:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 1x12
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/1x12</guid>
-  <pubDate>Sun, 13 Nov 2022 23:21:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
