@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 26 Nov 2022 21:49:12 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 27 Nov 2022 09:31:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Classroom of the Elite 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3</guid>
+  <pubDate>Sun, 27 Nov 2022 10:30:51 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x6]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x2</guid>
   <pubDate>Sat, 19 Nov 2022 17:02:28 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 2x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x1</guid>
-  <pubDate>Thu, 17 Nov 2022 23:15:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
