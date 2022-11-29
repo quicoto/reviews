@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 29 Nov 2022 12:51:04 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 29 Nov 2022 22:21:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Classroom of the Elite 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x6
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x6</guid>
+  <pubDate>Tue, 29 Nov 2022 23:20:20 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x11]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1</guid>
   <pubDate>Wed, 23 Nov 2022 22:40:08 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Inside Job 2x2]]></title>
-  <description><![CDATA[📺 Just watched: Inside Job 2x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/inside-job/2x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/inside-job/2x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/inside-job/2x2</guid>
-  <pubDate>Wed, 23 Nov 2022 19:35:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
