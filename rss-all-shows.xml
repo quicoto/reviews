@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 03 Dec 2022 21:58:03 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 03 Dec 2022 22:25:39 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Classroom of the Elite 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x9</guid>
+  <pubDate>Sat, 03 Dec 2022 23:24:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Classroom of the Elite 1x8]]></title>
   <description><![CDATA[📺 Just watched: Classroom of the Elite 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x8</guid>
   <pubDate>Sat, 26 Nov 2022 21:49:04 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x9]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x9
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9</guid>
-  <pubDate>Sat, 26 Nov 2022 19:47:25 GMT</pubDate>
 </item>
 </channel>
 </rss>
