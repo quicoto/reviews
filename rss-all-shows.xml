@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 03 Dec 2022 21:10:45 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 03 Dec 2022 21:58:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Classroom of the Elite 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x8
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x8</guid>
+  <pubDate>Sat, 03 Dec 2022 22:57:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Classroom of the Elite 1x7]]></title>
   <description><![CDATA[📺 Just watched: Classroom of the Elite 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x9</guid>
   <pubDate>Sat, 26 Nov 2022 19:47:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Classroom of the Elite 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x2</guid>
-  <pubDate>Fri, 25 Nov 2022 22:13:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
