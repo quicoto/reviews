@@ -5,13 +5,25 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 04 Dec 2022 11:06:11 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 04 Dec 2022 13:48:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x14]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x14
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x14</guid>
+  <pubDate>Sun, 04 Dec 2022 14:48:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Classroom of the Elite 1x10]]></title>
   <description><![CDATA[📺 Just watched: Classroom of the Elite 1x10
 
-Rating: ⭐️⭐️⭐️
+Rating: ⭐️⭐️
 
 Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x10]]></description>
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x3</guid>
   <pubDate>Sun, 27 Nov 2022 10:30:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 2x6]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 2x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/2x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x6</guid>
-  <pubDate>Sat, 26 Nov 2022 22:48:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
