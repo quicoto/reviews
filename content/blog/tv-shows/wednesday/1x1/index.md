@@ -1,5 +1,6 @@
 ---
 type: series
+time: 50
 title: "Wednesday 1x1"
 date: "2022-12-04T19:56:25"
 name: "Wednesday"
