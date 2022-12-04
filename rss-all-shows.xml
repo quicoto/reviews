@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 04 Dec 2022 14:45:19 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 04 Dec 2022 20:22:42 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Wednesday 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Wednesday 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/wednesday/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/wednesday/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wednesday/1x2</guid>
+  <pubDate>Sun, 04 Dec 2022 21:21:55 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Wednesday 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Wednesday 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/wednesday/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/wednesday/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wednesday/1x1</guid>
+  <pubDate>Sun, 04 Dec 2022 19:56:25 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Slow Horses 2x1]]></title>
   <description><![CDATA[📺 Just watched: Slow Horses 2x1
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x5]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x5</guid>
   <pubDate>Sun, 27 Nov 2022 18:28:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Classroom of the Elite 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x4
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x4</guid>
-  <pubDate>Sun, 27 Nov 2022 18:09:49 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 2x7]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 2x7
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/2x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x7</guid>
-  <pubDate>Sun, 27 Nov 2022 14:50:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
