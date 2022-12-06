@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 06 Dec 2022 09:16:48 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 06 Dec 2022 10:01:35 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Classroom of the Elite 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x12
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12</guid>
+  <pubDate>Tue, 06 Dec 2022 11:00:44 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Classroom of the Elite 1x11]]></title>
   <description><![CDATA[📺 Just watched: Classroom of the Elite 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/2x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x12</guid>
   <pubDate>Thu, 01 Dec 2022 23:20:08 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rick and Morty 6x8]]></title>
-  <description><![CDATA[📺 Just watched: Rick and Morty 6x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x8</guid>
-  <pubDate>Tue, 29 Nov 2022 23:21:27 GMT</pubDate>
 </item>
 </channel>
 </rss>
