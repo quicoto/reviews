@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Dec 2022 19:26:50 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Dec 2022 21:53:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2</guid>
+  <pubDate>Mon, 12 Dec 2022 22:52:32 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man 1x1]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/wednesday/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/wednesday/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wednesday/1x4</guid>
   <pubDate>Mon, 05 Dec 2022 21:57:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Inside Job 2x6]]></title>
-  <description><![CDATA[📺 Just watched: Inside Job 2x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/inside-job/2x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/inside-job/2x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/inside-job/2x6</guid>
-  <pubDate>Mon, 05 Dec 2022 21:09:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
