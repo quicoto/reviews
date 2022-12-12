@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Chainsaw Man 1x1"
 date: "2022-12-12T20:24:13"
 name: "Chainsaw Man"
