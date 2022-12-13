@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Dec 2022 22:25:53 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 13 Dec 2022 21:45:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4</guid>
+  <pubDate>Tue, 13 Dec 2022 22:45:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man 1x3]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12]]></descr
   <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x12</guid>
   <pubDate>Tue, 06 Dec 2022 11:00:44 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Classroom of the Elite 1x11]]></title>
-  <description><![CDATA[📺 Just watched: Classroom of the Elite 1x11
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x11</guid>
-  <pubDate>Tue, 06 Dec 2022 10:16:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
