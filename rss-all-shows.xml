@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 14 Dec 2022 17:22:38 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Dec 2022 22:00:52 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man 1x7
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x7</guid>
+  <pubDate>Wed, 14 Dec 2022 23:00:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man 1x6]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x3]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x3</guid>
   <pubDate>Tue, 06 Dec 2022 20:43:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Alice in Borderland 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Alice in Borderland 1x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x2</guid>
-  <pubDate>Tue, 06 Dec 2022 17:55:27 GMT</pubDate>
 </item>
 </channel>
 </rss>
