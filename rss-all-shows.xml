@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 18 Dec 2022 15:13:48 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Dec 2022 16:51:56 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Vice 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Vice 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x1</guid>
+  <pubDate>Sun, 18 Dec 2022 17:49:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x18]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x11]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x11</guid>
   <pubDate>Sat, 10 Dec 2022 19:25:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 2x16]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 2x16
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/2x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x16</guid>
-  <pubDate>Sat, 10 Dec 2022 16:10:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
