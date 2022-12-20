@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 20 Dec 2022 20:33:38 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Dec 2022 22:12:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Vice 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Vice 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x9</guid>
+  <pubDate>Tue, 20 Dec 2022 23:11:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Period 1x1]]></title>
   <description><![CDATA[📺 Just watched: Blue Period 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3</guid>
   <pubDate>Mon, 12 Dec 2022 23:25:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man 1x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x2</guid>
-  <pubDate>Mon, 12 Dec 2022 22:52:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
