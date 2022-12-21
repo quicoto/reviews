@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 20 Dec 2022 22:12:43 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Dec 2022 18:30:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jack Ryan 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x1</guid>
+  <pubDate>Wed, 21 Dec 2022 19:30:15 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Jack Ryan 3x1]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 3x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x1</guid>
+  <pubDate>Wed, 21 Dec 2022 19:29:25 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tokyo Vice 1x9]]></title>
   <description><![CDATA[📺 Just watched: Tokyo Vice 1x9
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x5</guid>
   <pubDate>Wed, 14 Dec 2022 17:51:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4</guid>
-  <pubDate>Tue, 13 Dec 2022 22:45:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man 1x3]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man 1x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3</guid>
-  <pubDate>Mon, 12 Dec 2022 23:25:07 GMT</pubDate>
 </item>
 </channel>
 </rss>
