@@ -1,4 +1,5 @@
 ---
+time: 45
 type: series
 title: "Jack Ryan 3x1"
 date: "2022-12-21T19:29:25"
