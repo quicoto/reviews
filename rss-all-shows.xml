@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 22 Dec 2022 19:55:07 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Dec 2022 19:55:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jack Ryan 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 1x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/1x8</guid>
+  <pubDate>Thu, 22 Dec 2022 20:54:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jack Ryan 1x7]]></title>
   <description><![CDATA[📺 Just watched: Jack Ryan 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x12]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x12</guid>
   <pubDate>Sat, 17 Dec 2022 22:56:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x11]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x11
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x11</guid>
-  <pubDate>Sat, 17 Dec 2022 22:27:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
