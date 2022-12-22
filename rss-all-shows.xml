@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 22 Dec 2022 19:56:18 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Dec 2022 19:56:28 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jack Ryan 2x7]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 2x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x7</guid>
+  <pubDate>Thu, 22 Dec 2022 20:55:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jack Ryan 2x6]]></title>
   <description><![CDATA[📺 Just watched: Jack Ryan 2x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x5</guid>
   <pubDate>Mon, 19 Dec 2022 22:49:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Vice 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Vice 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x4</guid>
-  <pubDate>Mon, 19 Dec 2022 21:21:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
