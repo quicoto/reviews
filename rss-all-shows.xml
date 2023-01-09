@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 08 Jan 2023 14:21:41 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 09 Jan 2023 13:13:28 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 1x12
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/1x12</guid>
+  <pubDate>Mon, 09 Jan 2023 14:12:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Staircase 1x1]]></title>
   <description><![CDATA[📺 Just watched: The Staircase 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x4</guid>
   <pubDate>Thu, 22 Dec 2022 20:55:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jack Ryan 2x3]]></title>
-  <description><![CDATA[📺 Just watched: Jack Ryan 2x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/2x3</guid>
-  <pubDate>Thu, 22 Dec 2022 20:55:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
