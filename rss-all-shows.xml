@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 10 Jan 2023 20:36:04 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 10 Jan 2023 21:29:11 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boku no Hero Academia 6x14]]></title>
+  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x14
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14</guid>
+  <pubDate>Tue, 10 Jan 2023 22:28:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Staircase 1x5]]></title>
   <description><![CDATA[📺 Just watched: The Staircase 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11</guid>
   <pubDate>Fri, 23 Dec 2022 19:39:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jack Ryan 3x2]]></title>
-  <description><![CDATA[📺 Just watched: Jack Ryan 3x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x2</guid>
-  <pubDate>Thu, 22 Dec 2022 22:42:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
