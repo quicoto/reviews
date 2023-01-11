@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 10 Jan 2023 21:29:11 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Jan 2023 14:30:14 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boston Legal 2x19]]></title>
+  <description><![CDATA[📺 Just watched: Boston Legal 2x19
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</guid>
+  <pubDate>Wed, 11 Jan 2023 15:29:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x14]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x7</guid>
   <pubDate>Fri, 23 Dec 2022 23:01:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man 1x11]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man 1x11
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x11</guid>
-  <pubDate>Fri, 23 Dec 2022 19:39:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
