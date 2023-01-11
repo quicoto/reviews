@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 11 Jan 2023 21:05:50 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Jan 2023 21:43:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bocchi the Rock! 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2</guid>
+  <pubDate>Wed, 11 Jan 2023 22:42:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bocchi the Rock! 1x1]]></title>
   <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x8</guid>
   <pubDate>Tue, 27 Dec 2022 23:07:46 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man 1x12
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x12</guid>
-  <pubDate>Tue, 27 Dec 2022 20:53:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
