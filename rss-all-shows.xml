@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 11 Jan 2023 16:37:24 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Jan 2023 17:10:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 2x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x2</guid>
+  <pubDate>Wed, 11 Jan 2023 18:09:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tsurune 2x1]]></title>
   <description><![CDATA[📺 Just watched: Tsurune 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x12</guid>
   <pubDate>Sat, 24 Dec 2022 23:02:58 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x13]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x13
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x13</guid>
-  <pubDate>Sat, 24 Dec 2022 18:18:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
