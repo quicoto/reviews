@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 12 Jan 2023 20:18:56 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 12 Jan 2023 21:08:01 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bocchi the Rock! 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5</guid>
+  <pubDate>Thu, 12 Jan 2023 22:07:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bocchi the Rock! 1x4]]></title>
   <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x5</guid>
   <pubDate>Thu, 05 Jan 2023 23:27:59 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jack Ryan 3x4]]></title>
-  <description><![CDATA[📺 Just watched: Jack Ryan 3x4
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x4</guid>
-  <pubDate>Thu, 05 Jan 2023 22:41:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
