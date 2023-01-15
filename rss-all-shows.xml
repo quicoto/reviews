@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 14 Jan 2023 16:28:23 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Jan 2023 12:19:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x14]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x14
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x14</guid>
+  <pubDate>Sun, 15 Jan 2023 13:18:16 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boston Legal 2x21]]></title>
   <description><![CDATA[📺 Just watched: Boston Legal 2x21
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13</guid>
   <pubDate>Mon, 09 Jan 2023 18:22:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 1x12
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/1x12</guid>
-  <pubDate>Mon, 09 Jan 2023 14:12:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
