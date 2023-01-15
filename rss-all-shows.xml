@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Jan 2023 20:56:27 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Jan 2023 22:12:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Psycho-Pass 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Psycho-Pass 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x1</guid>
+  <pubDate>Sun, 15 Jan 2023 23:09:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bocchi the Rock! 1x12]]></title>
   <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x12
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</guid>
   <pubDate>Wed, 11 Jan 2023 15:29:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x14]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x14
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x14</guid>
-  <pubDate>Tue, 10 Jan 2023 22:28:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
