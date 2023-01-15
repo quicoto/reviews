@@ -1,6 +1,7 @@
 ---
 type: series
 title: "Psycho-Pass 1x1"
+time: 25
 date: "2023-01-15T23:09:55"
 name: "Psycho-Pass"
 season: 1
