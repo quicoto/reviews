@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Jan 2023 12:19:20 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Jan 2023 19:14:26 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Boku no Hero Academia 6x15]]></title>
+  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x15
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x15]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x15</guid>
+  <pubDate>Sun, 15 Jan 2023 20:13:40 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock 1x14]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock 1x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-staircase/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-staircase/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-staircase/1x2</guid>
   <pubDate>Tue, 10 Jan 2023 21:27:58 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x13
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13</guid>
-  <pubDate>Mon, 09 Jan 2023 18:22:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
