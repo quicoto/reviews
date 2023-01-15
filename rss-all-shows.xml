@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Jan 2023 19:36:25 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Jan 2023 20:11:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bocchi the Rock! 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x10
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x10</guid>
+  <pubDate>Sun, 15 Jan 2023 21:10:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bocchi the Rock! 1x9]]></title>
   <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-staircase/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-staircase/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-staircase/1x4</guid>
   <pubDate>Tue, 10 Jan 2023 21:28:42 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Staircase 1x3]]></title>
-  <description><![CDATA[📺 Just watched: The Staircase 1x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-staircase/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-staircase/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-staircase/1x3</guid>
-  <pubDate>Tue, 10 Jan 2023 21:28:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
