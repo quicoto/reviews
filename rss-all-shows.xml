@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 16 Jan 2023 18:31:45 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 16 Jan 2023 21:20:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Last of Us 1x1]]></title>
+  <description><![CDATA[📺 Just watched: The Last of Us 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x1</guid>
+  <pubDate>Mon, 16 Jan 2023 22:19:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Psycho-Pass 1x2]]></title>
   <description><![CDATA[📺 Just watched: Psycho-Pass 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tsurune/2x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x2</guid>
   <pubDate>Wed, 11 Jan 2023 18:09:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 2x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x1</guid>
-  <pubDate>Wed, 11 Jan 2023 17:36:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
