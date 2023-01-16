@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Jan 2023 22:12:19 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 16 Jan 2023 18:31:45 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Psycho-Pass 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Psycho-Pass 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x2</guid>
+  <pubDate>Mon, 16 Jan 2023 19:30:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Psycho-Pass 1x1]]></title>
   <description><![CDATA[📺 Just watched: Psycho-Pass 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tsurune/2x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x1</guid>
   <pubDate>Wed, 11 Jan 2023 17:36:39 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boston Legal 2x19]]></title>
-  <description><![CDATA[📺 Just watched: Boston Legal 2x19
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boston-legal/2x19</guid>
-  <pubDate>Wed, 11 Jan 2023 15:29:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
