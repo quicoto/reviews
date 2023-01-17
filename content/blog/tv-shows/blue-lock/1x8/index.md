@@ -10,4 +10,4 @@ ratingEmoji: ⭐️⭐️
 share: false
 ---
 
-*[No review was written for this episode]*
+_[No review was written for this episode]_
