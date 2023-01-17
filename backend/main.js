@@ -28,9 +28,9 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   const movies = await fs.promises.readdir(`${Paths.content.movies}`);
   const allMovies = [];
 
-  movies.forEach((movie) => {
+  for (let index = 0, len = movies.length; index < len; index += 1) {
     let movieFrontMatter = '';
-    const movieContent = utils.readFile(`${Paths.content.movies}/${movie}/index.md`);
+    const movieContent = utils.readFile(`${Paths.content.movies}/${movies[index]}/index.md`);
 
     const md = new MarkdownIt()
       .use(frontMatterPlugin, (frontMatter) => {
@@ -54,7 +54,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     }
 
     utils.createFile('index.html', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
-  });
+  }
 
   /*
     *******************
@@ -83,9 +83,9 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       episodes: [],
     };
 
-    episodes.forEach((episode) => {
+    for (let index = 0, len = episodes.length; index < len; index += 1) {
       let episodeFrontMatter = '';
-      const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episode}/index.md`);
+      const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episodes[index]}/index.md`);
 
       const md = new MarkdownIt()
         .use(frontMatterPlugin, (frontMatter) => {
@@ -105,7 +105,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
 
       const showFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`;
-      const episodeFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episode}`;
+      const episodeFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episodes[index]}`;
 
       if (!fs.existsSync(showFolder)) {
         fs.mkdirSync(showFolder);
@@ -116,7 +116,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       }
 
       utils.createFile('index.html', episodeFolder, episodeHTML);
-    });
+    }
 
     allShows.push(currentShow);
   }
@@ -140,12 +140,13 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   let showsMinutesWatched = 0;
   const moviesMinutesWatched = (allMovies.length * 120);
 
-  allShows.forEach((show) => {
-    const showTime = +show.episodes.find((episode) => episode.frontmatter.time).frontmatter.time;
-    const totalTime = showTime * show.episodes.length;
+  for (let index = 0, len = allShows.length; index < len; index += 1) {
+    const showTime = +allShows[index].episodes
+      .find((episode) => episode.frontmatter.time).frontmatter.time;
+    const totalTime = showTime * allShows[index].episodes.length;
 
     showsMinutesWatched += totalTime;
-  });
+  }
 
   const latestMovies = allMovies.sort(utils.sortByDate).slice(0, 6);
   const latestShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
