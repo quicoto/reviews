@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 17 Jan 2023 21:58:09 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 18 Jan 2023 22:00:45 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 2x3]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 2x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x3</guid>
+  <pubDate>Wed, 18 Jan 2023 22:59:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Psycho-Pass 1x4]]></title>
   <description><![CDATA[📺 Just watched: Psycho-Pass 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x3</guid>
   <pubDate>Thu, 12 Jan 2023 20:30:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bocchi the Rock! 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x2</guid>
-  <pubDate>Wed, 11 Jan 2023 22:42:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
