@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 22 Jan 2023 19:03:19 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 22 Jan 2023 19:03:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x4</guid>
+  <pubDate>Sun, 22 Jan 2023 20:02:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x3]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x7</guid>
   <pubDate>Fri, 13 Jan 2023 19:33:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bocchi the Rock! 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x6</guid>
-  <pubDate>Fri, 13 Jan 2023 19:08:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
