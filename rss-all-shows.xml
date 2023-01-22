@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 22 Jan 2023 17:39:19 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 22 Jan 2023 18:04:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x15]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x15
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15</guid>
+  <pubDate>Sun, 22 Jan 2023 19:03:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x16]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x16
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5</guid>
   <pubDate>Thu, 12 Jan 2023 22:07:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bocchi the Rock! 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Bocchi the Rock! 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x4</guid>
-  <pubDate>Thu, 12 Jan 2023 21:18:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
