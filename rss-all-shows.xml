@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 22 Jan 2023 19:08:48 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 23 Jan 2023 21:37:44 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Last of Us 1x2]]></title>
+  <description><![CDATA[📺 Just watched: The Last of Us 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x2</guid>
+  <pubDate>Mon, 23 Jan 2023 22:37:02 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x4]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x4
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x9</guid>
-  <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gokushufudou 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Gokushufudou 2x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x1</guid>
   <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
