@@ -13,11 +13,13 @@ fs.readdir(Paths.content.images, (err, files) => {
     // eslint-disable-next-line no-console
     if (!process.env.NODE_ENV) console.log('\nCurrent directory filenames:');
 
-    files.forEach((file) => {
+    for (let index = 0, len = files.length; index < len; index += 1) {
+      const file = files[index];
+
       fs.copyFileSync(`${Paths.content.images}/${file}`, `${Paths.output.images}/${file}`);
 
       // eslint-disable-next-line no-console
       if (!process.env.NODE_ENV) console.log(`Copying: ${file}`);
-    });
+    }
   }
 });

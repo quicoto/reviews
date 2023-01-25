@@ -50,7 +50,7 @@ ratingEmoji: "${'⭐️'.repeat(rating)}"
 share: false
 ---
 
-*[No review was written for this episode]*`;
+_[No review was written for this episode]_`;
 
     const showFolder = `${Paths.content.tvshows}/${slugify(showName)}`;
     const episodeFolder = `${Paths.content.tvshows}/${slugify(showName)}/${season}x${episode}`;

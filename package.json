@@ -31,8 +31,8 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jest": "^27.2.1",
     "husky": "^8.0.3",
-    "jest": "^29.3.1",
-    "prettier": "2.7.1"
+    "jest": "^29.4.0",
+    "prettier": "^2.8.3"
   },
   "homepage": "https://quicoto.github.io/reviews/",
   "license": "MIT",
