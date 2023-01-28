@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 28 Jan 2023 19:09:12 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 28 Jan 2023 22:00:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x16]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x16
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x16]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x16</guid>
+  <pubDate>Sat, 28 Jan 2023 22:59:34 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x17]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x17
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x6</guid>
-  <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gokushufudou 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Gokushufudou 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x7</guid>
   <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
