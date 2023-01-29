@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 29 Jan 2023 11:47:36 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 29 Jan 2023 12:00:32 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Gokushufudou 2x3]]></title>
+  <description><![CDATA[📺 Just watched: Gokushufudou 2x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x3</guid>
+  <pubDate>Sun, 29 Jan 2023 12:59:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Gokushufudou 2x2]]></title>
   <description><![CDATA[📺 Just watched: Gokushufudou 2x2
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x4</guid>
-  <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gokushufudou 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Gokushufudou 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/1x5</guid>
   <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
