@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 31 Jan 2023 22:26:35 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 31 Jan 2023 22:26:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Physical: 100 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Physical: 100 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/physical-100/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x4</guid>
+  <pubDate>Tue, 31 Jan 2023 23:25:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Physical: 100 1x3]]></title>
   <description><![CDATA[📺 Just watched: Physical: 100 1x3
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/black-clover/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x5</guid>
-  <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x6</guid>
   <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
