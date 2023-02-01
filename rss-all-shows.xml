@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 31 Jan 2023 22:28:01 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Feb 2023 16:33:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 2x5]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 2x5
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/2x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</guid>
+  <pubDate>Wed, 01 Feb 2023 17:32:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Physical: 100 1x4]]></title>
   <description><![CDATA[📺 Just watched: Physical: 100 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x16]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x16</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x16</guid>
   <pubDate>Sun, 22 Jan 2023 18:38:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x5</guid>
-  <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
