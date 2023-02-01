@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 01 Feb 2023 21:21:59 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Feb 2023 21:22:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jaku-Chara Tomozaki-kun 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Jaku-Chara Tomozaki-kun 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x4</guid>
+  <pubDate>Wed, 01 Feb 2023 22:21:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jaku-Chara Tomozaki-kun 1x5]]></title>
   <description><![CDATA[📺 Just watched: Jaku-Chara Tomozaki-kun 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x3</guid>
   <pubDate>Sun, 22 Jan 2023 20:02:37 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x15]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x15
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x15</guid>
-  <pubDate>Sun, 22 Jan 2023 19:03:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
