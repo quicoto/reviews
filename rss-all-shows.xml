@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Feb 2023 17:33:36 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Feb 2023 18:02:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Love All Play 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Love All Play 1x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/love-all-play/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x8</guid>
+  <pubDate>Mon, 06 Feb 2023 19:02:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Love All Play 1x7]]></title>
   <description><![CDATA[📺 Just watched: Love All Play 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tsurune/2x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</guid>
   <pubDate>Wed, 01 Feb 2023 17:32:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Physical: 100 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Physical: 100 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/physical-100/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x4</guid>
-  <pubDate>Tue, 31 Jan 2023 23:25:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
