@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Feb 2023 18:02:59 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Feb 2023 21:07:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Last of Us 1x4]]></title>
+  <description><![CDATA[📺 Just watched: The Last of Us 1x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x4</guid>
+  <pubDate>Mon, 06 Feb 2023 22:06:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Love All Play 1x8]]></title>
   <description><![CDATA[📺 Just watched: Love All Play 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x5]]></descr
   <link>https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x5</guid>
   <pubDate>Wed, 01 Feb 2023 22:21:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 2x5]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 2x5
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/2x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x5</guid>
-  <pubDate>Wed, 01 Feb 2023 17:32:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
