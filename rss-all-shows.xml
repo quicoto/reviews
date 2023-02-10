@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 10 Feb 2023 19:42:58 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 10 Feb 2023 21:00:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Love All Play 1x15]]></title>
+  <description><![CDATA[📺 Just watched: Love All Play 1x15
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15</guid>
+  <pubDate>Fri, 10 Feb 2023 21:59:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Gokushufudou 2x5]]></title>
   <description><![CDATA[📺 Just watched: Gokushufudou 2x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x1</guid>
   <pubDate>Sun, 05 Feb 2023 19:36:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jaku-Chara Tomozaki-kun 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Jaku-Chara Tomozaki-kun 1x12
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x12</guid>
-  <pubDate>Sun, 05 Feb 2023 13:26:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
