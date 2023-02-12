@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 11 Feb 2023 19:26:04 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 12 Feb 2023 11:21:17 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x18]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x18
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x18]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x18</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x18</guid>
+  <pubDate>Sun, 12 Feb 2023 12:20:30 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Last of Us 1x5]]></title>
   <description><![CDATA[📺 Just watched: The Last of Us 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x3</guid>
   <pubDate>Sun, 05 Feb 2023 22:42:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x2</guid>
-  <pubDate>Sun, 05 Feb 2023 20:11:30 GMT</pubDate>
 </item>
 </channel>
 </rss>
