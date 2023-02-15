@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 15 Feb 2023 19:02:27 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 15 Feb 2023 19:26:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 2x7]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 2x7
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/2x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x7</guid>
+  <pubDate>Wed, 15 Feb 2023 20:25:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Physical: 100 1x7]]></title>
   <description><![CDATA[📺 Just watched: Physical: 100 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x12</guid>
   <pubDate>Tue, 07 Feb 2023 22:53:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x11]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x11
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x11</guid>
-  <pubDate>Tue, 07 Feb 2023 22:29:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
