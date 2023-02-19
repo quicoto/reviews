@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 19 Feb 2023 17:39:27 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 19 Feb 2023 18:13:35 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x19
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</guid>
+  <pubDate>Sun, 19 Feb 2023 19:12:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 6x20]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x20
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/south-park/26x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/south-park/26x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/26x1</guid>
   <pubDate>Fri, 10 Feb 2023 18:46:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x13
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x13</guid>
-  <pubDate>Wed, 08 Feb 2023 22:01:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
