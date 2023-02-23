@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 22 Feb 2023 18:05:46 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 23 Feb 2023 21:06:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Love All Play 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Love All Play 1x19
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19</guid>
+  <pubDate>Thu, 23 Feb 2023 22:05:16 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tsurune 2x8]]></title>
   <description><![CDATA[📺 Just watched: Tsurune 2x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15</guid>
   <pubDate>Fri, 10 Feb 2023 21:59:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gokushufudou 2x5]]></title>
-  <description><![CDATA[📺 Just watched: Gokushufudou 2x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gokushufudou/2x5</guid>
-  <pubDate>Fri, 10 Feb 2023 20:42:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
