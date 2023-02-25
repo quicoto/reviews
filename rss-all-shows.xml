@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 24 Feb 2023 22:10:48 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 25 Feb 2023 20:52:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Grey's Anatomy 19x7]]></title>
+  <description><![CDATA[📺 Just watched: Grey's Anatomy 19x7
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7</guid>
+  <pubDate>Sat, 25 Feb 2023 21:51:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Station 19 6x7]]></title>
   <description><![CDATA[📺 Just watched: Station 19 6x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19</guid>
   <pubDate>Sun, 12 Feb 2023 17:51:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Physical: 100 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Physical: 100 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/physical-100/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x5</guid>
-  <pubDate>Sun, 12 Feb 2023 16:06:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
