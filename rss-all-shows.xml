@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 25 Feb 2023 20:52:02 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 26 Feb 2023 09:55:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x20]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x20
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20</guid>
+  <pubDate>Sun, 26 Feb 2023 10:55:06 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Grey's Anatomy 19x7]]></title>
   <description><![CDATA[📺 Just watched: Grey's Anatomy 19x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x14]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x14</guid>
   <pubDate>Sun, 12 Feb 2023 18:26:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x19]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x19
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x19</guid>
-  <pubDate>Sun, 12 Feb 2023 17:51:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
