@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 27 Feb 2023 17:21:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Mar 2023 16:20:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Saturday Night Live 48x13]]></title>
+  <description><![CDATA[📺 Just watched: Saturday Night Live 48x13
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x13]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x13</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x13</guid>
+  <pubDate>Wed, 01 Mar 2023 17:19:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Last of Us 1x7]]></title>
   <description><![CDATA[📺 Just watched: The Last of Us 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x17]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x17</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x17</guid>
   <pubDate>Mon, 13 Feb 2023 18:05:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x16]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x16
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x16</guid>
-  <pubDate>Sun, 12 Feb 2023 19:07:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
