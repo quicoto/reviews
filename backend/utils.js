@@ -84,3 +84,22 @@ export function createURL(itemData, withDomain = false) {
 
   return url;
 }
+
+export function averageRating(episodes) {
+  // eslint-disable-next-line max-len
+  const totalRating = episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0);
+
+  return roundHalf(
+    +Number.parseFloat(totalRating / episodes.length).toFixed(1),
+  );
+}
+
+export function sortByRatingAndEpisodes(show1, show2) {
+  if (show1.averageRating < show2.averageRating) return 1;
+  if (show1.averageRating > show2.averageRating) return -1;
+
+  if (show1.episodes.length < show2.episodes.length) return 1;
+  if (show1.episodes.length > show2.episodes.length) return -1;
+
+  return 0;
+}

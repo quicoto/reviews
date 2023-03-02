@@ -235,3 +235,12 @@ time {
     // color: $secondary;
   }
 }
+
+.topRatedTVShows {
+  list-style-type: auto;
+  padding-left: 2rem;
+
+  li {
+   margin-bottom: 1rem;
+  }
+}

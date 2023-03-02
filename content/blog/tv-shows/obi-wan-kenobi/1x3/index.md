@@ -5,8 +5,8 @@ date: "2022-06-02T22:36:28"
 name: "Obi-Wan Kenobi"
 season: 1
 episode: 3
-rating: 5
-ratingEmoji: ⭐️⭐️⭐️⭐️⭐️
+rating: 4
+ratingEmoji: ⭐️⭐️⭐️⭐️
 share: false
 ---
 

@@ -1,13 +1,13 @@
 ---
 time: 50
 type: series
-title: "Obi-Wan Kenobi 1x2"
+title: "Obi-Wan Kenobi 1x1"
 date: "2022-05-28T00:00:00"
 name: "Obi-Wan Kenobi"
 season: 1
-episode: 2
-rating: 3
-ratingEmoji: "⭐️⭐️⭐️"
+episode: 1
+rating: 5
+ratingEmoji: "⭐️⭐️⭐️⭐️⭐️"
 share: true
 ---
 

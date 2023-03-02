@@ -3,6 +3,12 @@ import slugify from '@sindresorhus/slugify';
 import * as utils from './utils.js';
 import Paths from './paths.js';
 
+function _createShowAnchor(showName) {
+  return utils.createAbsoluteURL(
+    `tv-shows#${slugify(showName)}`,
+  );
+}
+
 function _rating(rating) {
   const starFull = 'assets/star.svg';
   const starEmpty = 'assets/star-empty.svg';
@@ -56,9 +62,7 @@ export function single(config) {
   let backLink = '';
 
   if (type === 'series') {
-    const url = utils.createAbsoluteURL(
-      `tv-shows#${slugify(name)}`,
-    );
+    const url = _createShowAnchor(name);
     backLink = `<a href="${url}" title="More reviews for ${name}">More reviews for ${name}</a>`;
   }
 
@@ -109,11 +113,7 @@ function _showsItem(show) {
     </li>`,
   ).join('\n');
 
-  // eslint-disable-next-line max-len
-  const totalRating = episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0);
-  const averageRating = utils.roundHalf(
-    +Number.parseFloat(totalRating / episodes.length).toFixed(1),
-  );
+  const averageRating = utils.averageRating(episodes);
   const anchor = slugify(show.episodes[0].frontmatter.name);
 
   return `
@@ -160,32 +160,31 @@ function _card(itemData) {
 /**
  * @param {object} conifg
  * @param  {array} config.latestShows
- * @param  {array} config.latestMovies
  * @param {number} config.minnutesWatched
  * @param {number} config.uniqueMovies
  * @param {number} config.uniqueTVShows
+ * @param {array} config.topRatedTVShows
  * @return {string}
  */
 export function homepage(config) {
   const {
     latestShows,
-    latestMovies,
     minutesWatched,
     uniqueMovies,
     uniqueTVShows,
+    topRatedTVShows,
   } = config;
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const html = utils.readFile(Paths.template.homepage);
   const showsList = latestShows.map(_card).join('\n');
-  const moviesList = latestMovies.map(_card).join('\n');
   const formatTimeWatched = new Intl.NumberFormat('en-US').format(Math.round(minutesWatched / 60));
 
   return html
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${showsList}</ul>`)
-    .replaceAll('%LATEST_MOVIES%', `<ul class="cards">${moviesList}</ul>`)
+    .replaceAll('%TOP_RATED%', `<ol class="topRatedTVShows">${topRatedTVShows}</ol>`)
     .replaceAll('%MINUTESWATCHED%', formatTimeWatched)
     .replaceAll('%UNIQUEMOVIES%', uniqueMovies)
     .replaceAll('%UNIQUETVSHOWS%', uniqueTVShows)
@@ -217,4 +216,21 @@ export function rss() {
   const buildDate = utils.formatRSSDate();
 
   return xml.replaceAll('%BUILDDATE%', buildDate);
+}
+
+/**
+ * @param  {object} show
+ * @param  {string} show.name
+ * @param  {string} show.averageRating
+ * @param {array} show.episodes
+ * @return {string}
+ */
+export function topRatedTVShow(show) {
+  const prettyName = show.episodes[0].frontmatter.name;
+
+  return `<li>
+    <h4>
+      <a title="${prettyName}" href="${_createShowAnchor(show.name)}">${prettyName}</a>
+    </h4>
+  </li>`;
 }
