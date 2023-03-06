@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Mar 2023 21:00:29 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Mar 2023 22:03:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Last of Us 1x8]]></title>
+  <description><![CDATA[📺 Just watched: The Last of Us 1x8
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</guid>
+  <pubDate>Mon, 06 Mar 2023 23:02:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Saturday Night Live 48x14]]></title>
   <description><![CDATA[📺 Just watched: Saturday Night Live 48x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tsurune/2x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x7</guid>
   <pubDate>Wed, 15 Feb 2023 20:25:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Physical: 100 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Physical: 100 1x7
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/physical-100/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x7</guid>
-  <pubDate>Wed, 15 Feb 2023 20:01:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
