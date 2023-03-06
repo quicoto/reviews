@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Mar 2023 17:08:49 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Mar 2023 21:00:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Saturday Night Live 48x14]]></title>
+  <description><![CDATA[📺 Just watched: Saturday Night Live 48x14
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14</guid>
+  <pubDate>Mon, 06 Mar 2023 21:59:33 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock 1x21]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock 1x21
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/physical-100/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x7</guid>
   <pubDate>Wed, 15 Feb 2023 20:01:44 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Physical: 100 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Physical: 100 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/physical-100/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/physical-100/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/physical-100/1x6</guid>
-  <pubDate>Wed, 15 Feb 2023 18:02:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
