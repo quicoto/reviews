@@ -5,8 +5,8 @@ date: "2023-03-06T17:33:56"
 name: "Boku no Hero Academia"
 season: 6
 episode: 22
-rating: 4
-ratingEmoji: ⭐️⭐️⭐️⭐️
+rating: 3
+ratingEmoji: ⭐️⭐️⭐️
 share: false
 ---
 
