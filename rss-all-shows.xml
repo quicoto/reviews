@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 07 Mar 2023 21:44:42 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 07 Mar 2023 22:09:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Love All Play 1x22]]></title>
+  <description><![CDATA[📺 Just watched: Love All Play 1x22
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/love-all-play/1x22]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x22</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x22</guid>
+  <pubDate>Tue, 07 Mar 2023 23:08:06 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Love All Play 1x21]]></title>
   <description><![CDATA[📺 Just watched: Love All Play 1x21
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20</guid>
   <pubDate>Sun, 19 Feb 2023 18:38:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x18]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x18
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x18]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x18</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x18</guid>
-  <pubDate>Thu, 16 Feb 2023 22:34:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
