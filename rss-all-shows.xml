@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 07 Mar 2023 22:09:08 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Mar 2023 17:03:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tsurune 2x10]]></title>
+  <description><![CDATA[📺 Just watched: Tsurune 2x10
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tsurune/2x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x10</guid>
+  <pubDate>Wed, 08 Mar 2023 18:02:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Love All Play 1x22]]></title>
   <description><![CDATA[📺 Just watched: Love All Play 1x22
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</guid>
   <pubDate>Sun, 19 Feb 2023 19:12:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 6x20]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 6x20
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x20</guid>
-  <pubDate>Sun, 19 Feb 2023 18:38:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
