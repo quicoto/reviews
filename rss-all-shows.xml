@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 08 Mar 2023 19:35:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Mar 2023 21:26:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Love All Play 1x23]]></title>
+  <description><![CDATA[📺 Just watched: Love All Play 1x23
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23</guid>
+  <pubDate>Wed, 08 Mar 2023 22:25:08 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[South Park 26x2]]></title>
   <description><![CDATA[📺 Just watched: South Park 26x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x19</guid>
   <pubDate>Thu, 23 Feb 2023 22:05:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 2x8]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 2x8
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/2x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x8</guid>
-  <pubDate>Wed, 22 Feb 2023 19:04:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
