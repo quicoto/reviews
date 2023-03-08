@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 08 Mar 2023 17:03:51 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Mar 2023 17:55:06 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Malcolm in the Middle 3x2]]></title>
+  <description><![CDATA[📺 Just watched: Malcolm in the Middle 3x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</guid>
+  <pubDate>Wed, 08 Mar 2023 18:54:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tsurune 2x10]]></title>
   <description><![CDATA[📺 Just watched: Tsurune 2x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x6</guid>
   <pubDate>Mon, 20 Feb 2023 18:37:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x19]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x19
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19</guid>
-  <pubDate>Sun, 19 Feb 2023 19:12:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
