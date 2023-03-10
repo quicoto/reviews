@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 10 Mar 2023 20:59:02 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 10 Mar 2023 21:37:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bungou Stray Dogs 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x3</guid>
+  <pubDate>Fri, 10 Mar 2023 22:37:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Capture 1x1]]></title>
   <description><![CDATA[📺 Just watched: The Capture 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7</guid>
   <pubDate>Sat, 25 Feb 2023 21:51:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Station 19 6x7]]></title>
-  <description><![CDATA[📺 Just watched: Station 19 6x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/station-19/6x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/station-19/6x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/station-19/6x7</guid>
-  <pubDate>Fri, 24 Feb 2023 23:10:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
