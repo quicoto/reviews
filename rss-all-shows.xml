@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 11 Mar 2023 14:36:39 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 11 Mar 2023 17:07:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Capture 1x3]]></title>
+  <description><![CDATA[📺 Just watched: The Capture 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-capture/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/1x3</guid>
+  <pubDate>Sat, 11 Mar 2023 18:06:40 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bungou Stray Dogs 1x4]]></title>
   <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x7</guid>
   <pubDate>Mon, 27 Feb 2023 18:20:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock 1x20]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock 1x20
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20</guid>
-  <pubDate>Sun, 26 Feb 2023 10:55:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
