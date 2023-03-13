@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 13 Mar 2023 20:40:21 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 13 Mar 2023 20:45:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Last of Us 1x9]]></title>
+  <description><![CDATA[📺 Just watched: The Last of Us 1x9
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9</guid>
+  <pubDate>Mon, 13 Mar 2023 21:44:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Capture 1x4]]></title>
   <description><![CDATA[📺 Just watched: The Capture 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</guid>
   <pubDate>Mon, 06 Mar 2023 23:02:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Saturday Night Live 48x14]]></title>
-  <description><![CDATA[📺 Just watched: Saturday Night Live 48x14
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/saturday-night-live/48x14</guid>
-  <pubDate>Mon, 06 Mar 2023 21:59:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
