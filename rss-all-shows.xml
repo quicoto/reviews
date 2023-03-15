@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 13 Mar 2023 20:45:18 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 15 Mar 2023 16:55:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Capture 1x5]]></title>
+  <description><![CDATA[📺 Just watched: The Capture 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-capture/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/1x5</guid>
+  <pubDate>Wed, 15 Mar 2023 17:54:31 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Last of Us 1x9]]></title>
   <description><![CDATA[📺 Just watched: The Last of Us 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/love-all-play/1x21]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x21</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x21</guid>
   <pubDate>Tue, 07 Mar 2023 22:43:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Last of Us 1x8]]></title>
-  <description><![CDATA[📺 Just watched: The Last of Us 1x8
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x8</guid>
-  <pubDate>Mon, 06 Mar 2023 23:02:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
