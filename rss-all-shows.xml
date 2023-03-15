@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 15 Mar 2023 20:51:25 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 15 Mar 2023 22:11:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Mandalorian 3x3]]></title>
+  <description><![CDATA[📺 Just watched: The Mandalorian 3x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3</guid>
+  <pubDate>Wed, 15 Mar 2023 23:10:59 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tsurune 2x11]]></title>
   <description><![CDATA[📺 Just watched: Tsurune 2x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</guid>
   <pubDate>Wed, 08 Mar 2023 18:54:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 2x10]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 2x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/2x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x10</guid>
-  <pubDate>Wed, 08 Mar 2023 18:02:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
