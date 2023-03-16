@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 15 Mar 2023 22:11:58 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 16 Mar 2023 20:52:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bungou Stray Dogs 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</guid>
+  <pubDate>Thu, 16 Mar 2023 21:51:54 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Mandalorian 3x3]]></title>
   <description><![CDATA[📺 Just watched: The Mandalorian 3x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/south-park/26x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/south-park/26x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/26x2</guid>
   <pubDate>Wed, 08 Mar 2023 20:32:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Malcolm in the Middle 3x2]]></title>
-  <description><![CDATA[📺 Just watched: Malcolm in the Middle 3x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/3x2</guid>
-  <pubDate>Wed, 08 Mar 2023 18:54:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
