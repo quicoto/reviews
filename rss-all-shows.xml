@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 17 Mar 2023 16:45:03 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 18 Mar 2023 07:15:49 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x12
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x12</guid>
+  <pubDate>Sat, 18 Mar 2023 08:14:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x11]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x1]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x1</guid>
   <pubDate>Fri, 10 Mar 2023 18:50:30 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Love All Play 1x23]]></title>
-  <description><![CDATA[📺 Just watched: Love All Play 1x23
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23</guid>
-  <pubDate>Wed, 08 Mar 2023 22:25:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
