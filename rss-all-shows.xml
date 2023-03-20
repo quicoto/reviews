@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 20 Mar 2023 20:09:01 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 20 Mar 2023 20:29:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bungou Stray Dogs 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9</guid>
+  <pubDate>Mon, 20 Mar 2023 21:28:29 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bungou Stray Dogs 1x8]]></title>
   <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-capture/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-capture/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/1x4</guid>
   <pubDate>Mon, 13 Mar 2023 21:39:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bungou Stray Dogs 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x6</guid>
-  <pubDate>Mon, 13 Mar 2023 13:45:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
