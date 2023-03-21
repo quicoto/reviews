@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 21 Mar 2023 21:45:08 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 21 Mar 2023 22:03:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x19
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x19</guid>
+  <pubDate>Tue, 21 Mar 2023 23:02:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x18]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x11]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x11</guid>
   <pubDate>Fri, 17 Mar 2023 17:44:11 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bungou Stray Dogs 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</guid>
-  <pubDate>Thu, 16 Mar 2023 21:51:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
