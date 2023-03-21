@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 20 Mar 2023 20:50:42 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 21 Mar 2023 13:44:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x14]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x14
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x14</guid>
+  <pubDate>Tue, 21 Mar 2023 14:43:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bungou Stray Dogs 1x10]]></title>
   <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-capture/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-capture/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/1x5</guid>
   <pubDate>Wed, 15 Mar 2023 17:54:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Last of Us 1x9]]></title>
-  <description><![CDATA[📺 Just watched: The Last of Us 1x9
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9</guid>
-  <pubDate>Mon, 13 Mar 2023 21:44:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
