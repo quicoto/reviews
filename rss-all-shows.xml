@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 21 Mar 2023 20:45:02 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 21 Mar 2023 21:02:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x17]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x17
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x17]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x17</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x17</guid>
+  <pubDate>Tue, 21 Mar 2023 22:01:04 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x15]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x15
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tsurune/2x11]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x11</guid>
   <pubDate>Wed, 15 Mar 2023 21:50:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Capture 1x6]]></title>
-  <description><![CDATA[📺 Just watched: The Capture 1x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-capture/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/1x6</guid>
-  <pubDate>Wed, 15 Mar 2023 18:56:47 GMT</pubDate>
 </item>
 </channel>
 </rss>
