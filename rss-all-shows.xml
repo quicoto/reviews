@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 21 Mar 2023 21:27:35 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 21 Mar 2023 21:45:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x18]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x18
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x18]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x18</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x18</guid>
+  <pubDate>Tue, 21 Mar 2023 22:44:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x16]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x16
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7</guid>
   <pubDate>Thu, 16 Mar 2023 21:51:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Mandalorian 3x3]]></title>
-  <description><![CDATA[📺 Just watched: The Mandalorian 3x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3</guid>
-  <pubDate>Wed, 15 Mar 2023 23:10:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
