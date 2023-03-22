@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 22 Mar 2023 21:34:37 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 Mar 2023 21:52:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x22]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x22
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x22]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x22</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x22</guid>
+  <pubDate>Wed, 22 Mar 2023 22:51:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x21]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x21
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x24]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x24</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x24</guid>
   <pubDate>Sun, 19 Mar 2023 12:47:11 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Capture 2x3]]></title>
-  <description><![CDATA[📺 Just watched: The Capture 2x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-capture/2x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/2x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/2x3</guid>
-  <pubDate>Sat, 18 Mar 2023 23:57:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
