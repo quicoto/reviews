@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 26 Mar 2023 15:25:38 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 26 Mar 2023 16:38:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock 1x24]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock 1x24
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-lock/1x24]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-lock/1x24</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-lock/1x24</guid>
+  <pubDate>Sun, 26 Mar 2023 18:38:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Waco: American Apocalypse 1x1]]></title>
   <description><![CDATA[📺 Just watched: Waco: American Apocalypse 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-capture/2x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-capture/2x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/2x5</guid>
   <pubDate>Sun, 19 Mar 2023 23:36:50 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Capture 2x4]]></title>
-  <description><![CDATA[📺 Just watched: The Capture 2x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-capture/2x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/2x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/2x4</guid>
-  <pubDate>Sun, 19 Mar 2023 22:12:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
