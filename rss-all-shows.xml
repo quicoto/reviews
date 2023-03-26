@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 26 Mar 2023 20:56:54 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 26 Mar 2023 21:34:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Agent 1x3]]></title>
+  <description><![CDATA[📺 Just watched: The Night Agent 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x3</guid>
+  <pubDate>Sun, 26 Mar 2023 23:33:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Night Agent 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Night Agent 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x9</guid>
   <pubDate>Mon, 20 Mar 2023 21:28:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bungou Stray Dogs 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Bungou Stray Dogs 1x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8</guid>
-  <pubDate>Mon, 20 Mar 2023 21:08:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
