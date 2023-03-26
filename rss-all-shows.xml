@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 26 Mar 2023 19:39:29 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 26 Mar 2023 20:56:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Agent 1x2]]></title>
+  <description><![CDATA[📺 Just watched: The Night Agent 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x2</guid>
+  <pubDate>Sun, 26 Mar 2023 22:55:59 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Waco: American Apocalypse 1x3]]></title>
   <description><![CDATA[📺 Just watched: Waco: American Apocalypse 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x8</guid>
   <pubDate>Mon, 20 Mar 2023 21:08:08 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Capture 2x6]]></title>
-  <description><![CDATA[📺 Just watched: The Capture 2x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-capture/2x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-capture/2x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-capture/2x6</guid>
-  <pubDate>Mon, 20 Mar 2023 19:25:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
