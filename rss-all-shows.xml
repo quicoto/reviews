@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 27 Mar 2023 16:55:18 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 27 Mar 2023 18:33:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x25]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x25
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x25]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x25</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x25</guid>
+  <pubDate>Mon, 27 Mar 2023 20:32:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x24]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x24
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x15]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x15</guid>
   <pubDate>Tue, 21 Mar 2023 21:44:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x14]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x14
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x14</guid>
-  <pubDate>Tue, 21 Mar 2023 14:43:07 GMT</pubDate>
 </item>
 </channel>
 </rss>
