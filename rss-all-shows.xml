@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 28 Mar 2023 20:49:25 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 28 Mar 2023 21:09:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x30]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x30
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x30]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x30</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x30</guid>
+  <pubDate>Tue, 28 Mar 2023 23:08:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x29]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x29
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x4</guid>
   <pubDate>Wed, 22 Mar 2023 19:32:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tsurune 2x12]]></title>
-  <description><![CDATA[📺 Just watched: Tsurune 2x12
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tsurune/2x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tsurune/2x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tsurune/2x12</guid>
-  <pubDate>Wed, 22 Mar 2023 18:44:17 GMT</pubDate>
 </item>
 </channel>
 </rss>
