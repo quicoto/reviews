@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 29 Mar 2023 18:12:42 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 29 Mar 2023 20:37:50 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x32]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x32
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x32]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x32</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x32</guid>
+  <pubDate>Wed, 29 Mar 2023 22:36:59 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x31]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x31
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1</guid>
   <pubDate>Sat, 25 Mar 2023 22:53:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x22]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x22
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x22]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x22</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x22</guid>
-  <pubDate>Wed, 22 Mar 2023 22:51:17 GMT</pubDate>
 </item>
 </channel>
 </rss>
