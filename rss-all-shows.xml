@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 29 Mar 2023 20:37:50 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 30 Mar 2023 20:40:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x33]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x33
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x33]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x33</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x33</guid>
+  <pubDate>Thu, 30 Mar 2023 22:39:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x32]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x32
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x1]]></desc
   <link>https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x1</guid>
   <pubDate>Sun, 26 Mar 2023 17:24:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Night Agent 1x1]]></title>
-  <description><![CDATA[📺 Just watched: The Night Agent 1x1
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x1</guid>
-  <pubDate>Sat, 25 Mar 2023 22:53:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
