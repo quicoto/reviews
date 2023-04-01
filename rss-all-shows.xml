@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 31 Mar 2023 20:49:23 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 01 Apr 2023 06:35:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x35]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x35
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x35]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x35</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x35</guid>
+  <pubDate>Sat, 01 Apr 2023 08:34:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Mandalorian 3x6]]></title>
   <description><![CDATA[📺 Just watched: The Mandalorian 3x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x3]]></desc
   <link>https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x3</guid>
   <pubDate>Sun, 26 Mar 2023 21:37:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Waco: American Apocalypse 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Waco: American Apocalypse 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/waco-american-apocalypse/1x2</guid>
-  <pubDate>Sun, 26 Mar 2023 21:37:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
