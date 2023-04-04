@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 04 Apr 2023 13:11:50 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 04 Apr 2023 13:37:40 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kaguya-sama wa Kokurasetai 4x2]]></title>
+  <description><![CDATA[📺 Just watched: Kaguya-sama wa Kokurasetai 4x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2</guid>
+  <pubDate>Tue, 04 Apr 2023 22:36:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kaguya-sama wa Kokurasetai 4x1]]></title>
   <description><![CDATA[📺 Just watched: Kaguya-sama wa Kokurasetai 4x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x24]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x24</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x24</guid>
   <pubDate>Mon, 27 Mar 2023 18:54:30 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x23]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x23
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x23]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x23</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x23</guid>
-  <pubDate>Mon, 27 Mar 2023 18:30:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
