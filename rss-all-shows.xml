@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 06 Apr 2023 14:20:21 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 06 Apr 2023 14:28:40 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cool Doji Danshi 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x5</guid>
+  <pubDate>Thu, 06 Apr 2023 23:27:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cool Doji Danshi 1x4]]></title>
   <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x7</guid>
   <pubDate>Wed, 29 Mar 2023 19:44:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Night Agent 1x5]]></title>
-  <description><![CDATA[📺 Just watched: The Night Agent 1x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x5</guid>
-  <pubDate>Wed, 29 Mar 2023 18:56:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
