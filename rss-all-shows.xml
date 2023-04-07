@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 07 Apr 2023 11:05:16 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 07 Apr 2023 11:21:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cool Doji Danshi 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x8</guid>
+  <pubDate>Fri, 07 Apr 2023 20:20:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cool Doji Danshi 1x7]]></title>
   <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x33]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x33</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x33</guid>
   <pubDate>Thu, 30 Mar 2023 22:39:17 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x32]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x32
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x32]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x32</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x32</guid>
-  <pubDate>Wed, 29 Mar 2023 22:36:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
