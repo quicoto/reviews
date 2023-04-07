@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 07 Apr 2023 12:28:37 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 07 Apr 2023 13:06:17 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bleach 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Bleach 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bleach/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bleach/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bleach/1x2</guid>
+  <pubDate>Fri, 07 Apr 2023 22:05:32 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Cool Doji Danshi 1x11]]></title>
   <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x35]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x35</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x35</guid>
   <pubDate>Sat, 01 Apr 2023 08:34:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Mandalorian 3x6]]></title>
-  <description><![CDATA[📺 Just watched: The Mandalorian 3x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x6</guid>
-  <pubDate>Fri, 31 Mar 2023 22:48:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
