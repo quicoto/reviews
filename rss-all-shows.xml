@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 07 Apr 2023 13:48:52 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 07 Apr 2023 14:01:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Cool Doji Danshi 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Cool Doji Danshi 1x12
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12</guid>
+  <pubDate>Fri, 07 Apr 2023 23:00:54 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bleach 1x3]]></title>
   <description><![CDATA[📺 Just watched: Bleach 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2]]></de
   <link>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2</guid>
   <pubDate>Tue, 04 Apr 2023 22:36:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kaguya-sama wa Kokurasetai 4x1]]></title>
-  <description><![CDATA[📺 Just watched: Kaguya-sama wa Kokurasetai 4x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x1</guid>
-  <pubDate>Tue, 04 Apr 2023 22:10:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
