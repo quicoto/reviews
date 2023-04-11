@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 11 Apr 2023 04:11:49 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 11 Apr 2023 04:56:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tomo-chan wa Onnanoko! 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Tomo-chan wa Onnanoko! 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1</guid>
+  <pubDate>Tue, 11 Apr 2023 13:54:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bleach 1x7]]></title>
   <description><![CDATA[📺 Just watched: Bleach 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12</guid>
   <pubDate>Fri, 07 Apr 2023 23:00:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bleach 1x3]]></title>
-  <description><![CDATA[📺 Just watched: Bleach 1x3
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bleach/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bleach/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bleach/1x3</guid>
-  <pubDate>Fri, 07 Apr 2023 22:47:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
