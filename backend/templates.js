@@ -3,6 +3,8 @@ import slugify from '@sindresorhus/slugify';
 import * as utils from './utils.js';
 import Paths from './paths.js';
 
+const mangaImageSuffix = '-manga';
+
 function _createShowAnchor(showName) {
   return utils.createAbsoluteURL(
     `tv-shows#${slugify(showName)}`,
@@ -54,7 +56,13 @@ export function single(config) {
     name,
     rating,
   } = frontmatter;
-  const image = utils.createAbsoluteURL(`covers/${slugify(name)}.jpg`);
+  let imageName = slugify(name);
+
+  if (type === 'manga') {
+    imageName += mangaImageSuffix;
+  }
+
+  const image = utils.createAbsoluteURL(`covers/${imageName}.jpg`);
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const singleTemplate = utils.readFile(Paths.template.single);
@@ -139,7 +147,13 @@ export function allShows(list) {
 }
 
 function _card(itemData) {
-  const imageSrc = utils.createAbsoluteURL(`covers/${slugify(itemData.frontmatter.name)}.jpg`);
+  let imageName = slugify(itemData.frontmatter.name);
+
+  if (itemData.frontmatter.type === 'manga') {
+    imageName += mangaImageSuffix;
+  }
+
+  const imageSrc = utils.createAbsoluteURL(`covers/${imageName}.jpg`);
 
   return `
   <li class="card">
@@ -157,37 +171,75 @@ function _card(itemData) {
   </li>`;
 }
 
+function _mangaItem(show) {
+  const volumes = utils.sortEpisodes(show.volumes);
+  const volumeList = volumes.map(
+    (episode) => `<li>
+      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.volume}">${episode.frontmatter.volume}</a>
+    </li>`,
+  ).join('\n');
+
+  const averageRating = utils.averageRating(volumes);
+  const anchor = slugify(show.volumes[0].frontmatter.name);
+
+  return `
+  <li>
+    <h3 id="${anchor}"><a href="#${anchor}" class="show-anchor">#</a> ${show.volumes[0].frontmatter.name}</h3>
+    <div class="rating">${_rating(averageRating).join('\n')}</div>
+    <ul class="episode-list">${volumeList}</ul>
+  </li>
+`;
+}
+
+export function allManga(list) {
+  const header = utils.readFile(Paths.template.header);
+  const footer = utils.readFile(Paths.template.footer);
+  const html = utils.readFile(Paths.template.list);
+  const content = list.map(_mangaItem).join('\n');
+
+  return html
+    .replaceAll('%HEADER%', header)
+    .replaceAll('%FOOTER%', footer)
+    .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
+    .replaceAll('%TITLE%', 'All Manga Reviews');
+}
+
 /**
  * @param {object} conifg
  * @param  {array} config.latestShows
+ * @param  {array} config.latestManga
  * @param {number} config.minnutesWatched
  * @param {number} config.uniqueMovies
  * @param {number} config.uniqueTVShows
+ * @param {number} config.volumesRead
  * @param {array} config.topRatedTVShows
  * @return {string}
  */
 export function homepage(config) {
   const {
     latestShows,
+    latestManga,
     minutesWatched,
     uniqueMovies,
     uniqueTVShows,
     topRatedTVShows,
+    volumesRead,
   } = config;
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
   const html = utils.readFile(Paths.template.homepage);
-  const showsList = latestShows.map(_card).join('\n');
   const formatTimeWatched = new Intl.NumberFormat('en-US').format(Math.round(minutesWatched / 60));
 
   return html
     .replaceAll('%HEADER%', header)
     .replaceAll('%FOOTER%', footer)
-    .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${showsList}</ul>`)
+    .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${latestShows.map(_card).join('\n')}</ul>`)
+    .replaceAll('%LATEST_MANGA%', `<ul class="cards">${latestManga.map(_card).join('\n')}</ul>`)
     .replaceAll('%TOP_RATED%', `<ol class="topRatedTVShows">${topRatedTVShows}</ol>`)
     .replaceAll('%MINUTESWATCHED%', formatTimeWatched)
     .replaceAll('%UNIQUEMOVIES%', uniqueMovies)
     .replaceAll('%UNIQUETVSHOWS%', uniqueTVShows)
+    .replaceAll('%VOLUMESREAD%', volumesRead)
     .replaceAll('%TITLE%', 'Home');
 }
 

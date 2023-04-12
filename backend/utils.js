@@ -80,6 +80,11 @@ export function createURL(itemData, withDomain = false) {
       `tv-shows/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.season}x${itemData.frontmatter.episode}`,
       withDomain,
     );
+  } else if (itemData.frontmatter.type === 'manga') {
+    url = createAbsoluteURL(
+      `manga/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.volume}`,
+      withDomain,
+    );
   }
 
   return url;

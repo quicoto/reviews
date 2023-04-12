@@ -11,6 +11,7 @@ import Paths from './paths.js';
 // Create the requried folders
 if (!fs.existsSync(Paths.output.folder)) fs.mkdirSync(Paths.output.folder);
 if (!fs.existsSync(Paths.output.movies)) fs.mkdirSync(Paths.output.movies);
+if (!fs.existsSync(Paths.output.manga)) fs.mkdirSync(Paths.output.manga);
 if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
 if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
@@ -65,6 +66,73 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     'index.html',
     Paths.output.movies,
     templates.allMovies(allMovies),
+  );
+
+  /*
+    *******************
+    Manga
+    *******************
+  */
+  const manga = await fs.promises.readdir(`${Paths.content.manga}`);
+  const allManga = [];
+  const allVolumes = [];
+
+  for (const show of manga) {
+    const volumes = await fs.promises.readdir(`${Paths.content.manga}/${show}`);
+    const currentShow = {
+      name: show,
+      volumes: [],
+    };
+
+    for (let index = 0, len = volumes.length; index < len; index += 1) {
+      let volumeFrontMatter = '';
+      const volumeContent = utils.readFile(`${Paths.content.manga}/${show}/${volumes[index]}/index.md`);
+
+      const md = new MarkdownIt()
+        .use(frontMatterPlugin, (frontMatter) => {
+          volumeFrontMatter = frontMatter;
+        });
+      const html = md.render(volumeContent);
+      const volumeData = {
+        content: html,
+        frontmatter: volumeFrontMatter,
+      };
+      const volumeHTML = templates.single(volumeData);
+
+      allVolumes.push(volumeData);
+      currentShow.volumes.push(volumeData);
+
+      // eslint-disable-next-line no-console
+      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${volumeFrontMatter.title}`);
+
+      const showFolder = `${Paths.output.manga}/${slugify(volumeFrontMatter.name)}`;
+      const volumesFolder = `${Paths.output.manga}/${slugify(volumeFrontMatter.name)}/${volumes[index]}`;
+
+      if (!fs.existsSync(showFolder)) {
+        fs.mkdirSync(showFolder);
+      }
+
+      if (!fs.existsSync(volumesFolder)) {
+        fs.mkdirSync(volumesFolder);
+      }
+
+      utils.createFile('index.html', volumesFolder, volumeHTML);
+    }
+
+    currentShow.averageRating = utils.averageRating(currentShow.volumes);
+
+    allManga.push(currentShow);
+  }
+
+  /*
+    *******************
+    All Manga
+    *******************
+  */
+  utils.createFile(
+    'index.html',
+    Paths.output.manga,
+    templates.allManga(allManga),
   );
 
   /*
@@ -157,12 +225,15 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     .join('');
 
   const latestShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
+  const latestManga = allVolumes.sort(utils.sortByDate).slice(0, 6);
   const homepageHTML = templates.homepage({
     latestShows,
+    latestManga,
     minutesWatched: moviesMinutesWatched + showsMinutesWatched,
     uniqueMovies: allMovies.length,
     uniqueTVShows: allShows.length,
     topRatedTVShows,
+    volumesRead: allVolumes.length,
   });
 
   utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
@@ -176,6 +247,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
   const last20Movies = allMovies.sort(utils.sortByDate).slice(0, 20);
   const last20Episodes = allEpisodes.sort(utils.sortByDate).slice(0, 20);
+  const last20Volumes = allVolumes.sort(utils.sortByDate).slice(0, 20);
 
   const last20All = allEpisodes.concat(allMovies)
     .filter((item) => item.frontmatter.share === 'true')
@@ -184,6 +256,10 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   const rssTVShows = template.replace(
     '%ITEMS%',
     last20Episodes.map(templates.rssItem).join('\n'),
+  );
+  const rssManga = template.replace(
+    '%ITEMS%',
+    last20Volumes.map(templates.rssItem).join('\n'),
   );
   const rssMovies = template.replace(
     '%ITEMS%',
@@ -196,6 +272,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
   utils.createFile('rss-all-shows.xml', Paths.output.rss.tvshows, rssTVShows);
   utils.createFile('rss-all-movies.xml', Paths.output.rss.movies, rssMovies);
+  utils.createFile('rss-all-manga.xml', Paths.output.rss.manga, rssManga);
   utils.createFile('rss.xml', Paths.output.rss.all, rssAll);
 
   const t1 = performance.now();

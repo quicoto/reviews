@@ -20,6 +20,7 @@ export default {
     assets: `${root}/content/assets`,
     blog: `${root}/content/blog`,
     images: `${root}/content/covers`,
+    manga: `${root}/content/blog/manga`,
     movies: `${root}/content/blog/movies`,
     tvshows: `${root}/content/blog/tv-shows`,
   },
@@ -27,12 +28,14 @@ export default {
     rss: {
       all: dist,
       tvshows: dist,
+      manga: dist,
       movies: dist,
     },
     folder: dist,
     assets: `${dist}/assets`,
     images: `${dist}/covers`,
     movies: `${dist}/movies`,
+    manga: `${dist}/manga`,
     tvshows: `${dist}/tv-shows`,
   },
 };
