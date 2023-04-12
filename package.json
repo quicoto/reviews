@@ -1,7 +1,7 @@
 {
   "name": "ricard-torres-reviews",
   "private": true,
-  "description": "TV Shows and Movies reviews",
+  "description": "TV Shows, Manga and Movies reviews",
   "version": "3.0.1",
   "author": "Ricard Torres <torres.rick@gmail.com>",
   "type": "module",
@@ -23,16 +23,16 @@
     "@sindresorhus/slugify": "2.1.0",
     "markdown-it": "^13.0.1",
     "npm-run-all": "^4.1.5",
-    "sass": "^1.57.1"
+    "sass": "^1.62.0"
   },
   "devDependencies": {
-    "eslint": "^8.32.0",
+    "eslint": "^8.38.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jest": "^27.2.1",
     "husky": "^8.0.3",
-    "jest": "^29.4.0",
-    "prettier": "^2.8.3"
+    "jest": "^29.5.0",
+    "prettier": "^2.8.7"
   },
   "homepage": "https://quicoto.github.io/reviews/",
   "license": "MIT",
