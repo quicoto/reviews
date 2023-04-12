@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title><![CDATA[Ricard Torres Reviews]]></title>
+      <description><![CDATA[My TV Shows reviews]]></description>
+      <link>https://quicoto.github.io/reviews</link>
+      <generator>NodeJS</generator>
+      <lastBuildDate>Wed, 12 Apr 2023 12:17:59 GMT</lastBuildDate>
+
+      <item>
+  <title><![CDATA[Chainsaw Man 1]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man 1
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/chainsaw-man/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/1</guid>
+  <pubDate>Wed, 12 Apr 2023 20:37:11 GMT</pubDate>
+</item>
+</channel>
+</rss>
