@@ -5,7 +5,7 @@ date: "2023-04-12T20:37:11"
 name: "Chainsaw Man"
 volume: 8
 rating: 4
-ratingEmoji: ⭐️⭐️⭐️⭐⭐
+ratingEmoji: ⭐️⭐️⭐️⭐
 share: false
 ---
 
