@@ -1,6 +1,6 @@
 ---
 type: manga
-title: "Tenmaku Cinema x"
+title: "Tenmaku Cinema"
 date: "2023-04-13T21:14:28"
 name: "Tenmaku Cinema"
 volume: 1
