@@ -1,0 +1,12 @@
+---
+type: manga
+title: "Chainsaw Man"
+date: "2023-04-16T08:49:48"
+name: "Chainsaw Man"
+volume: 16
+rating: 3
+ratingEmoji: ⭐️⭐️⭐️
+share: false
+---
+
+*[No review was written for this volume]*
