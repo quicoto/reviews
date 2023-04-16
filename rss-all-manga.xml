@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 16 Apr 2023 00:55:11 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 16 Apr 2023 00:58:06 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/chainsaw-man/26]]></description>
+  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/26</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/26</guid>
+  <pubDate>Sun, 16 Apr 2023 09:57:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/84]]>
   <link>https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/84</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/84</guid>
   <pubDate>Sat, 15 Apr 2023 16:08:28 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Yamada-kun to Lv999 no Koi wo Suru]]></title>
-  <description><![CDATA[📺 Just watched: Yamada-kun to Lv999 no Koi wo Suru
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/83]]></description>
-  <link>https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/83</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/yamada-kun-to-lv999-no-koi-wo-suru/83</guid>
-  <pubDate>Sat, 15 Apr 2023 16:06:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
