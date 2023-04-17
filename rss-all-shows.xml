@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 17 Apr 2023 12:06:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 17 Apr 2023 13:27:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bleach 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Bleach 1x10
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bleach/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bleach/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bleach/1x10</guid>
+  <pubDate>Mon, 17 Apr 2023 22:26:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tomo-chan wa Onnanoko! 1x12]]></title>
   <description><![CDATA[📺 Just watched: Tomo-chan wa Onnanoko! 1x12
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bleach/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/bleach/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bleach/1x8</guid>
   <pubDate>Tue, 11 Apr 2023 20:55:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tomo-chan wa Onnanoko! 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Tomo-chan wa Onnanoko! 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x1</guid>
-  <pubDate>Tue, 11 Apr 2023 13:54:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
