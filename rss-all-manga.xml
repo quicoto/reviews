@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 18 Apr 2023 00:17:27 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 18 Apr 2023 00:28:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/chainsaw-man/48]]></description>
+  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/48</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/48</guid>
+  <pubDate>Tue, 18 Apr 2023 09:27:19 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Chainsaw Man]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/chainsaw-man/47]]></description>
+  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/47</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/47</guid>
+  <pubDate>Tue, 18 Apr 2023 09:23:26 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/chainsaw-man/28]]></description>
   <link>https://quicoto.github.io/reviews/manga/chainsaw-man/28</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/28</guid>
   <pubDate>Mon, 17 Apr 2023 14:13:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/chainsaw-man/27]]></description>
-  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/27</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/27</guid>
-  <pubDate>Mon, 17 Apr 2023 14:11:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tenmaku Cinema]]></title>
-  <description><![CDATA[📺 Just watched: Tenmaku Cinema
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tenmaku-cinema/2]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tenmaku-cinema/2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tenmaku-cinema/2</guid>
-  <pubDate>Mon, 17 Apr 2023 09:18:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
