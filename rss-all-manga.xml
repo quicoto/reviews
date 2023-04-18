@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 18 Apr 2023 23:17:09 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 18 Apr 2023 23:20:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Chainsaw Man]]></title>
+  <description><![CDATA[📺 Just watched: Chainsaw Man
+
+Rating: ⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/chainsaw-man/86]]></description>
+  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/86</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/86</guid>
+  <pubDate>Wed, 19 Apr 2023 08:19:51 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Chainsaw Man]]></title>
   <description><![CDATA[📺 Just watched: Chainsaw Man
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/chainsaw-man/67]]></description>
   <link>https://quicoto.github.io/reviews/manga/chainsaw-man/67</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/67</guid>
   <pubDate>Tue, 18 Apr 2023 14:43:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Chainsaw Man]]></title>
-  <description><![CDATA[📺 Just watched: Chainsaw Man
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/chainsaw-man/66]]></description>
-  <link>https://quicoto.github.io/reviews/manga/chainsaw-man/66</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/chainsaw-man/66</guid>
-  <pubDate>Tue, 18 Apr 2023 14:40:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
