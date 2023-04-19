@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 19 Apr 2023 10:37:30 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Apr 2023 10:59:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi 1x4
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x4</guid>
+  <pubDate>Wed, 19 Apr 2023 19:58:59 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi 1x3]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x6]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x6</guid>
   <pubDate>Thu, 13 Apr 2023 22:42:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tomo-chan wa Onnanoko! 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Tomo-chan wa Onnanoko! 1x5
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x5</guid>
-  <pubDate>Thu, 13 Apr 2023 22:17:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
