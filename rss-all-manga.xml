@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 20 Apr 2023 02:32:19 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 20 Apr 2023 03:54:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Uchuu Kyoudai]]></title>
+  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/uchuu-kyoudai/48]]></description>
+  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/48</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/48</guid>
+  <pubDate>Thu, 20 Apr 2023 12:53:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Uchuu Kyoudai]]></title>
   <description><![CDATA[📺 Just watched: Uchuu Kyoudai
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/uchuu-kyoudai/29]]></description>
   <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/29</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/29</guid>
   <pubDate>Thu, 20 Apr 2023 09:37:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/28]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/28</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/28</guid>
-  <pubDate>Thu, 20 Apr 2023 09:31:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
