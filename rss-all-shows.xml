@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 21 Apr 2023 00:15:21 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 21 Apr 2023 00:39:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi 1x15]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi 1x15
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x15]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x15</guid>
+  <pubDate>Fri, 21 Apr 2023 09:38:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 1x1]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x1]]><
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x1</guid>
   <pubDate>Mon, 17 Apr 2023 23:24:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bleach 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Bleach 1x10
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bleach/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bleach/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bleach/1x10</guid>
-  <pubDate>Mon, 17 Apr 2023 22:26:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
