@@ -5,8 +5,8 @@ date: "2023-03-31T22:48:34"
 name: "The Mandalorian"
 season: 3
 episode: 6
-rating: 4
-ratingEmoji: ⭐️⭐️⭐️⭐️
+rating: 5
+ratingEmoji: ⭐️⭐️⭐️⭐️⭐️
 share: false
 ---
 
