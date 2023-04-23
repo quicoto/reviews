@@ -172,7 +172,7 @@ function _card(itemData) {
 }
 
 function _mangaItem(show) {
-  const volumes = utils.sortEpisodes(show.volumes);
+  const volumes = utils.sortVolumes(show.volumes);
   const volumeList = volumes.map(
     (episode) => `<li>
       <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.volume}">${episode.frontmatter.volume}</a>

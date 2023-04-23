@@ -33,6 +33,15 @@ export function sortEpisodes(list) {
   });
 }
 
+export function sortVolumes(list) {
+  return list.sort((manga1, manga2) => {
+    if (+manga1.frontmatter.volume < +manga2.frontmatter.volume) return -1;
+    if (+manga1.frontmatter.volume > +manga2.frontmatter.volume) return 1;
+
+    return 0;
+  });
+}
+
 export function sortByDate(show1, show2) {
   const date1 = new Date(show1.frontmatter.date);
   const date2 = new Date(show2.frontmatter.date);
