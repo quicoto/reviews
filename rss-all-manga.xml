@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 23 Apr 2023 15:54:44 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Apr 2023 16:08:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tenmaku Cinema]]></title>
+  <description><![CDATA[📺 Just watched: Tenmaku Cinema
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/tenmaku-cinema/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/tenmaku-cinema/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tenmaku-cinema/3</guid>
+  <pubDate>Sun, 23 Apr 2023 18:07:29 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kill Blue]]></title>
   <description><![CDATA[📺 Just watched: Kill Blue
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/uchuu-kyoudai/57]]></description>
   <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/57</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/57</guid>
   <pubDate>Sat, 22 Apr 2023 08:44:10 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/56]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/56</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/56</guid>
-  <pubDate>Sat, 22 Apr 2023 08:41:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
