@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 24 Apr 2023 05:05:21 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 24 Apr 2023 05:39:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kimetsu no Yaiba 4x3]]></title>
+  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3</guid>
+  <pubDate>Mon, 24 Apr 2023 07:38:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 1x5]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9</guid>
   <pubDate>Thu, 20 Apr 2023 16:44:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Oshi no Ko 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Oshi no Ko 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x2</guid>
-  <pubDate>Thu, 20 Apr 2023 16:04:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
