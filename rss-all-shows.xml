@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 24 Apr 2023 05:39:54 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 24 Apr 2023 16:22:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Mandalorian 3x8]]></title>
+  <description><![CDATA[📺 Just watched: The Mandalorian 3x8
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8</guid>
+  <pubDate>Mon, 24 Apr 2023 18:21:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kimetsu no Yaiba 4x3]]></title>
   <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x10</guid>
   <pubDate>Thu, 20 Apr 2023 17:11:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi 1x9]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi 1x9
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x9</guid>
-  <pubDate>Thu, 20 Apr 2023 16:44:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
