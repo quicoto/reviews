@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 25 Apr 2023 19:44:37 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 25 Apr 2023 20:10:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi 1x20]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi 1x20
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20</guid>
+  <pubDate>Tue, 25 Apr 2023 22:09:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi 1x19]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi 1x19
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x14]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x14</guid>
   <pubDate>Thu, 20 Apr 2023 22:52:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi 1x13
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x13</guid>
-  <pubDate>Thu, 20 Apr 2023 22:29:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
