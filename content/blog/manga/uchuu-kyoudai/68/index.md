@@ -3,10 +3,10 @@ type: manga
 title: "Uchuu Kyoudai"
 date: "2023-04-22T10:44:32"
 name: "Uchuu Kyoudai"
-volume: 68
+chapter: 68
 rating: 3
 ratingEmoji: ⭐️⭐️⭐️
 share: false
 ---
 
-*[No review was written for this volume]*
+*[No review was written for this chapter]*

@@ -172,21 +172,21 @@ function _card(itemData) {
 }
 
 function _mangaItem(show) {
-  const volumes = utils.sortVolumes(show.volumes);
-  const volumeList = volumes.map(
+  const chapters = utils.sortchapters(show.chapters);
+  const chapterList = chapters.map(
     (episode) => `<li>
-      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.volume}">${episode.frontmatter.volume}</a>
+      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.chapter}">${episode.frontmatter.chapter}</a>
     </li>`,
   ).join('\n');
 
-  const averageRating = utils.averageRating(volumes);
-  const anchor = slugify(show.volumes[0].frontmatter.name);
+  const averageRating = utils.averageRating(chapters);
+  const anchor = slugify(show.chapters[0].frontmatter.name);
 
   return `
   <li>
-    <h3 id="${anchor}"><a href="#${anchor}" class="show-anchor">#</a> ${show.volumes[0].frontmatter.name}</h3>
+    <h3 id="${anchor}"><a href="#${anchor}" class="show-anchor">#</a> ${show.chapters[0].frontmatter.name}</h3>
     <div class="rating">${_rating(averageRating).join('\n')}</div>
-    <ul class="episode-list">${volumeList}</ul>
+    <ul class="episode-list">${chapterList}</ul>
   </li>
 `;
 }
@@ -211,7 +211,7 @@ export function allManga(list) {
  * @param {number} config.minnutesWatched
  * @param {number} config.uniqueMovies
  * @param {number} config.uniqueTVShows
- * @param {number} config.volumesRead
+ * @param {number} config.chaptersRead
  * @param {array} config.topRatedTVShows
  * @return {string}
  */
@@ -223,7 +223,7 @@ export function homepage(config) {
     uniqueMovies,
     uniqueTVShows,
     topRatedTVShows,
-    volumesRead,
+    chaptersRead,
   } = config;
   const header = utils.readFile(Paths.template.header);
   const footer = utils.readFile(Paths.template.footer);
@@ -239,7 +239,7 @@ export function homepage(config) {
     .replaceAll('%MINUTESWATCHED%', formatTimeWatched)
     .replaceAll('%UNIQUEMOVIES%', uniqueMovies)
     .replaceAll('%UNIQUETVSHOWS%', uniqueTVShows)
-    .replaceAll('%VOLUMESREAD%', volumesRead)
+    .replaceAll('%chaptersREAD%', chaptersRead)
     .replaceAll('%TITLE%', 'Home');
 }
 

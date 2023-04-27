@@ -75,51 +75,51 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   */
   const manga = await fs.promises.readdir(`${Paths.content.manga}`);
   const allManga = [];
-  const allVolumes = [];
+  const allchapters = [];
 
   for (const show of manga) {
-    const volumes = await fs.promises.readdir(`${Paths.content.manga}/${show}`);
+    const chapters = await fs.promises.readdir(`${Paths.content.manga}/${show}`);
     const currentShow = {
       name: show,
-      volumes: [],
+      chapters: [],
     };
 
-    for (let index = 0, len = volumes.length; index < len; index += 1) {
-      let volumeFrontMatter = '';
-      const volumeContent = utils.readFile(`${Paths.content.manga}/${show}/${volumes[index]}/index.md`);
+    for (let index = 0, len = chapters.length; index < len; index += 1) {
+      let chapterFrontMatter = '';
+      const chapterContent = utils.readFile(`${Paths.content.manga}/${show}/${chapters[index]}/index.md`);
 
       const md = new MarkdownIt()
         .use(frontMatterPlugin, (frontMatter) => {
-          volumeFrontMatter = frontMatter;
+          chapterFrontMatter = frontMatter;
         });
-      const html = md.render(volumeContent);
-      const volumeData = {
+      const html = md.render(chapterContent);
+      const chapterData = {
         content: html,
-        frontmatter: volumeFrontMatter,
+        frontmatter: chapterFrontMatter,
       };
-      const volumeHTML = templates.single(volumeData);
+      const chapterHTML = templates.single(chapterData);
 
-      allVolumes.push(volumeData);
-      currentShow.volumes.push(volumeData);
+      allchapters.push(chapterData);
+      currentShow.chapters.push(chapterData);
 
       // eslint-disable-next-line no-console
-      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${volumeFrontMatter.title}`);
+      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${chapterFrontMatter.title}`);
 
-      const showFolder = `${Paths.output.manga}/${slugify(volumeFrontMatter.name)}`;
-      const volumesFolder = `${Paths.output.manga}/${slugify(volumeFrontMatter.name)}/${volumes[index]}`;
+      const showFolder = `${Paths.output.manga}/${slugify(chapterFrontMatter.name)}`;
+      const chaptersFolder = `${Paths.output.manga}/${slugify(chapterFrontMatter.name)}/${chapters[index]}`;
 
       if (!fs.existsSync(showFolder)) {
         fs.mkdirSync(showFolder);
       }
 
-      if (!fs.existsSync(volumesFolder)) {
-        fs.mkdirSync(volumesFolder);
+      if (!fs.existsSync(chaptersFolder)) {
+        fs.mkdirSync(chaptersFolder);
       }
 
-      utils.createFile('index.html', volumesFolder, volumeHTML);
+      utils.createFile('index.html', chaptersFolder, chapterHTML);
     }
 
-    currentShow.averageRating = utils.averageRating(currentShow.volumes);
+    currentShow.averageRating = utils.averageRating(currentShow.chapters);
 
     allManga.push(currentShow);
   }
@@ -225,7 +225,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     .join('');
 
   const latestShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
-  const latestManga = allVolumes.sort(utils.sortByDate).slice(0, 6);
+  const latestManga = allchapters.sort(utils.sortByDate).slice(0, 6);
   const homepageHTML = templates.homepage({
     latestShows,
     latestManga,
@@ -233,7 +233,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     uniqueMovies: allMovies.length,
     uniqueTVShows: allShows.length,
     topRatedTVShows,
-    volumesRead: allVolumes.length,
+    chaptersRead: allchapters.length,
   });
 
   utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
@@ -247,7 +247,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
   const last20Movies = allMovies.sort(utils.sortByDate).slice(0, 20);
   const last20Episodes = allEpisodes.sort(utils.sortByDate).slice(0, 20);
-  const last20Volumes = allVolumes.sort(utils.sortByDate).slice(0, 20);
+  const last20chapters = allchapters.sort(utils.sortByDate).slice(0, 20);
 
   const last20All = allEpisodes.concat(allMovies)
     .filter((item) => item.frontmatter.share === 'true')
@@ -259,7 +259,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   );
   const rssManga = template.replace(
     '%ITEMS%',
-    last20Volumes.map(templates.rssItem).join('\n'),
+    last20chapters.map(templates.rssItem).join('\n'),
   );
   const rssMovies = template.replace(
     '%ITEMS%',

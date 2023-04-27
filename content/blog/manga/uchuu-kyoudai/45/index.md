@@ -3,10 +3,10 @@ type: manga
 title: "Uchuu Kyoudai"
 date: "2023-04-20T11:13:50"
 name: "Uchuu Kyoudai"
-volume: 45
+chapter: 45
 rating: 3
 ratingEmoji: ⭐️⭐️⭐️
 share: false
 ---
 
-*[No review was written for this volume]*
+*[No review was written for this chapter]*

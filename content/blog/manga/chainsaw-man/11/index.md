@@ -3,10 +3,10 @@ type: manga
 title: "Chainsaw Man"
 date: "2023-04-14T14:50:36"
 name: "Chainsaw Man"
-volume: 11
+chapter: 11
 rating: 3
 ratingEmoji: ⭐️⭐️⭐️
 share: false
 ---
 
-*[No review was written for this volume]*
+*[No review was written for this chapter]*

@@ -33,10 +33,10 @@ export function sortEpisodes(list) {
   });
 }
 
-export function sortVolumes(list) {
+export function sortchapters(list) {
   return list.sort((manga1, manga2) => {
-    if (+manga1.frontmatter.volume < +manga2.frontmatter.volume) return -1;
-    if (+manga1.frontmatter.volume > +manga2.frontmatter.volume) return 1;
+    if (+manga1.frontmatter.chapter < +manga2.frontmatter.chapter) return -1;
+    if (+manga1.frontmatter.chapter > +manga2.frontmatter.chapter) return 1;
 
     return 0;
   });
@@ -91,7 +91,7 @@ export function createURL(itemData, withDomain = false) {
     );
   } else if (itemData.frontmatter.type === 'manga') {
     url = createAbsoluteURL(
-      `manga/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.volume}`,
+      `manga/${slugify(itemData.frontmatter.name)}/${itemData.frontmatter.chapter}`,
       withDomain,
     );
   }
