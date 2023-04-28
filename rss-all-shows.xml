@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 28 Apr 2023 18:10:11 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 28 Apr 2023 18:39:06 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi 1x21]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi 1x21
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x21]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x21</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x21</guid>
+  <pubDate>Fri, 28 Apr 2023 20:38:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi 1x22]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi 1x22
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x5</guid>
   <pubDate>Sun, 23 Apr 2023 08:49:49 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x4</guid>
-  <pubDate>Sun, 23 Apr 2023 07:55:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
