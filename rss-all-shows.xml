@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 28 Apr 2023 19:36:38 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 29 Apr 2023 06:51:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi 1x23]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi 1x23
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23</guid>
+  <pubDate>Sat, 29 Apr 2023 08:50:20 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x3]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x16]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x16</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x16</guid>
   <pubDate>Sun, 23 Apr 2023 12:10:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x4</guid>
-  <pubDate>Sun, 23 Apr 2023 11:45:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
