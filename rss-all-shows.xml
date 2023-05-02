@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 01 May 2023 21:42:22 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 02 May 2023 11:38:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x38]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x38
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x38]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x38</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x38</guid>
+  <pubDate>Tue, 02 May 2023 13:37:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x4]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x8</guid>
   <pubDate>Mon, 24 Apr 2023 18:21:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba 4x3]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x3</guid>
-  <pubDate>Mon, 24 Apr 2023 07:38:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
