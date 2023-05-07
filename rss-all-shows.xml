@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 07 May 2023 16:29:07 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 07 May 2023 16:54:14 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jigokuraku 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Jigokuraku 1x6
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x6</guid>
+  <pubDate>Sun, 07 May 2023 18:53:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Yamada-kun to Lv999 no Koi wo Suru 1x6]]></title>
   <description><![CDATA[📺 Just watched: Yamada-kun to Lv999 no Koi wo Suru 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x6]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x6</guid>
   <pubDate>Tue, 25 Apr 2023 22:43:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi 1x20]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi 1x20
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x20</guid>
-  <pubDate>Tue, 25 Apr 2023 22:09:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
