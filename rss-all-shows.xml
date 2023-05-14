@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 May 2023 17:15:49 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 May 2023 17:49:49 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Oshi no Ko 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Oshi no Ko 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x5</guid>
+  <pubDate>Sun, 14 May 2023 19:48:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x7]]></title>
   <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23</guid>
   <pubDate>Sat, 29 Apr 2023 08:50:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mashle 1x3]]></title>
-  <description><![CDATA[📺 Just watched: Mashle 1x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mashle/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x3</guid>
-  <pubDate>Fri, 28 Apr 2023 21:35:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
