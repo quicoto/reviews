@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 15 May 2023 12:31:33 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 16 May 2023 12:19:33 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x41]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x41
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x41]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x41</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x41</guid>
+  <pubDate>Tue, 16 May 2023 14:18:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x40]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x40
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5]]><
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5</guid>
   <pubDate>Mon, 01 May 2023 17:56:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba 4x4]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x4</guid>
-  <pubDate>Mon, 01 May 2023 17:27:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
