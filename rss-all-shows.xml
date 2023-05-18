@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 16 May 2023 12:19:33 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 May 2023 20:21:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jigokuraku 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Jigokuraku 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x7</guid>
+  <pubDate>Thu, 18 May 2023 22:20:33 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x41]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x41
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mashle/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x4</guid>
   <pubDate>Mon, 01 May 2023 21:29:42 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x5</guid>
-  <pubDate>Mon, 01 May 2023 17:56:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
