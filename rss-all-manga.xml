@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 22 May 2023 13:41:10 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 22 May 2023 13:41:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Nue’s Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Nue’s Exorcist
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/nue-s-exorcist/2]]></description>
+  <link>https://quicoto.github.io/reviews/manga/nue-s-exorcist/2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/nue-s-exorcist/2</guid>
+  <pubDate>Mon, 22 May 2023 15:40:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Nue’s Exorcist]]></title>
   <description><![CDATA[📺 Just watched: Nue’s Exorcist
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/uchuu-kyoudai/83]]></description>
   <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/83</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/83</guid>
   <pubDate>Wed, 03 May 2023 17:23:42 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82</guid>
-  <pubDate>Wed, 03 May 2023 17:18:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
