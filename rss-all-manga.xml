@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 22 May 2023 13:37:53 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 22 May 2023 13:41:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Nue’s Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Nue’s Exorcist
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/nue-s-exorcist/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/nue-s-exorcist/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/nue-s-exorcist/1</guid>
+  <pubDate>Mon, 22 May 2023 15:40:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82]]></description>
   <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/82</guid>
   <pubDate>Wed, 03 May 2023 17:18:59 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/5]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/5</guid>
-  <pubDate>Tue, 02 May 2023 22:57:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
