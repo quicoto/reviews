@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 22 May 2023 18:56:18 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 23 May 2023 11:27:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x43]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x43
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x43]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x43</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x43</guid>
+  <pubDate>Tue, 23 May 2023 13:26:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Crash Course in Romance 1x7]]></title>
   <description><![CDATA[📺 Just watched: Crash Course in Romance 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x3]]></descr
   <link>https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x3</guid>
   <pubDate>Wed, 10 May 2023 18:03:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Crash Course in Romance 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Crash Course in Romance 1x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x2</guid>
-  <pubDate>Mon, 08 May 2023 23:26:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
