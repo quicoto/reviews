@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 29 May 2023 18:18:10 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 29 May 2023 18:18:22 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/5]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/5</guid>
+  <pubDate>Mon, 29 May 2023 20:17:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bakuman/6]]></description>
   <link>https://quicoto.github.io/reviews/manga/bakuman/6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/6</guid>
   <pubDate>Thu, 04 May 2023 23:02:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/90]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/90</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/90</guid>
-  <pubDate>Wed, 03 May 2023 19:13:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
