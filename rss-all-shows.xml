@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 30 May 2023 21:02:45 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 02 Jun 2023 19:27:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mashle 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Mashle 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mashle/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x7</guid>
+  <pubDate>Fri, 02 Jun 2023 21:26:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Crash Course in Romance 1x10]]></title>
   <description><![CDATA[📺 Just watched: Crash Course in Romance 1x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x41]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x41</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x41</guid>
   <pubDate>Tue, 16 May 2023 14:18:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x40]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x40
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x40]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x40</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x40</guid>
-  <pubDate>Mon, 15 May 2023 14:30:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
