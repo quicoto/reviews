@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 05 Jun 2023 08:07:16 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 05 Jun 2023 08:43:17 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kimetsu no Yaiba 4x9]]></title>
+  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x9</guid>
+  <pubDate>Mon, 05 Jun 2023 10:42:23 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jigokuraku 1x9]]></title>
   <description><![CDATA[📺 Just watched: Jigokuraku 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x42]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x42</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x42</guid>
   <pubDate>Mon, 22 May 2023 14:27:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba 4x7]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x7</guid>
-  <pubDate>Sun, 21 May 2023 22:29:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
