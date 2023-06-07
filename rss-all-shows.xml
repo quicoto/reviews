@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 07 Jun 2023 14:52:47 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 07 Jun 2023 20:41:39 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Recruit 1x1]]></title>
+  <description><![CDATA[📺 Just watched: The Recruit 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-recruit/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-recruit/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-recruit/1x1</guid>
+  <pubDate>Wed, 07 Jun 2023 22:32:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kimetsu no Yaiba 4x9]]></title>
   <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x7]]></descr
   <link>https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x7</guid>
   <pubDate>Mon, 22 May 2023 20:55:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x42]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x42
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x42]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x42</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x42</guid>
-  <pubDate>Mon, 22 May 2023 14:27:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
