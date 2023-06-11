@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 11 Jun 2023 16:51:50 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 11 Jun 2023 17:16:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mashle 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Mashle 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mashle/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x9</guid>
+  <pubDate>Sun, 11 Jun 2023 19:15:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Yamada-kun to Lv999 no Koi wo Suru 1x11]]></title>
   <description><![CDATA[📺 Just watched: Yamada-kun to Lv999 no Koi wo Suru 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mashle/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x7</guid>
   <pubDate>Fri, 02 Jun 2023 21:26:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Crash Course in Romance 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Crash Course in Romance 1x10
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x10</guid>
-  <pubDate>Tue, 30 May 2023 23:01:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
