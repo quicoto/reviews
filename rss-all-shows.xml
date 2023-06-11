@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 11 Jun 2023 17:16:04 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 11 Jun 2023 20:06:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bloodhounds 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Bloodhounds 1x1
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x1</guid>
+  <pubDate>Sun, 11 Jun 2023 22:05:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x9]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x9]]><
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x9</guid>
   <pubDate>Fri, 02 Jun 2023 21:49:58 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mashle 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Mashle 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mashle/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x7</guid>
-  <pubDate>Fri, 02 Jun 2023 21:26:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
