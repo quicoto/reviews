@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 13 Jun 2023 18:54:21 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 13 Jun 2023 18:54:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/9]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/9</guid>
+  <pubDate>Tue, 13 Jun 2023 20:53:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/6]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/6</guid>
   <pubDate>Mon, 29 May 2023 20:17:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Haikyuu]]></title>
-  <description><![CDATA[📺 Just watched: Haikyuu
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/haikyuu/5]]></description>
-  <link>https://quicoto.github.io/reviews/manga/haikyuu/5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/5</guid>
-  <pubDate>Mon, 29 May 2023 20:17:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
