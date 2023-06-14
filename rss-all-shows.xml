@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 13 Jun 2023 20:57:40 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Jun 2023 12:45:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x48]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x48
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x48]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x48</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x48</guid>
+  <pubDate>Wed, 14 Jun 2023 14:44:21 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bloodhounds 1x4]]></title>
   <description><![CDATA[📺 Just watched: Bloodhounds 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x8</guid>
   <pubDate>Sat, 03 Jun 2023 20:29:49 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mashle 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Mashle 1x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mashle/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x8</guid>
-  <pubDate>Sat, 03 Jun 2023 20:04:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
