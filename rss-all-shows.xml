@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 17 Jun 2023 19:28:35 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Jun 2023 08:00:46 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Mirror 6x3]]></title>
+  <description><![CDATA[📺 Just watched: Black Mirror 6x3
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-mirror/6x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-mirror/6x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-mirror/6x3</guid>
+  <pubDate>Sun, 18 Jun 2023 09:59:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Mirror 6x2]]></title>
   <description><![CDATA[📺 Just watched: Black Mirror 6x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-recruit/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-recruit/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-recruit/1x4</guid>
   <pubDate>Sun, 11 Jun 2023 13:31:01 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Recruit 1x3]]></title>
-  <description><![CDATA[📺 Just watched: The Recruit 1x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-recruit/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-recruit/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-recruit/1x3</guid>
-  <pubDate>Sat, 10 Jun 2023 19:35:42 GMT</pubDate>
 </item>
 </channel>
 </rss>
