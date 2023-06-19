@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 19 Jun 2023 15:53:29 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 19 Jun 2023 18:12:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/12]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/12</guid>
+  <pubDate>Mon, 19 Jun 2023 20:11:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Yamada-kun to Lv999 no Koi wo Suru]]></title>
   <description><![CDATA[📺 Just watched: Yamada-kun to Lv999 no Koi wo Suru
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-lock/5]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-lock/5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/5</guid>
   <pubDate>Fri, 09 Jun 2023 17:10:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/16]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/16</guid>
-  <pubDate>Thu, 08 Jun 2023 09:37:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
