@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 21 Jun 2023 16:32:47 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Jun 2023 17:50:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x51]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x51
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x51]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x51</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x51</guid>
+  <pubDate>Wed, 21 Jun 2023 19:49:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x10]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x3</guid>
   <pubDate>Mon, 12 Jun 2023 23:01:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bloodhounds 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Bloodhounds 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x2</guid>
-  <pubDate>Sun, 11 Jun 2023 23:09:31 GMT</pubDate>
 </item>
 </channel>
 </rss>
