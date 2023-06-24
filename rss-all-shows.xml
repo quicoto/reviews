@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 24 Jun 2023 09:52:50 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 24 Jun 2023 10:21:16 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x50]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x50
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x50]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x50</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x50</guid>
+  <pubDate>Sat, 24 Jun 2023 12:20:26 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x11]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x8</guid>
   <pubDate>Sat, 17 Jun 2023 19:07:04 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Oshi no Ko 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Oshi no Ko 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x7</guid>
-  <pubDate>Sat, 17 Jun 2023 18:43:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
