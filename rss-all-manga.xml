@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 24 Jun 2023 17:02:27 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 24 Jun 2023 17:02:53 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/12]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/12</guid>
+  <pubDate>Sat, 24 Jun 2023 19:02:06 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/11]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/11</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/11</guid>
+  <pubDate>Sat, 24 Jun 2023 19:01:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-lock/7]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-lock/7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/7</guid>
   <pubDate>Tue, 13 Jun 2023 20:53:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-lock/6]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-lock/6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/6</guid>
-  <pubDate>Sun, 11 Jun 2023 16:46:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/94]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/94</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/94</guid>
-  <pubDate>Sat, 10 Jun 2023 11:08:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
