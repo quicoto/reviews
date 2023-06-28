@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 28 Jun 2023 20:20:44 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Jun 2023 20:21:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x55]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x55
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x55]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x55</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x55</guid>
+  <pubDate>Wed, 28 Jun 2023 22:21:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x54]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x54
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5</guid>
   <pubDate>Sun, 18 Jun 2023 22:39:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x12
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x12</guid>
-  <pubDate>Sun, 18 Jun 2023 17:33:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
