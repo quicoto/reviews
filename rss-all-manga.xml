@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 28 Jun 2023 16:32:49 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Jun 2023 16:33:40 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto]]></title>
+  <description><![CDATA[📺 Just watched: Naruto
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/naruto/14]]></description>
+  <link>https://quicoto.github.io/reviews/manga/naruto/14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/14</guid>
+  <pubDate>Wed, 28 Jun 2023 18:32:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto]]></title>
   <description><![CDATA[📺 Just watched: Naruto
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/5]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/5</guid>
   <pubDate>Sat, 17 Jun 2023 20:05:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/4]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/4</guid>
-  <pubDate>Sat, 17 Jun 2023 20:05:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
