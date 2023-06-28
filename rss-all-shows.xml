@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 28 Jun 2023 20:21:58 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Jun 2023 20:28:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x56]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x56
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x56]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x56</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x56</guid>
+  <pubDate>Wed, 28 Jun 2023 22:27:39 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x55]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x55
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x8]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x8</guid>
   <pubDate>Mon, 19 Jun 2023 17:29:50 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Mirror 6x5]]></title>
-  <description><![CDATA[📺 Just watched: Black Mirror 6x5
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5</guid>
-  <pubDate>Sun, 18 Jun 2023 22:39:47 GMT</pubDate>
 </item>
 </channel>
 </rss>
