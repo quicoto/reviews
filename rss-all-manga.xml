@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 02 Jul 2023 13:01:26 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 03 Jul 2023 12:18:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bakuman/19]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bakuman/19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/19</guid>
+  <pubDate>Mon, 03 Jul 2023 14:17:33 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto]]></title>
   <description><![CDATA[📺 Just watched: Naruto
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/8]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/8</guid>
   <pubDate>Wed, 21 Jun 2023 18:13:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-lock/13]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-lock/13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/13</guid>
-  <pubDate>Wed, 21 Jun 2023 18:12:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
