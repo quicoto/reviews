@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 06 Jul 2023 06:18:28 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 06 Jul 2023 20:12:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[King the Land 1x2]]></title>
+  <description><![CDATA[📺 Just watched: King the Land 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/king-the-land/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x2</guid>
+  <pubDate>Thu, 06 Jul 2023 22:12:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x58]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x58
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x9]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x9</guid>
   <pubDate>Fri, 23 Jun 2023 23:05:30 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba 4x11]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 4x11
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x11</guid>
-  <pubDate>Thu, 22 Jun 2023 22:26:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
