@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 09 Jul 2023 17:05:18 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 09 Jul 2023 17:09:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Uchuu Kyoudai]]></title>
+  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/uchuu-kyoudai/96]]></description>
+  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/96</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/96</guid>
+  <pubDate>Sun, 09 Jul 2023 19:08:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Uchuu Kyoudai]]></title>
   <description><![CDATA[📺 Just watched: Uchuu Kyoudai
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/10]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/10</guid>
   <pubDate>Mon, 26 Jun 2023 18:47:50 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/9]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/9</guid>
-  <pubDate>Mon, 26 Jun 2023 18:41:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
