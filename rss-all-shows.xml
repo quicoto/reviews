@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 09 Jul 2023 11:00:18 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 09 Jul 2023 16:37:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[King the Land 1x4]]></title>
+  <description><![CDATA[📺 Just watched: King the Land 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/king-the-land/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x4</guid>
+  <pubDate>Sun, 09 Jul 2023 18:36:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x3]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x
   <link>https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x13</guid>
   <pubDate>Sun, 25 Jun 2023 19:14:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x50]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x50
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x50]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x50</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x50</guid>
-  <pubDate>Sat, 24 Jun 2023 12:20:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
