@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 09 Jul 2023 18:13:35 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 09 Jul 2023 18:39:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x5</guid>
+  <pubDate>Sun, 09 Jul 2023 20:38:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x4]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x53]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x53</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x53</guid>
   <pubDate>Mon, 26 Jun 2023 19:40:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jigokuraku 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Jigokuraku 1x12
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x12chapter: 1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x12chapter: 1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x12chapter: 1</guid>
-  <pubDate>Sun, 25 Jun 2023 19:55:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
