@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Zom 100 1x1"
 date: "2023-07-10T19:27:00"
