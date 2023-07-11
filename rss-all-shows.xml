@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 10 Jul 2023 18:04:46 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 11 Jul 2023 11:30:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x6
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x6</guid>
+  <pubDate>Tue, 11 Jul 2023 13:29:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Zom 100 1x1]]></title>
   <description><![CDATA[📺 Just watched: Zom 100 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x11]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x11</guid>
   <pubDate>Tue, 27 Jun 2023 22:47:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x10</guid>
-  <pubDate>Tue, 27 Jun 2023 22:22:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
