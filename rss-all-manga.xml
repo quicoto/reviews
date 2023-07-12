@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 12 Jul 2023 11:56:24 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 12 Jul 2023 11:56:30 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Hero Academia]]></title>
+  <description><![CDATA[📺 Just watched: My Hero Academia
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/my-hero-academia/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/3</guid>
+  <pubDate>Wed, 12 Jul 2023 13:55:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/17]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/17</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/17</guid>
   <pubDate>Sat, 01 Jul 2023 19:39:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/16]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/16</guid>
-  <pubDate>Fri, 30 Jun 2023 20:18:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
