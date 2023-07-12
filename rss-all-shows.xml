@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 12 Jul 2023 11:56:30 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 12 Jul 2023 20:02:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jack Ryan 4x3]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 4x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</guid>
+  <pubDate>Wed, 12 Jul 2023 22:01:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x8]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x55]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x55</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x55</guid>
   <pubDate>Wed, 28 Jun 2023 22:21:11 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x54]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x54
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x54]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x54</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x54</guid>
-  <pubDate>Wed, 28 Jun 2023 22:19:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
