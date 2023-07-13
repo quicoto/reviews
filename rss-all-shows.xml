@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 13 Jul 2023 11:42:05 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 13 Jul 2023 11:43:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x10
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x10</guid>
+  <pubDate>Thu, 13 Jul 2023 13:41:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x9]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x58]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x58</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x58</guid>
   <pubDate>Tue, 04 Jul 2023 13:31:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x57]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x57
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x57]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x57</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x57</guid>
-  <pubDate>Tue, 04 Jul 2023 13:06:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
