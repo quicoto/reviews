@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 12 Jul 2023 20:56:41 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 13 Jul 2023 11:42:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x9
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x9</guid>
+  <pubDate>Thu, 13 Jul 2023 13:41:09 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jigokuraku 1x13]]></title>
   <description><![CDATA[📺 Just watched: Jigokuraku 1x13
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/black-clover/1x57]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x57</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x57</guid>
   <pubDate>Tue, 04 Jul 2023 13:06:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[King the Land 1x1]]></title>
-  <description><![CDATA[📺 Just watched: King the Land 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/king-the-land/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x1</guid>
-  <pubDate>Mon, 03 Jul 2023 20:06:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
