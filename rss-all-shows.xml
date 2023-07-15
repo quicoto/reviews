@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 15 Jul 2023 17:58:33 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 15 Jul 2023 20:54:44 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jack Ryan 4x5]]></title>
+  <description><![CDATA[📺 Just watched: Jack Ryan 4x5
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x5</guid>
+  <pubDate>Sat, 15 Jul 2023 22:53:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rurouni Kenshin (2023) 1x1]]></title>
   <description><![CDATA[📺 Just watched: Rurouni Kenshin (2023) 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x1</guid>
   <pubDate>Fri, 07 Jul 2023 22:00:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[King the Land 1x3]]></title>
-  <description><![CDATA[📺 Just watched: King the Land 1x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/king-the-land/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x3</guid>
-  <pubDate>Fri, 07 Jul 2023 19:15:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
