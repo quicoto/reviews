@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 15 Jul 2023 17:41:50 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 15 Jul 2023 17:58:33 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/17]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/17</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/17</guid>
+  <pubDate>Sat, 15 Jul 2023 19:57:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bakuman/20]]></description>
   <link>https://quicoto.github.io/reviews/manga/bakuman/20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/20</guid>
   <pubDate>Wed, 05 Jul 2023 18:16:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/18]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/18</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/18</guid>
-  <pubDate>Mon, 03 Jul 2023 14:17:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
