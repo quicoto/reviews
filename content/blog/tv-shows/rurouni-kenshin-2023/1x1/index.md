@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Rurouni Kenshin (2023) 1x1"
 date: "2023-07-15T19:36:22"
 name: "Rurouni Kenshin (2023)"
