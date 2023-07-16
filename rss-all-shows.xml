@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 16 Jul 2023 17:24:20 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 16 Jul 2023 21:02:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Zom 100 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Zom 100 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/zom-100/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x2</guid>
+  <pubDate>Sun, 16 Jul 2023 23:01:39 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[King the Land 1x6]]></title>
   <description><![CDATA[📺 Just watched: King the Land 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x5</guid>
   <pubDate>Sun, 09 Jul 2023 20:38:46 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x4</guid>
-  <pubDate>Sun, 09 Jul 2023 20:12:38 GMT</pubDate>
 </item>
 </channel>
 </rss>
