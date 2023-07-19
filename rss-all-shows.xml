@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 18 Jul 2023 20:54:16 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Jul 2023 11:29:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Black Clover 1x59]]></title>
+  <description><![CDATA[📺 Just watched: Black Clover 1x59
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/black-clover/1x59]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x59</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x59</guid>
+  <pubDate>Wed, 19 Jul 2023 13:28:09 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[King the Land 1x9]]></title>
   <description><![CDATA[📺 Just watched: King the Land 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x2</guid>
   <pubDate>Tue, 11 Jul 2023 22:27:37 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x7
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x7</guid>
-  <pubDate>Tue, 11 Jul 2023 13:53:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
