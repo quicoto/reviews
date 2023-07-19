@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 19 Jul 2023 18:59:09 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Jul 2023 19:20:26 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Enen no Shouboutai 1x14]]></title>
+  <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x14
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14</guid>
+  <pubDate>Wed, 19 Jul 2023 21:19:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Black Clover 1x60]]></title>
   <description><![CDATA[📺 Just watched: Black Clover 1x60
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</guid>
   <pubDate>Wed, 12 Jul 2023 22:01:01 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x8</guid>
-  <pubDate>Tue, 11 Jul 2023 22:36:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
