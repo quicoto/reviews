@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 19 Jul 2023 11:29:12 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Jul 2023 16:42:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/16]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/16</guid>
+  <pubDate>Wed, 19 Jul 2023 18:41:40 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/uchuu-kyoudai/100]]></description>
   <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/100</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/100</guid>
   <pubDate>Sun, 09 Jul 2023 19:16:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Uchuu Kyoudai]]></title>
-  <description><![CDATA[📺 Just watched: Uchuu Kyoudai
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/uchuu-kyoudai/99]]></description>
-  <link>https://quicoto.github.io/reviews/manga/uchuu-kyoudai/99</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/uchuu-kyoudai/99</guid>
-  <pubDate>Sun, 09 Jul 2023 19:14:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
