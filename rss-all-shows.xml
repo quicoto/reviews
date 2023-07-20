@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 20 Jul 2023 06:05:47 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 20 Jul 2023 11:41:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[King the Land 1x10]]></title>
+  <description><![CDATA[📺 Just watched: King the Land 1x10
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10</guid>
+  <pubDate>Thu, 20 Jul 2023 13:40:20 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 1x14]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mashle/1x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x12</guid>
   <pubDate>Wed, 12 Jul 2023 22:32:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jack Ryan 4x3]]></title>
-  <description><![CDATA[📺 Just watched: Jack Ryan 4x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x3</guid>
-  <pubDate>Wed, 12 Jul 2023 22:01:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
