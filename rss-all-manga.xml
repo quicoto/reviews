@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 23 Jul 2023 13:31:10 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Jul 2023 13:35:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/21]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/21</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/21</guid>
+  <pubDate>Sun, 23 Jul 2023 15:34:09 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/my-hero-academia/5]]></description>
   <link>https://quicoto.github.io/reviews/manga/my-hero-academia/5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/5</guid>
   <pubDate>Thu, 13 Jul 2023 16:14:44 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Hero Academia]]></title>
-  <description><![CDATA[📺 Just watched: My Hero Academia
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/my-hero-academia/4]]></description>
-  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/4</guid>
-  <pubDate>Thu, 13 Jul 2023 16:14:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
