@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 23 Jul 2023 15:31:07 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Jul 2023 16:05:11 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Zom 100 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Zom 100 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/zom-100/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x3</guid>
+  <pubDate>Sun, 23 Jul 2023 18:04:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 1x15]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x15
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x9</guid>
   <pubDate>Thu, 13 Jul 2023 13:41:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jigokuraku 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Jigokuraku 1x13
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x13</guid>
-  <pubDate>Wed, 12 Jul 2023 22:55:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
