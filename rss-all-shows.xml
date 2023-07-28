@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 28 Jul 2023 17:11:36 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 28 Jul 2023 17:42:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x28]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x28
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28</guid>
+  <pubDate>Fri, 28 Jul 2023 19:41:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x27]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x27
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x13]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x13</guid>
   <pubDate>Mon, 17 Jul 2023 18:08:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Zom 100 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Zom 100 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/zom-100/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x2</guid>
-  <pubDate>Sun, 16 Jul 2023 23:01:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
