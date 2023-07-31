@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 31 Jul 2023 19:55:49 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 Jul 2023 21:00:01 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Glory 1x4]]></title>
+  <description><![CDATA[📺 Just watched: The Glory 1x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-glory/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-glory/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-glory/1x4</guid>
+  <pubDate>Mon, 31 Jul 2023 22:58:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x16]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x16
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x3]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x3</guid>
   <pubDate>Sun, 23 Jul 2023 21:41:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen 1x25]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x25
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x25]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x25</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x25</guid>
-  <pubDate>Sun, 23 Jul 2023 19:03:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
