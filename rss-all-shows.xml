@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 31 Jul 2023 10:39:30 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 Jul 2023 11:07:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Zom 100 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Zom 100 1x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/zom-100/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x4</guid>
+  <pubDate>Mon, 31 Jul 2023 13:06:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Glory 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Glory 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x15]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x15</guid>
   <pubDate>Sun, 23 Jul 2023 17:30:19 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[King the Land 1x10]]></title>
-  <description><![CDATA[📺 Just watched: King the Land 1x10
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10</guid>
-  <pubDate>Thu, 20 Jul 2023 13:40:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
