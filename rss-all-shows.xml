@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 30 Jul 2023 09:32:18 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 Jul 2023 07:53:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Glory 1x1]]></title>
+  <description><![CDATA[📺 Just watched: The Glory 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-glory/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-glory/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-glory/1x1</guid>
+  <pubDate>Sun, 30 Jul 2023 23:24:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x15]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x15
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14</guid>
   <pubDate>Wed, 19 Jul 2023 21:19:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Black Clover 1x60]]></title>
-  <description><![CDATA[📺 Just watched: Black Clover 1x60
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/black-clover/1x60]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/black-clover/1x60</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/black-clover/1x60</guid>
-  <pubDate>Wed, 19 Jul 2023 20:58:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
