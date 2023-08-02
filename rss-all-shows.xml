@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 01 Aug 2023 20:47:16 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 02 Aug 2023 07:09:45 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Enen no Shouboutai 1x21]]></title>
+  <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x21
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x21]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x21</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x21</guid>
+  <pubDate>Wed, 02 Aug 2023 09:08:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Glory 1x6]]></title>
   <description><![CDATA[📺 Just watched: The Glory 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/king-the-land/1x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x12</guid>
   <pubDate>Wed, 26 Jul 2023 22:19:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x12
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x12</guid>
-  <pubDate>Wed, 26 Jul 2023 18:42:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
