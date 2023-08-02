@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 02 Aug 2023 07:42:35 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 02 Aug 2023 11:44:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Enen no Shouboutai 1x23]]></title>
+  <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x23
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x23]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x23</guid>
+  <pubDate>Wed, 02 Aug 2023 13:43:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 1x22]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 1x22
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x28</guid>
   <pubDate>Fri, 28 Jul 2023 19:41:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen 1x27]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x27
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x27]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x27</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x27</guid>
-  <pubDate>Fri, 28 Jul 2023 19:10:47 GMT</pubDate>
 </item>
 </channel>
 </rss>
