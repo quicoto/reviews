@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 03 Aug 2023 06:22:25 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 03 Aug 2023 08:03:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Glory 1x7]]></title>
+  <description><![CDATA[📺 Just watched: The Glory 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-glory/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-glory/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-glory/1x7</guid>
+  <pubDate>Thu, 03 Aug 2023 10:01:52 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 2x2]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x15]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x15</guid>
   <pubDate>Sun, 30 Jul 2023 11:31:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x14]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x14
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x14</guid>
-  <pubDate>Sun, 30 Jul 2023 11:13:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
