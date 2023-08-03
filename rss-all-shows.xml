@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 02 Aug 2023 20:14:42 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 03 Aug 2023 06:22:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Enen no Shouboutai 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x2
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2</guid>
+  <pubDate>Thu, 03 Aug 2023 08:21:21 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 2x1]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x14]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x14</guid>
   <pubDate>Sun, 30 Jul 2023 11:13:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x13
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x13</guid>
-  <pubDate>Sun, 30 Jul 2023 10:44:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
