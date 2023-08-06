@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 06 Aug 2023 17:34:43 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 06 Aug 2023 20:37:14 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bleach]]></title>
+  <description><![CDATA[📺 Just watched: Bleach
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bleach/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bleach/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/1</guid>
+  <pubDate>Sun, 06 Aug 2023 22:36:26 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/25]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/25</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/25</guid>
   <pubDate>Sat, 29 Jul 2023 19:38:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/24]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/24</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/24</guid>
-  <pubDate>Sat, 29 Jul 2023 19:34:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
