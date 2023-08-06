@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 06 Aug 2023 20:37:14 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 06 Aug 2023 21:41:46 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Glory 1x14]]></title>
+  <description><![CDATA[📺 Just watched: The Glory 1x14
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-glory/1x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-glory/1x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-glory/1x14</guid>
+  <pubDate>Sun, 06 Aug 2023 23:40:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Glory 1x13]]></title>
   <description><![CDATA[📺 Just watched: The Glory 1x13
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x2</guid>
   <pubDate>Thu, 03 Aug 2023 08:21:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x1</guid>
-  <pubDate>Wed, 02 Aug 2023 22:13:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
