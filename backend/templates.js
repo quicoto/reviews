@@ -11,6 +11,12 @@ function _createShowAnchor(showName) {
   );
 }
 
+function _createMangaAnchor(mangaName) {
+  return utils.createAbsoluteURL(
+    `manga#${slugify(mangaName)}`,
+  );
+}
+
 function _rating(rating) {
   const starFull = 'assets/star.svg';
   const starEmpty = 'assets/star-empty.svg';
@@ -49,9 +55,9 @@ export function single(config) {
     content,
     frontmatter,
   } = config;
+  let { title } = frontmatter;
   const {
     type,
-    title,
     date,
     name,
     rating,
@@ -72,6 +78,10 @@ export function single(config) {
   if (type === 'series') {
     const url = _createShowAnchor(name);
     backLink = `<a href="${url}" title="More reviews for ${name}">More reviews for ${name}</a>`;
+  }
+
+  if (frontmatter.chapter) {
+    title += ` Chapter ${frontmatter.chapter}`;
   }
 
   return singleTemplate
@@ -147,6 +157,7 @@ export function allShows(list) {
 }
 
 function _card(itemData) {
+  let chapter = '';
   let imageName = slugify(itemData.frontmatter.name);
 
   if (itemData.frontmatter.type === 'manga') {
@@ -155,6 +166,10 @@ function _card(itemData) {
 
   const imageSrc = utils.createAbsoluteURL(`covers/${imageName}.jpg`);
 
+  if (itemData.frontmatter.chapter) {
+    chapter = `<span class="chapter">Chapter ${itemData.frontmatter.chapter}</span>`;
+  }
+
   return `
   <li class="card">
     <h3 class="card-heading">
@@ -162,6 +177,7 @@ function _card(itemData) {
         <img
           class="card-image cover" src="${imageSrc}" alt="${itemData.frontmatter.title} cover" title="${itemData.frontmatter.title}">
         <div>${itemData.frontmatter.title}</div>
+        ${chapter}
       </a>
     </h3>
     <div class="card-footer">
@@ -223,6 +239,7 @@ export function homepage(config) {
     uniqueMovies,
     uniqueTVShows,
     topRatedTVShows,
+    topRatedManga,
     chaptersRead,
   } = config;
   const header = utils.readFile(Paths.template.header);
@@ -235,7 +252,8 @@ export function homepage(config) {
     .replaceAll('%FOOTER%', footer)
     .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${latestShows.map(_card).join('\n')}</ul>`)
     .replaceAll('%LATEST_MANGA%', `<ul class="cards">${latestManga.map(_card).join('\n')}</ul>`)
-    .replaceAll('%TOP_RATED%', `<ol class="topRatedTVShows">${topRatedTVShows}</ol>`)
+    .replaceAll('%TOP_RATED_SHOWS%', `<ol class="topRatedTVShows">${topRatedTVShows}</ol>`)
+    .replaceAll('%TOP_RATED_MANGA%', `<ol class="topRatedTVShows">${topRatedManga}</ol>`)
     .replaceAll('%MINUTESWATCHED%', formatTimeWatched)
     .replaceAll('%UNIQUEMOVIES%', uniqueMovies)
     .replaceAll('%UNIQUETVSHOWS%', uniqueTVShows)
@@ -283,6 +301,23 @@ export function topRatedTVShow(show) {
   return `<li>
     <h4>
       <a title="${prettyName}" href="${_createShowAnchor(show.name)}">${prettyName}</a>
+    </h4>
+  </li>`;
+}
+
+/**
+ * @param  {object} manga
+ * @param  {string} manga.name
+ * @param  {string} manga.averageRating
+ * @param {array} manga.episodes
+ * @return {string}
+ */
+export function topRatedMangas(manga) {
+  const prettyName = manga.chapters[0].frontmatter.name;
+
+  return `<li>
+    <h4>
+      <a title="${prettyName}" href="${_createMangaAnchor(manga.name)}">${prettyName}</a>
     </h4>
   </li>`;
 }

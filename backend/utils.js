@@ -117,3 +117,13 @@ export function sortByRatingAndEpisodes(show1, show2) {
 
   return 0;
 }
+
+export function sortByRatingAndChapters(manga1, manga2) {
+  if (manga1.averageRating < manga2.averageRating) return 1;
+  if (manga1.averageRating > manga2.averageRating) return -1;
+
+  if (manga1.chapters.length < manga2.chapters.length) return 1;
+  if (manga1.chapters.length > manga2.chapters.length) return -1;
+
+  return 0;
+}

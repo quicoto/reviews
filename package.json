@@ -2,7 +2,7 @@
   "name": "ricard-torres-reviews",
   "private": true,
   "description": "TV Shows, Manga and Movies reviews",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "author": "Ricard Torres <torres.rick@gmail.com>",
   "type": "module",
   "scripts": {

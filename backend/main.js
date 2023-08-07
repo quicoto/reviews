@@ -219,9 +219,15 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   }
 
   const topRatedTVShows = allShows.sort(utils.sortByRatingAndEpisodes)
-    .filter((show) => show.episodes.length > 4) // Discard shows that I probably dropped
+    .filter((show) => show.episodes.length > 4)
     .slice(0, 10)
     .map((show) => templates.topRatedTVShow(show))
+    .join('');
+
+  const topRatedManga = allManga.sort(utils.sortByRatingAndChapters)
+    .filter((item) => item.chapters.length > 4)
+    .slice(0, 10)
+    .map((item) => templates.topRatedMangas(item))
     .join('');
 
   const latestShows = allEpisodes.sort(utils.sortByDate).slice(0, 6);
@@ -233,6 +239,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
     uniqueMovies: allMovies.length,
     uniqueTVShows: allShows.length,
     topRatedTVShows,
+    topRatedManga,
     chaptersRead: allchapters.length,
   });
 
