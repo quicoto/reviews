@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 07 Aug 2023 19:45:21 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 07 Aug 2023 19:48:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/3</guid>
+  <pubDate>Mon, 07 Aug 2023 21:48:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/26]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/26</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/26</guid>
   <pubDate>Tue, 01 Aug 2023 10:24:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/27]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/27</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/27</guid>
-  <pubDate>Sat, 29 Jul 2023 19:45:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
