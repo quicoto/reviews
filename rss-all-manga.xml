@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 09 Aug 2023 08:55:09 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 09 Aug 2023 08:58:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/15]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/15</guid>
+  <pubDate>Wed, 09 Aug 2023 10:57:32 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/1]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/1</guid>
   <pubDate>Mon, 07 Aug 2023 19:01:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bleach]]></title>
-  <description><![CDATA[📺 Just watched: Bleach
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bleach/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bleach/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/1</guid>
-  <pubDate>Sun, 06 Aug 2023 22:36:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
