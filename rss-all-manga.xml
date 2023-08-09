@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 09 Aug 2023 08:23:56 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 09 Aug 2023 08:28:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/9]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/9</guid>
+  <pubDate>Wed, 09 Aug 2023 10:25:31 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-lock/27]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-lock/27</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/27</guid>
   <pubDate>Sat, 05 Aug 2023 20:50:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-lock/26]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-lock/26</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/26</guid>
-  <pubDate>Sat, 05 Aug 2023 20:46:21 GMT</pubDate>
 </item>
 </channel>
 </rss>
