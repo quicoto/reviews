@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 09 Aug 2023 18:06:40 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 09 Aug 2023 18:24:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/24]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/24</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/24</guid>
+  <pubDate>Wed, 09 Aug 2023 20:23:49 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/22]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/22</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/22</guid>
+  <pubDate>Wed, 09 Aug 2023 20:17:47 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/2]]></description>
   <link>https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/2</guid>
   <pubDate>Tue, 08 Aug 2023 18:19:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/1</guid>
-  <pubDate>Tue, 08 Aug 2023 11:34:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/6]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/6</guid>
-  <pubDate>Mon, 07 Aug 2023 22:08:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
