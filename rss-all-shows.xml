@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 12 Aug 2023 19:21:45 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 13 Aug 2023 11:17:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Zom 100 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Zom 100 1x5
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/zom-100/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x5</guid>
+  <pubDate>Sun, 13 Aug 2023 13:16:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rurouni Kenshin (2023) 1x6]]></title>
   <description><![CDATA[📺 Just watched: Rurouni Kenshin (2023) 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x9</guid>
   <pubDate>Sat, 05 Aug 2023 09:51:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x4]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x4</guid>
-  <pubDate>Sat, 05 Aug 2023 09:17:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
