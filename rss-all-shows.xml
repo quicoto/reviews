@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 13 Aug 2023 21:42:05 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 14 Aug 2023 14:16:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Band of Brothers 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Band of Brothers 1x2
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2</guid>
+  <pubDate>Mon, 14 Aug 2023 16:15:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Band of Brothers 1x1]]></title>
   <description><![CDATA[📺 Just watched: Band of Brothers 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-glory/1x15]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-glory/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-glory/1x15</guid>
   <pubDate>Mon, 07 Aug 2023 18:25:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mushoku Tensei 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Mushoku Tensei 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x10</guid>
-  <pubDate>Mon, 07 Aug 2023 10:17:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
