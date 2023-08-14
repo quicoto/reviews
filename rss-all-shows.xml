@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 14 Aug 2023 20:42:22 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 14 Aug 2023 21:44:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Band of Brothers 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Band of Brothers 1x6
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x6</guid>
+  <pubDate>Mon, 14 Aug 2023 23:43:04 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Band of Brothers 1x5]]></title>
   <description><![CDATA[📺 Just watched: Band of Brothers 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/king-the-land/1x13]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x13</guid>
   <pubDate>Tue, 08 Aug 2023 17:04:59 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x6]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x6</guid>
-  <pubDate>Tue, 08 Aug 2023 08:43:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
