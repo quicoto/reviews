@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 15 Aug 2023 11:53:09 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Aug 2023 14:09:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Band of Brothers 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Band of Brothers 1x10
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10</guid>
+  <pubDate>Tue, 15 Aug 2023 16:08:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Band of Brothers 1x9]]></title>
   <description><![CDATA[📺 Just watched: Band of Brothers 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6</guid>
   <pubDate>Fri, 11 Aug 2023 17:29:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x7]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x7
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7</guid>
-  <pubDate>Wed, 09 Aug 2023 17:46:30 GMT</pubDate>
 </item>
 </channel>
 </rss>
