@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 15 Aug 2023 14:57:50 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Aug 2023 18:39:16 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[A Spy Among Friends 1x1]]></title>
+  <description><![CDATA[📺 Just watched: A Spy Among Friends 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1</guid>
+  <pubDate>Tue, 15 Aug 2023 20:38:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Band of Brothers 1x10]]></title>
   <description><![CDATA[📺 Just watched: Band of Brothers 1x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/zom-100/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x5</guid>
   <pubDate>Sun, 13 Aug 2023 13:16:19 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rurouni Kenshin (2023) 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Rurouni Kenshin (2023) 1x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6</guid>
-  <pubDate>Fri, 11 Aug 2023 17:29:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
