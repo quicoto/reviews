@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 15 Aug 2023 10:46:09 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Aug 2023 11:53:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Band of Brothers 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Band of Brothers 1x9
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x9</guid>
+  <pubDate>Tue, 15 Aug 2023 13:52:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Band of Brothers 1x8]]></title>
   <description><![CDATA[📺 Just watched: Band of Brothers 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7</guid>
   <pubDate>Wed, 09 Aug 2023 17:46:30 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[King the Land 1x15]]></title>
-  <description><![CDATA[📺 Just watched: King the Land 1x15
-
-Rating: ⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/king-the-land/1x15]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/king-the-land/1x15</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/king-the-land/1x15</guid>
-  <pubDate>Wed, 09 Aug 2023 16:46:30 GMT</pubDate>
 </item>
 </channel>
 </rss>
