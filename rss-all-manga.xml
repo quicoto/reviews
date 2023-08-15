@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 15 Aug 2023 14:29:02 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Aug 2023 14:47:16 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bleach]]></title>
+  <description><![CDATA[📺 Just watched: Bleach
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bleach/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bleach/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/3</guid>
+  <pubDate>Tue, 15 Aug 2023 16:46:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bleach]]></title>
   <description><![CDATA[📺 Just watched: Bleach
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/tokyo-revengers/2]]></description>
   <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/2</guid>
   <pubDate>Sat, 12 Aug 2023 12:28:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Revengers]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Revengers
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tokyo-revengers/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/1</guid>
-  <pubDate>Sat, 12 Aug 2023 12:22:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
