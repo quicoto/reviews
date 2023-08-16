@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 16 Aug 2023 12:56:42 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 16 Aug 2023 16:16:35 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[A Spy Among Friends 1x3]]></title>
+  <description><![CDATA[📺 Just watched: A Spy Among Friends 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</guid>
+  <pubDate>Wed, 16 Aug 2023 18:15:31 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[A Spy Among Friends 1x2]]></title>
   <description><![CDATA[📺 Just watched: A Spy Among Friends 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x12]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x12</guid>
   <pubDate>Sun, 13 Aug 2023 17:25:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x8]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x8</guid>
-  <pubDate>Sun, 13 Aug 2023 16:40:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
