@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 18 Aug 2023 18:31:58 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 18 Aug 2023 18:32:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bakuman/38]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bakuman/38</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/38</guid>
+  <pubDate>Fri, 18 Aug 2023 20:31:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman]]></title>
   <description><![CDATA[📺 Just watched: Bakuman
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/28]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/28</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/28</guid>
   <pubDate>Wed, 16 Aug 2023 14:41:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bleach]]></title>
-  <description><![CDATA[📺 Just watched: Bleach
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bleach/6]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bleach/6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/6</guid>
-  <pubDate>Tue, 15 Aug 2023 16:56:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
