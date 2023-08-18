@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 18 Aug 2023 18:32:07 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 18 Aug 2023 18:51:56 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x17]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x17
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x17]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x17</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x17</guid>
+  <pubDate>Fri, 18 Aug 2023 20:50:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 2x10]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x1</guid>
   <pubDate>Sun, 13 Aug 2023 23:41:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Jinx: The Life and Deaths of Robert Durst 1x6]]></title>
-  <description><![CDATA[📺 Just watched: The Jinx: The Life and Deaths of Robert Durst 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-jinx-the-life-and-deaths-of-robert-durst/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-jinx-the-life-and-deaths-of-robert-durst/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-jinx-the-life-and-deaths-of-robert-durst/1x6</guid>
-  <pubDate>Sun, 13 Aug 2023 23:04:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
