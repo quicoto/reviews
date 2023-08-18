@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 18 Aug 2023 18:58:52 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 18 Aug 2023 19:04:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x19
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x19</guid>
+  <pubDate>Fri, 18 Aug 2023 21:03:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 1x18]]></title>
   <description><![CDATA[📺 Just watched: Naruto 1x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x3</guid>
   <pubDate>Mon, 14 Aug 2023 21:37:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Band of Brothers 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Band of Brothers 1x2
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x2</guid>
-  <pubDate>Mon, 14 Aug 2023 16:15:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
