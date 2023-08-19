@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 19 Aug 2023 19:24:49 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 19 Aug 2023 19:25:01 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman 1x6
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bakuman/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bakuman/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bakuman/1x6</guid>
+  <pubDate>Sat, 19 Aug 2023 21:24:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman 1x5]]></title>
   <description><![CDATA[📺 Just watched: Bakuman 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x1</guid>
   <pubDate>Tue, 15 Aug 2023 20:38:17 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Band of Brothers 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Band of Brothers 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x10</guid>
-  <pubDate>Tue, 15 Aug 2023 16:08:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
