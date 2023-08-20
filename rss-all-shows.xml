@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 20 Aug 2023 12:37:25 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 20 Aug 2023 14:50:37 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman 1x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bakuman/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bakuman/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bakuman/1x8</guid>
+  <pubDate>Sun, 20 Aug 2023 16:49:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman 1x7]]></title>
   <description><![CDATA[📺 Just watched: Bakuman 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</guid>
   <pubDate>Wed, 16 Aug 2023 18:15:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[A Spy Among Friends 1x2]]></title>
-  <description><![CDATA[📺 Just watched: A Spy Among Friends 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x2</guid>
-  <pubDate>Tue, 15 Aug 2023 23:05:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
