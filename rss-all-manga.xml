@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 20 Aug 2023 14:50:37 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 21 Aug 2023 05:49:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/62]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/62</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/62</guid>
+  <pubDate>Mon, 21 Aug 2023 07:48:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tokyo Revengers]]></title>
   <description><![CDATA[📺 Just watched: Tokyo Revengers
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/53]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/53</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/53</guid>
   <pubDate>Thu, 17 Aug 2023 20:04:38 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/52]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/52</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/52</guid>
-  <pubDate>Thu, 17 Aug 2023 20:00:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
