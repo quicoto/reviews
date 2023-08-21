@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 21 Aug 2023 05:55:58 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 21 Aug 2023 16:25:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x1</guid>
+  <pubDate>Mon, 21 Aug 2023 18:23:31 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman 1x8]]></title>
   <description><![CDATA[📺 Just watched: Bakuman 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x9]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x9</guid>
   <pubDate>Wed, 16 Aug 2023 21:47:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[A Spy Among Friends 1x3]]></title>
-  <description><![CDATA[📺 Just watched: A Spy Among Friends 1x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x3</guid>
-  <pubDate>Wed, 16 Aug 2023 18:15:31 GMT</pubDate>
 </item>
 </channel>
 </rss>
