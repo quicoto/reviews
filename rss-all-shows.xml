@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 22 Aug 2023 07:20:49 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 22 Aug 2023 15:35:01 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x5
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x5</guid>
+  <pubDate>Tue, 22 Aug 2023 17:33:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x4]]></title>
   <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x18]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x18</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x18</guid>
   <pubDate>Fri, 18 Aug 2023 20:57:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 1x17]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 1x17
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/1x17]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x17</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x17</guid>
-  <pubDate>Fri, 18 Aug 2023 20:50:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
