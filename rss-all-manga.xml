@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 22 Aug 2023 21:05:50 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 23 Aug 2023 06:20:42 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Revengers]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Revengers
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/tokyo-revengers/23]]></description>
+  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/23</guid>
+  <pubDate>Wed, 23 Aug 2023 08:19:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ao Ashi]]></title>
   <description><![CDATA[📺 Just watched: Ao Ashi
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/59]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/59</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/59</guid>
   <pubDate>Sat, 19 Aug 2023 10:16:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/38]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/38</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/38</guid>
-  <pubDate>Fri, 18 Aug 2023 20:31:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
