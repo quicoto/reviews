@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 24 Aug 2023 18:08:12 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Aug 2023 20:55:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman 1x20]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman 1x20
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/bakuman/1x20]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/bakuman/1x20</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bakuman/1x20</guid>
+  <pubDate>Thu, 24 Aug 2023 22:55:08 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman 1x19]]></title>
   <description><![CDATA[📺 Just watched: Bakuman 1x19
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x113]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x113</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x113</guid>
-  <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boruto - Naruto Next Generations 1x114]]></title>
-  <description><![CDATA[📺 Just watched: Boruto - Naruto Next Generations 1x114
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x114]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x114</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x114</guid>
   <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
