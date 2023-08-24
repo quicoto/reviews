@@ -7,8 +7,8 @@
   "type": "module",
   "scripts": {
     "build": "run-p build:*",
-    "build:content": "node backend/main.js",
     "build:assets": "node backend/assets.js",
+    "build:content": "node backend/main.js",
     "build:covers": "node backend/covers.js",
     "build:css": "sass src/styles.scss reviews/styles.css --style=compressed --no-source-map",
     "format": "prettier --write \"content/**/*.md\"",

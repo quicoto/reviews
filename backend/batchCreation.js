@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Black Clover';
+const showName = 'Boruto - Naruto Next Generations';
 const seasons = 1;
-const episodesPerSeason = [9];
+const episodesPerSeason = [120];
 const time = 25;
 const rating = 3;
 /*
