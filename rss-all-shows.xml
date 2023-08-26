@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 26 Aug 2023 18:16:40 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 26 Aug 2023 19:02:35 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Pacific 1x7]]></title>
+  <description><![CDATA[📺 Just watched: The Pacific 1x7
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-pacific/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-pacific/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-pacific/1x7</guid>
+  <pubDate>Sat, 26 Aug 2023 21:01:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Pacific 1x6]]></title>
   <description><![CDATA[📺 Just watched: The Pacific 1x6
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x104]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x104</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x104</guid>
-  <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boruto - Naruto Next Generations 1x105]]></title>
-  <description><![CDATA[📺 Just watched: Boruto - Naruto Next Generations 1x105
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x105]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x105</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x105</guid>
   <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
