@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 28 Aug 2023 20:17:46 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 28 Aug 2023 20:40:47 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x19
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x19</guid>
+  <pubDate>Mon, 28 Aug 2023 22:39:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x18]]></title>
   <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-pacific/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-pacific/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-pacific/1x1</guid>
   <pubDate>Fri, 25 Aug 2023 23:40:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman 1x22]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman 1x22
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/bakuman/1x22]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/bakuman/1x22</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/bakuman/1x22</guid>
-  <pubDate>Fri, 25 Aug 2023 22:46:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
