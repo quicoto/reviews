@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 31 Aug 2023 16:08:29 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 31 Aug 2023 16:11:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Fire Force]]></title>
+  <description><![CDATA[📺 Just watched: Fire Force
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/fire-force/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/fire-force/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/fire-force/1</guid>
+  <pubDate>Thu, 31 Aug 2023 18:10:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Exorcist]]></title>
   <description><![CDATA[📺 Just watched: Blue Exorcist
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/tokyo-revengers/53]]></description>
   <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/53</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/53</guid>
   <pubDate>Mon, 28 Aug 2023 13:56:32 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Revengers]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Revengers
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tokyo-revengers/52]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/52</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/52</guid>
-  <pubDate>Mon, 28 Aug 2023 12:29:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
