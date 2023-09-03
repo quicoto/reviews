@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 01 Sep 2023 17:13:50 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 03 Sep 2023 10:10:37 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x32]]></title>
+  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x32
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x32]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x32</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x32</guid>
+  <pubDate>Sun, 03 Sep 2023 12:09:34 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x30]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x30
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x17]
   <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x17</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x17</guid>
   <pubDate>Mon, 28 Aug 2023 21:52:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Zom 100 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Zom 100 1x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/zom-100/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x6</guid>
-  <pubDate>Mon, 28 Aug 2023 21:03:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
