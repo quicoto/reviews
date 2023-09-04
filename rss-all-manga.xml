@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 04 Sep 2023 07:22:02 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 04 Sep 2023 08:34:42 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bakuman/43]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bakuman/43</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/43</guid>
+  <pubDate>Mon, 04 Sep 2023 10:33:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman]]></title>
   <description><![CDATA[📺 Just watched: Bakuman
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/tokyo-revengers/61]]></description>
   <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/61</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/61</guid>
   <pubDate>Tue, 29 Aug 2023 08:56:44 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Revengers]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Revengers
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tokyo-revengers/60]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/60</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/60</guid>
-  <pubDate>Tue, 29 Aug 2023 08:53:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
