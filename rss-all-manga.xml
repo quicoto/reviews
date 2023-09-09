@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 09 Sep 2023 08:54:46 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 09 Sep 2023 09:00:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bleach]]></title>
+  <description><![CDATA[📺 Just watched: Bleach
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bleach/14]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bleach/14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/14</guid>
+  <pubDate>Sat, 09 Sep 2023 10:59:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bleach]]></title>
   <description><![CDATA[📺 Just watched: Bleach
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-exorcist/3]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-exorcist/3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/3</guid>
   <pubDate>Thu, 31 Aug 2023 18:07:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Exorcist]]></title>
-  <description><![CDATA[📺 Just watched: Blue Exorcist
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-exorcist/2]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/2</guid>
-  <pubDate>Thu, 31 Aug 2023 17:48:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
