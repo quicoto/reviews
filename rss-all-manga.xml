@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 11 Sep 2023 12:01:35 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 11 Sep 2023 16:54:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Hero Academia]]></title>
+  <description><![CDATA[📺 Just watched: My Hero Academia
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/my-hero-academia/8]]></description>
+  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/8</guid>
+  <pubDate>Mon, 11 Sep 2023 18:53:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bleach]]></title>
   <description><![CDATA[📺 Just watched: Bleach
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/77]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/77</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/77</guid>
   <pubDate>Fri, 01 Sep 2023 15:07:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Fire Force]]></title>
-  <description><![CDATA[📺 Just watched: Fire Force
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/fire-force/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/fire-force/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/fire-force/1</guid>
-  <pubDate>Thu, 31 Aug 2023 18:10:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
