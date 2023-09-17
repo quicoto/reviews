@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 17 Sep 2023 15:44:08 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 17 Sep 2023 15:50:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Hero Academia]]></title>
+  <description><![CDATA[📺 Just watched: My Hero Academia
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/my-hero-academia/13]]></description>
+  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/13</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/13</guid>
+  <pubDate>Sun, 17 Sep 2023 17:49:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/82]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/82</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/82</guid>
   <pubDate>Fri, 01 Sep 2023 15:29:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/80]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/80</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/80</guid>
-  <pubDate>Fri, 01 Sep 2023 15:23:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
