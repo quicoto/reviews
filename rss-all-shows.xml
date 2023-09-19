@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 19 Sep 2023 11:37:32 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 19 Sep 2023 20:06:42 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x32]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x32
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x32]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x32</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x32</guid>
+  <pubDate>Tue, 19 Sep 2023 22:05:54 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Star Trek: Lower Decks 4x3]]></title>
   <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 4x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x2</guid>
   <pubDate>Mon, 11 Sep 2023 14:00:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x49]]></title>
-  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x49
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x49]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x49</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x49</guid>
-  <pubDate>Mon, 11 Sep 2023 12:04:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
