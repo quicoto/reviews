@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 20 Sep 2023 17:50:11 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 20 Sep 2023 20:53:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Foundation 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Foundation 1x7
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/foundation/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/foundation/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/1x7</guid>
+  <pubDate>Wed, 20 Sep 2023 22:52:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Foundation 1x6]]></title>
   <description><![CDATA[📺 Just watched: Foundation 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x15]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x15</guid>
   <pubDate>Mon, 11 Sep 2023 20:27:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 4x1]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 4x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x1</guid>
-  <pubDate>Mon, 11 Sep 2023 14:00:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
