@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 19 Sep 2023 20:06:42 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 20 Sep 2023 13:36:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/40]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/40</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/40</guid>
+  <pubDate>Wed, 20 Sep 2023 15:35:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bleach/9]]></description>
   <link>https://quicoto.github.io/reviews/manga/bleach/9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/9</guid>
   <pubDate>Mon, 04 Sep 2023 16:04:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bleach]]></title>
-  <description><![CDATA[📺 Just watched: Bleach
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bleach/8]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bleach/8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bleach/8</guid>
-  <pubDate>Mon, 04 Sep 2023 16:00:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
