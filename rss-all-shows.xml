@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 02 Oct 2023 13:50:38 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 02 Oct 2023 17:37:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Foundation 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Foundation 1x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/foundation/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/foundation/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/1x8</guid>
+  <pubDate>Mon, 02 Oct 2023 19:36:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Zom 100 1x9]]></title>
   <description><![CDATA[📺 Just watched: Zom 100 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x51]
   <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x51</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x51</guid>
   <pubDate>Mon, 11 Sep 2023 22:56:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ahsoka 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Ahsoka 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ahsoka/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ahsoka/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ahsoka/1x4</guid>
-  <pubDate>Mon, 11 Sep 2023 21:41:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
