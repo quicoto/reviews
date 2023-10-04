@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 03 Oct 2023 21:03:18 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 04 Oct 2023 20:07:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ahsoka 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Ahsoka 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ahsoka/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ahsoka/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ahsoka/1x7</guid>
+  <pubDate>Wed, 04 Oct 2023 22:06:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Star Trek: Lower Decks 4x5]]></title>
   <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 4x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x58]
   <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x58</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x58</guid>
   <pubDate>Thu, 14 Sep 2023 13:24:58 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ahsoka 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Ahsoka 1x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ahsoka/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ahsoka/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ahsoka/1x5</guid>
-  <pubDate>Wed, 13 Sep 2023 22:44:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
