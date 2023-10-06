@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 06 Oct 2023 20:39:50 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 06 Oct 2023 21:02:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mushoku Tensei 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Mushoku Tensei 1x19
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x19</guid>
+  <pubDate>Fri, 06 Oct 2023 23:01:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mushoku Tensei 1x18]]></title>
   <description><![CDATA[📺 Just watched: Mushoku Tensei 1x18
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x62]
   <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x62</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x62</guid>
   <pubDate>Mon, 18 Sep 2023 19:01:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Fullmetal Alchemist: Brotherhood 1x63]]></title>
-  <description><![CDATA[📺 Just watched: Fullmetal Alchemist: Brotherhood 1x63
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x63]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x63</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x63</guid>
-  <pubDate>Mon, 18 Sep 2023 18:22:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
