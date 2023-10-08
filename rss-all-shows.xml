@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 08 Oct 2023 14:20:37 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 08 Oct 2023 17:39:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[MF Ghost 1x2]]></title>
+  <description><![CDATA[📺 Just watched: MF Ghost 1x2
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mf-ghost/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mf-ghost/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mf-ghost/1x2</guid>
+  <pubDate>Sun, 08 Oct 2023 19:38:49 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Given 1x4]]></title>
   <description><![CDATA[📺 Just watched: Given 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ahsoka/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ahsoka/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ahsoka/1x6</guid>
   <pubDate>Mon, 02 Oct 2023 20:53:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Foundation 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Foundation 1x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/foundation/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/foundation/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/1x8</guid>
-  <pubDate>Mon, 02 Oct 2023 19:36:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
