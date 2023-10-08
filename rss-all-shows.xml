@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 08 Oct 2023 20:17:51 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 08 Oct 2023 21:13:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Given 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Given 1x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/given/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/given/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/given/1x8</guid>
+  <pubDate>Sun, 08 Oct 2023 23:12:26 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Given 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Given 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/given/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/given/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/given/1x7</guid>
+  <pubDate>Sun, 08 Oct 2023 22:49:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Given 1x6]]></title>
   <description><![CDATA[📺 Just watched: Given 1x6
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x5]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x5</guid>
   <pubDate>Tue, 03 Oct 2023 23:02:26 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mushoku Tensei 1x16]]></title>
-  <description><![CDATA[📺 Just watched: Mushoku Tensei 1x16
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x16</guid>
-  <pubDate>Tue, 03 Oct 2023 13:57:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mushoku Tensei 1x15]]></title>
-  <description><![CDATA[📺 Just watched: Mushoku Tensei 1x15
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x15]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x15</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x15</guid>
-  <pubDate>Tue, 03 Oct 2023 13:36:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
