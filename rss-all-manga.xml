@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 10 Oct 2023 09:41:42 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 10 Oct 2023 10:54:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Hero Academia]]></title>
+  <description><![CDATA[📺 Just watched: My Hero Academia
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/my-hero-academia/23]]></description>
+  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/23</guid>
+  <pubDate>Tue, 10 Oct 2023 12:53:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/kagurabachi/3]]></description>
   <link>https://quicoto.github.io/reviews/manga/kagurabachi/3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/kagurabachi/3</guid>
   <pubDate>Sun, 01 Oct 2023 16:43:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kagurabachi]]></title>
-  <description><![CDATA[📺 Just watched: Kagurabachi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/kagurabachi/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/kagurabachi/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/kagurabachi/1</guid>
-  <pubDate>Sun, 01 Oct 2023 15:37:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
