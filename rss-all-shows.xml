@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 13 Oct 2023 15:18:05 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 13 Oct 2023 16:55:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sex Education 4x4]]></title>
+  <description><![CDATA[📺 Just watched: Sex Education 4x4
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/sex-education/4x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x4</guid>
+  <pubDate>Fri, 13 Oct 2023 18:54:48 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Given 1x11]]></title>
   <description><![CDATA[📺 Just watched: Given 1x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/foundation/1x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/foundation/1x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/1x10</guid>
   <pubDate>Fri, 06 Oct 2023 22:04:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Foundation 1x9]]></title>
-  <description><![CDATA[📺 Just watched: Foundation 1x9
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/foundation/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/foundation/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/1x9</guid>
-  <pubDate>Thu, 05 Oct 2023 22:50:17 GMT</pubDate>
 </item>
 </channel>
 </rss>
