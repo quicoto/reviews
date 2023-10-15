@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Oct 2023 17:32:46 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Oct 2023 17:38:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Servamp]]></title>
+  <description><![CDATA[📺 Just watched: Servamp
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/servamp/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/servamp/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/servamp/3</guid>
+  <pubDate>Sun, 15 Oct 2023 19:37:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Servamp]]></title>
   <description><![CDATA[📺 Just watched: Servamp
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bakuman/44]]></description>
   <link>https://quicoto.github.io/reviews/manga/bakuman/44</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/44</guid>
   <pubDate>Fri, 13 Oct 2023 16:39:10 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/94]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/94</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/94</guid>
-  <pubDate>Wed, 11 Oct 2023 09:32:16 GMT</pubDate>
 </item>
 </channel>
 </rss>
