@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 19 Oct 2023 05:35:59 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 19 Oct 2023 20:17:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x37]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x37
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x37]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x37</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x37</guid>
+  <pubDate>Thu, 19 Oct 2023 22:16:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Enen no Shouboutai 2x22]]></title>
   <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x22
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sex-education/4x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x1</guid>
   <pubDate>Fri, 13 Oct 2023 20:19:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Given 1x11]]></title>
-  <description><![CDATA[📺 Just watched: Given 1x11
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/given/1x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/given/1x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/given/1x11</guid>
-  <pubDate>Mon, 09 Oct 2023 15:25:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
