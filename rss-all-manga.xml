@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 24 Oct 2023 07:38:02 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 24 Oct 2023 09:36:53 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Revengers]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Revengers
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/tokyo-revengers/78]]></description>
+  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/78</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/78</guid>
+  <pubDate>Tue, 24 Oct 2023 11:35:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tokyo Revengers]]></title>
   <description><![CDATA[📺 Just watched: Tokyo Revengers
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/47]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/47</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/47</guid>
   <pubDate>Sun, 15 Oct 2023 16:29:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/46]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/46</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/46</guid>
-  <pubDate>Sun, 15 Oct 2023 14:03:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
