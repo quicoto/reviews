@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 24 Oct 2023 10:50:39 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 24 Oct 2023 11:11:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Revengers]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Revengers
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/tokyo-revengers/88]]></description>
+  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/88</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/88</guid>
+  <pubDate>Tue, 24 Oct 2023 13:11:04 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tokyo Revengers]]></title>
   <description><![CDATA[📺 Just watched: Tokyo Revengers
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/servamp/4]]></description>
   <link>https://quicoto.github.io/reviews/manga/servamp/4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/servamp/4</guid>
   <pubDate>Sun, 15 Oct 2023 19:45:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Servamp]]></title>
-  <description><![CDATA[📺 Just watched: Servamp
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/servamp/3]]></description>
-  <link>https://quicoto.github.io/reviews/manga/servamp/3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/servamp/3</guid>
-  <pubDate>Sun, 15 Oct 2023 19:37:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
