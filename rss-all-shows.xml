@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 27 Oct 2023 16:58:53 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 27 Oct 2023 20:49:45 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Devil's Plan 1x7]]></title>
+  <description><![CDATA[📺 Just watched: The Devil's Plan 1x7
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x7</guid>
+  <pubDate>Fri, 27 Oct 2023 22:48:42 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Devil's Plan 1x6]]></title>
   <description><![CDATA[📺 Just watched: The Devil's Plan 1x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sex-education/4x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x6</guid>
   <pubDate>Sun, 15 Oct 2023 21:34:25 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sex Education 4x5]]></title>
-  <description><![CDATA[📺 Just watched: Sex Education 4x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sex-education/4x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x5</guid>
-  <pubDate>Sun, 15 Oct 2023 20:42:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
