@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 26 Oct 2023 20:58:19 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 27 Oct 2023 16:58:53 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Devil's Plan 1x6]]></title>
+  <description><![CDATA[📺 Just watched: The Devil's Plan 1x6
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x6</guid>
+  <pubDate>Fri, 27 Oct 2023 18:57:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Devil's Plan 1x5]]></title>
   <description><![CDATA[📺 Just watched: The Devil's Plan 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sex-education/4x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x5</guid>
   <pubDate>Sun, 15 Oct 2023 20:42:28 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ahsoka 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Ahsoka 1x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ahsoka/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ahsoka/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ahsoka/1x8</guid>
-  <pubDate>Sun, 15 Oct 2023 15:01:11 GMT</pubDate>
 </item>
 </channel>
 </rss>
