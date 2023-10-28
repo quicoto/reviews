@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 27 Oct 2023 20:49:45 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 28 Oct 2023 15:19:49 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Lupin 3x1]]></title>
+  <description><![CDATA[📺 Just watched: Lupin 3x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/lupin/3x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/lupin/3x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lupin/3x1</guid>
+  <pubDate>Sat, 28 Oct 2023 17:18:42 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Devil's Plan 1x7]]></title>
   <description><![CDATA[📺 Just watched: The Devil's Plan 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x16]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x16</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x16</guid>
   <pubDate>Sun, 15 Oct 2023 22:36:39 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sex Education 4x6]]></title>
-  <description><![CDATA[📺 Just watched: Sex Education 4x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sex-education/4x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x6</guid>
-  <pubDate>Sun, 15 Oct 2023 21:34:25 GMT</pubDate>
 </item>
 </channel>
 </rss>
