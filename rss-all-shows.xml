@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 29 Oct 2023 13:29:57 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 29 Oct 2023 14:43:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x38]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x38
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x38]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x38</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x38</guid>
+  <pubDate>Sun, 29 Oct 2023 15:42:13 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Loki 2x3]]></title>
   <description><![CDATA[📺 Just watched: Loki 2x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x20]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x20</guid>
   <pubDate>Tue, 17 Oct 2023 21:01:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 2x19]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 2x19
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x19</guid>
-  <pubDate>Tue, 17 Oct 2023 20:35:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
