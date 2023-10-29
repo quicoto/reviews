@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 29 Oct 2023 13:29:20 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 29 Oct 2023 13:29:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Loki 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Loki 2x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/loki/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/loki/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/loki/2x2</guid>
+  <pubDate>Sun, 29 Oct 2023 14:28:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Loki 2x1]]></title>
   <description><![CDATA[📺 Just watched: Loki 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sex-education/4x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x8</guid>
   <pubDate>Mon, 16 Oct 2023 23:01:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sex Education 4x7]]></title>
-  <description><![CDATA[📺 Just watched: Sex Education 4x7
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sex-education/4x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sex-education/4x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sex-education/4x7</guid>
-  <pubDate>Mon, 16 Oct 2023 21:39:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
