@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 30 Oct 2023 12:43:13 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 30 Oct 2023 17:38:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sasaki to Miyano 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x2</guid>
+  <pubDate>Mon, 30 Oct 2023 18:37:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Sasaki to Miyano 1x1]]></title>
   <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/foundation/2x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/foundation/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/2x1</guid>
   <pubDate>Wed, 18 Oct 2023 19:50:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Enen no Shouboutai 4x21]]></title>
-  <description><![CDATA[📺 Just watched: Enen no Shouboutai 4x21
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/4x21]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/4x21</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/4x21</guid>
-  <pubDate>Tue, 17 Oct 2023 21:33:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
