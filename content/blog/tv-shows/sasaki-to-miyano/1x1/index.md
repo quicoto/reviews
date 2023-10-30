@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Sasaki to Miyano 1x1"
 date: "2023-10-29T23:27:11"
 name: "Sasaki to Miyano"
