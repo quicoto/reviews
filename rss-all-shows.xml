@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 01 Nov 2023 08:55:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Nov 2023 15:42:18 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sasaki to Miyano 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x8</guid>
+  <pubDate>Wed, 01 Nov 2023 16:41:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Sasaki to Miyano 1x7]]></title>
   <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x3</guid>
   <pubDate>Sun, 22 Oct 2023 22:42:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Devil's Plan 1x2]]></title>
-  <description><![CDATA[📺 Just watched: The Devil's Plan 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x2</guid>
-  <pubDate>Sun, 22 Oct 2023 21:58:40 GMT</pubDate>
 </item>
 </channel>
 </rss>
