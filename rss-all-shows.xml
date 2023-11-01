@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 31 Oct 2023 21:11:42 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Nov 2023 07:34:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sasaki to Miyano 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x6
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6</guid>
+  <pubDate>Wed, 01 Nov 2023 08:32:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Sasaki to Miyano 1x5]]></title>
   <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x1</guid>
   <pubDate>Sun, 22 Oct 2023 21:58:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Foundation 2x2]]></title>
-  <description><![CDATA[📺 Just watched: Foundation 2x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/foundation/2x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/foundation/2x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/2x2</guid>
-  <pubDate>Sun, 22 Oct 2023 21:37:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
