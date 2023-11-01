@@ -1,0 +1,13 @@
+---
+type: series
+title: "Sasaki to Miyano 1x10"
+date: "2023-11-01T18:12:45"
+name: "Sasaki to Miyano"
+season: 1
+episode: 10
+rating: 3
+ratingEmoji: ⭐️⭐️⭐️
+share: false
+---
+
+*[No review was written for this episode]*
