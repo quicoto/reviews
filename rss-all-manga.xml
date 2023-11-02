@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 02 Nov 2023 11:16:40 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 02 Nov 2023 11:53:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/36]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/36</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/36</guid>
+  <pubDate>Thu, 02 Nov 2023 12:52:40 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/tokyo-revengers/82]]></description>
   <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/82</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/82</guid>
   <pubDate>Tue, 24 Oct 2023 12:18:17 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Revengers]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Revengers
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tokyo-revengers/81]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/81</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/81</guid>
-  <pubDate>Tue, 24 Oct 2023 12:13:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
