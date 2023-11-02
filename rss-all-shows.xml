@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 02 Nov 2023 20:50:02 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 02 Nov 2023 21:11:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Horimiya 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Horimiya 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/horimiya/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x2</guid>
+  <pubDate>Thu, 02 Nov 2023 22:10:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Horimiya 1x1]]></title>
   <description><![CDATA[📺 Just watched: Horimiya 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/lupin/3x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/lupin/3x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lupin/3x3</guid>
   <pubDate>Sun, 29 Oct 2023 10:26:32 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Lupin 3x1]]></title>
-  <description><![CDATA[📺 Just watched: Lupin 3x1
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/lupin/3x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/lupin/3x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/lupin/3x1</guid>
-  <pubDate>Sat, 28 Oct 2023 17:18:42 GMT</pubDate>
 </item>
 </channel>
 </rss>
