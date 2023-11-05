@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 05 Nov 2023 14:35:13 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 05 Nov 2023 18:31:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Horimiya 1x11]]></title>
+  <description><![CDATA[📺 Just watched: Horimiya 1x11
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/horimiya/1x11]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x11</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x11</guid>
+  <pubDate>Sun, 05 Nov 2023 19:30:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Horimiya 1x10]]></title>
   <description><![CDATA[📺 Just watched: Horimiya 1x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x6</guid>
   <pubDate>Wed, 01 Nov 2023 08:32:58 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sasaki to Miyano 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x5</guid>
-  <pubDate>Tue, 31 Oct 2023 22:10:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
