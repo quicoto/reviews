@@ -1,5 +1,6 @@
 ---
 type: series
+time: 40
 title: "Special Ops: Lioness 1x1"
 date: "2023-11-06T20:50:27"
 name: "Special Ops: Lioness"
