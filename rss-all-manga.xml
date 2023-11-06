@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Nov 2023 15:43:55 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Nov 2023 16:00:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Wind Breaker]]></title>
+  <description><![CDATA[📺 Just watched: Wind Breaker
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/wind-breaker/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/wind-breaker/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/3</guid>
+  <pubDate>Mon, 06 Nov 2023 16:59:20 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Wind Breaker]]></title>
   <description><![CDATA[📺 Just watched: Wind Breaker
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/45]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/45</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/45</guid>
   <pubDate>Mon, 30 Oct 2023 09:22:44 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tokyo Revengers]]></title>
-  <description><![CDATA[📺 Just watched: Tokyo Revengers
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/tokyo-revengers/88]]></description>
-  <link>https://quicoto.github.io/reviews/manga/tokyo-revengers/88</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/tokyo-revengers/88</guid>
-  <pubDate>Tue, 24 Oct 2023 13:11:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
