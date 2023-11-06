@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 06 Nov 2023 19:56:59 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Nov 2023 21:54:30 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Special Ops: Lioness 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x2</guid>
+  <pubDate>Mon, 06 Nov 2023 22:53:29 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Special Ops: Lioness 1x1]]></title>
   <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x12]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x12</guid>
   <pubDate>Wed, 01 Nov 2023 18:51:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sasaki to Miyano 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Sasaki to Miyano 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x10</guid>
-  <pubDate>Wed, 01 Nov 2023 18:12:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
