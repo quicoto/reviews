@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 07 Nov 2023 21:45:32 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Nov 2023 11:44:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kimetsu no Yaiba]]></title>
+  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/8]]></description>
+  <link>https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/kimetsu-no-yaiba/8</guid>
+  <pubDate>Wed, 08 Nov 2023 12:43:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Wind Breaker]]></title>
   <description><![CDATA[📺 Just watched: Wind Breaker
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/48]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/48</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/48</guid>
   <pubDate>Mon, 30 Oct 2023 12:49:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Haikyuu]]></title>
-  <description><![CDATA[📺 Just watched: Haikyuu
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/haikyuu/47]]></description>
-  <link>https://quicoto.github.io/reviews/manga/haikyuu/47</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/47</guid>
-  <pubDate>Mon, 30 Oct 2023 11:31:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
