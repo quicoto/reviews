@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 08 Nov 2023 12:20:36 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Nov 2023 16:56:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Futurama 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Futurama 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/futurama/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/futurama/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/1x3</guid>
+  <pubDate>Wed, 08 Nov 2023 17:55:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Horimiya: Piece 1x4]]></title>
   <description><![CDATA[📺 Just watched: Horimiya: Piece 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x39]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x39</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x39</guid>
   <pubDate>Sat, 04 Nov 2023 18:35:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Foundation 2x4]]></title>
-  <description><![CDATA[📺 Just watched: Foundation 2x4
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/foundation/2x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/foundation/2x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/2x4</guid>
-  <pubDate>Sat, 04 Nov 2023 15:55:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
