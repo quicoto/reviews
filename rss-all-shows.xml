@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 09 Nov 2023 21:51:37 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 10 Nov 2023 20:32:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Loki 2x4]]></title>
+  <description><![CDATA[📺 Just watched: Loki 2x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/loki/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/loki/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/loki/2x4</guid>
+  <pubDate>Fri, 10 Nov 2023 21:31:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 1x4]]></title>
   <description><![CDATA[📺 Just watched: Futurama 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/horimiya/1x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x7</guid>
   <pubDate>Sat, 04 Nov 2023 23:26:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Horimiya 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Horimiya 1x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/horimiya/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x6</guid>
-  <pubDate>Sat, 04 Nov 2023 22:59:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
