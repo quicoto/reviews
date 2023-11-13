@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 13 Nov 2023 12:56:14 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 13 Nov 2023 21:02:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Horimiya: Piece 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Horimiya: Piece 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x7</guid>
+  <pubDate>Mon, 13 Nov 2023 22:01:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 1x7]]></title>
   <description><![CDATA[📺 Just watched: Futurama 1x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x1</guid>
   <pubDate>Sun, 05 Nov 2023 23:24:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Horimiya 1x13]]></title>
-  <description><![CDATA[📺 Just watched: Horimiya 1x13
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/horimiya/1x13]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x13</guid>
-  <pubDate>Sun, 05 Nov 2023 20:24:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
