@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 12 Nov 2023 20:41:17 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 13 Nov 2023 08:28:26 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Special Ops: Lioness 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5</guid>
+  <pubDate>Mon, 13 Nov 2023 09:27:42 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Special Ops: Lioness 1x4]]></title>
   <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/horimiya/1x11]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x11</guid>
   <pubDate>Sun, 05 Nov 2023 19:30:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Horimiya 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Horimiya 1x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/horimiya/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/horimiya/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/horimiya/1x10</guid>
-  <pubDate>Sun, 05 Nov 2023 15:34:21 GMT</pubDate>
 </item>
 </channel>
 </rss>
