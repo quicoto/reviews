@@ -9,4 +9,4 @@ ratingEmoji: ⭐️
 share: false
 ---
 
-*[No review was written for this chapter]*
+_[No review was written for this chapter]_
