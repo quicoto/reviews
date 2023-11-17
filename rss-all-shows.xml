@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 17 Nov 2023 19:54:05 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 17 Nov 2023 20:16:28 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Futurama 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Futurama 2x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/futurama/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x2</guid>
+  <pubDate>Fri, 17 Nov 2023 21:15:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 2x1]]></title>
   <description><![CDATA[📺 Just watched: Futurama 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/futurama/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/futurama/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/1x4</guid>
   <pubDate>Thu, 09 Nov 2023 22:50:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen 1x40]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x40
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x40]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x40</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x40</guid>
-  <pubDate>Thu, 09 Nov 2023 22:19:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
