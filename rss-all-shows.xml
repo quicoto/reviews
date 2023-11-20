@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 20 Nov 2023 19:04:51 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 20 Nov 2023 19:57:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Futurama 2x5]]></title>
+  <description><![CDATA[📺 Just watched: Futurama 2x5
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/futurama/2x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x5</guid>
+  <pubDate>Mon, 20 Nov 2023 20:57:02 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Horimiya: Piece 1x13]]></title>
   <description><![CDATA[📺 Just watched: Horimiya: Piece 1x13
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/futurama/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/futurama/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/1x6</guid>
   <pubDate>Mon, 13 Nov 2023 13:33:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Special Ops: Lioness 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x5</guid>
-  <pubDate>Mon, 13 Nov 2023 09:27:42 GMT</pubDate>
 </item>
 </channel>
 </rss>
