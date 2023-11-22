@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 22 Nov 2023 16:56:54 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 Nov 2023 17:48:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/4]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/4</guid>
+  <pubDate>Wed, 22 Nov 2023 18:47:16 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kimetsu no Yaiba]]></title>
   <description><![CDATA[📺 Just watched: Kimetsu no Yaiba
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-lock/35]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-lock/35</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/35</guid>
   <pubDate>Thu, 02 Nov 2023 12:15:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Lock]]></title>
-  <description><![CDATA[📺 Just watched: Blue Lock
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-lock/34]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-lock/34</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/34</guid>
-  <pubDate>Thu, 02 Nov 2023 12:13:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
