@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 20 Nov 2023 20:51:25 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 Nov 2023 16:56:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 7x6]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 7x6
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6</guid>
+  <pubDate>Wed, 22 Nov 2023 17:56:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rick and Morty 7x5]]></title>
   <description><![CDATA[📺 Just watched: Rick and Morty 7x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x6]]></descripti
   <link>https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x6</guid>
   <pubDate>Mon, 13 Nov 2023 22:58:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Special Ops: Lioness 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Special Ops: Lioness 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x7</guid>
-  <pubDate>Mon, 13 Nov 2023 22:57:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
