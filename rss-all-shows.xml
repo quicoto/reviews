@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 04 Dec 2023 21:06:11 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 04 Dec 2023 21:33:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 1x24]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 1x24
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/1x24]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x24</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x24</guid>
+  <pubDate>Mon, 04 Dec 2023 22:32:23 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 2x20]]></title>
   <description><![CDATA[📺 Just watched: Futurama 2x20
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x8]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x8</guid>
   <pubDate>Wed, 22 Nov 2023 22:14:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 4x10]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 4x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x10</guid>
-  <pubDate>Wed, 22 Nov 2023 22:13:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
