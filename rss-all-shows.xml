@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 03 Dec 2023 14:41:53 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 04 Dec 2023 21:05:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Futurama 2x19]]></title>
+  <description><![CDATA[📺 Just watched: Futurama 2x19
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/futurama/2x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x19</guid>
+  <pubDate>Mon, 04 Dec 2023 22:04:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 2x17]]></title>
   <description><![CDATA[📺 Just watched: Futurama 2x17
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x6</guid>
   <pubDate>Wed, 22 Nov 2023 17:56:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rick and Morty 7x5]]></title>
-  <description><![CDATA[📺 Just watched: Rick and Morty 7x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x5</guid>
-  <pubDate>Mon, 20 Nov 2023 21:50:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
