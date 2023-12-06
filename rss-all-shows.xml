@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 06 Dec 2023 12:09:43 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 06 Dec 2023 16:38:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Futurama 3x4]]></title>
+  <description><![CDATA[📺 Just watched: Futurama 3x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/futurama/3x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/futurama/3x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/3x4</guid>
+  <pubDate>Wed, 06 Dec 2023 17:37:46 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 3x3]]></title>
   <description><![CDATA[📺 Just watched: Futurama 3x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/futurama/2x7]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x7</guid>
   <pubDate>Sun, 26 Nov 2023 16:39:15 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Foundation 2x5]]></title>
-  <description><![CDATA[📺 Just watched: Foundation 2x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/foundation/2x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/foundation/2x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/foundation/2x5</guid>
-  <pubDate>Thu, 23 Nov 2023 22:37:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
