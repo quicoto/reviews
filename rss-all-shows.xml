@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 09 Dec 2023 21:12:27 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 09 Dec 2023 21:12:48 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 7x8]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 7x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8</guid>
+  <pubDate>Sat, 09 Dec 2023 22:12:08 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rick and Morty 7x7]]></title>
   <description><![CDATA[📺 Just watched: Rick and Morty 7x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x22]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x22</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x22</guid>
   <pubDate>Sun, 26 Nov 2023 21:12:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Futurama 2x9]]></title>
-  <description><![CDATA[📺 Just watched: Futurama 2x9
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/futurama/2x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x9</guid>
-  <pubDate>Sun, 26 Nov 2023 20:18:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
