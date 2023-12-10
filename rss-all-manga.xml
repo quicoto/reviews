@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 10 Dec 2023 18:08:35 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 10 Dec 2023 18:16:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bakuman/54]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bakuman/54</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/54</guid>
+  <pubDate>Sun, 10 Dec 2023 19:15:47 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman]]></title>
   <description><![CDATA[📺 Just watched: Bakuman
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/manga/midori-no-hibi/1]]></description>
   <link>https://quicoto.github.io/reviews/manga/midori-no-hibi/1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/midori-no-hibi/1</guid>
-  <pubDate>Thu, 07 Dec 2023 14:28:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Midori no Hibi]]></title>
-  <description><![CDATA[📺 Just watched: Midori no Hibi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/midori-no-hibi/7]]></description>
-  <link>https://quicoto.github.io/reviews/manga/midori-no-hibi/7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/midori-no-hibi/7</guid>
   <pubDate>Thu, 07 Dec 2023 14:28:57 GMT</pubDate>
 </item>
 </channel>
