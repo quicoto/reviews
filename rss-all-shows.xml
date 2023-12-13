@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 13 Dec 2023 22:08:26 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 13 Dec 2023 22:09:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Naruto 2x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/naruto/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/naruto/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/2x2</guid>
+  <pubDate>Wed, 13 Dec 2023 23:07:54 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto 2x1]]></title>
   <description><![CDATA[📺 Just watched: Naruto 2x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/futurama/2x17]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x17</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x17</guid>
   <pubDate>Sun, 03 Dec 2023 15:41:07 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Futurama 2x16]]></title>
-  <description><![CDATA[📺 Just watched: Futurama 2x16
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/futurama/2x16]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x16</guid>
-  <pubDate>Sun, 03 Dec 2023 13:24:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
