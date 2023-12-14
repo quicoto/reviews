@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 14 Dec 2023 20:37:38 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 14 Dec 2023 20:44:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x44]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x44
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44</guid>
+  <pubDate>Thu, 14 Dec 2023 21:37:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x43]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x43
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/naruto/1x24]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/naruto/1x24</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/1x24</guid>
   <pubDate>Mon, 04 Dec 2023 22:32:23 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Futurama 2x20]]></title>
-  <description><![CDATA[📺 Just watched: Futurama 2x20
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/futurama/2x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/futurama/2x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/2x20</guid>
-  <pubDate>Mon, 04 Dec 2023 22:05:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
