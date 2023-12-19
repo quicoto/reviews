@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 18 Dec 2023 21:12:21 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 19 Dec 2023 22:11:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rick and Morty 7x10]]></title>
+  <description><![CDATA[📺 Just watched: Rick and Morty 7x10
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x10</guid>
+  <pubDate>Tue, 19 Dec 2023 23:10:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Danshi Koukousei no Nichijou 1x5]]></title>
   <description><![CDATA[📺 Just watched: Danshi Koukousei no Nichijou 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/futurama/3x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/futurama/3x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/3x4</guid>
   <pubDate>Wed, 06 Dec 2023 17:37:46 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Futurama 3x3]]></title>
-  <description><![CDATA[📺 Just watched: Futurama 3x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/futurama/3x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/futurama/3x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/3x3</guid>
-  <pubDate>Wed, 06 Dec 2023 13:08:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
