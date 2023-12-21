@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 20 Dec 2023 21:32:25 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 21 Dec 2023 10:46:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ao Ashi]]></title>
+  <description><![CDATA[📺 Just watched: Ao Ashi
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/ao-ashi/95]]></description>
+  <link>https://quicoto.github.io/reviews/manga/ao-ashi/95</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/95</guid>
+  <pubDate>Thu, 21 Dec 2023 11:45:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/manga/midori-no-hibi/11]]></description>
   <link>https://quicoto.github.io/reviews/manga/midori-no-hibi/11</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/midori-no-hibi/11</guid>
-  <pubDate>Thu, 07 Dec 2023 14:28:57 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Midori no Hibi]]></title>
-  <description><![CDATA[📺 Just watched: Midori no Hibi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/midori-no-hibi/12]]></description>
-  <link>https://quicoto.github.io/reviews/manga/midori-no-hibi/12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/midori-no-hibi/12</guid>
   <pubDate>Thu, 07 Dec 2023 14:28:57 GMT</pubDate>
 </item>
 </channel>
