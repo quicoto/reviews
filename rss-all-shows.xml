@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 21 Dec 2023 12:38:29 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 23 Dec 2023 20:27:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x46]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x46
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x46]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x46</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x46</guid>
+  <pubDate>Sat, 23 Dec 2023 21:26:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Danshi Koukousei no Nichijou 1x8]]></title>
   <description><![CDATA[📺 Just watched: Danshi Koukousei no Nichijou 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1]]></
   <link>https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1</guid>
   <pubDate>Mon, 11 Dec 2023 18:19:09 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rick and Morty 7x8]]></title>
-  <description><![CDATA[📺 Just watched: Rick and Morty 7x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8</guid>
-  <pubDate>Sat, 09 Dec 2023 22:12:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
