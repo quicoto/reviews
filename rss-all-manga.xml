@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 24 Dec 2023 18:57:51 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 24 Dec 2023 19:04:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Bakuman]]></title>
+  <description><![CDATA[📺 Just watched: Bakuman
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/bakuman/70]]></description>
+  <link>https://quicoto.github.io/reviews/manga/bakuman/70</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/70</guid>
+  <pubDate>Sun, 24 Dec 2023 20:03:42 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Bakuman]]></title>
   <description><![CDATA[📺 Just watched: Bakuman
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/96]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/96</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/96</guid>
   <pubDate>Thu, 21 Dec 2023 11:45:50 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/95]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/95</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/95</guid>
-  <pubDate>Thu, 21 Dec 2023 11:45:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
