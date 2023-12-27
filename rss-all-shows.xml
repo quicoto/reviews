@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 24 Dec 2023 19:04:31 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 27 Dec 2023 17:11:16 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Zom 100 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Zom 100 1x10
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/zom-100/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/zom-100/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/zom-100/1x10</guid>
+  <pubDate>Wed, 27 Dec 2023 18:10:30 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x46]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x46
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x9]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x9</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x9</guid>
   <pubDate>Mon, 11 Dec 2023 18:40:17 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Danshi Koukousei no Nichijou 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Danshi Koukousei no Nichijou 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x1</guid>
-  <pubDate>Mon, 11 Dec 2023 18:19:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
