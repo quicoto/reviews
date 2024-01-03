@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 03 Jan 2024 09:43:25 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 03 Jan 2024 11:26:12 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Servamp]]></title>
+  <description><![CDATA[📺 Just watched: Servamp
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/servamp/16]]></description>
+  <link>https://quicoto.github.io/reviews/manga/servamp/16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/servamp/16</guid>
+  <pubDate>Wed, 03 Jan 2024 12:25:25 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Servamp]]></title>
   <description><![CDATA[📺 Just watched: Servamp
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bakuman/65]]></description>
   <link>https://quicoto.github.io/reviews/manga/bakuman/65</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/65</guid>
   <pubDate>Sun, 24 Dec 2023 19:43:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/64]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/64</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/64</guid>
-  <pubDate>Sun, 24 Dec 2023 19:39:11 GMT</pubDate>
 </item>
 </channel>
 </rss>
