@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 04 Jan 2024 07:52:25 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 04 Jan 2024 08:02:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 0]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 0
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/3]]></description>
+  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/3</guid>
+  <pubDate>Thu, 04 Jan 2024 09:01:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 0]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 0
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/bakuman/67]]></description>
   <link>https://quicoto.github.io/reviews/manga/bakuman/67</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/67</guid>
   <pubDate>Sun, 24 Dec 2023 19:50:10 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/66]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/66</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/66</guid>
-  <pubDate>Sun, 24 Dec 2023 19:46:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
