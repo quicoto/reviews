@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 04 Jan 2024 08:11:20 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 05 Jan 2024 09:24:08 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/9]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/9</guid>
+  <pubDate>Fri, 05 Jan 2024 10:23:15 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/8]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/8</guid>
+  <pubDate>Fri, 05 Jan 2024 10:23:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 0]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 0
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/55]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/55</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/55</guid>
   <pubDate>Fri, 29 Dec 2023 08:14:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/70]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/70</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/70</guid>
-  <pubDate>Sun, 24 Dec 2023 20:03:42 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Bakuman]]></title>
-  <description><![CDATA[📺 Just watched: Bakuman
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/bakuman/69]]></description>
-  <link>https://quicoto.github.io/reviews/manga/bakuman/69</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/bakuman/69</guid>
-  <pubDate>Sun, 24 Dec 2023 19:56:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
