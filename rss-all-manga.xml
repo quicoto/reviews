@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Jan 2024 12:02:12 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Jan 2024 15:20:39 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/45]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/45</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/45</guid>
+  <pubDate>Wed, 10 Jan 2024 16:19:48 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Blue Lock]]></title>
+  <description><![CDATA[📺 Just watched: Blue Lock
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-lock/43]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-lock/43</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-lock/43</guid>
+  <pubDate>Wed, 10 Jan 2024 13:01:29 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Lock]]></title>
   <description><![CDATA[📺 Just watched: Blue Lock
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/62]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/62</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/62</guid>
   <pubDate>Fri, 29 Dec 2023 08:37:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/60]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/60</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/60</guid>
-  <pubDate>Fri, 29 Dec 2023 08:34:33 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/59]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/59</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/59</guid>
-  <pubDate>Fri, 29 Dec 2023 08:28:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
