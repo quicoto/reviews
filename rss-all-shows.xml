@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Jan 2024 15:42:08 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 13 Jan 2024 17:29:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[True Detective 1x2]]></title>
+  <description><![CDATA[📺 Just watched: True Detective 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/true-detective/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/true-detective/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/1x2</guid>
+  <pubDate>Sat, 13 Jan 2024 18:26:24 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[True Detective 1x1]]></title>
+  <description><![CDATA[📺 Just watched: True Detective 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/true-detective/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/true-detective/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/1x1</guid>
+  <pubDate>Sat, 13 Jan 2024 17:22:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 3x10]]></title>
   <description><![CDATA[📺 Just watched: Futurama 3x10
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x44</guid>
   <pubDate>Thu, 14 Dec 2023 21:37:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen 1x43]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x43
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x43]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x43</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x43</guid>
-  <pubDate>Thu, 14 Dec 2023 21:36:52 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto 2x3]]></title>
-  <description><![CDATA[📺 Just watched: Naruto 2x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/naruto/2x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/naruto/2x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/naruto/2x3</guid>
-  <pubDate>Wed, 13 Dec 2023 23:08:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
