@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 18 Jan 2024 20:14:37 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Jan 2024 21:26:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[True Detective 2x1]]></title>
+  <description><![CDATA[📺 Just watched: True Detective 2x1
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/true-detective/2x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/true-detective/2x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/2x1</guid>
+  <pubDate>Thu, 18 Jan 2024 22:25:41 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x14]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/true-detective/1x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/true-detective/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/1x5</guid>
   <pubDate>Sun, 14 Jan 2024 09:26:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[True Detective 1x4]]></title>
-  <description><![CDATA[📺 Just watched: True Detective 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/true-detective/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/true-detective/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/1x4</guid>
-  <pubDate>Sun, 14 Jan 2024 08:29:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
