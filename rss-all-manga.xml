@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 18 Jan 2024 12:55:30 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Jan 2024 12:56:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/57]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/57</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/57</guid>
+  <pubDate>Thu, 18 Jan 2024 13:55:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/1]]></description>
   <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen-0/1</guid>
   <pubDate>Thu, 04 Jan 2024 08:51:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Servamp]]></title>
-  <description><![CDATA[📺 Just watched: Servamp
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/servamp/16]]></description>
-  <link>https://quicoto.github.io/reviews/manga/servamp/16</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/servamp/16</guid>
-  <pubDate>Wed, 03 Jan 2024 12:25:25 GMT</pubDate>
 </item>
 </channel>
 </rss>
