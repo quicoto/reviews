@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 22 Jan 2024 13:58:32 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 22 Jan 2024 14:57:01 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Hero Academia]]></title>
+  <description><![CDATA[📺 Just watched: My Hero Academia
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/my-hero-academia/38]]></description>
+  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/38</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/38</guid>
+  <pubDate>Mon, 22 Jan 2024 15:56:14 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Hero Academia]]></title>
   <description><![CDATA[📺 Just watched: My Hero Academia
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-exorcist/10]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-exorcist/10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/10</guid>
   <pubDate>Fri, 05 Jan 2024 10:23:27 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Exorcist]]></title>
-  <description><![CDATA[📺 Just watched: Blue Exorcist
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-exorcist/9]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/9</guid>
-  <pubDate>Fri, 05 Jan 2024 10:23:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
