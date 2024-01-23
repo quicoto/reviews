@@ -16,7 +16,8 @@
     "watch:test": "NODE_OPTIONS=--experimental-vm-modules jest --watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "eslint 'backend/**/*.js'",
-    "batch": "node backend/batchCreation.js",
+    "batchTV": "node backend/batchCreationTV.js",
+    "batchManga": "node backend/batchCreationManga.js",
     "prepare": "husky install"
   },
   "dependencies": {
