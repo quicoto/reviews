@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 28 Jan 2024 12:04:10 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 28 Jan 2024 14:57:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Yakusoku no Neverland 1x7]]></title>
+  <description><![CDATA[📺 Just watched: Yakusoku no Neverland 1x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7</guid>
+  <pubDate>Sun, 28 Jan 2024 15:56:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Solo Leveling 1x4]]></title>
   <description><![CDATA[📺 Just watched: Solo Leveling 1x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/true-detective/3x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/true-detective/3x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/3x3</guid>
   <pubDate>Sat, 20 Jan 2024 18:07:32 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Reacher 2x1]]></title>
-  <description><![CDATA[📺 Just watched: Reacher 2x1
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/reacher/2x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/reacher/2x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/reacher/2x1</guid>
-  <pubDate>Fri, 19 Jan 2024 23:29:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
