@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 27 Jan 2024 21:26:44 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 28 Jan 2024 12:04:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Solo Leveling 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Solo Leveling 1x4
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x4</guid>
+  <pubDate>Sun, 28 Jan 2024 13:03:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Masters of the air 1x2]]></title>
   <description><![CDATA[📺 Just watched: Masters of the air 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/reacher/2x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/reacher/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/reacher/2x1</guid>
   <pubDate>Fri, 19 Jan 2024 23:29:26 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[True Detective 3x2]]></title>
-  <description><![CDATA[📺 Just watched: True Detective 3x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/true-detective/3x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/true-detective/3x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/true-detective/3x2</guid>
-  <pubDate>Fri, 19 Jan 2024 22:19:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
