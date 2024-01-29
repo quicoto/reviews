@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 29 Jan 2024 10:49:14 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 29 Jan 2024 13:58:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto]]></title>
+  <description><![CDATA[📺 Just watched: Naruto
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/naruto/65]]></description>
+  <link>https://quicoto.github.io/reviews/manga/naruto/65</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/65</guid>
+  <pubDate>Mon, 29 Jan 2024 14:57:38 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Naruto]]></title>
+  <description><![CDATA[📺 Just watched: Naruto
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/naruto/64]]></description>
+  <link>https://quicoto.github.io/reviews/manga/naruto/64</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/64</guid>
+  <pubDate>Mon, 29 Jan 2024 14:55:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -221,30 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/manga/dragon-ball/4]]></description>
   <link>https://quicoto.github.io/reviews/manga/dragon-ball/4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/dragon-ball/4</guid>
-  <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Dragon Ball]]></title>
-  <description><![CDATA[📺 Just watched: Dragon Ball
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/dragon-ball/5]]></description>
-  <link>https://quicoto.github.io/reviews/manga/dragon-ball/5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/dragon-ball/5</guid>
-  <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Dragon Ball]]></title>
-  <description><![CDATA[📺 Just watched: Dragon Ball
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/dragon-ball/6]]></description>
-  <link>https://quicoto.github.io/reviews/manga/dragon-ball/6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/dragon-ball/6</guid>
   <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
