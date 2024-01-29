@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 29 Jan 2024 10:48:01 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 29 Jan 2024 10:48:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/65]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/65</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/65</guid>
+  <pubDate>Mon, 29 Jan 2024 11:47:33 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Haikyuu]]></title>
+  <description><![CDATA[📺 Just watched: Haikyuu
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/haikyuu/64]]></description>
+  <link>https://quicoto.github.io/reviews/manga/haikyuu/64</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/64</guid>
+  <pubDate>Mon, 29 Jan 2024 11:47:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Haikyuu]]></title>
   <description><![CDATA[📺 Just watched: Haikyuu
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/my-hero-academia/40]]></description>
   <link>https://quicoto.github.io/reviews/manga/my-hero-academia/40</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/40</guid>
   <pubDate>Mon, 22 Jan 2024 16:21:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Hero Academia]]></title>
-  <description><![CDATA[📺 Just watched: My Hero Academia
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/my-hero-academia/41]]></description>
-  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/41</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/41</guid>
-  <pubDate>Mon, 22 Jan 2024 16:21:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Hero Academia]]></title>
-  <description><![CDATA[📺 Just watched: My Hero Academia
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/my-hero-academia/39]]></description>
-  <link>https://quicoto.github.io/reviews/manga/my-hero-academia/39</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/my-hero-academia/39</guid>
-  <pubDate>Mon, 22 Jan 2024 16:06:37 GMT</pubDate>
 </item>
 </channel>
 </rss>
