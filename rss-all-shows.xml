@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 30 Jan 2024 21:23:48 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 31 Jan 2024 20:37:54 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[For All Mankind 4x6]]></title>
+  <description><![CDATA[📺 Just watched: For All Mankind 4x6
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x6</guid>
+  <pubDate>Wed, 31 Jan 2024 21:37:07 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Mashle 1x15]]></title>
   <description><![CDATA[📺 Just watched: Mashle 1x15
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x1]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x1</guid>
   <pubDate>Wed, 24 Jan 2024 21:38:12 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Reacher 2x8]]></title>
-  <description><![CDATA[📺 Just watched: Reacher 2x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/reacher/2x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/reacher/2x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/reacher/2x8</guid>
-  <pubDate>Mon, 22 Jan 2024 17:50:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
