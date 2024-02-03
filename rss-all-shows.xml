@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 02 Feb 2024 21:02:50 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 03 Feb 2024 17:30:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mashle 1x16]]></title>
+  <description><![CDATA[📺 Just watched: Mashle 1x16
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mashle/1x16]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x16</guid>
+  <pubDate>Sat, 03 Feb 2024 18:29:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Masters of the air 1x3]]></title>
   <description><![CDATA[📺 Just watched: Masters of the air 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x6]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x6</guid>
   <pubDate>Sat, 27 Jan 2024 19:35:03 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Yakusoku no Neverland 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Yakusoku no Neverland 1x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x5</guid>
-  <pubDate>Sat, 27 Jan 2024 19:10:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
