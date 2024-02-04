@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 04 Feb 2024 15:10:21 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 04 Feb 2024 16:27:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[For All Mankind 4x8]]></title>
+  <description><![CDATA[📺 Just watched: For All Mankind 4x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x8</guid>
+  <pubDate>Sun, 04 Feb 2024 17:26:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[For All Mankind 4x7]]></title>
   <description><![CDATA[📺 Just watched: For All Mankind 4x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x8]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x8</guid>
   <pubDate>Sun, 28 Jan 2024 16:21:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Yakusoku no Neverland 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Yakusoku no Neverland 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x7</guid>
-  <pubDate>Sun, 28 Jan 2024 15:56:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
