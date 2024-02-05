@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 05 Feb 2024 11:02:08 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 05 Feb 2024 11:03:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/jujutsu-kaisen/5]]></description>
+  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/5</guid>
+  <pubDate>Mon, 05 Feb 2024 12:02:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/haikyuu/66]]></description>
   <link>https://quicoto.github.io/reviews/manga/haikyuu/66</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/66</guid>
   <pubDate>Mon, 29 Jan 2024 11:47:40 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Haikyuu]]></title>
-  <description><![CDATA[📺 Just watched: Haikyuu
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/haikyuu/65]]></description>
-  <link>https://quicoto.github.io/reviews/manga/haikyuu/65</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/haikyuu/65</guid>
-  <pubDate>Mon, 29 Jan 2024 11:47:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
