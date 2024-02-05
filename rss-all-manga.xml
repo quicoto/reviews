@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 04 Feb 2024 21:37:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 05 Feb 2024 09:54:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1</guid>
+  <pubDate>Mon, 05 Feb 2024 10:53:39 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto]]></title>
   <description><![CDATA[📺 Just watched: Naruto
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/manga/dragon-ball/1]]></description>
   <link>https://quicoto.github.io/reviews/manga/dragon-ball/1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/dragon-ball/1</guid>
-  <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Dragon Ball]]></title>
-  <description><![CDATA[📺 Just watched: Dragon Ball
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/dragon-ball/10]]></description>
-  <link>https://quicoto.github.io/reviews/manga/dragon-ball/10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/dragon-ball/10</guid>
   <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
