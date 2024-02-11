@@ -1,4 +1,5 @@
 ---
+time: 60
 type: series
 title: "Halo 1x1"
 date: "2024-02-11T21:33:58"
