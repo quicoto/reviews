@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Feb 2024 15:32:37 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Feb 2024 19:19:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Halo 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Halo 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/halo/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/halo/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/1x3</guid>
+  <pubDate>Mon, 12 Feb 2024 20:18:49 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Halo 1x2]]></title>
   <description><![CDATA[📺 Just watched: Halo 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mashle/1x15]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x15</guid>
   <pubDate>Tue, 30 Jan 2024 22:23:01 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[For All Mankind 4x5]]></title>
-  <description><![CDATA[📺 Just watched: For All Mankind 4x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x5</guid>
-  <pubDate>Mon, 29 Jan 2024 22:51:27 GMT</pubDate>
 </item>
 </channel>
 </rss>
