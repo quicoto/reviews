@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Feb 2024 14:29:25 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Feb 2024 15:06:39 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Wind Breaker]]></title>
+  <description><![CDATA[📺 Just watched: Wind Breaker
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/wind-breaker/17]]></description>
+  <link>https://quicoto.github.io/reviews/manga/wind-breaker/17</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/17</guid>
+  <pubDate>Mon, 12 Feb 2024 16:05:44 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Wind Breaker]]></title>
+  <description><![CDATA[📺 Just watched: Wind Breaker
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/wind-breaker/16]]></description>
+  <link>https://quicoto.github.io/reviews/manga/wind-breaker/16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/16</guid>
+  <pubDate>Mon, 12 Feb 2024 15:28:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Wind Breaker]]></title>
   <description><![CDATA[📺 Just watched: Wind Breaker
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/manga/jujutsu-kaisen/4]]></description>
   <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/4</guid>
   <pubDate>Mon, 05 Feb 2024 12:01:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/jujutsu-kaisen/3]]></description>
-  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/3</guid>
-  <pubDate>Mon, 05 Feb 2024 12:01:04 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2]]></description>
-  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2</guid>
-  <pubDate>Mon, 05 Feb 2024 10:58:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
