@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Feb 2024 11:20:58 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Feb 2024 14:29:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Wind Breaker]]></title>
+  <description><![CDATA[📺 Just watched: Wind Breaker
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/wind-breaker/15]]></description>
+  <link>https://quicoto.github.io/reviews/manga/wind-breaker/15</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/15</guid>
+  <pubDate>Mon, 12 Feb 2024 15:28:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Exorcist]]></title>
   <description><![CDATA[📺 Just watched: Blue Exorcist
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2]]></description>
   <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/2</guid>
   <pubDate>Mon, 05 Feb 2024 10:58:04 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1]]></description>
-  <link>https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/jujutsu-kaisen/1</guid>
-  <pubDate>Mon, 05 Feb 2024 10:53:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
