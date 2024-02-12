@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Feb 2024 10:47:56 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Feb 2024 11:06:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/13]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/13</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/13</guid>
+  <pubDate>Mon, 12 Feb 2024 12:05:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Exorcist]]></title>
   <description><![CDATA[📺 Just watched: Blue Exorcist
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/naruto/71]]></description>
   <link>https://quicoto.github.io/reviews/manga/naruto/71</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/71</guid>
   <pubDate>Mon, 29 Jan 2024 16:46:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Naruto]]></title>
-  <description><![CDATA[📺 Just watched: Naruto
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/naruto/70]]></description>
-  <link>https://quicoto.github.io/reviews/manga/naruto/70</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/70</guid>
-  <pubDate>Mon, 29 Jan 2024 16:43:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
