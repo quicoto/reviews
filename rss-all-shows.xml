@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 19 Feb 2024 13:06:09 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 19 Feb 2024 20:17:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Barakamon 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Barakamon 1x5
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/barakamon/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/barakamon/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/barakamon/1x5</guid>
+  <pubDate>Mon, 19 Feb 2024 21:16:34 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Futurama 3x14]]></title>
   <description><![CDATA[📺 Just watched: Futurama 3x14
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/halo/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/halo/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/1x2</guid>
   <pubDate>Sun, 11 Feb 2024 22:29:01 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Halo 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Halo 1x1
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/halo/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/halo/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/1x1</guid>
-  <pubDate>Sun, 11 Feb 2024 21:33:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
