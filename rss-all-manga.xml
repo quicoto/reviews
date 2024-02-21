@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 21 Feb 2024 15:07:47 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Feb 2024 15:08:15 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Naruto]]></title>
+  <description><![CDATA[📺 Just watched: Naruto
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/naruto/75]]></description>
+  <link>https://quicoto.github.io/reviews/manga/naruto/75</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/naruto/75</guid>
+  <pubDate>Wed, 21 Feb 2024 16:07:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto]]></title>
   <description><![CDATA[📺 Just watched: Naruto
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/wind-breaker/18]]></description>
   <link>https://quicoto.github.io/reviews/manga/wind-breaker/18</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/18</guid>
   <pubDate>Mon, 12 Feb 2024 16:07:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Wind Breaker]]></title>
-  <description><![CDATA[📺 Just watched: Wind Breaker
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/wind-breaker/17]]></description>
-  <link>https://quicoto.github.io/reviews/manga/wind-breaker/17</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/wind-breaker/17</guid>
-  <pubDate>Mon, 12 Feb 2024 16:05:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
