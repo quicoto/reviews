@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 20 Feb 2024 12:36:19 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Feb 2024 14:41:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Exorcist]]></title>
+  <description><![CDATA[📺 Just watched: Blue Exorcist
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/blue-exorcist/16]]></description>
+  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/16</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/16</guid>
+  <pubDate>Wed, 21 Feb 2024 15:40:51 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Wind Breaker]]></title>
   <description><![CDATA[📺 Just watched: Wind Breaker
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/blue-exorcist/14]]></description>
   <link>https://quicoto.github.io/reviews/manga/blue-exorcist/14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/14</guid>
   <pubDate>Mon, 12 Feb 2024 12:08:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Exorcist]]></title>
-  <description><![CDATA[📺 Just watched: Blue Exorcist
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/blue-exorcist/13]]></description>
-  <link>https://quicoto.github.io/reviews/manga/blue-exorcist/13</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/blue-exorcist/13</guid>
-  <pubDate>Mon, 12 Feb 2024 12:05:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
