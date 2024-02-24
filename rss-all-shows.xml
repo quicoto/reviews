@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 24 Feb 2024 21:40:49 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 24 Feb 2024 22:21:02 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mashle 1x19]]></title>
+  <description><![CDATA[📺 Just watched: Mashle 1x19
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mashle/1x19]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x19</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x19</guid>
+  <pubDate>Sat, 24 Feb 2024 23:20:16 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x20]]></title>
   <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x20
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/barakamon/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/barakamon/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/barakamon/1x4</guid>
   <pubDate>Thu, 15 Feb 2024 20:05:38 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Halo 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Halo 1x6
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/halo/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/halo/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/1x6</guid>
-  <pubDate>Wed, 14 Feb 2024 22:56:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
