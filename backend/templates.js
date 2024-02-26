@@ -158,13 +158,6 @@ export function allShows(list) {
 
 function _card(itemData) {
   let chapter = '';
-  let imageName = slugify(itemData.frontmatter.name);
-
-  if (itemData.frontmatter.type === 'manga') {
-    imageName += mangaImageSuffix;
-  }
-
-  const imageSrc = utils.createAbsoluteURL(`covers/${imageName}.jpg`);
 
   if (itemData.frontmatter.chapter) {
     chapter = `<span class="chapter">Chapter ${itemData.frontmatter.chapter}</span>`;
@@ -174,8 +167,6 @@ function _card(itemData) {
   <li class="card">
     <h3 class="card-heading">
       <a title="${itemData.frontmatter.title}" class="card-link" href="${utils.createURL(itemData)}">
-        <img
-          class="card-image cover" src="${imageSrc}" alt="${itemData.frontmatter.title} cover" title="${itemData.frontmatter.title}">
         <div>${itemData.frontmatter.title}</div>
         ${chapter}
       </a>
