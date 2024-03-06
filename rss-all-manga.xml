@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 05 Mar 2024 07:06:54 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 06 Mar 2024 07:06:47 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sasaki to Miyano]]></title>
+  <description><![CDATA[📺 Just watched: Sasaki to Miyano
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/manga/sasaki-to-miyano/1]]></description>
+  <link>https://quicoto.github.io/reviews/manga/sasaki-to-miyano/1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/sasaki-to-miyano/1</guid>
+  <pubDate>Tue, 05 Mar 2024 16:30:55 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Naruto]]></title>
   <description><![CDATA[📺 Just watched: Naruto
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/manga/ao-ashi/115]]></description>
   <link>https://quicoto.github.io/reviews/manga/ao-ashi/115</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/115</guid>
   <pubDate>Mon, 26 Feb 2024 16:12:15 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ao Ashi]]></title>
-  <description><![CDATA[📺 Just watched: Ao Ashi
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/manga/ao-ashi/114]]></description>
-  <link>https://quicoto.github.io/reviews/manga/ao-ashi/114</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/manga/ao-ashi/114</guid>
-  <pubDate>Mon, 26 Feb 2024 16:10:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
