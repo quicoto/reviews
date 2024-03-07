@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 06 Mar 2024 07:06:47 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 07 Mar 2024 07:06:49 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Halo 2x4]]></title>
+  <description><![CDATA[📺 Just watched: Halo 2x4
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/halo/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/halo/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/2x4</guid>
+  <pubDate>Wed, 06 Mar 2024 22:57:01 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Halo 2x3]]></title>
+  <description><![CDATA[📺 Just watched: Halo 2x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/halo/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/halo/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/halo/2x3</guid>
+  <pubDate>Wed, 06 Mar 2024 18:42:02 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ninja Kamui 1x4]]></title>
   <description><![CDATA[📺 Just watched: Ninja Kamui 1x4
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x2</guid>
   <pubDate>Mon, 19 Feb 2024 22:32:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Barakamon 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Barakamon 1x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/barakamon/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/barakamon/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/barakamon/1x5</guid>
-  <pubDate>Mon, 19 Feb 2024 21:16:34 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Futurama 3x14]]></title>
-  <description><![CDATA[📺 Just watched: Futurama 3x14
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/futurama/3x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/futurama/3x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/futurama/3x14</guid>
-  <pubDate>Mon, 19 Feb 2024 14:05:07 GMT</pubDate>
 </item>
 </channel>
 </rss>
