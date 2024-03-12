@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 11 Mar 2024 07:07:19 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 12 Mar 2024 07:06:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Solo Leveling 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Solo Leveling 1x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x9</guid>
+  <pubDate>Mon, 11 Mar 2024 18:27:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tokyo Vice 2x6]]></title>
   <description><![CDATA[📺 Just watched: Tokyo Vice 2x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mashle/1x19]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x19</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x19</guid>
   <pubDate>Sat, 24 Feb 2024 23:20:16 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Kokoro no Yabai Yatsu 1x20]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Kokoro no Yabai Yatsu 1x20
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x20</guid>
-  <pubDate>Sat, 24 Feb 2024 22:39:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
