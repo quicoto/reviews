@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 15 Mar 2024 07:07:17 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 18 Mar 2024 07:06:46 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tokyo Vice 2x7]]></title>
+  <description><![CDATA[📺 Just watched: Tokyo Vice 2x7
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x7]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x7</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x7</guid>
+  <pubDate>Sun, 17 Mar 2024 22:21:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Solo Leveling 1x9]]></title>
   <description><![CDATA[📺 Just watched: Solo Leveling 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x1</guid>
   <pubDate>Sun, 25 Feb 2024 22:10:28 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Mashle 1x19]]></title>
-  <description><![CDATA[📺 Just watched: Mashle 1x19
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/mashle/1x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/mashle/1x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mashle/1x19</guid>
-  <pubDate>Sat, 24 Feb 2024 23:20:16 GMT</pubDate>
 </item>
 </channel>
 </rss>
