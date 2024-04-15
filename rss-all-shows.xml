@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 12 Apr 2024 07:07:18 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 15 Apr 2024 07:06:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ace of Diamond 1x44]]></title>
+  <description><![CDATA[📺 Just watched: Ace of Diamond 1x44
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x44]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x44</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x44</guid>
+  <pubDate>Sun, 14 Apr 2024 12:37:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Spy x Family 1x15]]></title>
   <description><![CDATA[📺 Just watched: Spy x Family 1x15
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x21]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x21</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x21</guid>
   <pubDate>Sat, 06 Apr 2024 18:28:59 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ace of Diamond 1x34]]></title>
-  <description><![CDATA[📺 Just watched: Ace of Diamond 1x34
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x34]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x34</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x34</guid>
-  <pubDate>Sat, 06 Apr 2024 10:26:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
