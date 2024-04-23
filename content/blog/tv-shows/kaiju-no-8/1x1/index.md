@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Kaiju No. 8 1x1"
 date: "2024-04-22T20:48:46"
 name: "Kaiju No. 8"
