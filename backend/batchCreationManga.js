@@ -9,9 +9,9 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Naruto';
-const chaptersStart = 120;
-const chaptersFinish = 126;
-const rating = 5;
+const chaptersStart = 127;
+const chaptersFinish = 135;
+const rating = 4;
 /*
   *******************
   END Configuration
