@@ -8,9 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Dragon Ball';
-const chapters = 14;
-const rating = 4;
+const showName = 'Naruto';
+const chaptersStart = 120;
+const chaptersFinish = 126;
+const rating = 5;
 /*
   *******************
   END Configuration
@@ -33,7 +34,7 @@ function _formatDate() {
   return `${now.getFullYear()}-${month}-${day}T00:00:00`;
 }
 
-for (let chapter = 1; chapter <= chapters; chapter += 1) {
+for (let chapter = chaptersStart; chapter <= chaptersFinish; chapter += 1) {
   const template = `---
 type: manga
 title: ${showName}
