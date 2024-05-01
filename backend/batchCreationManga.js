@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Dragon Ball';
-const chaptersStart = 15; // Included
-const chaptersFinish = 28; // Included
+const showName = 'The Promised Neverland';
+const chaptersStart = 1; // Included
+const chaptersFinish = 16; // Included
 const rating = 4;
 /*
   *******************
