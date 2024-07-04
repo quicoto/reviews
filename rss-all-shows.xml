@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 03 Jul 2024 07:06:46 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 04 Jul 2024 07:07:38 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Oshi No Ko 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Oshi No Ko 1x12
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x12</guid>
+  <pubDate>Wed, 03 Jul 2024 22:59:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kaiju No. 8 1x12]]></title>
   <description><![CDATA[📺 Just watched: Kaiju No. 8 1x12
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/fallout/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/fallout/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/fallout/1x3</guid>
   <pubDate>Mon, 06 May 2024 22:59:23 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Wind Breaker 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Wind Breaker 1x5
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x5</guid>
-  <pubDate>Fri, 03 May 2024 19:19:01 GMT</pubDate>
 </item>
 </channel>
 </rss>
