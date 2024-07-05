@@ -9,8 +9,8 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'The Promised Neverland';
-const chaptersStart = 35; // Included
-const chaptersFinish = 43; // Included
+const chaptersStart = 26; // Included
+const chaptersFinish = 42; // Included
 const rating = 5;
 /*
   *******************
