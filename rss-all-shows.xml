@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 01 Aug 2024 07:07:03 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 02 Aug 2024 07:07:44 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Wind Breaker 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Wind Breaker 1x8
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</guid>
+  <pubDate>Thu, 01 Aug 2024 16:37:18 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kimetsu no Yaiba 5x8]]></title>
   <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 5x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x1</guid>
   <pubDate>Sun, 30 Jun 2024 13:06:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kaiju No. 8 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Kaiju No. 8 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x5</guid>
-  <pubDate>Sat, 18 May 2024 00:15:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
