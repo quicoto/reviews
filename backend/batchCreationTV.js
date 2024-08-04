@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Boruto - Naruto Next Generations';
+const showName = '3 Body Problem';
 const seasons = 1;
-const episodesPerSeason = [120];
-const time = 25;
+const episodesPerSeason = [8];
+const time = 60;
 const rating = 3;
 /*
   *******************
