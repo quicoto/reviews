@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 05 Aug 2024 07:07:23 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 06 Aug 2024 07:06:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[VTuber Legend 1x3]]></title>
+  <description><![CDATA[📺 Just watched: VTuber Legend 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x3</guid>
+  <pubDate>Mon, 05 Aug 2024 22:57:17 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[VTuber Legend 1x2]]></title>
   <description><![CDATA[📺 Just watched: VTuber Legend 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</guid>
   <pubDate>Thu, 01 Aug 2024 16:37:18 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Kimetsu no Yaiba 5x8]]></title>
-  <description><![CDATA[📺 Just watched: Kimetsu no Yaiba 5x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x8</guid>
-  <pubDate>Sun, 21 Jul 2024 12:31:35 GMT</pubDate>
 </item>
 </channel>
 </rss>
