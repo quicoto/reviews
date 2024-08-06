@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'The Promised Neverland';
-const chaptersStart = 26; // Included
+const showName = 'Attack on Titan';
+const chaptersStart = 39; // Included
 const chaptersFinish = 42; // Included
-const rating = 5;
+const rating = 4;
 /*
   *******************
   END Configuration
