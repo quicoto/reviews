@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 06 Aug 2024 07:06:59 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 07 Aug 2024 07:07:16 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[VTuber Legend 1x4]]></title>
+  <description><![CDATA[📺 Just watched: VTuber Legend 1x4
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x4</guid>
+  <pubDate>Tue, 06 Aug 2024 20:07:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[VTuber Legend 1x3]]></title>
   <description><![CDATA[📺 Just watched: VTuber Legend 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kaleidoscope/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/kaleidoscope/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaleidoscope/1x1</guid>
   <pubDate>Sat, 03 Aug 2024 19:55:55 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Wind Breaker 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Wind Breaker 1x8
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8</guid>
-  <pubDate>Thu, 01 Aug 2024 16:37:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
