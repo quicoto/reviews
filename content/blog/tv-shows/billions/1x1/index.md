@@ -1,4 +1,5 @@
 ---
+time: 60
 type: series
 title: "Billions 1x1"
 date: "2024-08-15T13:23:21"
