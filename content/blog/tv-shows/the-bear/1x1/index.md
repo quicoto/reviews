@@ -1,5 +1,5 @@
 ---
-tine: 30
+time: 30
 type: series
 title: "The Bear 1x1"
 date: "2024-08-20T22:09:22"
