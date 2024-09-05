@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 04 Sep 2024 07:06:56 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Sep 2024 07:07:19 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Lord of the Rings: The Rings of Power 2x3]]></title>
+  <description><![CDATA[📺 Just watched: The Lord of the Rings: The Rings of Power 2x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x3</guid>
+  <pubDate>Wed, 04 Sep 2024 21:05:06 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Narcos 1x2]]></title>
   <description><![CDATA[📺 Just watched: Narcos 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-bear/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-bear/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-bear/1x1</guid>
   <pubDate>Tue, 20 Aug 2024 22:09:22 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Billions 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Billions 1x8
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/billions/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/billions/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/billions/1x8</guid>
-  <pubDate>Tue, 20 Aug 2024 21:36:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
