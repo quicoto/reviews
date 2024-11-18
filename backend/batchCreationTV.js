@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = '3 Body Problem';
-const seasons = 1;
-const episodesPerSeason = [8];
+const showName = 'Prision Break';
+const seasons = 3;
+const episodesPerSeason = [10, 22, 13];
 const time = 60;
 const rating = 3;
 /*

@@ -8,6 +8,10 @@ export function readFile(path) {
 export function createFile(fileName, path, data) {
   const processedData = data.replaceAll('%VERSION%', process.env.npm_package_version);
 
+  if (fs.existsSync(`${path}/${fileName}`)) {
+    return;
+  }
+
   fs.writeFileSync(`${path}/${fileName}`, processedData);
 }
 
