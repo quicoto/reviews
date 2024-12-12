@@ -5,8 +5,8 @@ date: "2024-12-11T22:25:47"
 name: "Oshi No Ko"
 season: 1
 episode: 13
-rating: 3
-ratingEmoji: ⭐️⭐️⭐️
+rating: 2
+ratingEmoji: ⭐️⭐️
 share: false
 ---
 
