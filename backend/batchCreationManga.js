@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Blue Exorcist';
-const chaptersStart = 19; // Included
-const chaptersFinish = 23; // Included
-const rating = 3;
+const showName = 'Kimetsu no Yaiba';
+const chaptersStart = 17; // Included
+const chaptersFinish = 25; // Included
+const rating = 4;
 /*
   *******************
   END Configuration
