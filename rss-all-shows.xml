@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 30 Dec 2024 07:07:46 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 31 Dec 2024 07:07:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Family by Choice 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Family by Choice 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x1</guid>
+  <pubDate>Mon, 30 Dec 2024 22:46:43 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Squid Game 2x4]]></title>
   <description><![CDATA[📺 Just watched: Squid Game 2x4
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x7]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x7</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x7</guid>
   <pubDate>Mon, 09 Dec 2024 21:07:06 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Star Trek: Lower Decks 5x6]]></title>
-  <description><![CDATA[📺 Just watched: Star Trek: Lower Decks 5x6
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x6</guid>
-  <pubDate>Mon, 09 Dec 2024 20:42:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
