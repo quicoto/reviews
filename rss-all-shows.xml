@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 02 Jan 2025 07:07:41 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 03 Jan 2025 07:21:57 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Family by Choice 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Family by Choice 1x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x2</guid>
+  <pubDate>Thu, 02 Jan 2025 16:20:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Squid Game 2x7]]></title>
   <description><![CDATA[📺 Just watched: Squid Game 2x7
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x13]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x13</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x13</guid>
   <pubDate>Wed, 11 Dec 2024 22:25:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Dan Da Dan 1x9]]></title>
-  <description><![CDATA[📺 Just watched: Dan Da Dan 1x9
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x9</guid>
-  <pubDate>Tue, 10 Dec 2024 22:00:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
