@@ -1,7 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 import process from 'process';
 import * as fs from 'fs';
-import slugify from '@sindresorhus/slugify';
 import MarkdownIt from 'markdown-it';
 import * as utils from './utils.js';
 import { frontMatterPlugin } from './frontmatter.js';
@@ -13,7 +12,6 @@ if (!fs.existsSync(Paths.output.folder)) fs.mkdirSync(Paths.output.folder);
 if (!fs.existsSync(Paths.output.movies)) fs.mkdirSync(Paths.output.movies);
 if (!fs.existsSync(Paths.output.manga)) fs.mkdirSync(Paths.output.manga);
 if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
-if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
 
 (async () => {
   const t0 = performance.now();
@@ -42,19 +40,10 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
       content: html,
       frontmatter: movieFrontMatter,
     };
-    const movieHTML = templates.single(movieData);
     allMovies.push(movieData);
 
     // eslint-disable-next-line no-console
     if (!process.env.NODE_ENV) console.log(`Processing movie: ${movieFrontMatter.title}`);
-
-    const movieFolder = `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`;
-
-    if (!fs.existsSync(movieFolder)) {
-      fs.mkdirSync(movieFolder);
-    }
-
-    utils.createFile('index.html', `${Paths.output.movies}/${slugify(movieFrontMatter.name)}`, movieHTML);
   }
 
   /*
@@ -97,26 +86,12 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
         content: html,
         frontmatter: chapterFrontMatter,
       };
-      const chapterHTML = templates.single(chapterData);
 
       allchapters.push(chapterData);
       currentShow.chapters.push(chapterData);
 
       // eslint-disable-next-line no-console
       if (!process.env.NODE_ENV) console.log(`Processing Manga: ${chapterFrontMatter.title}`);
-
-      const showFolder = `${Paths.output.manga}/${slugify(chapterFrontMatter.name)}`;
-      const chaptersFolder = `${Paths.output.manga}/${slugify(chapterFrontMatter.name)}/${chapters[index]}`;
-
-      if (!fs.existsSync(showFolder)) {
-        fs.mkdirSync(showFolder);
-      }
-
-      if (!fs.existsSync(chaptersFolder)) {
-        fs.mkdirSync(chaptersFolder);
-      }
-
-      utils.createFile('index.html', chaptersFolder, chapterHTML);
     }
 
     currentShow.averageRating = utils.averageRating(currentShow.chapters);
@@ -164,26 +139,12 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
         content: html,
         frontmatter: episodeFrontMatter,
       };
-      const episodeHTML = templates.single(episodeData);
 
       allEpisodes.push(episodeData);
       currentShow.episodes.push(episodeData);
 
       // eslint-disable-next-line no-console
       if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
-
-      const showFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}`;
-      const episodeFolder = `${Paths.output.tvshows}/${slugify(episodeFrontMatter.name)}/${episodes[index]}`;
-
-      if (!fs.existsSync(showFolder)) {
-        fs.mkdirSync(showFolder);
-      }
-
-      if (!fs.existsSync(episodeFolder)) {
-        fs.mkdirSync(episodeFolder);
-      }
-
-      utils.createFile('index.html', episodeFolder, episodeHTML);
     }
 
     currentShow.averageRating = utils.averageRating(currentShow.episodes);
@@ -257,7 +218,7 @@ if (!fs.existsSync(Paths.output.images)) fs.mkdirSync(Paths.output.images);
   const last20chapters = allchapters.sort(utils.sortByDate).slice(0, 20);
 
   const last20All = allEpisodes.concat(allMovies)
-    .filter((item) => item.frontmatter.share === 'true')
+    .filter((item) => item.frontmatter?.share === 'true')
     .sort(utils.sortByDate).slice(0, 20);
 
   const rssTVShows = template.replace(

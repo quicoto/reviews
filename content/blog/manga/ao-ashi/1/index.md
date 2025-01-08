@@ -6,7 +6,6 @@ name: "Ao Ashi"
 chapter: 1
 rating: 4
 ratingEmoji: ⭐️⭐️⭐️⭐️
-share: false
 ---
 
 _[No review was written for this chapter]_

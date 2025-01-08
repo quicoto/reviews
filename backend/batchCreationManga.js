@@ -43,7 +43,6 @@ name: "${showName}"
 chapter: ${chapter}
 rating: ${rating}
 ratingEmoji: "${'⭐️'.repeat(rating)}"
-share: false
 ---
 
 _[No review was written for this episode]_`;

@@ -3,20 +3,6 @@ import slugify from '@sindresorhus/slugify';
 import * as utils from './utils.js';
 import Paths from './paths.js';
 
-const mangaImageSuffix = '-manga';
-
-function _createShowAnchor(showName) {
-  return utils.createAbsoluteURL(
-    `tv-shows#${slugify(showName)}`,
-  );
-}
-
-function _createMangaAnchor(mangaName) {
-  return utils.createAbsoluteURL(
-    `manga#${slugify(mangaName)}`,
-  );
-}
-
 function _rating(rating) {
   const starFull = 'assets/star.svg';
   const starEmpty = 'assets/star-empty.svg';
@@ -42,66 +28,10 @@ function _rating(rating) {
   return stars;
 }
 
-/**
- * @param  {object} config
- * @param  {string} config.content
- * @param  {object} config.frontmatter
- * @param  {number} config.averageRating
- * @return {string}
- */
-export function single(config) {
-  const {
-    averageRating,
-    content,
-    frontmatter,
-  } = config;
-  let { title } = frontmatter;
-  const {
-    type,
-    date,
-    name,
-    rating,
-  } = frontmatter;
-  let imageName = slugify(name);
-
-  if (type === 'manga') {
-    imageName += mangaImageSuffix;
-  }
-
-  const image = utils.createAbsoluteURL(`covers/${imageName}.jpg`);
-  const header = utils.readFile(Paths.template.header);
-  const footer = utils.readFile(Paths.template.footer);
-  const singleTemplate = utils.readFile(Paths.template.single);
-  const reviewDate = utils.formatDate(date);
-  let backLink = '';
-
-  if (type === 'series') {
-    const url = _createShowAnchor(name);
-    backLink = `<a href="${url}" title="More reviews for ${name}">More reviews for ${name}</a>`;
-  }
-
-  if (frontmatter.chapter) {
-    title += ` Chapter ${frontmatter.chapter}`;
-  }
-
-  return singleTemplate
-    .replaceAll('%HEADER%', header)
-    .replaceAll('%FOOTER%', footer)
-    .replaceAll('%CONTENT%', content)
-    .replaceAll('%TITLE%', title)
-    .replaceAll('%TIME%', reviewDate)
-    .replaceAll('%BACKLINK%', backLink)
-    .replaceAll('%RATING%', _rating(averageRating || rating).join('\n'))
-    .replaceAll('%IMAGE%', image);
-}
-
 function _movieItem(movie) {
-  const url = utils.createAbsoluteURL(
-    `movies/${slugify(movie.frontmatter.name)}`,
-  );
   return `
   <li>
-    <h3><a href="${url}" title="${movie.frontmatter.title}">${movie.frontmatter.title}</a></h3>
+    <h3 class="item-title">${movie.frontmatter.title}</h3>
     <div class="meta">
       <div class="rating">${_rating(movie.frontmatter.rating).join('\n')}</div>
       <time>${utils.formatDate(movie.frontmatter.date)}</time>
@@ -126,9 +56,7 @@ export function allMovies(list) {
 function _showsItem(show) {
   const episodes = utils.sortEpisodes(show.episodes);
   const episodesList = episodes.map(
-    (episode) => `<li>
-      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.season}x${episode.frontmatter.episode}">${episode.frontmatter.season}x${episode.frontmatter.episode}</a>
-    </li>`,
+    (episode) => `<li class="item-title">${episode.frontmatter.season}x${episode.frontmatter.episode}</li>`,
   ).join('\n');
 
   const averageRating = utils.averageRating(episodes);
@@ -166,10 +94,8 @@ function _card(itemData) {
   return `
   <li class="card">
     <h3 class="card-heading">
-      <a title="${itemData.frontmatter.title}" class="card-link" href="${utils.createURL(itemData)}">
-        <div>${itemData.frontmatter.title}</div>
-        ${chapter}
-      </a>
+      <div class="item-title">${itemData.frontmatter.title}</div>
+      ${chapter}
     </h3>
     <div class="card-footer">
       <time>${utils.formatDate(itemData.frontmatter.date)}</time>
@@ -181,9 +107,7 @@ function _card(itemData) {
 function _mangaItem(show) {
   const chapters = utils.sortchapters(show.chapters);
   const chapterList = chapters.map(
-    (episode) => `<li>
-      <a href="${utils.createURL(episode)}" title="${episode.frontmatter.name} ${episode.frontmatter.chapter}">${episode.frontmatter.chapter}</a>
-    </li>`,
+    (episode) => `<li class="item-title">${episode.frontmatter.chapter}</li>`,
   ).join('\n');
 
   const averageRating = utils.averageRating(chapters);
@@ -289,11 +213,7 @@ export function rss() {
 export function topRatedTVShow(show) {
   const prettyName = show.episodes[0].frontmatter.name;
 
-  return `<li>
-    <h4>
-      <a title="${prettyName}" href="${_createShowAnchor(show.name)}">${prettyName}</a>
-    </h4>
-  </li>`;
+  return `<li><h4 class="item-title">${prettyName}</h4></li>`;
 }
 
 /**
@@ -306,9 +226,5 @@ export function topRatedTVShow(show) {
 export function topRatedMangas(manga) {
   const prettyName = manga.chapters[0].frontmatter.name;
 
-  return `<li>
-    <h4>
-      <a title="${prettyName}" href="${_createMangaAnchor(manga.name)}">${prettyName}</a>
-    </h4>
-  </li>`;
+  return `<li><h4 class="item-title">${prettyName}</h4></li>`;
 }
