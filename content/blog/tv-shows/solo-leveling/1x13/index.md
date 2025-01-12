@@ -1,8 +1,8 @@
 ---
 type: series
-title: "SoloLeveling 1x13"
+title: "Solo Leveling 1x13"
 date: "2025-01-05T20:13:19"
-name: "SoloLeveling"
+name: "Solo Leveling"
 season: 1
 episode: 13
 rating: 5
