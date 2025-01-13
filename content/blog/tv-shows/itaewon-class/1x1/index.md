@@ -1,5 +1,6 @@
 ---
 type: series
+time: 70
 title: "Itaewon Class 1x1"
 date: "2025-01-13T22:07:41"
 name: "Itaewon Class"
