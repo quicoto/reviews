@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 27 Jan 2025 07:07:27 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 28 Jan 2025 07:06:56 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Agent 2x3]]></title>
+  <description><![CDATA[📺 Just watched: The Night Agent 2x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x3</guid>
+  <pubDate>Mon, 27 Jan 2025 23:06:58 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Dan Da Dan 1x12]]></title>
   <description><![CDATA[📺 Just watched: Dan Da Dan 1x12
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14</guid>
   <pubDate>Sun, 12 Jan 2025 09:17:10 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Family by Choice 1x12]]></title>
-  <description><![CDATA[📺 Just watched: Family by Choice 1x12
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x12]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x12</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x12</guid>
-  <pubDate>Fri, 10 Jan 2025 22:50:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
