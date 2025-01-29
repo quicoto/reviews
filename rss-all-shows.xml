@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 28 Jan 2025 07:06:56 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 29 Jan 2025 07:07:00 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Agent 2x4]]></title>
+  <description><![CDATA[📺 Just watched: The Night Agent 2x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x4</guid>
+  <pubDate>Tue, 28 Jan 2025 23:14:40 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Night Agent 2x3]]></title>
   <description><![CDATA[📺 Just watched: The Night Agent 2x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x15]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x15</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x15</guid>
   <pubDate>Sun, 12 Jan 2025 22:19:13 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Solo Leveling 1x14]]></title>
-  <description><![CDATA[📺 Just watched: Solo Leveling 1x14
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x14</guid>
-  <pubDate>Sun, 12 Jan 2025 09:17:10 GMT</pubDate>
 </item>
 </channel>
 </rss>
