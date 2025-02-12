@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 11 Feb 2025 07:07:05 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 12 Feb 2025 07:07:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Stove League 1x9]]></title>
+  <description><![CDATA[📺 Just watched: Stove League 1x9
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/stove-league/1x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/stove-league/1x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/stove-league/1x9</guid>
+  <pubDate>Tue, 11 Feb 2025 17:12:25 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Stove League 1x8]]></title>
   <description><![CDATA[📺 Just watched: Stove League 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x1]]></descri
   <link>https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x1</guid>
   <pubDate>Mon, 03 Feb 2025 18:08:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Recruit 2x3]]></title>
-  <description><![CDATA[📺 Just watched: The Recruit 2x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-recruit/2x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-recruit/2x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-recruit/2x3</guid>
-  <pubDate>Mon, 03 Feb 2025 13:13:21 GMT</pubDate>
 </item>
 </channel>
 </rss>
