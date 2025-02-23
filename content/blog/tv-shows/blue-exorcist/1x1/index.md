@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Blue Exorcist 1x1"
 date: "2025-02-23T23:13:50"
 name: "Blue Exorcist"
