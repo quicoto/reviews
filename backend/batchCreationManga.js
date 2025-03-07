@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Naruto';
-const chaptersStart = 163; // Included
-const chaptersFinish = 171; // Included
-const rating = 4;
+const showName = 'Kimetsu no Yaiba';
+const chaptersStart = 44; // Included
+const chaptersFinish = 52; // Included
+const rating = 3;
 /*
   *******************
   END Configuration
