@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 18 Mar 2025 07:07:57 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 19 Mar 2025 07:07:56 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kusuriya no Hitorigoto 1x6]]></title>
+  <description><![CDATA[📺 Just watched: Kusuriya no Hitorigoto 1x6
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x6]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x6</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x6</guid>
+  <pubDate>Tue, 18 Mar 2025 22:37:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kusuriya no Hitorigoto 1x5]]></title>
   <description><![CDATA[📺 Just watched: Kusuriya no Hitorigoto 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/resident-alien/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/resident-alien/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/resident-alien/1x2</guid>
   <pubDate>Mon, 10 Mar 2025 15:38:05 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Resident Alien 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Resident Alien 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/resident-alien/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/resident-alien/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/resident-alien/1x1</guid>
-  <pubDate>Mon, 10 Mar 2025 13:17:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
