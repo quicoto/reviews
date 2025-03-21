@@ -1,9 +1,9 @@
 ---
 type: series
-title: "Reacher 6x7"
+title: "Reacher 3x7"
 date: "2025-03-20T21:57:31"
 name: "Reacher"
-season: 6
+season: 3
 episode: 7
 rating: 3
 ratingEmoji: ⭐️⭐️⭐️
