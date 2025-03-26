@@ -9,8 +9,8 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Kimetsu no Yaiba';
-const chaptersStart = 80; // Included
-const chaptersFinish = 88; // Included
+const chaptersStart = 89; // Included
+const chaptersFinish = 97; // Included
 const rating = 5;
 /*
   *******************
