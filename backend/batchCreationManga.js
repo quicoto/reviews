@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Kimetsu no Yaiba';
-const chaptersStart = 89; // Included
-const chaptersFinish = 97; // Included
-const rating = 5;
+const showName = 'Blue Lock';
+const chaptersStart = 50; // Included
+const chaptersFinish = 58; // Included
+const rating = 4;
 /*
   *******************
   END Configuration
