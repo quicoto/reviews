@@ -9,9 +9,9 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Blue Lock';
-const chaptersStart = 50; // Included
-const chaptersFinish = 58; // Included
-const rating = 4;
+const chaptersStart = 59; // Included
+const chaptersFinish = 67; // Included
+const rating = 5;
 /*
   *******************
   END Configuration
