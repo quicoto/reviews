@@ -6,7 +6,7 @@ date: "2022-01-30T00:00:00"
 name: "Ryman's Club"
 season: 1
 episode: 1
-rating: 3
-ratingEmoji: "⭐️⭐️⭐️"
+rating: 4
+ratingEmoji: "⭐️⭐️⭐️⭐️"
 share: false
 ---
