@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Blue Lock';
-const chaptersStart = 122; // Included
-const chaptersFinish = 140; // Included
+const showName = 'Haikyuu';
+const chaptersStart = 90; // Included
+const chaptersFinish = 98; // Included
 const rating = 4;
 /*
   *******************
