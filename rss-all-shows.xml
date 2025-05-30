@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 29 May 2025 07:08:26 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 30 May 2025 07:20:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Blue Box 1x21]]></title>
+  <description><![CDATA[📺 Just watched: Blue Box 1x21
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-box/1x21]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x21</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x21</guid>
+  <pubDate>Thu, 29 May 2025 23:19:33 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Blue Box 1x20]]></title>
+  <description><![CDATA[📺 Just watched: Blue Box 1x20
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/blue-box/1x20]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x20</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x20</guid>
+  <pubDate>Thu, 29 May 2025 22:32:22 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Box 1x19]]></title>
   <description><![CDATA[📺 Just watched: Blue Box 1x19
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-box/1x6]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x6</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x6</guid>
   <pubDate>Sun, 18 May 2025 22:08:54 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Box 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Blue Box 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-box/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x5</guid>
-  <pubDate>Sun, 18 May 2025 21:37:37 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Box 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Blue Box 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-box/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x4</guid>
-  <pubDate>Sun, 18 May 2025 21:06:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
