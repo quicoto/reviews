@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 04 Jun 2025 07:08:28 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Jun 2025 07:08:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Enen no Shouboutai 3x9]]></title>
+  <description><![CDATA[📺 Just watched: Enen no Shouboutai 3x9
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x9</guid>
+  <pubDate>Wed, 04 Jun 2025 21:54:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Blue Box 1x25]]></title>
   <description><![CDATA[📺 Just watched: Blue Box 1x25
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/blue-box/1x10]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x10</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x10</guid>
   <pubDate>Fri, 23 May 2025 20:13:47 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Blue Box 1x9]]></title>
-  <description><![CDATA[📺 Just watched: Blue Box 1x9
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/blue-box/1x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/blue-box/1x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/blue-box/1x9</guid>
-  <pubDate>Fri, 23 May 2025 20:13:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
