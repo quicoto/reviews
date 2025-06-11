@@ -9,8 +9,8 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Haikyuu';
-const chaptersStart = 108; // Included
-const chaptersFinish = 117; // Included
+const chaptersStart = 118; // Included
+const chaptersFinish = 125; // Included
 const rating = 4;
 /*
   *******************
