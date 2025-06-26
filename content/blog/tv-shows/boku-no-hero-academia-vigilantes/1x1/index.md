@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Boku no Hero Academia: Vigilantes 1x1"
 date: "2025-06-26T13:49:40"
 name: "Boku no Hero Academia: Vigilantes"
