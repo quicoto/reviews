@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 27 Jun 2025 07:08:41 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 30 Jun 2025 07:10:04 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Catch Me at the Ballpark! 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Catch Me at the Ballpark! 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/catch-me-at-the-ballpark/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/catch-me-at-the-ballpark/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/catch-me-at-the-ballpark/1x1</guid>
+  <pubDate>Sat, 28 Jun 2025 21:03:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia: Vigilantes 1x3]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia: Vigilantes 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x1</guid>
   <pubDate>Sun, 15 Jun 2025 22:39:35 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Rick and Morty 8x3]]></title>
-  <description><![CDATA[📺 Just watched: Rick and Morty 8x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/rick-and-morty/8x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/rick-and-morty/8x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/rick-and-morty/8x3</guid>
-  <pubDate>Thu, 12 Jun 2025 08:24:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
