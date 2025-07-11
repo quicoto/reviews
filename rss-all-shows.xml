@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 10 Jul 2025 07:09:25 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 11 Jul 2025 07:10:45 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dan Da Dan 2x2]]></title>
+  <description><![CDATA[📺 Just watched: Dan Da Dan 2x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x2</guid>
+  <pubDate>Thu, 10 Jul 2025 22:50:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Duster 1x8]]></title>
   <description><![CDATA[📺 Just watched: Duster 1x8
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x2]
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x2</guid>
   <pubDate>Thu, 26 Jun 2025 13:51:41 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia: Vigilantes 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia: Vigilantes 1x1
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x1</guid>
-  <pubDate>Thu, 26 Jun 2025 13:49:40 GMT</pubDate>
 </item>
 </channel>
 </rss>
