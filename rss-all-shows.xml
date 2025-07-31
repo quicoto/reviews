@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 30 Jul 2025 07:18:16 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 31 Jul 2025 07:11:22 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sakamoto Days 1x14]]></title>
+  <description><![CDATA[📺 Just watched: Sakamoto Days 1x14
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x14]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x14</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x14</guid>
+  <pubDate>Wed, 30 Jul 2025 13:54:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Free! 2x10]]></title>
   <description><![CDATA[📺 Just watched: Free! 2x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/2x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/2x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/2x1</guid>
   <pubDate>Sun, 20 Jul 2025 12:34:59 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tougen Anki 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Tougen Anki 1x2
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x2</guid>
-  <pubDate>Fri, 18 Jul 2025 18:24:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
