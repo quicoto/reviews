@@ -8,9 +8,9 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Kaiju No. 8';
+const showName = 'Death Note';
 const chaptersStart = 1; // Included
-const chaptersFinish = 7; // Included
+const chaptersFinish = 16; // Included
 const rating = 4;
 /*
   *******************
