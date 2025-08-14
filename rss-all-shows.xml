@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 13 Aug 2025 07:09:33 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 14 Aug 2025 07:09:40 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Free! 3x2]]></title>
+  <description><![CDATA[📺 Just watched: Free! 3x2
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/free/3x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/free/3x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/free/3x2</guid>
+  <pubDate>Wed, 13 Aug 2025 22:45:58 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Free! 3x1]]></title>
+  <description><![CDATA[📺 Just watched: Free! 3x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/free/3x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/free/3x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/free/3x1</guid>
+  <pubDate>Wed, 13 Aug 2025 16:32:34 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[My Demon 1x13]]></title>
   <description><![CDATA[📺 Just watched: My Demon 1x13
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/south-park/27x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/south-park/27x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/27x2</guid>
   <pubDate>Thu, 07 Aug 2025 20:23:31 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Demon 1x6]]></title>
-  <description><![CDATA[📺 Just watched: My Demon 1x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-demon/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-demon/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-demon/1x6</guid>
-  <pubDate>Wed, 06 Aug 2025 19:14:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Demon 1x5]]></title>
-  <description><![CDATA[📺 Just watched: My Demon 1x5
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-demon/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-demon/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-demon/1x5</guid>
-  <pubDate>Wed, 06 Aug 2025 15:33:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
