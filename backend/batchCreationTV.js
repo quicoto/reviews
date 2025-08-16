@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Black Mirror';
-const seasons = 5;
-const episodesPerSeason = [3, 4, 6, 6, 3];
-const time = 60;
+const showName = 'My Dress-Up Darling';
+const seasons = 1;
+const episodesPerSeason = [19];
+const time = 25;
 const rating = 4;
 /*
   *******************
