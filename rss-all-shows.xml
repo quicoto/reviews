@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 18 Aug 2025 07:11:01 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 19 Aug 2025 07:08:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Butterfly 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Butterfly 1x3
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/butterfly/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/butterfly/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/butterfly/1x3</guid>
+  <pubDate>Mon, 18 Aug 2025 18:05:47 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Butterfly 1x2]]></title>
   <description><![CDATA[📺 Just watched: Butterfly 1x2
 
@@ -233,18 +245,6 @@ Episode review 👇
 https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x3</guid>
-  <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Dress-Up Darling 1x4]]></title>
-  <description><![CDATA[📺 Just watched: My Dress-Up Darling 1x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x4</guid>
   <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
