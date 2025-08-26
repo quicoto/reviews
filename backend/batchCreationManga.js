@@ -9,9 +9,9 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Death Note';
-const chaptersStart = 1; // Included
-const chaptersFinish = 16; // Included
-const rating = 4;
+const chaptersStart = 17; // Included
+const chaptersFinish = 34; // Included
+const rating = 3;
 /*
   *******************
   END Configuration
