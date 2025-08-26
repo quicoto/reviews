@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Welcome to the Outcast's Restaurant! 1x1"
 date: "2025-08-25T16:35:54"
 name: "Welcome to the Outcast's Restaurant!"
