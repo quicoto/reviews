@@ -2,6 +2,7 @@ name: Build and Deploy
 on:
   schedule:
     - cron: "0 7 * * 1-5"
+  workflow_dispatch:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
