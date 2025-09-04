@@ -1,5 +1,6 @@
 ---
 type: series
+time: 65
 title: "Alien: Earth 1x1"
 date: "2025-09-03T21:03:53"
 name: "Alien: Earth"
