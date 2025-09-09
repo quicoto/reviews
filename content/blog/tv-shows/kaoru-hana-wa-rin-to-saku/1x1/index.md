@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Kaoru Hana wa Rin to Saku 1x1"
 date: "2025-09-09T22:31:38"
