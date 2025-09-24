@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 23 Sep 2025 07:09:11 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 24 Sep 2025 07:08:09 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Countdown 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Countdown 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/countdown/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/countdown/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/countdown/1x2</guid>
+  <pubDate>Tue, 23 Sep 2025 21:40:30 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[Countdown 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Countdown 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/countdown/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/countdown/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/countdown/1x1</guid>
+  <pubDate>Tue, 23 Sep 2025 21:40:15 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Terminal List: Dark Wolf 1x6]]></title>
   <description><![CDATA[📺 Just watched: The Terminal List: Dark Wolf 1x6
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x20]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x20</guid>
   <pubDate>Sat, 06 Sep 2025 21:59:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Dress-Up Darling 1x22]]></title>
-  <description><![CDATA[📺 Just watched: My Dress-Up Darling 1x22
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x22]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x22</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-dress-up-darling/1x22</guid>
-  <pubDate>Sat, 06 Sep 2025 21:29:53 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Butterfly 1x6]]></title>
-  <description><![CDATA[📺 Just watched: Butterfly 1x6
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/butterfly/1x6]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/butterfly/1x6</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/butterfly/1x6</guid>
-  <pubDate>Sat, 06 Sep 2025 21:02:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
