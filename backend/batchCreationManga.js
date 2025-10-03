@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Death Note';
-const chaptersStart = 17; // Included
-const chaptersFinish = 34; // Included
-const rating = 3;
+const showName = 'Naruto';
+const chaptersStart = 254; // Included
+const chaptersFinish = 262; // Included
+const rating = 4;
 /*
   *******************
   END Configuration
