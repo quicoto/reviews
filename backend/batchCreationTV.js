@@ -8,11 +8,11 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'My Dress-Up Darling';
-const seasons = 1;
-const episodesPerSeason = [19];
-const time = 25;
-const rating = 4;
+const showName = 'The Diplomat';
+const seasons = 2;
+const episodesPerSeason = [8, 6];
+const time = 50;
+const rating = 3;
 /*
   *******************
   END Configuration
