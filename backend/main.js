@@ -172,8 +172,9 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
   const moviesMinutesWatched = (allMovies.length * 120);
 
   for (let index = 0, len = allShows.length; index < len; index += 1) {
-    const showTime = +allShows[index].episodes
-      .find((episode) => episode.frontmatter.time).frontmatter.time;
+    const currentEpisode = +allShows[index].episodes
+      .find((episode) => episode.frontmatter.time);
+    const showTime = currentEpisode?.frontmatter?.time ? +currentEpisode.frontmatter.time : 24;
     const totalTime = showTime * allShows[index].episodes.length;
 
     showsMinutesWatched += totalTime;
