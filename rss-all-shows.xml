@@ -5,9 +5,33 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 29 Oct 2025 07:09:17 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 30 Oct 2025 07:08:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Let's Play 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Let's Play 1x4
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/let-s-play/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/let-s-play/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/let-s-play/1x4</guid>
+  <pubDate>Wed, 29 Oct 2025 22:39:03 GMT</pubDate>
+</item>
+<item>
+  <title><![CDATA[South Park 28x1]]></title>
+  <description><![CDATA[📺 Just watched: South Park 28x1
+
+Rating: ⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/south-park/28x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/south-park/28x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/south-park/28x1</guid>
+  <pubDate>Wed, 29 Oct 2025 22:17:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Tougen Anki 1x15]]></title>
   <description><![CDATA[📺 Just watched: Tougen Anki 1x15
 
@@ -222,30 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x5]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x5</guid>
   <pubDate>Fri, 17 Oct 2025 23:06:28 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Diplomat 3x4]]></title>
-  <description><![CDATA[📺 Just watched: The Diplomat 3x4
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x4</guid>
-  <pubDate>Fri, 17 Oct 2025 22:14:42 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Diplomat 3x3]]></title>
-  <description><![CDATA[📺 Just watched: The Diplomat 3x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x3</guid>
-  <pubDate>Fri, 17 Oct 2025 18:52:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
