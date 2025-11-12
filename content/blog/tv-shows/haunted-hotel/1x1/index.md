@@ -1,4 +1,5 @@
 ---
+time: 25
 type: series
 title: "Haunted Hotel 1x1"
 date: "2025-11-11T15:22:32"
