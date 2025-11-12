@@ -1,0 +1,11 @@
+---
+type: manga
+title: Blue Exorcist
+date: "2025-11-12T00:00:00"
+name: "Blue Exorcist"
+chapter: 33
+rating: 3
+ratingEmoji: "⭐️⭐️⭐️"
+---
+
+_[No review was written for this episode]_
