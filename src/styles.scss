@@ -1,3 +1,5 @@
+@use "sass:color";
+
 $screen-md: 600px;
 $screen-lg: 900px;
 $primary: rgba(252, 70, 107, 1);
@@ -64,7 +66,7 @@ a {
   text-decoration: none;
 
   &:hover {
-    color: darken($primary, 10%);
+    color: color.adjust($primary, $lightness: -10%);
     text-decoration: underline;
   }
 }
