@@ -1,4 +1,4 @@
-/* eslint-disable no-param-reassign */
+ 
 import slugify from '@sindresorhus/slugify';
 import * as utils from './utils.js';
 import Paths from './paths.js';

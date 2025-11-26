@@ -104,7 +104,7 @@ export function createURL(itemData, withDomain = false) {
 }
 
 export function averageRating(episodes) {
-  // eslint-disable-next-line max-len
+   
   const totalRating = episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0);
 
   return roundHalf(

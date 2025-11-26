@@ -1,4 +1,4 @@
-/* eslint-disable no-restricted-syntax */
+ 
 import process from 'process';
 import * as fs from 'fs';
 import MarkdownIt from 'markdown-it';
@@ -16,7 +16,7 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
 (async () => {
   const t0 = performance.now();
 
-  // eslint-disable-next-line no-console
+   
   console.log('Start content creation');
 
   /*
@@ -42,7 +42,7 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     };
     allMovies.push(movieData);
 
-    // eslint-disable-next-line no-console
+     
     if (!process.env.NODE_ENV) console.log(`Processing movie: ${movieFrontMatter.title}`);
   }
 
@@ -90,7 +90,7 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
       allchapters.push(chapterData);
       currentShow.chapters.push(chapterData);
 
-      // eslint-disable-next-line no-console
+       
       if (!process.env.NODE_ENV) console.log(`Processing Manga: ${chapterFrontMatter.title}`);
     }
 
@@ -143,7 +143,7 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
       allEpisodes.push(episodeData);
       currentShow.episodes.push(episodeData);
 
-      // eslint-disable-next-line no-console
+       
       if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
     }
 
@@ -246,10 +246,10 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
 
   const t1 = performance.now();
 
-  // eslint-disable-next-line no-console
+   
   console.log('----------------------------------------');
-  // eslint-disable-next-line no-console
+   
   console.log('End content creation');
-  // eslint-disable-next-line no-console
+   
   console.log(`It took ${Number.parseFloat((t1 - t0) / 1000).toFixed(2)} seconds.`);
 })();

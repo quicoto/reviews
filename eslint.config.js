@@ -1,5 +1,4 @@
 import js from '@eslint/js';
-import airbnbBase from 'eslint-config-airbnb-base';
 import importPlugin from 'eslint-plugin-import';
 import jestPlugin from 'eslint-plugin-jest';
 
@@ -23,7 +22,6 @@ export default [
       },
     },
     rules: {
-      ...airbnbBase.rules,
       'no-underscore-dangle': 'off',
       'import/prefer-default-export': 'off',
       'prefer-destructuring': 'off',

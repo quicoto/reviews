@@ -1,7 +1,7 @@
-/* eslint-disable prefer-const */
-/* eslint-disable no-param-reassign */
-/* eslint-disable no-continue */
-/* eslint-disable camelcase */
+ 
+ 
+ 
+ 
 // Process front matter and pass to cb
 
 export function splitMeta(meta) {

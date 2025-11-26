@@ -23,7 +23,7 @@ function _formatDate() {
   const now = new Date();
 
   function _fixNumber(number) {
-    // eslint-disable-next-line no-param-reassign
+     
     if (number < 10) number = `0${number}`;
 
     return number;
