@@ -9,9 +9,9 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'The Promised Neverland';
-const chaptersStart = 107; // Included
-const chaptersFinish = 115; // Included
-const rating = 4;
+const chaptersStart = 116; // Included
+const chaptersFinish = 124; // Included
+const rating = 3;
 /*
   *******************
   END Configuration
@@ -22,7 +22,7 @@ function _formatDate() {
   const now = new Date();
 
   function _fixNumber(number) {
-     
+
     if (number < 10) number = `0${number}`;
 
     return number;
