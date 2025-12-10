@@ -5,6 +5,43 @@ export function readFile(path) {
   return fs.readFileSync(path, { encoding: 'utf8', flag: 'r' });
 }
 
+/**
+ * Parse YAML frontmatter from markdown content
+ * @param {string} content - The markdown file content
+ * @returns {object} Parsed frontmatter object
+ */
+export function parseFrontMatter(content) {
+  const frontmatterRegex = /^---\n([\s\S]*?)\n---/;
+  const match = content.match(frontmatterRegex);
+
+  if (!match) {
+    return {};
+  }
+
+  const frontmatterText = match[1];
+  const frontmatter = {};
+
+  frontmatterText.split('\n').forEach((line) => {
+    const colonIndex = line.indexOf(': ');
+    if (colonIndex === -1) return;
+
+    const key = line.substring(0, colonIndex).trim();
+    let value = line.substring(colonIndex + 2).trim();
+
+    // Remove quotes from values
+    value = value.replace(/^["']|["']$/g, '');
+
+    // Convert empty strings to null
+    if (value === '') {
+      value = null;
+    }
+
+    frontmatter[key] = value;
+  });
+
+  return frontmatter;
+}
+
 export function createFile(fileName, path, data) {
   const processedData = data.replaceAll('%VERSION%', process.env.npm_package_version);
 
@@ -104,7 +141,7 @@ export function createURL(itemData, withDomain = false) {
 }
 
 export function averageRating(episodes) {
-   
+
   const totalRating = episodes.reduce((partialSum, episode) => partialSum + +episode.frontmatter.rating, 0);
 
   return roundHalf(

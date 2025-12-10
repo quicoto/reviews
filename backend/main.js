@@ -1,8 +1,6 @@
 import process from 'process';
 import * as fs from 'fs';
-import MarkdownIt from 'markdown-it';
 import * as utils from './utils.js';
-import { frontMatterPlugin } from './frontmatter.js';
 import * as templates from './templates.js';
 import Paths from './paths.js';
 
@@ -11,22 +9,6 @@ if (!fs.existsSync(Paths.output.folder)) fs.mkdirSync(Paths.output.folder);
 if (!fs.existsSync(Paths.output.movies)) fs.mkdirSync(Paths.output.movies);
 if (!fs.existsSync(Paths.output.manga)) fs.mkdirSync(Paths.output.manga);
 if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
-
-// Create a single MarkdownIt instance configured once
-const md = new MarkdownIt();
-let currentFrontMatter = '';
-
-// Register the plugin only once with a callback that updates the currentFrontMatter
-md.use(frontMatterPlugin, (fm) => {
-  currentFrontMatter = fm;
-});
-
-// Helper function that renders markdown and returns both HTML and frontmatter
-function renderMarkdownWithFrontMatter(content) {
-  currentFrontMatter = '';  // Reset before rendering
-  const html = md.render(content);
-  return { html, frontMatter: currentFrontMatter };
-}
 
 (async () => {
   const t0 = performance.now();
@@ -44,10 +26,9 @@ function renderMarkdownWithFrontMatter(content) {
 
   for (let index = 0, len = movies.length; index < len; index += 1) {
     const movieContent = utils.readFile(`${Paths.content.movies}/${movies[index]}/index.md`);
-    const { html, frontMatter } = renderMarkdownWithFrontMatter(movieContent);
+    const frontMatter = utils.parseFrontMatter(movieContent);
 
     const movieData = {
-      content: html,
       frontmatter: frontMatter,
     };
     allMovies.push(movieData);
@@ -82,10 +63,9 @@ function renderMarkdownWithFrontMatter(content) {
 
     for (let index = 0, len = chapters.length; index < len; index += 1) {
       const chapterContent = utils.readFile(`${Paths.content.manga}/${show}/${chapters[index]}/index.md`);
-      const { html, frontMatter } = renderMarkdownWithFrontMatter(chapterContent);
+      const frontMatter = utils.parseFrontMatter(chapterContent);
 
       const chapterData = {
-        content: html,
         frontmatter: frontMatter,
       };
 
@@ -129,10 +109,9 @@ function renderMarkdownWithFrontMatter(content) {
 
     for (let index = 0, len = episodes.length; index < len; index += 1) {
       const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episodes[index]}/index.md`);
-      const { html, frontMatter } = renderMarkdownWithFrontMatter(episodeContent);
+      const frontMatter = utils.parseFrontMatter(episodeContent);
 
       const episodeData = {
-        content: html,
         frontmatter: frontMatter,
       };
 
