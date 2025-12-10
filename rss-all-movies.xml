@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Dec 2025 09:40:06 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Dec 2025 09:40:21 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Stranger by the Shore]]></title>
+  <description><![CDATA[📺 Just watched: The Stranger by the Shore
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/the-stranger-by-the-shore/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/the-stranger-by-the-shore/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-stranger-by-the-shore/</guid>
+  <pubDate>Wed, 10 Dec 2025 10:40:01 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ocean's Thirteen]]></title>
   <description><![CDATA[📺 Just watched: Ocean's Thirteen
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/dont-look-up/]]></description>
   <link>https://quicoto.github.io/reviews/movies/dont-look-up/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/dont-look-up/</guid>
   <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[G.I. Jane]]></title>
-  <description><![CDATA[📺 Just watched: G.I. Jane
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/g-i-jane/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/g-i-jane/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/g-i-jane/</guid>
-  <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
