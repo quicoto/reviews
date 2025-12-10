@@ -7,5 +7,5 @@ season:
 episode:
 rating: 3
 ratingEmoji: ⭐️⭐️⭐️
-share: true
+share: false
 ---
