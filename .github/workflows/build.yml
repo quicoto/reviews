@@ -1,14 +1,15 @@
 name: Build and Deploy
 on:
-  schedule:
-    - cron: "0 7 * * 1-5"
+  push:
+    branches:
+      - master
   workflow_dispatch:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
             persist-credentials: false
 
