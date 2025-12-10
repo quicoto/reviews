@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Dec 2025 08:36:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Dec 2025 09:37:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ocean's Eleven]]></title>
+  <description><![CDATA[📺 Just watched: Ocean's Eleven
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/oceans-eleven/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/oceans-eleven/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/oceans-eleven/</guid>
+  <pubDate>Wed, 10 Dec 2025 10:36:37 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Game]]></title>
   <description><![CDATA[📺 Just watched: The Game
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/movies/finch/]]></description>
   <link>https://quicoto.github.io/reviews/movies/finch/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/finch/</guid>
-  <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Shang-Chi and the Legend of the Ten Rings]]></title>
-  <description><![CDATA[📺 Just watched: Shang-Chi and the Legend of the Ten Rings
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rings/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rings/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/shang-chi-and-the-legend-of-the-ten-rings/</guid>
   <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
