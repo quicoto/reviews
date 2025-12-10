@@ -2,8 +2,8 @@ import * as fs from 'fs';
 import Paths from './paths.js';
 
 // Create the requried folders
-fs.mkdir(Paths.output.folder, () => {});
-fs.mkdir(Paths.output.assets, () => {});
+if (!fs.existsSync(Paths.output.folder)) fs.mkdirSync(Paths.output.folder);
+if (!fs.existsSync(Paths.output.assets)) fs.mkdirSync(Paths.output.assets);
 
 fs.readdir(Paths.content.assets, (err, files) => {
   if (err) {
