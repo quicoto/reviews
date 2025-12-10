@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Dec 2025 21:35:31 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Dec 2025 21:35:41 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Last Samurai Standing 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Last Samurai Standing 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3</guid>
+  <pubDate>Wed, 10 Dec 2025 22:35:21 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Last Samurai Standing 1x2]]></title>
   <description><![CDATA[📺 Just watched: Last Samurai Standing 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x2]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x2</guid>
   <pubDate>Wed, 03 Dec 2025 22:21:50 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 8x9]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 8x9
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x9]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x9</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x9</guid>
-  <pubDate>Wed, 03 Dec 2025 22:21:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
