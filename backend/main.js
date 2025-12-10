@@ -1,4 +1,3 @@
- 
 import process from 'process';
 import * as fs from 'fs';
 import MarkdownIt from 'markdown-it';
@@ -13,10 +12,26 @@ if (!fs.existsSync(Paths.output.movies)) fs.mkdirSync(Paths.output.movies);
 if (!fs.existsSync(Paths.output.manga)) fs.mkdirSync(Paths.output.manga);
 if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
 
+// Create a single MarkdownIt instance configured once
+const md = new MarkdownIt();
+let currentFrontMatter = '';
+
+// Register the plugin only once with a callback that updates the currentFrontMatter
+md.use(frontMatterPlugin, (fm) => {
+  currentFrontMatter = fm;
+});
+
+// Helper function that renders markdown and returns both HTML and frontmatter
+function renderMarkdownWithFrontMatter(content) {
+  currentFrontMatter = '';  // Reset before rendering
+  const html = md.render(content);
+  return { html, frontMatter: currentFrontMatter };
+}
+
 (async () => {
   const t0 = performance.now();
 
-   
+
   console.log('Start content creation');
 
   /*
@@ -28,25 +43,17 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
   const allMovies = [];
 
   for (let index = 0, len = movies.length; index < len; index += 1) {
-    let movieFrontMatter = '';
     const movieContent = utils.readFile(`${Paths.content.movies}/${movies[index]}/index.md`);
+    const { html, frontMatter } = renderMarkdownWithFrontMatter(movieContent);
 
-    const md = new MarkdownIt()
-      .use(frontMatterPlugin, (frontMatter) => {
-        movieFrontMatter = frontMatter;
-      });
-    const html = md.render(movieContent);
     const movieData = {
       content: html,
-      frontmatter: movieFrontMatter,
+      frontmatter: frontMatter,
     };
     allMovies.push(movieData);
 
-     
-    if (!process.env.NODE_ENV) console.log(`Processing movie: ${movieFrontMatter.title}`);
-  }
-
-  /*
+    if (!process.env.NODE_ENV) console.log(`Processing movie: ${frontMatter.title}`);
+  }  /*
     *******************
     All Movies
     *******************
@@ -74,24 +81,18 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     };
 
     for (let index = 0, len = chapters.length; index < len; index += 1) {
-      let chapterFrontMatter = '';
       const chapterContent = utils.readFile(`${Paths.content.manga}/${show}/${chapters[index]}/index.md`);
+      const { html, frontMatter } = renderMarkdownWithFrontMatter(chapterContent);
 
-      const md = new MarkdownIt()
-        .use(frontMatterPlugin, (frontMatter) => {
-          chapterFrontMatter = frontMatter;
-        });
-      const html = md.render(chapterContent);
       const chapterData = {
         content: html,
-        frontmatter: chapterFrontMatter,
+        frontmatter: frontMatter,
       };
 
       allchapters.push(chapterData);
       currentShow.chapters.push(chapterData);
 
-       
-      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${chapterFrontMatter.title}`);
+      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${frontMatter.title}`);
     }
 
     currentShow.averageRating = utils.averageRating(currentShow.chapters);
@@ -127,27 +128,20 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     };
 
     for (let index = 0, len = episodes.length; index < len; index += 1) {
-      let episodeFrontMatter = '';
       const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episodes[index]}/index.md`);
+      const { html, frontMatter } = renderMarkdownWithFrontMatter(episodeContent);
 
-      const md = new MarkdownIt()
-        .use(frontMatterPlugin, (frontMatter) => {
-          episodeFrontMatter = frontMatter;
-        });
-      const html = md.render(episodeContent);
       const episodeData = {
         content: html,
-        frontmatter: episodeFrontMatter,
+        frontmatter: frontMatter,
       };
 
       allEpisodes.push(episodeData);
       currentShow.episodes.push(episodeData);
 
-       
-      if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${episodeFrontMatter.title}`);
-    }
 
-    currentShow.averageRating = utils.averageRating(currentShow.episodes);
+      if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${frontMatter.title}`);
+    }    currentShow.averageRating = utils.averageRating(currentShow.episodes);
 
     allShows.push(currentShow);
   }
@@ -246,10 +240,10 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
 
   const t1 = performance.now();
 
-   
+
   console.log('----------------------------------------');
-   
+
   console.log('End content creation');
-   
+
   console.log(`It took ${Number.parseFloat((t1 - t0) / 1000).toFixed(2)} seconds.`);
 })();
