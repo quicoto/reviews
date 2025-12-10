@@ -20,6 +20,7 @@ export default {
     manga: `${root}/content/blog/manga`,
     movies: `${root}/content/blog/movies`,
     tvshows: `${root}/content/blog/tv-shows`,
+    styles: `${root}/src/styles.css`,
   },
   output: {
     rss: {
@@ -33,5 +34,6 @@ export default {
     movies: `${dist}/movies`,
     manga: `${dist}/manga`,
     tvshows: `${dist}/tv-shows`,
+    styles: `${dist}/styles.css`,
   },
 };
