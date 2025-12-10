@@ -9,9 +9,7 @@
     "build": "run-p build:*",
     "build:assets": "node backend/assets.js",
     "build:content": "node backend/main.js",
-    "build:css": "sass src/styles.scss reviews/styles.css --style=compressed --no-source-map",
     "format": "prettier --write \"content/**/*.md\"",
-    "watch:css": "sass src/styles.scss reviews/styles.css --watch",
     "watch:test": "NODE_OPTIONS=--experimental-vm-modules jest --watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "eslint 'backend/**/*.js' --fix",
@@ -20,9 +18,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@sindresorhus/slugify": "2.1.0",
-    "npm-run-all": "^4.1.5",
-    "sass": "^1.95.1"
+    "@sindresorhus/slugify": "3.0.0",
+    "npm-run-all": "^4.1.5"
   },
   "devDependencies": {
     "eslint": "^9.39.1",
