@@ -1,7 +1,19 @@
- 
 import slugify from '@sindresorhus/slugify';
 import * as utils from './utils.js';
 import Paths from './paths.js';
+
+// Cache template files
+let cachedHeader, cachedFooter, cachedListTemplate, cachedHomepageTemplate, cachedRssTemplate;
+
+function loadTemplates() {
+  if (!cachedHeader) {
+    cachedHeader = utils.readFile(Paths.template.header);
+    cachedFooter = utils.readFile(Paths.template.footer);
+    cachedListTemplate = utils.readFile(Paths.template.list);
+    cachedHomepageTemplate = utils.readFile(Paths.template.homepage);
+    cachedRssTemplate = utils.readFile(Paths.template.rss);
+  }
+}
 
 function _rating(rating) {
   const starFull = 'assets/star.svg';
@@ -41,14 +53,12 @@ function _movieItem(movie) {
 }
 
 export function allMovies(list) {
-  const header = utils.readFile(Paths.template.header);
-  const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.list);
+  loadTemplates();
   const content = list.map(_movieItem).join('\n');
 
-  return html
-    .replaceAll('%HEADER%', header)
-    .replaceAll('%FOOTER%', footer)
+  return cachedListTemplate
+    .replaceAll('%HEADER%', cachedHeader)
+    .replaceAll('%FOOTER%', cachedFooter)
     .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
     .replaceAll('%TITLE%', 'All Movie Reviews');
 }
@@ -72,14 +82,12 @@ function _showsItem(show) {
 }
 
 export function allShows(list) {
-  const header = utils.readFile(Paths.template.header);
-  const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.list);
+  loadTemplates();
   const content = list.map(_showsItem).join('\n');
 
-  return html
-    .replaceAll('%HEADER%', header)
-    .replaceAll('%FOOTER%', footer)
+  return cachedListTemplate
+    .replaceAll('%HEADER%', cachedHeader)
+    .replaceAll('%FOOTER%', cachedFooter)
     .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
     .replaceAll('%TITLE%', 'All TV Show Reviews');
 }
@@ -123,14 +131,12 @@ function _mangaItem(show) {
 }
 
 export function allManga(list) {
-  const header = utils.readFile(Paths.template.header);
-  const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.list);
+  loadTemplates();
   const content = list.map(_mangaItem).join('\n');
 
-  return html
-    .replaceAll('%HEADER%', header)
-    .replaceAll('%FOOTER%', footer)
+  return cachedListTemplate
+    .replaceAll('%HEADER%', cachedHeader)
+    .replaceAll('%FOOTER%', cachedFooter)
     .replaceAll('%CONTENT%', `<ul>${content}</ul>`)
     .replaceAll('%TITLE%', 'All Manga Reviews');
 }
@@ -147,6 +153,7 @@ export function allManga(list) {
  * @return {string}
  */
 export function homepage(config) {
+  loadTemplates();
   const {
     latestShows,
     latestManga,
@@ -157,14 +164,11 @@ export function homepage(config) {
     topRatedManga,
     chaptersRead,
   } = config;
-  const header = utils.readFile(Paths.template.header);
-  const footer = utils.readFile(Paths.template.footer);
-  const html = utils.readFile(Paths.template.homepage);
   const formatTimeWatched = new Intl.NumberFormat('en-US').format(Math.round(minutesWatched / 60));
 
-  return html
-    .replaceAll('%HEADER%', header)
-    .replaceAll('%FOOTER%', footer)
+  return cachedHomepageTemplate
+    .replaceAll('%HEADER%', cachedHeader)
+    .replaceAll('%FOOTER%', cachedFooter)
     .replaceAll('%LATEST_SHOWS%', `<ul class="cards">${latestShows.map(_card).join('\n')}</ul>`)
     .replaceAll('%LATEST_MANGA%', `<ul class="cards">${latestManga.map(_card).join('\n')}</ul>`)
     .replaceAll('%TOP_RATED_SHOWS%', `<ol class="topRatedTVShows">${topRatedTVShows}</ol>`)
@@ -197,10 +201,10 @@ export function rssItem(itemData) {
 }
 
 export function rss() {
-  const xml = utils.readFile(Paths.template.rss);
+  loadTemplates();
   const buildDate = utils.formatRSSDate();
 
-  return xml.replaceAll('%BUILDDATE%', buildDate);
+  return cachedRssTemplate.replaceAll('%BUILDDATE%', buildDate);
 }
 
 /**

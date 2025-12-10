@@ -42,14 +42,9 @@ export function parseFrontMatter(content) {
   return frontmatter;
 }
 
-export function createFile(fileName, path, data) {
+export async function createFile(fileName, path, data) {
   const processedData = data.replaceAll('%VERSION%', process.env.npm_package_version);
-
-  if (fs.existsSync(`${path}/${fileName}`)) {
-    return;
-  }
-
-  fs.writeFileSync(`${path}/${fileName}`, processedData);
+  await fs.promises.writeFile(`${path}/${fileName}`, processedData);
 }
 
 export function createAbsoluteURL(path, withDomain = false) {

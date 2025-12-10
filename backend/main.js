@@ -22,24 +22,22 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     *******************
   */
   const movies = await fs.promises.readdir(`${Paths.content.movies}`);
-  const allMovies = [];
 
-  for (let index = 0, len = movies.length; index < len; index += 1) {
-    const movieContent = utils.readFile(`${Paths.content.movies}/${movies[index]}/index.md`);
-    const frontMatter = utils.parseFrontMatter(movieContent);
+  const allMovies = await Promise.all(
+    movies.map(async (movie) => {
+      const movieContent = await fs.promises.readFile(`${Paths.content.movies}/${movie}/index.md`, 'utf8');
+      const frontMatter = utils.parseFrontMatter(movieContent);
 
-    const movieData = {
-      frontmatter: frontMatter,
-    };
-    allMovies.push(movieData);
+      if (!process.env.NODE_ENV) console.log(`Processing movie: ${frontMatter.title}`);
 
-    if (!process.env.NODE_ENV) console.log(`Processing movie: ${frontMatter.title}`);
-  }  /*
+      return { frontmatter: frontMatter };
+    })
+  );  /*
     *******************
     All Movies
     *******************
   */
-  utils.createFile(
+  const allMoviesPromise = utils.createFile(
     'index.html',
     Paths.output.movies,
     templates.allMovies(allMovies),
@@ -51,41 +49,38 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     *******************
   */
   const manga = await fs.promises.readdir(`${Paths.content.manga}`);
-  const allManga = [];
-  const allchapters = [];
 
-  for (const show of manga) {
-    const chapters = await fs.promises.readdir(`${Paths.content.manga}/${show}`);
-    const currentShow = {
-      name: show,
-      chapters: [],
-    };
+  const allManga = await Promise.all(
+    manga.map(async (show) => {
+      const chapters = await fs.promises.readdir(`${Paths.content.manga}/${show}`);
 
-    for (let index = 0, len = chapters.length; index < len; index += 1) {
-      const chapterContent = utils.readFile(`${Paths.content.manga}/${show}/${chapters[index]}/index.md`);
-      const frontMatter = utils.parseFrontMatter(chapterContent);
+      const chapterDataArray = await Promise.all(
+        chapters.map(async (chapter) => {
+          const chapterContent = await fs.promises.readFile(`${Paths.content.manga}/${show}/${chapter}/index.md`, 'utf8');
+          const frontMatter = utils.parseFrontMatter(chapterContent);
 
-      const chapterData = {
-        frontmatter: frontMatter,
+          if (!process.env.NODE_ENV) console.log(`Processing Manga: ${frontMatter.title}`);
+
+          return { frontmatter: frontMatter };
+        })
+      );
+
+      return {
+        name: show,
+        chapters: chapterDataArray,
+        averageRating: utils.averageRating(chapterDataArray),
       };
+    })
+  );
 
-      allchapters.push(chapterData);
-      currentShow.chapters.push(chapterData);
-
-      if (!process.env.NODE_ENV) console.log(`Processing Manga: ${frontMatter.title}`);
-    }
-
-    currentShow.averageRating = utils.averageRating(currentShow.chapters);
-
-    allManga.push(currentShow);
-  }
+  const allchapters = allManga.flatMap(show => show.chapters);
 
   /*
     *******************
     All Manga
     *******************
   */
-  utils.createFile(
+  const allMangaPromise = utils.createFile(
     'index.html',
     Paths.output.manga,
     templates.allManga(allManga),
@@ -97,40 +92,38 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     *******************
   */
   const tvshows = await fs.promises.readdir(`${Paths.content.tvshows}`);
-  const allShows = [];
-  const allEpisodes = [];
 
-  for (const show of tvshows) {
-    const episodes = await fs.promises.readdir(`${Paths.content.tvshows}/${show}`);
-    const currentShow = {
-      name: show,
-      episodes: [],
-    };
+  const allShows = await Promise.all(
+    tvshows.map(async (show) => {
+      const episodes = await fs.promises.readdir(`${Paths.content.tvshows}/${show}`);
 
-    for (let index = 0, len = episodes.length; index < len; index += 1) {
-      const episodeContent = utils.readFile(`${Paths.content.tvshows}/${show}/${episodes[index]}/index.md`);
-      const frontMatter = utils.parseFrontMatter(episodeContent);
+      const episodeDataArray = await Promise.all(
+        episodes.map(async (episode) => {
+          const episodeContent = await fs.promises.readFile(`${Paths.content.tvshows}/${show}/${episode}/index.md`, 'utf8');
+          const frontMatter = utils.parseFrontMatter(episodeContent);
 
-      const episodeData = {
-        frontmatter: frontMatter,
+          if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${frontMatter.title}`);
+
+          return { frontmatter: frontMatter };
+        })
+      );
+
+      return {
+        name: show,
+        episodes: episodeDataArray,
+        averageRating: utils.averageRating(episodeDataArray),
       };
+    })
+  );
 
-      allEpisodes.push(episodeData);
-      currentShow.episodes.push(episodeData);
-
-
-      if (!process.env.NODE_ENV) console.log(`Processing TV Show: ${frontMatter.title}`);
-    }    currentShow.averageRating = utils.averageRating(currentShow.episodes);
-
-    allShows.push(currentShow);
-  }
+  const allEpisodes = allShows.flatMap(show => show.episodes);
 
   /*
     *******************
     All TV Shows
     *******************
   */
-  utils.createFile(
+  const allShowsPromise = utils.createFile(
     'index.html',
     Paths.output.tvshows,
     templates.allShows(allShows),
@@ -178,7 +171,7 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     chaptersRead: allchapters.length,
   });
 
-  utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
+  const homepagePromise = utils.createFile('index.html', `${Paths.output.folder}`, homepageHTML);
 
   /*
     *******************
@@ -212,10 +205,16 @@ if (!fs.existsSync(Paths.output.tvshows)) fs.mkdirSync(Paths.output.tvshows);
     last20All.map(templates.rssItem).join('\n'),
   );
 
-  utils.createFile('rss-all-shows.xml', Paths.output.rss.tvshows, rssTVShows);
-  utils.createFile('rss-all-movies.xml', Paths.output.rss.movies, rssMovies);
-  utils.createFile('rss-all-manga.xml', Paths.output.rss.manga, rssManga);
-  utils.createFile('rss.xml', Paths.output.rss.all, rssAll);
+  await Promise.all([
+    allMoviesPromise,
+    allMangaPromise,
+    allShowsPromise,
+    homepagePromise,
+    utils.createFile('rss-all-shows.xml', Paths.output.rss.tvshows, rssTVShows),
+    utils.createFile('rss-all-movies.xml', Paths.output.rss.movies, rssMovies),
+    utils.createFile('rss-all-manga.xml', Paths.output.rss.manga, rssManga),
+    utils.createFile('rss.xml', Paths.output.rss.all, rssAll),
+  ]);
 
   const t1 = performance.now();
 
