@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 10 Dec 2025 09:37:36 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Dec 2025 09:39:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ocean's Twelve]]></title>
+  <description><![CDATA[📺 Just watched: Ocean's Twelve
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/oceans-twelve/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/oceans-twelve/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/oceans-twelve/</guid>
+  <pubDate>Wed, 10 Dec 2025 10:39:16 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ocean's Eleven]]></title>
   <description><![CDATA[📺 Just watched: Ocean's Eleven
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-matrix-resurrections/]]></descripti
   <link>https://quicoto.github.io/reviews/movies/the-matrix-resurrections/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-matrix-resurrections/</guid>
   <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Finch]]></title>
-  <description><![CDATA[📺 Just watched: Finch
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/finch/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/finch/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/finch/</guid>
-  <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
