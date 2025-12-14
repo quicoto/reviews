@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 Dec 2025 14:50:03 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Dec 2025 22:09:27 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Bourne Supremacy]]></title>
+  <description><![CDATA[📺 Just watched: The Bourne Supremacy
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/the-bourne-supremacy/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/the-bourne-supremacy/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-bourne-supremacy/</guid>
+  <pubDate>Sun, 14 Dec 2025 23:09:06 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jason Bourne]]></title>
   <description><![CDATA[📺 Just watched: Jason Bourne
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-adam-project/]]></description>
   <link>https://quicoto.github.io/reviews/movies/the-adam-project/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-adam-project/</guid>
   <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Last Duel]]></title>
-  <description><![CDATA[📺 Just watched: The Last Duel
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-last-duel/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-last-duel/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-last-duel/</guid>
-  <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
