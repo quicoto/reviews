@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 Dec 2025 08:55:18 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Dec 2025 14:50:03 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jason Bourne]]></title>
+  <description><![CDATA[📺 Just watched: Jason Bourne
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/jason-bourne/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/jason-bourne/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/jason-bourne/</guid>
+  <pubDate>Sun, 14 Dec 2025 15:49:44 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Stranger by the Shore]]></title>
   <description><![CDATA[📺 Just watched: The Stranger by the Shore
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-last-duel/]]></description>
   <link>https://quicoto.github.io/reviews/movies/the-last-duel/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-last-duel/</guid>
   <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Don't Look Up]]></title>
-  <description><![CDATA[📺 Just watched: Don't Look Up
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/dont-look-up/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/dont-look-up/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/dont-look-up/</guid>
-  <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
