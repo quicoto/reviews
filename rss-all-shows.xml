@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 14 Dec 2025 22:09:27 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 15 Dec 2025 14:13:58 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Gachiakuta 1x22]]></title>
+  <description><![CDATA[📺 Just watched: Gachiakuta 1x22
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</guid>
+  <pubDate>Mon, 15 Dec 2025 15:13:38 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Boku no Hero Academia 8x11]]></title>
   <description><![CDATA[📺 Just watched: Boku no Hero Academia 8x11
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20</guid>
   <pubDate>Fri, 05 Dec 2025 08:55:45 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gachiakuta 1x19]]></title>
-  <description><![CDATA[📺 Just watched: Gachiakuta 1x19
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x19]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x19</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x19</guid>
-  <pubDate>Thu, 04 Dec 2025 16:06:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
