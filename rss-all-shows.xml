@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 16 Dec 2025 22:01:34 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 17 Dec 2025 10:55:14 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[My Awkward Senpai 1x1]]></title>
+  <description><![CDATA[📺 Just watched: My Awkward Senpai 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1</guid>
+  <pubDate>Wed, 17 Dec 2025 11:54:56 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Gachiakuta 1x22]]></title>
   <description><![CDATA[📺 Just watched: Gachiakuta 1x22
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x20]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x20</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x20</guid>
   <pubDate>Fri, 05 Dec 2025 16:30:17 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gachiakuta 1x20]]></title>
-  <description><![CDATA[📺 Just watched: Gachiakuta 1x20
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x20</guid>
-  <pubDate>Fri, 05 Dec 2025 08:55:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
