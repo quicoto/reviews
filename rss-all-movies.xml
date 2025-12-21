@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 19 Dec 2025 11:41:36 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 21 Dec 2025 12:49:34 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Bourne Legacy]]></title>
+  <description><![CDATA[📺 Just watched: The Bourne Legacy
+
+Rating: ⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/the-bourne-legacy/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/the-bourne-legacy/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-bourne-legacy/</guid>
+  <pubDate>Sun, 21 Dec 2025 12:49:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Bourne Ultimatum]]></title>
   <description><![CDATA[📺 Just watched: The Bourne Ultimatum
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-batman-2022/]]></description>
   <link>https://quicoto.github.io/reviews/movies/the-batman-2022/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-batman-2022/</guid>
   <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Platform]]></title>
-  <description><![CDATA[📺 Just watched: The Platform
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-platform/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-platform/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-platform/</guid>
-  <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
