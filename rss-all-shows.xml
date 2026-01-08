@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 02 Jan 2026 20:16:24 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 08 Jan 2026 14:45:56 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tougen Anki 1x23]]></title>
+  <description><![CDATA[📺 Just watched: Tougen Anki 1x23
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x23]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x23</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x23</guid>
+  <pubDate>Thu, 08 Jan 2026 15:45:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Dive!! 1x1]]></title>
   <description><![CDATA[📺 Just watched: Dive!! 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/running-point/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/running-point/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/running-point/1x1</guid>
   <pubDate>Mon, 08 Dec 2025 21:08:39 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Watashi wo Tabetai, Hitodenashi 1x8]]></title>
-  <description><![CDATA[📺 Just watched: Watashi wo Tabetai, Hitodenashi 1x8
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x8]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x8</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x8</guid>
-  <pubDate>Mon, 08 Dec 2025 18:40:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
