@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 12 Jan 2026 21:31:07 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Jan 2026 21:31:23 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Inventing Anna 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Inventing Anna 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x2</guid>
+  <pubDate>Mon, 12 Jan 2026 22:31:06 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Inventing Anna 1x1]]></title>
   <description><![CDATA[📺 Just watched: Inventing Anna 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21</guid>
   <pubDate>Tue, 09 Dec 2025 16:18:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Running Point 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Running Point 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/running-point/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/running-point/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/running-point/1x4</guid>
-  <pubDate>Tue, 09 Dec 2025 14:34:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
