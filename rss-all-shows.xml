@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 11 Jan 2026 15:32:51 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Jan 2026 21:31:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Inventing Anna 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Inventing Anna 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x1</guid>
+  <pubDate>Mon, 12 Jan 2026 22:30:33 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Wash It All Away 1x1]]></title>
   <description><![CDATA[📺 Just watched: Wash It All Away 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/running-point/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/running-point/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/running-point/1x4</guid>
   <pubDate>Tue, 09 Dec 2025 14:34:15 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gachiakuta 1x21]]></title>
-  <description><![CDATA[📺 Just watched: Gachiakuta 1x21
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x21]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x21</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x21</guid>
-  <pubDate>Tue, 09 Dec 2025 11:52:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
