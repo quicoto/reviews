@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 14 Jan 2026 17:18:35 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Jan 2026 17:18:43 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dive!! 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Dive!! 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dive/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x3</guid>
+  <pubDate>Wed, 14 Jan 2026 18:18:27 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Dive!! 1x2]]></title>
   <description><![CDATA[📺 Just watched: Dive!! 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3</guid>
   <pubDate>Wed, 10 Dec 2025 22:35:21 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Last Samurai Standing 1x2]]></title>
-  <description><![CDATA[📺 Just watched: Last Samurai Standing 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x2</guid>
-  <pubDate>Wed, 10 Dec 2025 22:35:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
