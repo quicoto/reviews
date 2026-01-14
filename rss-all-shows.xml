@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 14 Jan 2026 21:33:24 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Jan 2026 21:33:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x49]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x49
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x49]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x49</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x49</guid>
+  <pubDate>Wed, 14 Jan 2026 22:33:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x48]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x48
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1]]></description
   <link>https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x1</guid>
   <pubDate>Wed, 17 Dec 2025 11:54:56 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Gachiakuta 1x22]]></title>
-  <description><![CDATA[📺 Just watched: Gachiakuta 1x22
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</guid>
-  <pubDate>Mon, 15 Dec 2025 15:13:38 GMT</pubDate>
 </item>
 </channel>
 </rss>
