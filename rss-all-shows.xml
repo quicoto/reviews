@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 14 Jan 2026 07:39:35 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Jan 2026 17:18:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dive!! 1x4]]></title>
+  <description><![CDATA[📺 Just watched: Dive!! 1x4
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dive/1x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x4</guid>
+  <pubDate>Wed, 14 Jan 2026 18:18:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Inventing Anna 1x2]]></title>
   <description><![CDATA[📺 Just watched: Inventing Anna 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x5]]></descrip
   <link>https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x5</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x5</guid>
   <pubDate>Wed, 10 Dec 2025 22:34:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tougen Anki 1x21]]></title>
-  <description><![CDATA[📺 Just watched: Tougen Anki 1x21
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x21</guid>
-  <pubDate>Tue, 09 Dec 2025 16:18:36 GMT</pubDate>
 </item>
 </channel>
 </rss>
