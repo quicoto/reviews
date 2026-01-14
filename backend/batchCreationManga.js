@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'The Promised Neverland';
-const chaptersStart = 134; // Included
-const chaptersFinish = 143; // Included
-const rating = 2;
+const showName = 'Kimetsu no Yaiba';
+const chaptersStart = 98; // Included
+const chaptersFinish = 106; // Included
+const rating = 3;
 /*
   *******************
   END Configuration
