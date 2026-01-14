@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 14 Jan 2026 20:44:31 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Jan 2026 21:33:24 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x48]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x48
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x48]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x48</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x48</guid>
+  <pubDate>Wed, 14 Jan 2026 22:33:05 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Isekai no Sata wa Shachiku Shidai 1x1]]></title>
   <description><![CDATA[📺 Just watched: Isekai no Sata wa Shachiku Shidai 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22</guid>
   <pubDate>Mon, 15 Dec 2025 15:13:38 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Boku no Hero Academia 8x11]]></title>
-  <description><![CDATA[📺 Just watched: Boku no Hero Academia 8x11
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x11]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x11</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x11</guid>
-  <pubDate>Sun, 14 Dec 2025 09:55:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
