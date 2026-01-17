@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 15 Jan 2026 21:01:12 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 17 Jan 2026 21:54:51 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Sinners]]></title>
+  <description><![CDATA[📺 Just watched: Sinners
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/sinners/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/sinners/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/sinners/</guid>
+  <pubDate>Sat, 17 Jan 2026 22:54:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Bourne Legacy]]></title>
   <description><![CDATA[📺 Just watched: The Bourne Legacy
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/movies/metal-lords/]]></description>
   <link>https://quicoto.github.io/reviews/movies/metal-lords/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/metal-lords/</guid>
-  <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Batman (2022)]]></title>
-  <description><![CDATA[📺 Just watched: The Batman (2022)
-
-Rating: ⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-batman-2022/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-batman-2022/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-batman-2022/</guid>
   <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
