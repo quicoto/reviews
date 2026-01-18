@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 17 Jan 2026 21:54:51 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Jan 2026 15:39:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dive!! 1x5]]></title>
+  <description><![CDATA[📺 Just watched: Dive!! 1x5
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dive/1x5]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x5</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x5</guid>
+  <pubDate>Sun, 18 Jan 2026 16:38:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Invisible Man and His Soon-to-Be Wife 1x2]]></title>
   <description><![CDATA[📺 Just watched: The Invisible Man and His Soon-to-Be Wife 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x22]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x22</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x22</guid>
   <pubDate>Thu, 18 Dec 2025 10:37:49 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My Awkward Senpai 1x2]]></title>
-  <description><![CDATA[📺 Just watched: My Awkward Senpai 1x2
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x2]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x2</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x2</guid>
-  <pubDate>Wed, 17 Dec 2025 21:48:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
