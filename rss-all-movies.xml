@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 18 Jan 2026 15:39:07 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Jan 2026 21:36:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Rip]]></title>
+  <description><![CDATA[📺 Just watched: The Rip
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/the-rip/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/the-rip/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-rip/</guid>
+  <pubDate>Sun, 18 Jan 2026 22:36:34 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Sinners]]></title>
   <description><![CDATA[📺 Just watched: Sinners
 
@@ -233,18 +245,6 @@ Movie review 👇
 https://quicoto.github.io/reviews/movies/in-time/]]></description>
   <link>https://quicoto.github.io/reviews/movies/in-time/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/in-time/</guid>
-  <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Metal Lords]]></title>
-  <description><![CDATA[📺 Just watched: Metal Lords
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/metal-lords/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/metal-lords/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/metal-lords/</guid>
   <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
