@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 23 Jan 2026 19:41:43 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 23 Jan 2026 19:46:36 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Manager 2x4]]></title>
+  <description><![CDATA[📺 Just watched: The Night Manager 2x4
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x4]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x4</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x4</guid>
+  <pubDate>Fri, 23 Jan 2026 20:44:11 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[The Night Manager 2x2]]></title>
   <description><![CDATA[📺 Just watched: The Night Manager 2x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/dive/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/dive/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x2</guid>
   <pubDate>Wed, 14 Jan 2026 18:18:19 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Dive!! 1x4]]></title>
-  <description><![CDATA[📺 Just watched: Dive!! 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/dive/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x4</guid>
-  <pubDate>Wed, 14 Jan 2026 18:18:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
