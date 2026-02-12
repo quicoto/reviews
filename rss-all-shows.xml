@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Wed, 11 Feb 2026 21:09:31 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 12 Feb 2026 07:27:37 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dive!! 1x10]]></title>
+  <description><![CDATA[📺 Just watched: Dive!! 1x10
+
+Rating: ⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dive/1x10]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x10</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x10</guid>
+  <pubDate>Thu, 12 Feb 2026 08:27:19 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[You and I Are Polar Opposites 1x3]]></title>
   <description><![CDATA[📺 Just watched: You and I Are Polar Opposites 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x4]
   <link>https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x4</guid>
   <pubDate>Mon, 02 Feb 2026 18:52:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jujutsu Kaisen 1x52]]></title>
-  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x52
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x52]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x52</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x52</guid>
-  <pubDate>Sun, 01 Feb 2026 18:47:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
