@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 15 Feb 2026 21:23:55 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 16 Feb 2026 07:45:07 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Dive!! 1x12]]></title>
+  <description><![CDATA[📺 Just watched: Dive!! 1x12
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/dive/1x12]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/dive/1x12</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/dive/1x12</guid>
+  <pubDate>Mon, 16 Feb 2026 08:44:49 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x54]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x54
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x4
   <link>https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x4</guid>
   <pubDate>Wed, 04 Feb 2026 22:02:51 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Isekai no Sata wa Shachiku Shidai 1x5]]></title>
-  <description><![CDATA[📺 Just watched: Isekai no Sata wa Shachiku Shidai 1x5
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x5]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x5</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x5</guid>
-  <pubDate>Wed, 04 Feb 2026 22:02:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
