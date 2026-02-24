@@ -5,8 +5,8 @@ date: "2026-02-24T08:31:09"
 name: "Jigokuraku"
 season: 2
 episode: 1
-rating: 3
-ratingEmoji: ⭐️⭐️⭐️
+rating: 4
+ratingEmoji: ⭐️⭐️⭐️⭐️
 ---
 
 *[No review was written for this episode]*
