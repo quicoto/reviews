@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 27 Feb 2026 07:33:47 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 28 Feb 2026 22:41:25 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Prometheus]]></title>
+  <description><![CDATA[📺 Just watched: Prometheus
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/prometheus/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/prometheus/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/prometheus/</guid>
+  <pubDate>Sat, 28 Feb 2026 23:41:00 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[100 Meters]]></title>
   <description><![CDATA[📺 Just watched: 100 Meters
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/the-gray-man/]]></description>
   <link>https://quicoto.github.io/reviews/movies/the-gray-man/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-gray-man/</guid>
   <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Contractor 2022]]></title>
-  <description><![CDATA[📺 Just watched: The Contractor 2022
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-contractor-2022/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-contractor-2022/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-contractor-2022/</guid>
-  <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
