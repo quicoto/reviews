@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 28 Feb 2026 22:41:25 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 01 Mar 2026 22:27:30 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Alien: Covenant]]></title>
+  <description><![CDATA[📺 Just watched: Alien: Covenant
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/alien-covenant/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/alien-covenant/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/alien-covenant/</guid>
+  <pubDate>Sun, 01 Mar 2026 23:27:03 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Prometheus]]></title>
   <description><![CDATA[📺 Just watched: Prometheus
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/elvis/]]></description>
   <link>https://quicoto.github.io/reviews/movies/elvis/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/elvis/</guid>
   <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Gray Man]]></title>
-  <description><![CDATA[📺 Just watched: The Gray Man
-
-Rating: ⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/the-gray-man/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/the-gray-man/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/the-gray-man/</guid>
-  <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
