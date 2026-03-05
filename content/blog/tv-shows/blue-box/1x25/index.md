@@ -9,4 +9,4 @@ rating: 2
 ratingEmoji: ⭐️⭐️
 ---
 
-*[No review was written for this episode]*
+_[No review was written for this episode]_
