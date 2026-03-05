@@ -14,7 +14,7 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "lint": "eslint 'backend/**/*.js' --fix",
     "batchTV": "node backend/batchCreationTV.js",
-    "batchManga": "node backend/batchCreationManga.js",
+    "batchManga": "node backend/batchCreationManga.js"
   },
   "dependencies": {
     "@sindresorhus/slugify": "3.0.0"
