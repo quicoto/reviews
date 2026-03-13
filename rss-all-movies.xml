@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Fri, 13 Mar 2026 07:51:15 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 13 Mar 2026 21:02:53 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Rambo: First Blood ]]></title>
+  <description><![CDATA[📺 Just watched: Rambo: First Blood 
+
+Rating: ⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/rambo-first-blood/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/rambo-first-blood/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/rambo-first-blood/</guid>
+  <pubDate>Fri, 13 Mar 2026 22:02:33 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[War Machine]]></title>
   <description><![CDATA[📺 Just watched: War Machine
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/day-shift/]]></description>
   <link>https://quicoto.github.io/reviews/movies/day-shift/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/day-shift/</guid>
   <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Night in Paradise]]></title>
-  <description><![CDATA[📺 Just watched: Night in Paradise
-
-Rating: ⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/night-in-paradise/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/night-in-paradise/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/night-in-paradise/</guid>
-  <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
