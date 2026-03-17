@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 17 Mar 2026 13:05:36 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 17 Mar 2026 20:54:14 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[The Night Agent 3x9]]></title>
+  <description><![CDATA[📺 Just watched: The Night Agent 3x9
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x9]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x9</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x9</guid>
+  <pubDate>Tue, 17 Mar 2026 21:53:53 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jigokuraku 2x6]]></title>
   <description><![CDATA[📺 Just watched: Jigokuraku 2x6
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x34]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x34</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x34</guid>
   <pubDate>Mon, 02 Mar 2026 08:34:14 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jigokuraku 2x3]]></title>
-  <description><![CDATA[📺 Just watched: Jigokuraku 2x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x3</guid>
-  <pubDate>Fri, 27 Feb 2026 08:33:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
