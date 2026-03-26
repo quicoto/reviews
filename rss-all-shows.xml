@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Thu, 26 Mar 2026 02:16:06 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 26 Mar 2026 11:03:29 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Young Sherlock 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Young Sherlock 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2</guid>
+  <pubDate>Thu, 26 Mar 2026 20:03:08 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Young Sherlock 1x1]]></title>
   <description><![CDATA[📺 Just watched: Young Sherlock 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x55]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x55</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x55</guid>
   <pubDate>Tue, 10 Mar 2026 21:44:48 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[The Night Agent 3x7]]></title>
-  <description><![CDATA[📺 Just watched: The Night Agent 3x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x7</guid>
-  <pubDate>Tue, 10 Mar 2026 21:04:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
