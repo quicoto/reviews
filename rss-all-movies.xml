@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 28 Mar 2026 10:59:06 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 29 Mar 2026 00:54:20 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mercy]]></title>
+  <description><![CDATA[📺 Just watched: Mercy
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Movie review 👇
+https://quicoto.github.io/reviews/movies/mercy/]]></description>
+  <link>https://quicoto.github.io/reviews/movies/mercy/</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/mercy/</guid>
+  <pubDate>Sun, 29 Mar 2026 09:53:57 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Rambo: First Blood ]]></title>
   <description><![CDATA[📺 Just watched: Rambo: First Blood 
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/movies/sweet-and-sour/]]></description>
   <link>https://quicoto.github.io/reviews/movies/sweet-and-sour/</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/sweet-and-sour/</guid>
   <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Day Shift]]></title>
-  <description><![CDATA[📺 Just watched: Day Shift
-
-Rating: ⭐️⭐️⭐️
-
-Movie review 👇
-https://quicoto.github.io/reviews/movies/day-shift/]]></description>
-  <link>https://quicoto.github.io/reviews/movies/day-shift/</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/movies/day-shift/</guid>
-  <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
