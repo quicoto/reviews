@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 29 Mar 2026 08:51:27 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 30 Mar 2026 12:03:10 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Tamon's B-Side 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Tamon's B-Side 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x1</guid>
+  <pubDate>Mon, 30 Mar 2026 21:02:54 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Isekai no Sata wa Shachiku Shidai 1x12]]></title>
   <description><![CDATA[📺 Just watched: Isekai no Sata wa Shachiku Shidai 1x12
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x36]]></descriptio
   <link>https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x36</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x36</guid>
   <pubDate>Sat, 14 Mar 2026 19:10:29 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Isekai no Sata wa Shachiku Shidai 1x10]]></title>
-  <description><![CDATA[📺 Just watched: Isekai no Sata wa Shachiku Shidai 1x10
-
-Rating: ⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x10</guid>
-  <pubDate>Thu, 12 Mar 2026 22:12:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
