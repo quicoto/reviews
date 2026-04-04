@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 04 Apr 2026 07:21:53 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 04 Apr 2026 14:15:06 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jujutsu Kaisen 1x59]]></title>
+  <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x59
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x59]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x59</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x59</guid>
+  <pubDate>Sat, 04 Apr 2026 23:14:50 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jigokuraku 2x9]]></title>
   <description><![CDATA[📺 Just watched: Jigokuraku 2x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1</guid>
   <pubDate>Thu, 26 Mar 2026 11:15:04 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sousou no Frieren 1x37]]></title>
-  <description><![CDATA[📺 Just watched: Sousou no Frieren 1x37
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x37]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x37</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x37</guid>
-  <pubDate>Tue, 24 Mar 2026 16:47:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
