@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sat, 04 Apr 2026 14:15:06 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 05 Apr 2026 07:06:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Buddy Daddies 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Buddy Daddies 1x1
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x1</guid>
+  <pubDate>Sun, 05 Apr 2026 16:06:36 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jujutsu Kaisen 1x59]]></title>
   <description><![CDATA[📺 Just watched: Jujutsu Kaisen 1x59
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2</guid>
   <pubDate>Thu, 26 Mar 2026 20:03:08 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Young Sherlock 1x1]]></title>
-  <description><![CDATA[📺 Just watched: Young Sherlock 1x1
-
-Rating: ⭐️⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x1</guid>
-  <pubDate>Thu, 26 Mar 2026 11:15:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
