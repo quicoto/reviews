@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 05 Apr 2026 12:47:46 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Apr 2026 06:04:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Unfamiliar 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Unfamiliar 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</guid>
+  <pubDate>Mon, 06 Apr 2026 15:04:32 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Jigokuraku 2x10]]></title>
   <description><![CDATA[📺 Just watched: Jigokuraku 2x10
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x1
   <link>https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x12</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x12</guid>
   <pubDate>Sun, 29 Mar 2026 17:51:11 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Sousou no Frieren 1x38]]></title>
-  <description><![CDATA[📺 Just watched: Sousou no Frieren 1x38
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x38]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x38</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x38</guid>
-  <pubDate>Sat, 28 Mar 2026 19:58:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
