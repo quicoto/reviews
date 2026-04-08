@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Tue, 07 Apr 2026 03:20:34 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Apr 2026 09:17:59 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Jigokuraku 2x11]]></title>
+  <description><![CDATA[📺 Just watched: Jigokuraku 2x11
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x11]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x11</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x11</guid>
+  <pubDate>Wed, 08 Apr 2026 18:17:35 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Buddy Daddies 1x3]]></title>
   <description><![CDATA[📺 Just watched: Buddy Daddies 1x3
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x4]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x4</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x4</guid>
   <pubDate>Tue, 31 Mar 2026 15:15:02 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Tamon's B-Side 1x3]]></title>
-  <description><![CDATA[📺 Just watched: Tamon's B-Side 1x3
-
-Rating: ⭐️⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x3</guid>
-  <pubDate>Tue, 31 Mar 2026 14:44:17 GMT</pubDate>
 </item>
 </channel>
 </rss>
