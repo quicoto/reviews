@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 27 Apr 2026 19:34:05 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 27 Apr 2026 19:34:31 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ramparts Of Ice 1x3]]></title>
+  <description><![CDATA[📺 Just watched: Ramparts Of Ice 1x3
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x3]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x3</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x3</guid>
+  <pubDate>Mon, 27 Apr 2026 21:34:12 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ramparts Of Ice 1x2]]></title>
   <description><![CDATA[📺 Just watched: Ramparts Of Ice 1x2
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x2]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x2</guid>
   <pubDate>Tue, 07 Apr 2026 08:12:36 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Unfamiliar 1x3]]></title>
-  <description><![CDATA[📺 Just watched: Unfamiliar 1x3
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</guid>
-  <pubDate>Mon, 06 Apr 2026 15:04:32 GMT</pubDate>
 </item>
 </channel>
 </rss>
