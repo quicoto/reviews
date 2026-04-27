@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 27 Apr 2026 19:33:42 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 27 Apr 2026 19:34:05 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Ramparts Of Ice 1x2]]></title>
+  <description><![CDATA[📺 Just watched: Ramparts Of Ice 1x2
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x2]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x2</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x2</guid>
+  <pubDate>Mon, 27 Apr 2026 21:33:45 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ramparts Of Ice 1x1]]></title>
   <description><![CDATA[📺 Just watched: Ramparts Of Ice 1x1
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3]]></description>
   <link>https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/unfamiliar/1x3</guid>
   <pubDate>Mon, 06 Apr 2026 15:04:32 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Jigokuraku 2x10]]></title>
-  <description><![CDATA[📺 Just watched: Jigokuraku 2x10
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x10]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x10</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x10</guid>
-  <pubDate>Sun, 05 Apr 2026 21:47:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
