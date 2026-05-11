@@ -1,5 +1,6 @@
 ---
 type: series
+time: 25
 title: "Go! Go! Loser Ranger! 1x1"
 date: "2026-05-11T22:14:21"
 name: "Go! Go! Loser Ranger!"
