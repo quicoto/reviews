@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Naruto';
-const chaptersStart = 380; // Included
-const chaptersFinish = 389; // Included
-const rating = 5;
+const showName = 'Servamp';
+const chaptersStart = 17; // Included
+const chaptersFinish = 21; // Included
+const rating = 4;
 /*
   *******************
   END Configuration
