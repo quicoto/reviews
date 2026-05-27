@@ -9,8 +9,8 @@ import Paths from './paths.js';
   *******************
 */
 const showName = 'Servamp';
-const chaptersStart = 17; // Included
-const chaptersFinish = 21; // Included
+const chaptersStart = 22; // Included
+const chaptersFinish = 27; // Included
 const rating = 4;
 /*
   *******************
