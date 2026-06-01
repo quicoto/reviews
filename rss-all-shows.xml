@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Sun, 31 May 2026 06:51:08 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 01 Jun 2026 12:32:44 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Kill Blue 1x8]]></title>
+  <description><![CDATA[📺 Just watched: Kill Blue 1x8
+
+Rating: ⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/kill-blue/1x8]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/kill-blue/1x8</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/kill-blue/1x8</guid>
+  <pubDate>Mon, 01 Jun 2026 14:32:24 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Ramparts Of Ice 1x9]]></title>
   <description><![CDATA[📺 Just watched: Ramparts Of Ice 1x9
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x3]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x3</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x3</guid>
   <pubDate>Fri, 08 May 2026 20:54:20 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[Ganbare! Nakamura-kun!! 1x7]]></title>
-  <description><![CDATA[📺 Just watched: Ganbare! Nakamura-kun!! 1x7
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x7]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x7</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x7</guid>
-  <pubDate>Thu, 07 May 2026 21:28:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
