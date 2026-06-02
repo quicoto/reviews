@@ -5,9 +5,21 @@
       <description><![CDATA[My TV Shows reviews]]></description>
       <link>https://quicoto.github.io/reviews</link>
       <generator>NodeJS</generator>
-      <lastBuildDate>Mon, 01 Jun 2026 12:33:08 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 02 Jun 2026 11:46:55 GMT</lastBuildDate>
 
       <item>
+  <title><![CDATA[Mating Season 1x1]]></title>
+  <description><![CDATA[📺 Just watched: Mating Season 1x1
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Episode review 👇
+https://quicoto.github.io/reviews/tv-shows/mating-season/1x1]]></description>
+  <link>https://quicoto.github.io/reviews/tv-shows/mating-season/1x1</link>
+  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/mating-season/1x1</guid>
+  <pubDate>Tue, 02 Jun 2026 13:46:28 GMT</pubDate>
+</item>
+<item>
   <title><![CDATA[Kill Blue 1x5]]></title>
   <description><![CDATA[📺 Just watched: Kill Blue 1x5
 
@@ -234,18 +246,6 @@ https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x2]]></descript
   <link>https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x2</link>
   <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x2</guid>
   <pubDate>Sun, 10 May 2026 13:13:24 GMT</pubDate>
-</item>
-<item>
-  <title><![CDATA[My New Boss Is Goofy 1x4]]></title>
-  <description><![CDATA[📺 Just watched: My New Boss Is Goofy 1x4
-
-Rating: ⭐️⭐️⭐️
-
-Episode review 👇
-https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x4]]></description>
-  <link>https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x4</link>
-  <guid isPermaLink="true">https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x4</guid>
-  <pubDate>Sun, 10 May 2026 13:12:52 GMT</pubDate>
 </item>
 </channel>
 </rss>
