@@ -8,10 +8,10 @@ import Paths from './paths.js';
   START Configuration
   *******************
 */
-const showName = 'Servamp';
-const chaptersStart = 28; // Included
-const chaptersFinish = 32; // Included
-const rating = 3;
+const showName = 'The Promised Neverland';
+const chaptersStart = 144; // Included
+const chaptersFinish = 152; // Included
+const rating = 4;
 /*
   *******************
   END Configuration
